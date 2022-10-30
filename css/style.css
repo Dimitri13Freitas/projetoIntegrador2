@@ -45,6 +45,7 @@ body {
   cursor: pointer;
 }
 
+/* Responsivo */
 @media (max-width: 770px) {
   .navegacao {
     display: none;
@@ -76,9 +77,18 @@ body {
     height: 2px;
     margin-top: 5px;
     background-color: #141414;
+    transition: 0.3s;
+    position: relative;
   }
-  .navegacao.ativo .hamburguer {
-    border: none;
+  .menuMobile.ativo > .hamburguer {
+    border-top-color: transparent;
+  }
+  .menuMobile.ativo > .hamburguer:before {
+    transform: rotate(135deg);
+  }
+  .menuMobile.ativo > .hamburguer:after {
+    transform: rotate(-135deg);
+    top: -7px;
   }
   .navegacao.ativo {
     display: block;
