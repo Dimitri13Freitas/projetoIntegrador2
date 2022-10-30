@@ -37,7 +37,25 @@ body {
   color: #141414;
 }
 
-/* Interação */
+/* Banner Slide */
+.bannerHome .banner {
+  height: 320px;
+  border-radius: 6px;
+  background-color: #2c2c2c;
+  background-image: url("../img/banner/img1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.banner h2 {
+  color: #f1f1f1;
+}
+.banner p {
+  color: #e2e2e2;
+  max-width: 500px;
+}
+
+/* Menu Mobile */
 .menuMobile {
   display: none;
   border: none;
