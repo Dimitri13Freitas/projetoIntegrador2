@@ -80,10 +80,6 @@ body {
   .navegacao.ativo .hamburguer {
     border: none;
   }
-  .navegacao.ativo .hamburguer:before {
-    transform: rotate(45deg);
-    background-color: red;
-  }
   .navegacao.ativo {
     display: block;
   }
