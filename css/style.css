@@ -1,0 +1,44 @@
+/* Geral */
+* {
+  list-style: none !important;
+  text-decoration: none !important;
+}
+body {
+  background: var(--font1);
+}
+
+/* Cores */
+:root {
+  --p1: #00a5e3;
+  --p2: #141414;
+  --p3: #2c2c2c;
+  --bg: #2c2c2c;
+  --font1: #f1f1f1;
+  --bgContent: rgb(255, 255, 255, 0.1);
+}
+
+/* Header */
+.header img {
+  width: 34px;
+  padding: 5px;
+  border-radius: 3px;
+  overflow: hidden;
+}
+.header img:hover {
+  background-color: var(--p1);
+}
+.redes {
+  gap: 10px;
+}
+.navegacao ul li a {
+  color: #141414;
+}
+
+@media (max-width: 770px) {
+  body {
+    background-color: red;
+  }
+  .navegacao {
+    display: none;
+  }
+}
