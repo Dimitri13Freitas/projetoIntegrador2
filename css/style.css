@@ -34,24 +34,24 @@ body {
   gap: 10px;
 }
 .navegacao ul li a {
-  color: #141414;
+  color: var(--p2);
 }
 
 /* Banner Slide */
 .bannerHome .banner {
   height: 320px;
   border-radius: 6px;
-  background-color: #2c2c2c;
+  background-color: var(--p3);
   background-image: url("../img/banner/img1.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .banner h2 {
-  color: #f1f1f1;
+  color: var(--font1);
 }
 .banner p {
-  color: #e2e2e2;
+  color: #e2e2e2; /* colocar variavel*/
   max-width: 500px;
 }
 
@@ -84,7 +84,7 @@ body {
   }
   .hamburguer {
     display: block;
-    border-top: 2px solid #141414;
+    border-top: 2px solid var(--p2);
     width: 20px;
   }
   .hamburguer:after,
@@ -94,7 +94,7 @@ body {
     width: 20px;
     height: 2px;
     margin-top: 5px;
-    background-color: #141414;
+    background-color: var(--p2);
     transition: 0.3s;
     position: relative;
   }
@@ -116,7 +116,7 @@ body {
     flex-direction: column !important;
     top: 45px;
     left: 100px;
-    background: #e2e2e2;
+    background: #e2e2e2; /* colocar varialver */
     box-shadow: 0px 0 2px 0px rgba(0, 0, 0, 0.1);
     padding: 5px 10px !important;
     border-radius: 0 5px 5px 0;
@@ -124,6 +124,9 @@ body {
   }
   .navegacao.ativo ul li + li {
     border-top: 1px solid var(--p1);
+  }
+  .bannerHome {
+    margin-top: 20px;
   }
 }
 @media (max-width: 710px) {

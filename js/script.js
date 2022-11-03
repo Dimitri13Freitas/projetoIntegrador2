@@ -20,6 +20,3 @@ const imgList = Array.from(imgs);
 const srcList = imgList.map(e => {
   return e.getAttribute('src');
 })
-
-// console.log(srcList.length)
-// console.log(srcList);
