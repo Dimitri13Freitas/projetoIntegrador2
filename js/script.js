@@ -12,11 +12,3 @@ function menuMobile() {
   }
 }
 menuMobile();
-
-const banner = document.querySelector('.banner');
-const imgs = banner.querySelectorAll('img');
-const imgList = Array.from(imgs);
-
-const srcList = imgList.map(e => {
-  return e.getAttribute('src');
-})

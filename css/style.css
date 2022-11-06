@@ -36,8 +36,11 @@ body {
 .navegacao ul li a {
   color: var(--p2);
 }
+.theme img {
+  cursor: pointer;
+}
 
-/* Banner Slide */
+/* Banner */
 .bannerHome .banner {
   height: 320px;
   border-radius: 6px;
@@ -55,6 +58,14 @@ body {
   max-width: 500px;
 }
 
+/* DropDown */
+.navegacao li ul {
+  display: none;
+  position: absolute;
+}
+.navegacao li:hover ul {
+  display: block;
+}
 /* Menu Mobile */
 .menuMobile {
   display: none;
