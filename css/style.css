@@ -5,17 +5,11 @@
 }
 body {
   background: white;
-  /* background: var(--font1); */
 }
 
 /* Cores */
-:root {
-  --p1: #00a5e3;
-  --p2: #141414;
-  --p3: #2c2c2c;
-  --bg: #2c2c2c;
-  --font1: #f1f1f1;
-  --bgContent: rgb(255, 255, 255, 0.1);
+.remove {
+  display: none;
 }
 
 /* Header */
@@ -50,6 +44,9 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+.banner article {
+  margin-left: 45px;
 }
 .banner h2 {
   color: #f1f1f1;
@@ -96,6 +93,12 @@ body {
 
 /* Responsivo */
 @media (max-width: 770px) {
+  .banner article {
+    margin-left: 15px;
+  }
+  .banner p {
+    font-size: 1rem;
+  }
   .navegacao ul ul {
     position: static !important;
     max-width: 300px;
@@ -122,7 +125,7 @@ body {
   }
   .hamburguer {
     display: block;
-    border-top: 2px solid var(--p2);
+    border-top: 2px solid #141414;
     width: 20px;
   }
   .hamburguer:after,
@@ -132,7 +135,7 @@ body {
     width: 20px;
     height: 2px;
     margin-top: 5px;
-    background-color: var(--p2);
+    background-color: #141414;
     transition: 0.3s;
     position: relative;
   }
@@ -161,7 +164,7 @@ body {
     animation: showLeft 0.3s forwards;
   }
   .navegacao.ativo ul li + li {
-    border-top: 1px solid var(--p1);
+    border-top: 1px solid #00a5e3;
   }
   .bannerHome {
     margin-top: 20px;
