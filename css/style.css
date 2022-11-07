@@ -54,18 +54,37 @@ body {
   color: var(--font1);
 }
 .banner p {
-  color: #e2e2e2; /* colocar variavel*/
+  color: #e2e2e2; /* colocar variavel */
   max-width: 500px;
 }
 
 /* DropDown */
+.navegacao li {
+  cursor: pointer;
+}
+.navegacao li ul li + li {
+  border-top: 1px black solid;
+}
 .navegacao li ul {
   display: none;
   position: absolute;
+  background: white;
+  border-radius: 8px;
+  padding: 2px 3px;
+  box-shadow: rgba(0, 0, 0, 0.04) 0px 1px 3px 0px,
+    rgba(27, 31, 35, 0.4) 0px 0px 0px 1px;
+}
+.navegacao li ul li a {
+  padding: 6px 12px;
+  display: block;
+}
+.navegacao li ul li a:hover {
+  background: rgba(0, 0, 0, 0.1);
 }
 .navegacao li:hover ul {
   display: block;
 }
+
 /* Menu Mobile */
 .menuMobile {
   display: none;
