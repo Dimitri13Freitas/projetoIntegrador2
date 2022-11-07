@@ -4,7 +4,8 @@
   text-decoration: none !important;
 }
 body {
-  background: var(--font1);
+  background: white;
+  /* background: var(--font1); */
 }
 
 /* Cores */
@@ -19,7 +20,7 @@ body {
 
 /* Header */
 .header {
-  border-color: var(--p1) !important;
+  border-color: #00a5e3 !important;
 }
 .header img {
   width: 34px;
@@ -28,13 +29,13 @@ body {
   overflow: hidden;
 }
 .header img:hover {
-  background-color: var(--p1);
+  background-color: #00a5e3;
 }
 .redes {
   gap: 10px;
 }
 .navegacao ul li a {
-  color: var(--p2);
+  color: #141414;
 }
 .theme img {
   cursor: pointer;
@@ -44,14 +45,14 @@ body {
 .bannerHome .banner {
   height: 320px;
   border-radius: 6px;
-  background-color: var(--p3);
+  background-color: #2c2c2c;
   background-image: url("../img/banner/img1.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .banner h2 {
-  color: var(--font1);
+  color: #f1f1f1;
 }
 .banner p {
   color: #e2e2e2; /* colocar variavel */
@@ -63,13 +64,13 @@ body {
   cursor: pointer;
 }
 .navegacao li ul li + li {
-  border-top: 1px black solid;
+  border-top: 1px rgba(0, 0, 0, 0.2) solid;
 }
 .navegacao li ul {
   display: none;
   position: absolute;
   background: white;
-  border-radius: 8px;
+  border-radius: 5px;
   padding: 2px 3px;
   box-shadow: rgba(0, 0, 0, 0.04) 0px 1px 3px 0px,
     rgba(27, 31, 35, 0.4) 0px 0px 0px 1px;
@@ -95,6 +96,13 @@ body {
 
 /* Responsivo */
 @media (max-width: 770px) {
+  .navegacao ul ul {
+    position: static !important;
+    max-width: 300px;
+  }
+  .navegacao ul ul {
+    margin-top: 8px;
+  }
   .navegacao {
     display: none;
   }
