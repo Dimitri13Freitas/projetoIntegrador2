@@ -2,6 +2,8 @@
 * {
   list-style: none !important;
   text-decoration: none !important;
+  margin: 0;
+  padding: 0;
 }
 body {
   background: white;
@@ -13,9 +15,16 @@ body {
   display: none;
 }
 
+/* Container */
+.container {
+  max-width: 1116px;
+  margin: 0 auto;
+}
+
 /* Header */
 .header {
   border-color: #00a5e3 !important;
+  display: flex;
 }
 .header img {
   width: 34px;
