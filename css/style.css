@@ -5,6 +5,7 @@
 }
 body {
   background: white;
+  padding-bottom: 500px;
 }
 
 /* Cores */
@@ -52,8 +53,25 @@ body {
   color: #f1f1f1;
 }
 .banner p {
-  color: #e2e2e2; /* colocar variavel */
+  color: #e2e2e2;
   max-width: 500px;
+}
+.newsRow {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+.noticia {
+  max-width: 550px;
+}
+.noticia img {
+  width: 230px;
+  height: 300px;
+  border-radius: 0 7px 7px 0;
+}
+.noticiaSeila {
+  gap: 5px;
+  margin: 10px 15px;
 }
 
 /* DropDown */
