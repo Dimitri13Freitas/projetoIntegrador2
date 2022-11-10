@@ -47,13 +47,23 @@
     </main>
   </div>
   <div class='bg-secondary mt-5'>
-    <h2 class='h1 seila m-5'>Obras que recomendamos</h2>
+    <h2 class='h1 seila p-5 pt-4'>Obras que recomendamos:</h2>
     <div class='container'>
-      <article class='obras row teste'>
-        <a href="" class='col-3'><img class='rounded border border-1' src="img/banner/img3.jpg" alt=""><h3>Obra</h3></a>
-        <a href="" class='col-3'><img class='rounded border border-1' src="img/banner/img3.jpg" alt=""><h3>Obra</h3></a>
-        <a href="" class='col-3'><img class='rounded border border-1' src="img/banner/img3.jpg" alt=""><h3>Obra</h3></a>
-        <a href="" class='col-3'><img class='rounded border border-1' src="img/banner/img3.jpg" alt=""><h3>Obra</h3></a>
+      <article class='obras'>
+        <ul class='row'>
+        <li  class='col-3' >
+          <a href=""><img class='rounded border border-1' src="img/banner/img3.jpg" alt=""><h3>Obra</h3></a>
+          </li>
+          <li class='col-3'>
+          <a href="" class='seila' ><img class='rounded border border-1' src="img/banner/img3.jpg" alt=""><h3>Obra</h3></a>
+          </li>
+          <li class='col-3'>
+          <a href="" ><img class='rounded border border-1' src="img/banner/img3.jpg" alt=""><h3>Obra</h3></a>
+          </li>
+          <li class='col-3'>
+          <a href="" ><img class='rounded border border-1' src="img/banner/img3.jpg" alt=""><h3>Obra</h3></a>
+          </li>
+        </ul>
       </article>
     </div>
   </div>

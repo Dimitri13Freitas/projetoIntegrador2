@@ -93,6 +93,7 @@ body {
 }
 .navegacao li:hover ul {
   display: block;
+  animation: showUp 0.3s forwards;
 }
 
 /* Menu Mobile */
@@ -102,15 +103,25 @@ body {
   background: none;
   cursor: pointer;
 }
+.red {
+  background-color: red;
+}
+.blue {
+  background-color: blue;
+}
+.green {
+  background-color: green;
+}
 
 /* Obras */
 .obras img {
   width: 178px;
   height: 255px;
 }
-.teste {
-  margin: 0 !important;
+.seila {
+  margin: 0 auto !important;
 }
+
 /* Responsivo */
 @media (max-width: 770px) {
   .banner article {
@@ -211,6 +222,14 @@ body {
 @keyframes showLeft {
   from {
     transform: translate3d(-30px, 0, 0);
+  }
+  to {
+    transform: translate3d(0, 0, 0);
+  }
+}
+@keyframes showUp {
+  from {
+    transform: translate3d(0, -10px, 0);
   }
   to {
     transform: translate3d(0, 0, 0);
