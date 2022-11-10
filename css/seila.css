@@ -8,6 +8,7 @@
 }
 body {
   padding-bottom: 500px;
+  background-color: white;
 }
 .remove {
   display: none;
@@ -40,15 +41,11 @@ body {
 /* Banner */
 .bannerHome .banner {
   height: 320px;
-  border-radius: 6px;
   background-color: #2c2c2c;
   background-image: url("../img/banner/img1.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-}
-.banner article {
-  margin-left: 45px;
 }
 .banner h2 {
   color: #f1f1f1;
@@ -106,6 +103,14 @@ body {
   cursor: pointer;
 }
 
+/* Obras */
+.obras img {
+  width: 178px;
+  height: 255px;
+}
+.teste {
+  margin: 0 !important;
+}
 /* Responsivo */
 @media (max-width: 770px) {
   .banner article {
@@ -184,6 +189,11 @@ body {
   .bannerHome {
     margin-top: 20px;
   }
+  /* .noticiaContainer {
+    gap: 30px;
+  } */
+}
+@media (max-width: 1000px) {
   .noticiaContainer {
     gap: 30px;
   }
