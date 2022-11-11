@@ -5,9 +5,8 @@
   text-decoration: none !important;
 }
 body {
-  padding-bottom: 500px;
   background-color: white;
-  background-color: white;
+  /* background-color: red; */
 }
 .remove {
   display: none;
@@ -92,7 +91,7 @@ body {
 }
 .navegacao li:hover ul {
   display: block;
-  animation: showUp 0.3s forwards;
+  animation: animaNav 0.3s forwards;
 }
 
 /* Menu Mobile */
@@ -130,11 +129,19 @@ body {
 /* Ultimos Reviews */
 .ultimosReviews section {
   max-width: 458px;
-  /* margin: 0 auto; */
 }
 .ultimosReviews section a img {
   width: 335px;
   overflow: hidden;
+}
+
+/* Mapa do Site */
+.navFooter .p-2 {
+  color: red;
+  font-size: 1.3rem;
+}
+.navFooter ul li ul {
+  font-size: 1rem;
 }
 
 /* Responsivo */
@@ -204,7 +211,7 @@ body {
     box-shadow: 0px 0 2px 0px rgba(0, 0, 0, 0.1);
     padding: 5px 10px !important;
     border-radius: 0 5px 5px 0;
-    animation: showLeft 0.3s forwards;
+    animation: animaMenu 0.3s forwards;
   }
   .navegacao.ativo ul li + li {
     border-top: 1px solid #00a5e3;
@@ -215,9 +222,6 @@ body {
   .noticiaContainer {
     gap: 30px;
   }
-  /* .ultimosReviews div section {
-    margin-bottom: 2rem !important;
-  } */
 }
 
 @media (max-width: 505px) {
@@ -230,7 +234,7 @@ body {
     left: 0;
   }
 }
-@keyframes showLeft {
+@keyframes animaMenu {
   from {
     transform: translate3d(-30px, 0, 0);
   }
@@ -238,7 +242,7 @@ body {
     transform: translate3d(0, 0, 0);
   }
 }
-@keyframes showUp {
+@keyframes animaNav {
   from {
     transform: translate3d(0, -10px, 0);
   }
