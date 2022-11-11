@@ -3,11 +3,10 @@
 * {
   list-style: none !important;
   text-decoration: none !important;
-  margin: 0;
-  padding: 0;
 }
 body {
   padding-bottom: 500px;
+  background-color: white;
   background-color: white;
 }
 .remove {
@@ -114,16 +113,32 @@ body {
 }
 
 /* Obras */
+.obras {
+  background: white;
+}
 .obras img {
   width: 178px;
   height: 255px;
 }
-.seila {
-  margin: 0 auto !important;
+.obrasContainer {
+  box-shadow: inset 0 -100px white;
+}
+.bg-secondary {
+  background: #acacac !important;
+}
+
+/* Ultimos Reviews */
+.ultimosReviews section {
+  max-width: 458px;
+  /* margin: 0 auto; */
+}
+.ultimosReviews section a img {
+  width: 335px;
+  overflow: hidden;
 }
 
 /* Responsivo */
-@media (max-width: 770px) {
+@media (max-width: 1000px) {
   .banner article {
     margin-left: 15px;
   }
@@ -143,9 +158,6 @@ body {
   .redes,
   .theme {
     display: none !important;
-  }
-  .main {
-    width: 100% !important;
   }
   .menuMobile {
     display: flex;
@@ -200,15 +212,14 @@ body {
   .bannerHome {
     margin-top: 20px;
   }
-  /* .noticiaContainer {
-    gap: 30px;
-  } */
-}
-@media (max-width: 1000px) {
   .noticiaContainer {
     gap: 30px;
   }
+  /* .ultimosReviews div section {
+    margin-bottom: 2rem !important;
+  } */
 }
+
 @media (max-width: 505px) {
   .noticia img {
     display: none;
