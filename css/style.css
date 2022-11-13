@@ -146,6 +146,12 @@ body {
   color: white;
 }
 
+/* Destaques */
+.destaques section img {
+  width: 375px;
+  height: 245px;
+}
+
 /* Responsivo */
 @media (max-width: 1000px) {
   .banner article {

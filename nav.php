@@ -32,7 +32,7 @@ echo "<header class='header d-flex align-items-center justify-content-between bo
   </li>
   <li class='p-2'>Animações
     <ul>
-      <li><a href='animacoesDestaques.html'>Destaques</a></li>
+      <li><a href='animacoesDestaques.php'>Destaques</a></li>
       <li><a href='animacoesClassicos.html'>Clássicos</a></li>
       <li><a href='animacoesLançamentos.html'>Lançamentos</a></li>
       <li><a href='animacoesPremiados.html'>Premiados</a></li>
