@@ -101,15 +101,6 @@ body {
   background: none;
   cursor: pointer;
 }
-.red {
-  background-color: red;
-}
-.blue {
-  background-color: blue;
-}
-.green {
-  background-color: green;
-}
 
 /* Obras */
 .obras {
@@ -136,12 +127,23 @@ body {
 }
 
 /* Mapa do Site */
-.navFooter .p-2 {
-  color: red;
-  font-size: 1.3rem;
+.listaPrimaria li,
+.listaPrimaria li a {
+  color: black;
+  font-weight: bold;
+  font-size: 1.4rem;
 }
-.navFooter ul li ul {
+.listaSecundaria li a {
+  color: #434b4f !important;
+  padding: 10px 0;
+  display: block;
   font-size: 1rem;
+  font-weight: normal;
+}
+/* Footer */
+.footer p {
+  background: #141414;
+  color: white;
 }
 
 /* Responsivo */

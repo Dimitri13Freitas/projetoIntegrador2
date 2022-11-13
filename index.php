@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-  <link rel="stylesheet" href="css/teste.css">
+  <link rel="stylesheet" href="css/seila.css">
 </head>
 
 <!-- RETIRAR TAMANHO DAS IMAGENS NO CSS -->
@@ -52,16 +52,16 @@
       <article class='obras rounded border pt-4'>
         <ul class='row p-0'>
         <li  class='col-xl-3 col-md-6 col-sm-12 d-flex justify-content-center'>
-          <a href=""><img class='rounded border' src="img/banner/img3.jpg" alt=""><h3>Obra</h3></a>
+          <a href=""><img class='rounded border' src="img/banner/img3.jpg" alt=""><h3 class='text-center'>Obra</h3></a>
           </li>
           <li class='col-xl-3 col-md-6 col-sm-12 d-flex justify-content-center'>
-          <a href=""><img class='rounded border' src="img/banner/img3.jpg" alt=""><h3>Obra</h3></a>
+          <a href=""><img class='rounded border' src="img/banner/img3.jpg" alt=""><h3 class='text-center'>Obra</h3></a>
           </li>
           <li class='col-xl-3 col-md-6 col-sm-12 d-flex justify-content-center'>
-          <a href=""><img class='rounded border' src="img/banner/img3.jpg" alt=""><h3>Obra</h3></a>
+          <a href=""><img class='rounded border' src="img/banner/img3.jpg" alt=""><h3 class='text-center'>Obra</h3></a>
           </li>
           <li class='col-xl-3 col-md-6 col-sm-12 d-flex justify-content-center'>
-          <a href=""><img class='rounded border' src="img/banner/img3.jpg" alt=""><h3>Obra</h3></a>
+          <a href=""><img class='rounded border' src="img/banner/img3.jpg" alt=""><h3 class='text-center'>Obra</h3></a>
           </li>
         </ul>
       </article>
@@ -126,40 +126,43 @@
 
 
   </div>
-  <footer class='bg-secondary m-0 py-4'>
-    <h2 class='h2 p-5 pt-4'>Mapa do site</h2>
-    <nav class='navFooter container'>
-      <ul class='teste d-flex p-0 flex-row align-items-start justify-content-around '>
-        <li class='p-2'>Filmes
-          <ul class='p-0 m-0'>
-            <li><a href='filmesCosplay.html'>Cosplays</a></li>
-            <li><a href='filmesPrincipais.html'>Principais Obras</a></li>
-            <li><a href='filmesDestaques.html'>Destaques</a></li>
-            <li><a href='filmesLancamentos.html'>Lançamentos</a></li>
-          </ul>
-        </li>
-        <li class='p-2'>Livros
-          <ul class='p-0 m-0'>
-            <li><a href='livrosPrincipais.html'>Principais Autores</a></li>
-            <li><a href='livrosFavoritos.html'>Favoritos da Crítica</a></li>
-            <li><a href='livrosClassicos.html'>Clássicos</a></li>
-            <li><a href='livrosDestaques.html'>Destaques</a></li>
-          </ul>
-        </li>
-        <li class='p-2'>Animações
-          <ul class='p-0 m-0'>
-            <li><a href='animacoesDestaques.html'>Destaques</a></li>
-            <li><a href='animacoesClassicos.html'>Clássicos</a></li>
-            <li><a href='animacoesLançamentos.html'>Lançamentos</a></li>
-            <li><a href='animacoesPremiados.html'>Premiados</a></li>
-          </ul>
-        </li>
-        <li class='p-2'><a class='p-2' href='contato.html'>Contato</a></li>
-        <li class='p-2'><a class='p-2' href='normas.html'>Normas de uso</a></li>
-        <li class='p-2'><a class='p-2' href='quemSomos.html'>Quem somos</a></li>
-      </ul>
-    </nav>
-  </footer>
+  <div class='bg-secondary pt-3 mb-0 footer'>
+    <footer class=''>
+      <h2 class='h2 p-5 pt-4'>Mapa do site</h2>
+      <nav class='navFooter container py-0'>
+        <ul class='listaPrimaria d-flex pb-4 justify-content-between flex-wrap'>
+          <li class='p-2'>Filmes
+            <ul class='listaSecundaria p-0 m-0'>
+              <li><a href='filmesCosplay.html'>Cosplays</a></li>
+              <li><a href='filmesPrincipais.html'>Principais Obras</a></li>
+              <li><a href='filmesDestaques.html'>Destaques</a></li>
+              <li><a href='filmesLancamentos.html'>Lançamentos</a></li>
+            </ul>
+          </li>
+          <li class='p-2 '>Livros
+            <ul class='p-0 m-0 listaSecundaria'>
+              <li><a href='livrosPrincipais.html'>Principais Autores</a></li>
+              <li><a href='livrosFavoritos.html'>Favoritos da Crítica</a></li>
+              <li><a href='livrosClassicos.html'>Clássicos</a></li>
+              <li><a href='livrosDestaques.html'>Destaques</a></li>
+            </ul>
+          </li>
+          <li class='p-2'>Animações
+            <ul class='p-0 m-0 listaSecundaria'>
+              <li><a href='animacoesDestaques.html'>Destaques</a></li>
+              <li><a href='animacoesClassicos.html'>Clássicos</a></li>
+              <li><a href='animacoesLançamentos.html'>Lançamentos</a></li>
+              <li><a href='animacoesPremiados.html'>Premiados</a></li>
+            </ul>
+          </li>
+          <li class='p-2'><a class='p-2' href='contato.html'>Contato</a></li>
+          <li class='p-2'><a class='p-2' href='normas.html'>Normas de uso</a></li>
+          <li class='p-2'><a class='p-2' href='quemSomos.html'>Quem somos</a></li>
+        </ul>
+      </nav>
+    </footer>
+    <p class='py-4 text-center m-0'>Nome do Site &copy; Alguns direitos reservados</p>
+  </div>
 
   <script src="js/script.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
