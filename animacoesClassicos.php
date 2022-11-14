@@ -44,6 +44,14 @@
             <a href="">Continuar Lendo...</a>
           </div>
         </section>
+        <section class='border mt-5 destaques p-0 p-3 mb-5 rounded d-flex justfy-content-between align-items-center'>
+          <img class='rounded' src="img/banner/img2.jpg" alt="Seila">
+          <div class='ms-4'>
+            <h2 class='h1 mb-3'>Titulo Super foda</h2>
+            <p class='mb-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint consequuntur eaque unde laboriosam ipsum laudantium quam laborum voluptatem voluptatibus asperiores reiciendis facilis at, excepturi inventore impedit delectus cum quibusdam...</p>
+            <a href="">Continuar Lendo...</a>
+          </div>
+        </section>
         <div class="d-flex justify-content-xl-between flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
           <section class="noticia rounded-3  border d-flex align-items-center">
             <div class="noticiaSeila d-flex flex-column">
@@ -64,14 +72,6 @@
             <img src="img/banner/img2.jpg" alt="">
           </section>
         </div>
-        <section class='border mt-5 destaques p-0 p-3 mb-5 rounded d-flex justfy-content-between align-items-center'>
-          <img class='rounded' src="img/banner/img2.jpg" alt="Seila">
-          <div class='ms-4'>
-            <h2 class='h1 mb-3'>Titulo Super foda</h2>
-            <p class='mb-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint consequuntur eaque unde laboriosam ipsum laudantium quam laborum voluptatem voluptatibus asperiores reiciendis facilis at, excepturi inventore impedit delectus cum quibusdam...</p>
-            <a href="">Continuar Lendo...</a>
-          </div>
-        </section>
         <section class='border mt-5 destaques p-0 p-3 mb-5 rounded d-flex justfy-content-between align-items-center'>
           <img class='rounded' src="img/banner/img2.jpg" alt="Seila">
           <div class='ms-4'>

@@ -6,7 +6,6 @@
 }
 body {
   background-color: white;
-  /* background-color: red; */
 }
 .remove {
   display: none;
@@ -51,19 +50,6 @@ body {
 .banner p {
   color: #e2e2e2;
   max-width: 500px;
-}
-
-.noticia {
-  max-width: 520px;
-}
-.noticia img {
-  width: 200px;
-  height: 300px;
-  border-radius: 0 7px 7px 0;
-}
-.noticiaSeila {
-  gap: 2px;
-  margin: 10px 15px;
 }
 
 /* DropDown */
@@ -147,9 +133,23 @@ body {
 }
 
 /* Destaques */
-.destaques section img {
+.destaques img {
   width: 375px;
   height: 245px;
+}
+
+/* Noticias */
+.noticia {
+  max-width: 520px;
+}
+.noticia img {
+  width: 200px;
+  height: 300px;
+  border-radius: 0 7px 7px 0;
+}
+.noticiaSeila {
+  gap: 2px;
+  margin: 10px 15px;
 }
 
 /* Responsivo */
@@ -240,6 +240,10 @@ body {
 @media (max-width: 710px) {
   .navegacao.ativo ul {
     left: 0;
+  }
+  .destaques {
+    flex-direction: column !important;
+    overflow: hidden;
   }
 }
 @keyframes animaMenu {
