@@ -151,6 +151,15 @@ body {
   gap: 2px;
   margin: 10px 15px;
 }
+/* Lançamentos */
+.lancamentos img {
+  width: 250px;
+  height: 375px;
+}
+.lancamentos h3,
+.lancamentos a {
+  max-width: 250px;
+}
 
 /* Responsivo */
 @media (max-width: 1000px) {
@@ -231,7 +240,6 @@ body {
     gap: 30px;
   }
 }
-
 @media (max-width: 505px) {
   .noticia img {
     display: none;
