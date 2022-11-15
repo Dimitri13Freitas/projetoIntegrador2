@@ -15,15 +15,8 @@
   <main>
     <div class='container main'>
       <?php include 'nav.php';?>
-      <section class="bannerHome">
-        <h2 class="remove">.</h2>
-        <div class="banner d-flex flex-column justify-content-center rounded">
-          <article class='ms-sm-2 ms-md-4 ms-lg-6 ms-xl-6'>
-            <h2>Titulo Super Foda</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit consectetur, doloribus, accusantium tempore ducimus nam qui porro numquam animi, maxime.</p>
-          </article>
-        </div>
-      </section>
+      <?php include 'bannerHome.php';?>
+
       <!-- Noticias -->
       <div class="d-flex justify-content-xl-between flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
         <section class="noticia rounded-3  border d-flex align-items-center">

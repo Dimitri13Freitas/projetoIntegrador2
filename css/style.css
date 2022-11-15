@@ -35,13 +35,18 @@ body {
 }
 
 /* Banner */
-.bannerHome .banner {
-  height: 320px;
-  background-color: #2c2c2c;
-  background-image: url("../img/banner/img1.jpg");
+.banner {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  height: 320px;
+  background-color: #2c2c2c;
+}
+.bannerHome .banner {
+  background-image: url("../img/banner/img1.jpg");
+}
+.bannerAnimacoes .banner {
+  background-image: url("../img/banner/img2.jpg");
 }
 .banner h2 {
   color: #f1f1f1;
