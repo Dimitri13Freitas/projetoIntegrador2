@@ -139,6 +139,9 @@ body {
 .destaquesImg {
   display: flex;
 }
+.destaquesInf {
+  margin-left: 30px;
+}
 
 /* Noticias */
 .noticia {
@@ -254,6 +257,12 @@ body {
     width: 100%;
     display: inline-block;
   }
+  .destaquesInf {
+    margin: 0;
+  }
+  .lançamentosContainer {
+    gap: 30px;
+  }
 }
 @media (max-width: 505px) {
   .noticia img {
@@ -280,15 +289,4 @@ body {
   to {
     transform: translate3d(0, 0, 0);
   }
-}
-
-.maximo {
-  max-width: 300px;
-  display: flex;
-  background-color: red;
-  padding-bottom: 300px;
-}
-.maximo img {
-  display: block;
-  overflow: hidden;
 }
