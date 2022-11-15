@@ -13,7 +13,7 @@
 
 <body>
 <main>
-    <div class='container main'>
+    <div class='container'>
       <?php include 'nav.php';?>
       <?php include 'bannerAnimacoes.php';?>
       <div class='row'>
@@ -88,16 +88,6 @@
         </section>
       </div>
     </div>
-
-
-
-
-
-
-
-
-    <?php include 'footer.php';?>
-  </main>
 
 
 

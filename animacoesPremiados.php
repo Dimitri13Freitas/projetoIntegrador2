@@ -15,61 +15,9 @@
   <main>
     <div class='container main'>
       <?php include 'nav.php';?>
-      <section class="bannerHome">
-        <h2 class="remove">.</h2>
-        <div class="banner d-flex flex-column justify-content-center rounded">
-          <article class='ms-sm-2 ms-md-4 ms-lg-6 ms-xl-6'>
-            <h2>Titulo Super Foda</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit consectetur, doloribus, accusantium tempore ducimus nam qui porro numquam animi, maxime.</p>
-          </article>
-        </div>
-      </section>
+      <?php include 'bannerAnimacoes.php';?>
 
-      <h2 class='h1 m-5'>Proximos Lançamentos:</h2>
 
-      <div class='lançamentosContainer d-flex justify-content-around align-items-start flex-wrap lancamentosContainer mb-5'>
-        <div>
-          <section class='lancamentos border rounded p-4 d-inline-block'>
-            <img class='rounded border' src="img/banner/img3.jpg" alt="">
-            <h3 class='h3 text-center mt-2 mb-4'>Nome do Filme que vai ocupar bastante espaço</h3>
-            <a href="" class='btn btn-primary d-block'>Assistir Trailer</a>
-          </section>
-        </div>
-        <div class='mt-xxl-5 mt-xl-5 mt-lg-5 mt-md-0 mt-sm-0'>
-          <section class='lancamentos border rounded p-4 d-inline-block'>
-            <img class='rounded border' src="img/banner/img3.jpg" alt="">
-            <h3 class='h3 text-center mt-2 mb-4'>Nome do Filme que vai ocupar bastante espaço</h3>
-            <a href="" class='btn btn-primary d-block'>Assistir Trailer</a>
-          </section>
-        </div>
-        <div>
-          <section class='lancamentos border rounded p-4 m-auto my-0 d-inline-block'>
-            <img class='rounded border' src="img/banner/img3.jpg" alt="">
-            <h3 class='h3 text-center mt-2 mb-4'>Nome do Filme que vai ocupar bastante espaço</h3>
-            <a href="" class='btn btn-primary d-block'>Assistir Trailer</a>
-          </section>
-        </div>
-      </div>
-      <div class="d-flex justify-content-xl-between flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 mb-5 noticiaContainer">
-        <section class="noticia rounded-3  border d-flex align-items-center">
-          <div class="noticiaSeila d-flex flex-column">
-            <small>Filmes</small>
-            <h2>Seila</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
-            <a href="filmesPrincipais.html">Continuar lendo...</a>
-          </div>
-          <img src="img/banner/img2.jpg" alt="">
-        </section>
-        <section class="noticia rounded-3 border d-flex align-items-center">
-          <div class="noticiaSeila d-flex flex-column">
-            <small>Filmes</small>
-            <h2>Seila</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
-            <a href="filmesPrincipais.html">Continuar lendo...</a>
-          </div>
-          <img src="img/banner/img2.jpg" alt="">
-        </section>
-      </div>
     </div>
     <?php include 'footer.php';?>
   </main>
