@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/seila.css">
 </head>
 
 <!-- RETIRAR TAMANHO DAS IMAGENS NO CSS -->
@@ -34,9 +34,9 @@
         </div>
       </div>
       <div>
-        <section class='border destaques mt-3 p-0 p-3 flex-xl-row flex-lg-row flex-md-column flex-sm-column rounded d-flex justfy-content-between align-items-center'>
-          <div class='d-flex'>
-            <img class='rounded' src="img/banner/img2.jpg" alt="Seila">
+        <section class='border destaques mt-3 p-0 p-3 rounded d-flex justfy-content-between align-items-center'>
+          <div class='destaquesImg'>
+            <img class='rounded' src="img/banner/img1.jpg" alt="Seila">
           </div>
           <div class='ms-4'>
             <h2 class='h1 mb-3'>Titulo Super foda</h2>
@@ -45,7 +45,7 @@
           </div>
         </section>
         <div class="d-flex justify-content-xl-between flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
-          <section class="noticia rounded-3  border d-flex align-items-center">
+          <section class="noticia rounded-3 border d-flex align-items-center">
             <div class="noticiaSeila d-flex flex-column">
               <small>Filmes</small>
               <h2 class='h2'>Seila</h2>
@@ -65,7 +65,9 @@
           </section>
         </div>
         <section class='border mt-5 destaques p-0 p-3 mb-5 rounded d-flex justfy-content-between align-items-center'>
-          <img class='rounded' src="img/banner/img2.jpg" alt="Seila">
+        <div class='destaquesImg'>
+            <img class='rounded' src="img/banner/img2.jpg" alt="Seila">
+          </div>
           <div class='ms-4'>
             <h2 class='h1 mb-3'>Titulo Super foda</h2>
             <p class='mb-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint consequuntur eaque unde laboriosam ipsum laudantium quam laborum voluptatem voluptatibus asperiores reiciendis facilis at, excepturi inventore impedit delectus cum quibusdam...</p>
@@ -73,7 +75,19 @@
           </div>
         </section>
         <section class='border mt-5 destaques p-0 p-3 mb-5 rounded d-flex justfy-content-between align-items-center'>
-          <img class='rounded' src="img/banner/img2.jpg" alt="Seila">
+        <div class='destaquesImg'>
+            <img class='rounded' src="img/banner/img3.jpg" alt="Seila">
+          </div>
+          <div class='ms-4'>
+            <h2 class='h1 mb-3'>Titulo Super foda</h2>
+            <p class='mb-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint consequuntur eaque unde laboriosam ipsum laudantium quam laborum voluptatem voluptatibus asperiores reiciendis facilis at, excepturi inventore impedit delectus cum quibusdam...</p>
+            <a href="">Continuar Lendo...</a>
+          </div>
+        </section>
+        <section class='border mt-5 destaques p-0 p-3 mb-5 rounded d-flex justfy-content-between align-items-center'>
+        <div class='destaquesImg'>
+            <img class='rounded' src="img/banner/img3.jpg" alt="Seila">
+          </div>
           <div class='ms-4'>
             <h2 class='h1 mb-3'>Titulo Super foda</h2>
             <p class='mb-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint consequuntur eaque unde laboriosam ipsum laudantium quam laborum voluptatem voluptatibus asperiores reiciendis facilis at, excepturi inventore impedit delectus cum quibusdam...</p>

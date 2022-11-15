@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/seila.css">
 </head>
 
 <!-- RETIRAR TAMANHO DAS IMAGENS NO CSS -->
@@ -35,9 +35,7 @@
       </div>
       <div>
         <section class='border destaques mt-3 p-0 p-3 flex-xl-row flex-lg-row flex-md-column flex-sm-column rounded d-flex justfy-content-between align-items-center'>
-          <div class='d-flex'>
-            <img class='rounded' src="img/banner/img2.jpg" alt="Seila">
-          </div>
+          <img class='rounded' src="img/banner/img2.jpg" alt="Seila">
           <div class='ms-4'>
             <h2 class='h1 mb-3'>Titulo Super foda</h2>
             <p class='mb-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint consequuntur eaque unde laboriosam ipsum laudantium quam laborum voluptatem voluptatibus asperiores reiciendis facilis at, excepturi inventore impedit delectus cum quibusdam...</p>

@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/seila.css">
 </head>
 
 <!-- RETIRAR TAMANHO DAS IMAGENS NO CSS -->
@@ -24,7 +24,7 @@
           </article>
         </div>
       </section>
-
+      <!-- Noticias -->
       <div class="d-flex justify-content-xl-between flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
         <section class="noticia rounded-3  border d-flex align-items-center">
           <div class="noticiaSeila d-flex flex-column">
@@ -52,22 +52,26 @@
         <article class='obras rounded border pt-4'>
           <ul class='row p-0'>
             <li class='col-xl-3 col-md-6 col-sm-12 d-flex justify-content-center'>
-              <a href=""><img class='rounded border' src="img/banner/img3.jpg" alt="">
+              <a href="">
+                <img class='rounded border' src="img/banner/img3.jpg" alt="">
                 <h3 class='text-center'>Obra</h3>
               </a>
             </li>
             <li class='col-xl-3 col-md-6 col-sm-12 d-flex justify-content-center'>
-              <a href=""><img class='rounded border' src="img/banner/img3.jpg" alt="">
+              <a href="">
+                <img class='rounded border' src="img/banner/img3.jpg" alt="">
                 <h3 class='text-center'>Obra</h3>
               </a>
             </li>
             <li class='col-xl-3 col-md-6 col-sm-12 d-flex justify-content-center'>
-              <a href=""><img class='rounded border' src="img/banner/img3.jpg" alt="">
+              <a href="">
+                <img class='rounded border' src="img/banner/img3.jpg" alt="">
                 <h3 class='text-center'>Obra</h3>
               </a>
             </li>
             <li class='col-xl-3 col-md-6 col-sm-12 d-flex justify-content-center'>
-              <a href=""><img class='rounded border' src="img/banner/img3.jpg" alt="">
+              <a href="">
+                <img class='rounded border' src="img/banner/img3.jpg" alt="">
                 <h3 class='text-center'>Obra</h3>
               </a>
             </li>

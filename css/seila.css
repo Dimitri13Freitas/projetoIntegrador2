@@ -20,7 +20,6 @@ body {
   width: 34px;
   padding: 5px;
   border-radius: 3px;
-  overflow: hidden;
 }
 .header img:hover {
   background-color: #00a5e3;
@@ -135,7 +134,10 @@ body {
 /* Destaques */
 .destaques img {
   width: 375px;
-  height: 245px;
+  overflow: hidden;
+}
+.destaquesImg {
+  display: flex;
 }
 
 /* Noticias */
@@ -151,14 +153,16 @@ body {
   gap: 2px;
   margin: 10px 15px;
 }
+
 /* Lançamentos */
 .lancamentos img {
-  width: 250px;
-  height: 375px;
+  display: block;
+  width: 220px;
+  height: 325px;
 }
 .lancamentos h3,
 .lancamentos a {
-  max-width: 250px;
+  max-width: 220px;
 }
 
 /* Responsivo */
@@ -239,6 +243,17 @@ body {
   .noticiaContainer {
     gap: 30px;
   }
+  .destaques {
+    flex-direction: column !important;
+  }
+  .destaques img {
+    width: 100%;
+    height: 245px;
+  }
+  .destaquesImg {
+    width: 100%;
+    display: inline-block;
+  }
 }
 @media (max-width: 505px) {
   .noticia img {
@@ -248,10 +263,6 @@ body {
 @media (max-width: 710px) {
   .navegacao.ativo ul {
     left: 0;
-  }
-  .destaques {
-    flex-direction: column !important;
-    overflow: hidden;
   }
 }
 @keyframes animaMenu {
@@ -269,4 +280,15 @@ body {
   to {
     transform: translate3d(0, 0, 0);
   }
+}
+
+.maximo {
+  max-width: 300px;
+  display: flex;
+  background-color: red;
+  padding-bottom: 300px;
+}
+.maximo img {
+  display: block;
+  overflow: hidden;
 }

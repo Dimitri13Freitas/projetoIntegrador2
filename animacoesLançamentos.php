@@ -25,35 +25,52 @@
         </div>
       </section>
     </div>
-
-      
-      
       
     <h2 class='h1 m-5'>Proximos Lançamentos:</h2>
 
     <div class='container'>
-      <div class='row'>
-        <div class='col-4'>
-          <section class='lancamentos border rounded'>
-            <img class='rounded' src="img/banner/img3.jpg" alt="">
-            <h3 class='h3'>Nome do Filme que vai ocupar bastante espaço</h3>
-            <a href="">Assistir Trailer</a>
+      <div class='d-flex justify-content-around align-items-start flex-wrap lancamentosContainer mb-5'>
+        <div class=''>
+            <section class='lancamentos border rounded p-4 d-inline-block'>
+              <img class='rounded border' src="img/banner/img3.jpg" alt="">
+              <h3 class='h3 text-center mt-2 mb-4'>Nome do Filme que vai ocupar bastante espaço</h3>
+              <a href="" class='btn btn-primary d-block'>Assistir Trailer</a>
+            </section>
+        </div>
+        <div class=' d-flex justify-content-center align-items-start mt-xl-5 mt-lg-5 mt-sm-5 mb-sm-5 m-md-0'>
+          <section class='lancamentos border rounded p-4 d-inline-block'>
+            <img class='rounded border' src="img/banner/img3.jpg" alt="">
+            <h3 class='h3 text-center mt-2 mb-4'>Nome do Filme que vai ocupar bastante espaço</h3>
+            <a href="" class='btn btn-primary d-block'>Assistir Trailer</a>
           </section>
         </div>
-        <div class='col-4'>
-          <section class='lancamentos border rounded'>
-            <img class='rounded' src="img/banner/img3.jpg" alt="">
-            <h3 class='h3'>Nome do Filme que vai ocupar bastante espaço</h3>
-            <a href="">Assistir Trailer</a>
+        <div class=' d-flex justify-content-center align-items-start m-xl-0 m-lg-0 mt-md-5'>
+          <section class='lancamentos border rounded p-4 m-auto my-0 d-inline-block'>
+            <img class='rounded border' src="img/banner/img3.jpg" alt="">
+            <h3 class='h3 text-center mt-2 mb-4'>Nome do Filme que vai ocupar bastante espaço</h3>
+            <a href="" class='btn btn-primary d-block'>Assistir Trailer</a>
           </section>
         </div>
-        <div class='col-4'>
-          <section class='lancamentos border rounded'>
-            <img class='rounded' src="img/banner/img3.jpg" alt="">
-            <h3 class='h3'>Nome do Filme que vai ocupar bastante espaço</h3>
-            <a href="">Assistir Trailer</a>
-          </section>
-        </div>
+      </div>
+      <div class="d-flex justify-content-xl-between flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 mb-5 noticiaContainer">
+        <section class="noticia rounded-3  border d-flex align-items-center">
+          <div class="noticiaSeila d-flex flex-column">
+            <small>Filmes</small>
+            <h2>Seila</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
+            <a href="filmesPrincipais.html">Continuar lendo...</a>
+          </div>
+          <img src="img/banner/img2.jpg" alt="">
+        </section>
+        <section class="noticia rounded-3 border d-flex align-items-center">
+          <div class="noticiaSeila d-flex flex-column">
+            <small>Filmes</small>
+            <h2>Seila</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
+            <a href="filmesPrincipais.html">Continuar lendo...</a>
+          </div>
+          <img src="img/banner/img2.jpg" alt="">
+        </section>
       </div>
     </div>
     <?php include 'footer.php';?>
