@@ -172,6 +172,13 @@ body {
 .lancamentos a {
   max-width: 220px;
 }
+.premiados {
+  display: inline-block;
+}
+.premiados img {
+  width: 300px;
+  height: 250px;
+}
 
 /* Responsivo */
 @media (max-width: 1000px) {
