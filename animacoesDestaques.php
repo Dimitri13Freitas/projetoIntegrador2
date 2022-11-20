@@ -13,9 +13,9 @@
 
 <body>
   <main>
-    <div class='container main'>
+    <div class='container'>
       <?php include 'include/nav.php';?>
-            <?php include 'include/bannerAnimacoes.php';?>
+      <?php include 'include/bannerHome.php';?>
 
       <div class='row'>
         <div class='col-xl-8 col-md-12 col-sm-12'>

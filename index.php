@@ -13,7 +13,7 @@
 
 <body>
   <main>
-    <div class='container main'>
+    <div class='container'>
       <?php include 'include/nav.php';?>
       <?php include 'include/bannerHome.php';?>
 

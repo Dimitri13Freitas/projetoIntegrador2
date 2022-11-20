@@ -4,7 +4,7 @@ echo "<header class='header d-flex align-items-center justify-content-between bo
   <img src='./img/assets/notification.svg' alt=''>
 </div>
 <button class='menuMobile'>Menu<span class='hamburguer'></span></button>
-<h1 class='h1'>Logo</h1>
+<a href='index.php' class='h1'>Logo</a>
 <div class='d-flex redes'>
   <a href='https://github.com/Dimitri13Freitas/projetoIntegrador2'><img src='./img/social/github.svg' alt='Icon Logo Git-Hub'></a>
   <a href='https://github.com/Dimitri13Freitas/projetoIntegrador2'><img src='./img/social/instagram.svg' alt='Icon Logo Instagram'></a>
@@ -15,10 +15,10 @@ echo "<header class='header d-flex align-items-center justify-content-between bo
 <ul class='d-flex p-0 flex-row align-items-center justify-content-around'>
   <li class='p-2'>Filmes
     <ul>
-      <li><a href='filmesCosplay.html'>Cosplays</a></li>
-      <li><a href='filmesPrincipais.html'>Principais Obras</a></li>
-      <li><a href='filmesDestaques.html'>Destaques</a></li>
-      <li><a href='filmesLançamentos.html'>Lançamentos</a></li>
+      <li><a href='filmesCosplay.php'>Cosplays</a></li>
+      <li><a href='filmesPrincipais.php'>Principais Obras</a></li>
+      <li><a href='filmesDestaques.php'>Destaques</a></li>
+      <li><a href='filmesLancamentos.php'>Lançamentos</a></li>
     </ul>
   </li>
   <li class='p-2'><a class='p-2' href=''>Series</a></li>
@@ -34,7 +34,7 @@ echo "<header class='header d-flex align-items-center justify-content-between bo
     <ul>
       <li><a href='animacoesDestaques.php'>Destaques</a></li>
       <li><a href='animacoesClassicos.php'>Clássicos</a></li>
-      <li><a href='animacoesLançamentos.php'>Lançamentos</a></li>
+      <li><a href='animacoesLancamentos.php'>Lançamentos</a></li>
       <li><a href='animacoesPremiados.php'>Premiados</a></li>
     </ul>
   </li>

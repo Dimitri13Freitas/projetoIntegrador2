@@ -13,25 +13,84 @@
 
 <body>
   <main>
-    <div class='container main'>
+    <div class='container'>
       <?php include 'include/nav.php';?>
-      <?php include 'include/bannerAnimacoes.php';?>
+      <?php include 'include/bannerHome.php';?>
 
-      <h2 class='h1'>As animações mais Premiadas:</h2>
+      <h2 class='h1 mt-5'>As animações mais Premiadas:</h2>
 
-      <div class='row'>
-        <section class='premiados border rounded'>
-          <h3 class='h2'> 1° Animação</h3>
-          <img class='rounded' src="img/banner/img2.jpg" alt="">
-          <ul class='m-0 p-0'>
-            <li class='h6'>Premios</li>
-            <li class='h6'>Premios</li>
-            <li class='h6'>Premios</li>
-            <li class='h6'>Premios</li>
-          </ul>
+      <div class='row mt-5'>
+        <div class='col-xl-6 col-md-12 col-sm-12 d-flex justify-content-center'>
+          <section class='premiados border rounded d-inline-block py-3 px-4'>
+            <h3 class='h2 text-center mb-3'>1° Animação</h3>
+            <img class='rounded' src='img/banner/img2.jpg' alt="">
+            <ul class='m-0 mt-3 p-0 text-center d-flex flex-column'>
+              <li class='h5'>Premios</li>
+              <li class='h5'>Premios</li>
+              <li class='h5'>Premios</li>
+              <li class='h5'>Premios</li>
+            </ul>
+          </section>
+        </div>
+        <div class='col-xl-6 col-md-12 col-sm-12 d-flex justify-content-center'>
+          <section class='premiados border rounded d-inline-block py-3 px-4'>
+            <h3 class='h2 text-center mb-3'>1° Animação</h3>
+            <img class='rounded' src='img/banner/img2.jpg' alt="">
+            <ul class='m-0 mt-3 p-0 text-center d-flex flex-column'>
+              <li class='h5'>Premios</li>
+              <li class='h5'>Premios</li>
+              <li class='h5'>Premios</li>
+              <li class='h5'>Premios</li>
+            </ul>
+          </section>
+        </div>
+      </div>
+      <div class='row my-5'>
+        <div class='col-xl-6 col-md-12 col-sm-12 d-flex justify-content-center'>
+          <section class='premiados border rounded d-inline-block py-3 px-4'>
+            <h3 class='h2 text-center mb-3'>1° Animação</h3>
+            <img class='rounded' src='img/banner/img2.jpg' alt="">
+            <ul class='m-0 mt-3 p-0 text-center d-flex flex-column'>
+              <li class='h5'>Premios</li>
+              <li class='h5'>Premios</li>
+              <li class='h5'>Premios</li>
+              <li class='h5'>Premios</li>
+            </ul>
+          </section>
+        </div>
+        <div class='col-xl-6 col-md-12 col-sm-12 d-flex justify-content-center'>
+          <section class='premiados border rounded d-inline-block py-3 px-4'>
+            <h3 class='h2 text-center mb-3'>1° Animação</h3>
+            <img class='rounded' src='img/banner/img2.jpg' alt="">
+            <ul class='m-0 mt-3 p-0 text-center d-flex flex-column'>
+              <li class='h5'>Premios</li>
+              <li class='h5'>Premios</li>
+              <li class='h5'>Premios</li>
+              <li class='h5'>Premios</li>
+            </ul>
+          </section>
+        </div>
+      </div>
+      <div class="d-flex justify-content-xl-between flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center my-5 noticiaContainer">
+        <section class="noticia rounded-3  border d-flex align-items-center">
+          <div class="noticiaSeila d-flex flex-column">
+            <small>Filmes</small>
+            <h2>Seila</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
+            <a href="filmesPrincipais.html">Continuar lendo...</a>
+          </div>
+          <img src="img/banner/img2.jpg" alt="">
+        </section>
+        <section class="noticia rounded-3 border d-flex align-items-center">
+          <div class="noticiaSeila d-flex flex-column">
+            <small>Filmes</small>
+            <h2>Seila</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
+            <a href="filmesPrincipais.html">Continuar lendo...</a>
+          </div>
+          <img src="img/banner/img2.jpg" alt="">
         </section>
       </div>
-
     </div>
     <?php include 'include/footer.php';?>
   </main>

@@ -1,5 +1,5 @@
 @charset "UTF-8";
-/* Geral */
+/* Geral by Dimitri Freitas */
 * {
   list-style: none !important;
   text-decoration: none !important;
@@ -11,7 +11,7 @@ body {
   display: none;
 }
 
-/* Header */
+/* Header by Dimitri Freitas*/
 .header {
   border-color: #00a5e3 !important;
   display: flex;
@@ -34,7 +34,7 @@ body {
   cursor: pointer;
 }
 
-/* Banner */
+/* Banner by Dimitri Freitas*/
 .banner {
   background-position: center;
   background-repeat: no-repeat;
@@ -56,7 +56,7 @@ body {
   max-width: 500px;
 }
 
-/* DropDown */
+/* DropDown by Dimitri Freitas */
 .navegacao li {
   cursor: pointer;
 }
@@ -84,7 +84,7 @@ body {
   animation: animaNav 0.3s forwards;
 }
 
-/* Menu Mobile */
+/* Menu Mobile by Dimitri Freitas */
 .menuMobile {
   display: none;
   border: none;
@@ -92,7 +92,7 @@ body {
   cursor: pointer;
 }
 
-/* Obras */
+/* Obras by Dimitri Freitas */
 .obras {
   background: white;
 }
@@ -107,7 +107,7 @@ body {
   background: #acacac !important;
 }
 
-/* Ultimos Reviews */
+/* Ultimos Reviews by Dimitri Freitas*/
 .ultimosReviews section {
   max-width: 458px;
 }
@@ -116,7 +116,7 @@ body {
   overflow: hidden;
 }
 
-/* Mapa do Site */
+/* Mapa do Site by Dimitri Freitas*/
 .listaPrimaria li,
 .listaPrimaria li a {
   color: black;
@@ -130,25 +130,13 @@ body {
   font-size: 1rem;
   font-weight: normal;
 }
-/* Footer */
+/* Footer by Dimitri Freitas */
 .footer p {
   background: #141414;
   color: white;
 }
 
-/* Destaques */
-.destaques img {
-  width: 375px;
-  overflow: hidden;
-}
-.destaquesImg {
-  display: flex;
-}
-.destaquesInf {
-  margin-left: 30px;
-}
-
-/* Noticias */
+/* Noticias by Dimitri Freitas*/
 .noticia {
   max-width: 520px;
 }
@@ -162,7 +150,19 @@ body {
   margin: 10px 15px;
 }
 
-/* Lançamentos */
+/* Animação Destaques by Dimitri Freitas */
+.destaques img {
+  width: 375px;
+  overflow: hidden;
+}
+.destaquesImg {
+  display: flex;
+}
+.destaquesInf {
+  margin-left: 30px;
+}
+
+/* Animação Lançamentos by Dimitri Freitas */
 .lancamentos img {
   display: block;
   width: 220px;
@@ -172,15 +172,33 @@ body {
 .lancamentos a {
   max-width: 220px;
 }
-.premiados {
-  display: inline-block;
-}
+
+/* Animação Premiados by Dimitri Freitas*/
 .premiados img {
   width: 300px;
   height: 250px;
+  display: block;
+}
+.premiados ul {
+  gap: 20px;
+}
+.premiados ul li + li {
+  padding-top: 20px;
+  border-top: 2px solid #b1b2b3;
 }
 
-/* Responsivo */
+/* Animação Conteudo by Dimitri Freitas */
+.cite {
+  margin-left: 30px;
+  padding-left: 8px;
+  border-left: 3px #b1b2b3 solid;
+}
+.conteudo aside img {
+  width: 770px;
+  height: 300px;
+  /* display: block; */
+}
+/* Responsivo DropDown e Especificos by Dimitri Freitas */
 @media (max-width: 1000px) {
   .banner article {
     margin-left: 15px;
@@ -301,4 +319,63 @@ body {
   to {
     transform: translate3d(0, 0, 0);
   }
+}
+
+/* CSS by Lucas Pereira */
+.cosplay img {
+  width: 370px;
+  height: 360px;
+  margin: 0 auto;
+  display: block;
+}
+.cosplaybanner img {
+  width: 100%;
+  height: 381px;
+  margin: 25px 0;
+}
+.imagenscosplay img {
+  width: 460px;
+  height: 400px;
+}
+.cosplay {
+  margin-top: 30px;
+}
+.lado1img img {
+  width: 220px;
+  height: 305px;
+  display: block;
+  margin: 0 auto;
+}
+.lado1 section {
+  margin: 20px 0;
+}
+.sugestao {
+  text-align: center;
+}
+.sugestao ul li h4 {
+  margin-top: 40px;
+}
+.bannersinopse img {
+  width: 100%;
+  height: 400px;
+}
+.filmesdestaques img {
+  width: 456px;
+  height: 290px;
+}
+.filmestextodestaques article h3,
+.filmestextodestaques article p {
+  text-align: center;
+}
+.filmesbannerdestaques img {
+  width: 855px;
+  height: 290px;
+  margin: 0 auto;
+  display: block;
+}
+.filmestextodestaques article h3 {
+  margin-top: 60px;
+}
+.red {
+  background: red;
 }
