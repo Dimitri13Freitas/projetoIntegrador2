@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-  <link rel="stylesheet" href="css/seila.css">
+  <link rel="stylesheet" href="css/style.css">
 </head>
 
 <!-- RETIRAR TAMANHO DAS IMAGENS NO CSS -->
@@ -21,21 +21,21 @@
 
       <div class='lançamentosContainer d-flex justify-content-around align-items-start flex-wrap lancamentosContainer mb-5'>
         <div>
-          <section class='lancamentos border rounded p-4 d-inline-block'>
+          <section class='lancamentos border rounded  d-flex flex-column'>
             <img class='rounded border' src="img/banner/img3.jpg" alt="">
             <h3 class='h3 text-center mt-2 mb-4'>Nome do Filme que vai ocupar bastante espaço</h3>
             <a href="" class='btn btn-primary d-block'>Assistir Trailer</a>
           </section>
         </div>
         <div class='mt-xxl-5 mt-xl-5 mt-lg-5 mt-md-0 mt-sm-0'>
-          <section class='lancamentos border rounded p-4 d-inline-block'>
+          <section class='lancamentos border rounded  d-flex flex-column'>
             <img class='rounded border' src="img/banner/img3.jpg" alt="">
             <h3 class='h3 text-center mt-2 mb-4'>Nome do Filme que vai ocupar bastante espaço</h3>
             <a href="" class='btn btn-primary d-block'>Assistir Trailer</a>
           </section>
         </div>
         <div>
-          <section class='lancamentos border rounded p-4 m-auto my-0 d-inline-block'>
+          <section class='lancamentos border rounded  m-auto my-0 d-flex flex-column'>
             <img class='rounded border' src="img/banner/img3.jpg" alt="">
             <h3 class='h3 text-center mt-2 mb-4'>Nome do Filme que vai ocupar bastante espaço</h3>
             <a href="" class='btn btn-primary d-block'>Assistir Trailer</a>

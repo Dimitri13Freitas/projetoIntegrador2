@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-  <link rel="stylesheet" href="css/seila.css">
+  <link rel="stylesheet" href="css/style.css">
 </head>
 
 <!-- RETIRAR TAMANHO DAS IMAGENS NO CSS -->
@@ -20,10 +20,12 @@
       <h2 class='h1 mt-5'>As animações mais Premiadas:</h2>
 
       <div class='row mt-5'>
-        <div class='col-xl-6 col-md-12 col-sm-12 d-flex justify-content-center'>
+        <div class='col-xl-6 col-md-6 col-sm-12 d-flex justify-content-center'>
           <section class='premiados border rounded d-inline-block py-3 px-4'>
             <h3 class='h2 text-center mb-3'>1° Animação</h3>
-            <img class='rounded' src='img/banner/img2.jpg' alt="">
+            <div class='destaquesImg'>
+              <img class='rounded' src='img/banner/img2.jpg' alt="">
+            </div>
             <ul class='m-0 mt-3 p-0 text-center d-flex flex-column'>
               <li class='h5'>Premios</li>
               <li class='h5'>Premios</li>
@@ -32,10 +34,12 @@
             </ul>
           </section>
         </div>
-        <div class='col-xl-6 col-md-12 col-sm-12 d-flex justify-content-center'>
+        <div class='col-xl-6 col-md-6 col-sm-12 d-flex justify-content-center'>
           <section class='premiados border rounded d-inline-block py-3 px-4'>
             <h3 class='h2 text-center mb-3'>1° Animação</h3>
-            <img class='rounded' src='img/banner/img2.jpg' alt="">
+            <div class='destaquesImg'>
+              <img class='rounded' src='img/banner/img2.jpg' alt="">
+            </div>
             <ul class='m-0 mt-3 p-0 text-center d-flex flex-column'>
               <li class='h5'>Premios</li>
               <li class='h5'>Premios</li>
@@ -46,10 +50,12 @@
         </div>
       </div>
       <div class='row my-5'>
-        <div class='col-xl-6 col-md-12 col-sm-12 d-flex justify-content-center'>
+        <div class='col-xl-6 col-md-6 col-sm-12 d-flex justify-content-center'>
           <section class='premiados border rounded d-inline-block py-3 px-4'>
             <h3 class='h2 text-center mb-3'>1° Animação</h3>
-            <img class='rounded' src='img/banner/img2.jpg' alt="">
+            <div class='destaquesImg'>
+              <img class='rounded' src='img/banner/img2.jpg' alt="">
+            </div>
             <ul class='m-0 mt-3 p-0 text-center d-flex flex-column'>
               <li class='h5'>Premios</li>
               <li class='h5'>Premios</li>
@@ -58,10 +64,12 @@
             </ul>
           </section>
         </div>
-        <div class='col-xl-6 col-md-12 col-sm-12 d-flex justify-content-center'>
+        <div class='col-xl-6 col-md-6 col-sm-12 d-flex justify-content-center'>
           <section class='premiados border rounded d-inline-block py-3 px-4'>
             <h3 class='h2 text-center mb-3'>1° Animação</h3>
-            <img class='rounded' src='img/banner/img2.jpg' alt="">
+            <div class='destaquesImg'>
+              <img class='rounded' src='img/banner/img2.jpg' alt="">
+            </div>
             <ul class='m-0 mt-3 p-0 text-center d-flex flex-column'>
               <li class='h5'>Premios</li>
               <li class='h5'>Premios</li>

@@ -163,10 +163,13 @@ body {
 }
 
 /* Animação Lançamentos by Dimitri Freitas */
+.lancamentos {
+  padding: 25px;
+}
 .lancamentos img {
-  display: block;
-  width: 220px;
+  max-width: 220px;
   height: 325px;
+  overflow: hidden;
 }
 .lancamentos h3,
 .lancamentos a {
@@ -175,9 +178,9 @@ body {
 
 /* Animação Premiados by Dimitri Freitas*/
 .premiados img {
+  overflow: hidden;
   width: 300px;
   height: 250px;
-  display: block;
 }
 .premiados ul {
   gap: 20px;
@@ -194,10 +197,13 @@ body {
   border-left: 3px #b1b2b3 solid;
 }
 .conteudo aside img {
-  width: 770px;
+  width: 100%;
   height: 300px;
-  /* display: block; */
 }
+.sobreImg article {
+  background-color: #b1b2b3;
+}
+
 /* Responsivo DropDown e Especificos by Dimitri Freitas */
 @media (max-width: 1000px) {
   .banner article {
@@ -293,10 +299,19 @@ body {
   .lançamentosContainer {
     gap: 30px;
   }
+  .premiados img {
+    width: 100%;
+  }
 }
 @media (max-width: 505px) {
+  .premiados img {
+    height: fit-content;
+  }
   .noticia img {
     display: none;
+  }
+  .lancamentos {
+    padding: 20px 15px;
   }
 }
 @media (max-width: 710px) {
