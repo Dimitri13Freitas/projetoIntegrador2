@@ -24,10 +24,10 @@ echo "<header class='header d-flex align-items-center justify-content-between bo
   <li class='p-2'><a class='p-2' href=''>Series</a></li>
   <li class='p-2'>Livros
     <ul>
-      <li><a href='livrosPrincipais.html'>Principais Autores</a></li>
-      <li><a href='livrosFavoritos.html'>Favoritos da Crítica</a></li>
-      <li><a href='livrosClassicos.html'>Clássicos</a></li>
-      <li><a href='livrosDestaques.html'>Destaques</a></li>
+      <li><a href='livrosPrincipais.php'>Principais Autores</a></li>
+      <li><a href='livrosFavoritos.php'>Favoritos da Crítica</a></li>
+      <li><a href='livrosClassicos.php'>Clássicos</a></li>
+      <li><a href='livrosDestaques.php'>Destaques</a></li>
     </ul>
   </li>
   <li class='p-2'>Animações
@@ -39,8 +39,8 @@ echo "<header class='header d-flex align-items-center justify-content-between bo
     </ul>
   </li>
   <li class='p-2'><a class='p-2' href='contato.php'>Contato</a></li>
-  <li class='p-2'><a class='p-2' href='normas.html'>Normas de uso</a></li>
-  <li class='p-2'><a class='p-2' href='quemSomos.html'>Quem somos</a></li>
+  <li class='p-2'><a class='p-2' href='normas.php'>Normas de uso</a></li>
+  <li class='p-2'><a class='p-2' href='quemSomos.php'>Quem somos</a></li>
 </ul>
 </nav>";
 ?>

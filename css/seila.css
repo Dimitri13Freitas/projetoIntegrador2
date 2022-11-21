@@ -385,7 +385,7 @@ body {
   }
 }
 
-/* CSS by Lucas Pereira */
+/* CSS LUCAS PEREIRA */
 .cosplay img {
   width: 370px;
   height: 360px;
@@ -440,6 +440,57 @@ body {
 .filmestextodestaques article h3 {
   margin-top: 60px;
 }
-.red {
-  background: red;
+.quemsomos aside img {
+  width: 410px;
+  height: 300px;
+}
+.integrantes {
+  margin-top: 30px;
+}
+
+/* CSS LUCAS VIEIRA */
+.sla {
+  margin: 20px;
+  margin-top: 80px;
+}
+.not {
+  margin-top: 70px;
+  margin: 20px;
+}
+.bordas {
+  padding: 10px;
+  border: solid rgb(128, 128, 128, 0.1) 3px;
+  margin: 5px;
+}
+.fulano {
+  margin: 10px;
+  margin-top: 30px;
+}
+.titulo2 {
+  text-align: center;
+  background-color: #acacac;
+  padding: 20px;
+}
+.titulos {
+  margin: 20px;
+  text-align: center;
+}
+.nrms p {
+  text-align: center;
+}
+.principais {
+  margin: 20px;
+}
+.src {
+  margin-left: 2px;
+}
+.oi {
+  display: flex;
+  margin: 10px;
+  gap: 10px;
+  padding: 5px;
+}
+.outros {
+  text-align: center;
+  justify-content: center;
 }
