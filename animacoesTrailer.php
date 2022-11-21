@@ -17,32 +17,12 @@
       <?php include 'include/nav.php';?>
       <?php include 'include/bannerHome.php';?>
 
-      <h2 class='h1 m-5'>Proximos Lançamentos:</h2>
+      <h1 class='h2 mt-5 mb-3 text-center'>Nome do Respectivo Filme</h1>
 
-      <div class='lançamentosContainer d-flex justify-content-around align-items-start flex-wrap lancamentosContainer mb-5'>
-        <div>
-          <section class='lancamentos border rounded  d-flex flex-column'>
-            <img class='rounded border' src="img/banner/img3.jpg" alt="">
-            <h3 class='h3 text-center mt-2 mb-4'>Nome do Filme que vai ocupar bastante espaço</h3>
-            <a href="animacoesTrailer.php" class='btn btn-primary d-block'>Assistir Trailer</a>
-          </section>
-        </div>
-        <div class='mt-xxl-5 mt-xl-5 mt-lg-5 mt-md-0 mt-sm-0'>
-          <section class='lancamentos border rounded  d-flex flex-column'>
-            <img class='rounded border' src="img/banner/img3.jpg" alt="">
-            <h3 class='h3 text-center mt-2 mb-4'>Nome do Filme que vai ocupar bastante espaço</h3>
-            <a href="animacoesTrailer.php" class='btn btn-primary d-block'>Assistir Trailer</a>
-          </section>
-        </div>
-        <div>
-          <section class='lancamentos border rounded  m-auto my-0 d-flex flex-column'>
-            <img class='rounded border' src="img/banner/img3.jpg" alt="">
-            <h3 class='h3 text-center mt-2 mb-4'>Nome do Filme que vai ocupar bastante espaço</h3>
-            <a href="animacoesTrailer.php" class='btn btn-primary d-block'>Assistir Trailer</a>
-          </section>
-        </div>
+      <div class='row mb-4'>
+        <iframe class='rounded' width="853" height="480" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="Rick Astley - Never Gonna Give You Up (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
-      <div class="d-flex justify-content-xl-between flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 mb-5 noticiaContainer">
+      <div class="d-flex justify-content-xl-between flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
         <section class="noticia rounded-3  border d-flex align-items-center">
           <div class="noticiaSeila d-flex flex-column">
             <small>Filmes</small>

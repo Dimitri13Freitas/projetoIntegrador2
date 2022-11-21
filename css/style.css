@@ -202,10 +202,49 @@ body {
 }
 .sobreImg article {
   background-color: #b1b2b3;
+  max-width: 400px;
+}
+
+/* Contato by Dimitri Freitas */
+.formulario img {
+  width: 420px;
+  height: 100%;
+}
+.formulario fieldset {
+  width: 100%;
+  padding: 30px 80px 20px 35px;
+}
+.formulario fieldset label {
+  display: block;
+}
+.formulario fieldset input,
+.formulario fieldset textarea {
+  background-color: #acacac;
+  border: none;
+  border-radius: 6px;
+  resize: none;
+  padding: 10px 0 10px 8px;
+}
+.formulario fieldset textarea {
+  height: 150px;
+}
+.formulario img {
+  border-radius: 7px 0px 0px 7px;
+}
+.formulario fieldset button {
+  width: 100px;
+  height: 40px;
+}
+.formulario fieldset input:focus,
+.formulario fieldset textarea:focus {
+  outline: #434b4f 2px solid;
 }
 
 /* Responsivo DropDown e Especificos by Dimitri Freitas */
 @media (max-width: 1000px) {
+  .formulario img {
+    display: none;
+  }
   .banner article {
     margin-left: 15px;
   }
@@ -267,11 +306,17 @@ body {
     flex-direction: column !important;
     top: 45px;
     left: 100px;
-    background: #e2e2e2;
+    background: white;
     box-shadow: 0px 0 2px 0px rgba(0, 0, 0, 0.1);
     padding: 5px 10px !important;
+    border: 1px solid #acacac;
+    border-left: none;
     border-radius: 0 5px 5px 0;
     animation: animaMenu 0.3s forwards;
+  }
+  .navegacao.ativo ul li ul {
+    border-radius: 5px;
+    border: 1px solid #acacac;
   }
   .navegacao.ativo ul li + li {
     border-top: 1px solid #00a5e3;
@@ -303,6 +348,15 @@ body {
     width: 100%;
   }
 }
+@media (max-width: 710px) {
+  .navegacao.ativo ul {
+    left: 0;
+  }
+  .formulario fieldset {
+    width: 100%;
+    padding: 35px;
+  }
+}
 @media (max-width: 505px) {
   .premiados img {
     height: fit-content;
@@ -312,11 +366,6 @@ body {
   }
   .lancamentos {
     padding: 20px 15px;
-  }
-}
-@media (max-width: 710px) {
-  .navegacao.ativo ul {
-    left: 0;
   }
 }
 @keyframes animaMenu {

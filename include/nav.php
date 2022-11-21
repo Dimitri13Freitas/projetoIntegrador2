@@ -38,7 +38,7 @@ echo "<header class='header d-flex align-items-center justify-content-between bo
       <li><a href='animacoesPremiados.php'>Premiados</a></li>
     </ul>
   </li>
-  <li class='p-2'><a class='p-2' href='contato.html'>Contato</a></li>
+  <li class='p-2'><a class='p-2' href='contato.php'>Contato</a></li>
   <li class='p-2'><a class='p-2' href='normas.html'>Normas de uso</a></li>
   <li class='p-2'><a class='p-2' href='quemSomos.html'>Quem somos</a></li>
 </ul>
