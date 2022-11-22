@@ -24,45 +24,47 @@
           </a>
             <hr>
         
-          <a href="livrosPgAutores2.php">
+          <a href="livrosPgAutores.php">
             <h1>Fulano de Tal</h1>
             <img src="img/banner/img2.jpg" style="width: 100% ;" alt="">
             <p >Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, repellendus ut saepe itaque quidem sequi quasi odio libero modi porro mollitia, et aperiam voluptates, iure sint impedit eveniet eligendi a? Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo possimus  </p>
           </a>    
         </article>
     
-
-        <aside class="not col-xl-3 col-md-4 col-sm-12 border">
-          <h2>
-            Notícias
-          </h2>
-          <hr>
-          <section >
-            <h3>TITULO</h3>
-            <img src="https://via.placeholder.com/150 " alt="">
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae in cum optio labore dignissimos quisquam repellendus sunt nulla porro atque saepe similique eos, nesciunt excepturi ex, hic voluptate odit voluptatibus!
-            </p>
-          </section>
-          <hr>
-          <section >
-            <h3>TITULO</h3>
-            <img src="https://via.placeholder.com/150 " alt="">
-            <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae in cum optio labore dignissimos quisquam repellendus sunt nulla porro atque saepe similique eos, nesciunt excepturi ex, hic voluptate odit voluptatibus!
-            </p>
-          </section>
-          <hr>
-          <section >
-            <h3>TITULO</h3>
-            <img src="https://via.placeholder.com/150 " alt="">
-            <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae in cum optio labore dignissimos quisquam repellendus sunt nulla porro atque saepe similique eos, nesciunt excepturi ex, hic voluptate odit voluptatibus!
-            </p>
-          </section>
-        </aside>
+  <aside class="not col-xl-3 col-md-4 col-sm-12 noticia">
+    <div>
+      <h3 class="titulos">Notícias</h3>
     </div>
+    <div class="d-flex justify-content-xl-around flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
+        <section class="noticia rounded-3  border d-flex align-items-center">
+          <div class="noticiaSeila d-flex flex-column">
+            <small>Filmes</small>
+            <h2>Seila</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima. <a href="NoticiasConteudo.php">Continuar lendo...</a></p>
+          </div>
+        </section>
+    </div>
+    <div class="d-flex justify-content-xl-around flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
+        <section class="noticia rounded-3  border d-flex align-items-center">
+          <div class="noticiaSeila d-flex flex-column">
+            <small>Filmes</small>
+            <h2>Seila</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima. <a href="NoticiasConteudo.php">Continuar lendo...</a></p>
+          </div>
+        </section>
+    </div>
+    <div class="d-flex justify-content-xl-around flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
+        <section class="noticia rounded-3  border d-flex align-items-center">
+          <div class="noticiaSeila d-flex flex-column">
+            <small>Filmes</small>
+            <h2>Seila</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima. <a href="NoticiasConteudo.php">Continuar lendo...</a></p>
+          </div>
+        </section>
+    </div>
+  </aside>
   </div>
+</div>
     <?php include 'include/footer.php';?>
   </main>
 

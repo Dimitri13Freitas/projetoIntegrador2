@@ -27,44 +27,55 @@
         <div class="bordas">
           <h1>Clássico 2</h1>
           <img src="img/banner/img2.jpg" style="width: 100% ;" alt="">
-          <p >Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, repellendus ut saepe itaque quidem sequi quasi odio libero modi porro mollitia<a href="livrosPgClas2.php" >leia mais</a> </p>
+          <p >Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, repellendus ut saepe itaque quidem sequi quasi odio libero modi porro mollitia<a href="livrosPgClas.php" >leia mais</a> </p>
         </div>
       </article>
     </div>
   
-
-    <div class="row justify-content-center">
-      <div class=" sla col-xl-12 col-md-12 col-sm-12">
-        <h2 class="titulo2">Notícias</h2>
+    <div>
+      <h3 class="titulo2">Notícias</h3>
+    </div>
+    <div class="d-flex justify-content-xl-around flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
+        <section class="noticia rounded-3  border d-flex align-items-center">
+          <div class="noticiaSeila d-flex flex-column">
+            <small>Filmes</small>
+            <h2>Seila</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
+            <a href="NoticiasConteudo.php">Continuar lendo...</a>
+          </div>
+          <img src="img/banner/img2.jpg" alt="">
+        </section>
+        <section class="noticia rounded-3 border d-flex align-items-center">
+          <div class="noticiaSeila d-flex flex-column">
+            <small>Filmes</small>
+            <h2>Seila</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
+            <a href="NoticiasConteudo.php">Continuar lendo...</a>
+          </div>
+          <img src="img/banner/img2.jpg" alt="">
+        </section>
       </div>
-      <section class="oi col-xl-5 col-md-8 col-sm-12 border" >
-        <img src="https://via.placeholder.com/150 " alt="">
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae in cum optio labore dignissimos quisquam repellendus sunt nulla porro atque saepe similique eos, nesciunt excepturi ex, hic voluptate odit voluptatibus!
-        </p>
-      </section>
-      <section class="oi col-xl-5 col-md-8 col-sm-12 border" >
-        <img src="https://via.placeholder.com/150 " alt="">
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae in cum optio labore dignissimos quisquam repellendus sunt nulla porro atque saepe similique eos, nesciunt excepturi ex, hic voluptate odit voluptatibus!
-        </p>
-      </section>
-    </div>
 
-    <div class="row justify-content-center">
-      <section class="oi col-xl-5 col-md-8 col-sm-12 border" >
-        <img src="https://via.placeholder.com/150 " alt="">
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae in cum optio labore dignissimos quisquam repellendus sunt nulla porro atque saepe similique eos, nesciunt excepturi ex, hic voluptate odit voluptatibus!
-        </p>
-      </section>
-      <section class="oi col-xl-5 col-md-8 col-sm-12 border" >
-        <img src="https://via.placeholder.com/150 " alt="">
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae in cum optio labore dignissimos quisquam repellendus sunt nulla porro atque saepe similique eos, nesciunt excepturi ex, hic voluptate odit voluptatibus!
-        </p>
-      </section>
-    </div>
+      <div class="d-flex justify-content-xl-around flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
+        <section class="noticia rounded-3  border d-flex align-items-center">
+          <div class="noticiaSeila d-flex flex-column">
+            <small>Filmes</small>
+            <h2>Seila</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
+            <a href="NoticiasConteudo.php">Continuar lendo...</a>
+          </div>
+          <img src="img/banner/img2.jpg" alt="">
+        </section>
+        <section class="noticia rounded-3 border d-flex align-items-center">
+          <div class="noticiaSeila d-flex flex-column">
+            <small>Filmes</small>
+            <h2>Seila</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
+            <a href="NoticiasConteudo.php">Continuar lendo...</a>
+          </div>
+          <img src="img/banner/img2.jpg" alt="">
+        </section>
+      </div>
   </div>
     <?php include 'include/footer.php';?>
   </main>

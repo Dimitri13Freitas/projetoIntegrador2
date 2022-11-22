@@ -16,24 +16,28 @@
       <?php include 'include/bannerHome.php';?>
     
     <div class="row">
-      <article class=" sla nrms col-12">
-        <h1 class="titulos">Termos e condições de uso do nosso portal </h1>
+      <article class="col-12">
+        <h1 class="titulos3">Termos e condições de uso do nosso portal </h1>
         <p > Seja bem-vindo ao nosso site. Leia com atenção todos os termos abaixo. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate enim et corrupti voluptates similique animi! Delectus, ut, mollitia ex autem rerum, accusamus reprehenderit magni culpa iusto nostrum error dolores quasi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad suscipit, natus repellat itaque praesentium placeat vero fugiat harum dolorem exercitationem voluptatum molestiae necessitatibus incidunt optio corporis! Voluptate amet maiores recusandae?Lorem, ipsum dolor sit amet consectetur adipisicing elit. Impedit sint quisquam vitae fuga quae exercitationem ea, nemo sed optio ut dolorem placeat delectus quibusdam voluptate, dignissimos laborum, corrupti neque. Corrupti?Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore totam quo possimus. Cumque saepe odio corporis dicta? Unde, quis dolor magni consequuntur, modi, sunt nisi dolore nesciunt debitis impedit blanditiis.</p>
       </article>
     </div>
 
     <div class="row justify-content-center">
-      <section class="nrms col-xl-5 col-md-12 col-sm-12 ">
-        <h2 class="titulos">1.Da Função do Portal</h2>
+      <section class="col-12 ">
+        <h2 class="titulos3">1.Da Função do Portal</h2>
         <p >Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, repellendus ut saepe itaque quidem sequi quasi odio libero modi porro mollitia, et aperiam voluptates, iure sint impedit eveniet eligendi a? Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo possimus laudantium amet quasi, reiciendis quas maxime? Blanditiis autem voluptate molestiae amet asperiores doloremque earum facilis nesciunt voluptas? Commodi, illum Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel similique consequuntur dicta eos totam maxime eius beatae ex sint quo? Sint id hic deleniti tempore. Debitis at ratione delectus recusandae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe odio assumenda corporis accusantium commodi quia sapiente aspernatur recusandae ut soluta doloribus quod aut voluptatum ducimus delectus vel, facere animi reprehenderit </p>
       </section>
-      <section class="nrms col-xl-5 col-md-12 col-sm-12 ">
-        <h2 class="titulos">2.Do Aceite de Termos</h2>
+      <section class=" col-12 ">
+        <h2 class="titulos3">2.Do Aceite de Termos</h2>
+        <p >Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, repellendus ut saepe itaque quidem sequi quasi odio libero modi porro mollitia, et aperiam voluptates, iure sint impedit eveniet eligendi a? Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo possimus laudantium amet quasi, reiciendis quas maxime? Blanditiis autem voluptate molestiae amet asperiores doloremque earum facilis nesciunt voluptas? Commodi, illum Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel similique consequuntur dicta eos totam maxime eius beatae ex sint quo? Sint id hic deleniti tempore. Debitis at ratione delectus recusandae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe odio assumenda corporis accusantium commodi quia sapiente aspernatur recusandae ut soluta doloribus quod aut voluptatum ducimus delectus vel, facere animi reprehenderit </p>
+      </section>
+      <section class=" col-12 ">
+        <h2 class="titulos3">2.Do Aceite de Termos</h2>
         <p >Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, repellendus ut saepe itaque quidem sequi quasi odio libero modi porro mollitia, et aperiam voluptates, iure sint impedit eveniet eligendi a? Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo possimus laudantium amet quasi, reiciendis quas maxime? Blanditiis autem voluptate molestiae amet asperiores doloremque earum facilis nesciunt voluptas? Commodi, illum Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel similique consequuntur dicta eos totam maxime eius beatae ex sint quo? Sint id hic deleniti tempore. Debitis at ratione delectus recusandae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe odio assumenda corporis accusantium commodi quia sapiente aspernatur recusandae ut soluta doloribus quod aut voluptatum ducimus delectus vel, facere animi reprehenderit </p>
       </section>
     </div>
 
-    <div class="row justify-content-center">
+    <!-- <div class="row justify-content-center">
       <section class="nrms col-xl-5 col-md-12 col-sm-12 ">
         <h2 class="titulos">3.Do Acesso ao portal</h2>
         <p >Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, repellendus ut saepe itaque quidem sequi quasi odio libero modi porro mollitia, et aperiam voluptates, iure sint impedit eveniet eligendi a? Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo possimus laudantium amet quasi, reiciendis quas maxime? Blanditiis autem voluptate molestiae amet asperiores doloremque earum facilis nesciunt voluptas? Commodi, illum Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel similique consequuntur dicta eos totam maxime eius beatae ex sint quo? Sint id hic deleniti tempore. Debitis at ratione delectus recusandae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe odio assumenda corporis accusantium commodi quia sapiente aspernatur recusandae ut soluta doloribus quod aut voluptatum ducimus delectus vel, facere animi reprehenderit </p>
@@ -52,7 +56,7 @@
         <h2 class="titulos">6.Dos Termos gerais</h2>
         <p >Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, repellendus ut saepe itaque quidem sequi quasi odio libero modi porro mollitia, et aperiam voluptates, iure sint impedit eveniet eligendi a? Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo possimus laudantium amet quasi, reiciendis quas maxime? Blanditiis autem voluptate molestiae amet asperiores doloremque earum facilis nesciunt voluptas? Commodi, illum Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel similique consequuntur dicta eos totam maxime eius beatae ex sint quo? Sint id hic deleniti tempore. Debitis at ratione delectus recusandae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe odio assumenda corporis accusantium commodi quia sapiente aspernatur recusandae ut soluta doloribus quod aut voluptatum ducimus delectus vel, facere animi reprehenderit </p>
       </section>
-    </div>
+    </div> -->
   </div>
   <?php include 'include/footer.php';?>
   </main>

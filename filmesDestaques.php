@@ -36,7 +36,7 @@
             <small>Filmes</small>
             <h2>Seila</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
-            <a href="filmesPrincipais.html">Continuar lendo...</a>
+            <a href="NoticiasConteudo.php">Continuar lendo...</a>
           </div>
           <img src="img/banner/img2.jpg" alt="">
         </section>
@@ -45,56 +45,62 @@
             <small>Filmes</small>
             <h2>Seila</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
-            <a href="filmesPrincipais.html">Continuar lendo...</a>
+            <a href="NoticiasConteudo.php">Continuar lendo...</a>
           </div>
           <img src="img/banner/img2.jpg" alt="">
         </section>
       </div>
       <div class="row filmestextodestaques">
-        <div class="col-12">
-          <article>
-            <h3>Primeiro destaque</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla ullam quas obcaecati quis tempore earum accusamus vitae quasi, corrupti ex, voluptatibus nemo provident. Beatae recusandae fuga quisquam blanditiis molestiae quas. lorem
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate nam nihil officia ullam praesentium ipsam modi dignissimos hic, ut cumque sunt. Saepe dolorum sunt ab repellendus aliquid tempora, ut aperiam.
-            </p>
-          </article>
-        </div>
-      </div>
-      <div class="row filmesbannerdestaques">
-        <div class="col-12">
-          <img src="img/banner/img1.jpg" alt="uau">
-        </div>
-      </div>
+        <a href="filmesSinopse.php">
+            <div class="col-12">
+              <article>
+                <h3>Primeiro destaque</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla ullam quas obcaecati quis tempore earum accusamus vitae quasi, corrupti ex, voluptatibus nemo provident. Beatae recusandae fuga quisquam blanditiis molestiae quas. lorem
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate nam nihil officia ullam praesentium ipsam modi dignissimos hic, ut cumque sunt. Saepe dolorum sunt ab repellendus aliquid tempora, ut aperiam.
+                </p>
+              </article>
+            </div>
+          <div class="row filmesbannerdestaques">
+            <div class="col-12">
+              <img src="img/banner/img1.jpg" alt="uau">
+            </div>
+          </div>
+        </a>
       <div class="row filmestextodestaques">
-        <div class="col-12">
-          <article>
-            <h3>Segundo destaque</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla ullam quas obcaecati quis tempore earum accusamus vitae quasi, corrupti ex, voluptatibus nemo provident. Beatae recusandae fuga quisquam blanditiis molestiae quas. lorem
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate nam nihil officia ullam praesentium ipsam modi dignissimos hic, ut cumque sunt. Saepe dolorum sunt ab repellendus aliquid tempora, ut aperiam.
-            </p>
-          </article>
+        <a href="filmesSinopse.php">
+          <div class="col-12">
+            <article>
+              <h3>Primeiro destaque</h3>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla ullam quas obcaecati quis tempore earum accusamus vitae quasi, corrupti ex, voluptatibus nemo provident. Beatae recusandae fuga quisquam blanditiis molestiae quas. lorem
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate nam nihil officia ullam praesentium ipsam modi dignissimos hic, ut cumque sunt. Saepe dolorum sunt ab repellendus aliquid tempora, ut aperiam.
+              </p>
+            </article>
+          </div>
+        <div class="row filmesbannerdestaques">
+          <div class="col-12">
+            <img src="img/banner/img1.jpg" alt="uau">
+          </div>
         </div>
-      </div>
-      <div class="row filmesbannerdestaques">
-        <div class="col-12">
-          <img src="img/banner/img1.jpg" alt="uau">
-        </div>
-      </div>
+      </a>
       <div class="row filmestextodestaques">
-        <div class="col-12">
-          <article>
-            <h3>Terceiro destaque</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla ullam quas obcaecati quis tempore earum accusamus vitae quasi, corrupti ex, voluptatibus nemo provident. Beatae recusandae fuga quisquam blanditiis molestiae quas. lorem
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate nam nihil officia ullam praesentium ipsam modi dignissimos hic, ut cumque sunt. Saepe dolorum sunt ab repellendus aliquid tempora, ut aperiam.
-            </p>
-          </article>
-        </div>
-      </div>
-      <div class="row filmesbannerdestaques">
-        <div class="col-12">
-          <img src="img/banner/img1.jpg" alt="uau">
-        </div>
-      </div>
+        <a href="filmesSinopse.php">
+            <div class="col-12">
+              <article>
+                <h3>Primeiro destaque</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla ullam quas obcaecati quis tempore earum accusamus vitae quasi, corrupti ex, voluptatibus nemo provident. Beatae recusandae fuga quisquam blanditiis molestiae quas. lorem
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate nam nihil officia ullam praesentium ipsam modi dignissimos hic, ut cumque sunt. Saepe dolorum sunt ab repellendus aliquid tempora, ut aperiam.
+                </p>
+              </article>
+            </div>
+          <div class="row filmesbannerdestaques">
+            <div class="col-12">
+              <img src="img/banner/img1.jpg" alt="uau">
+            </div>
+          </div>
+        </a>
+    </div>
+    </div>
+    </div>
     </div>
     <?php include 'include/footer.php';?>
   </main>

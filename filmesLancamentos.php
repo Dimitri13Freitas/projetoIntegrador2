@@ -16,54 +16,72 @@
     <div class='container'>
       <?php include 'include/nav.php';?>
       <?php include 'include/bannerHome.php';?>
-
+      
       <div class="row">
         <div class="lado1 col-8">
-          <section class="row lado1img rounded border  p-3">
-            <div class="col-7">
-              <h3>titulo kkkhhahha</h3>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Pariatur provident in, quo aspernatur perferendis enim esse ipsum adipisci quisquam ipsam blanditiis voluptatem! Reprehenderit perferendis officia distinctio, deserunt ad a in.</p>
-            </div>
-            <div class="col-5 m-0 p-0">
-              <img class="rounded " src="img/banner/img2.jpg" alt="">
-            </div>
-          </section>
-          <section class="row lado1img rounded border  p-3">
-            <div class="col-7">
-              <h3>titulo kkkhhahha</h3>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Pariatur provident in, quo aspernatur perferendis enim esse ipsum adipisci quisquam ipsam blanditiis voluptatem! Reprehenderit perferendis officia distinctio, deserunt ad a in.</p>
-            </div>
-            <div class="col-5 m-0 p-0">
-              <img class="rounded " src="img/banner/img2.jpg" alt="">
-            </div>
-          </section>
-          <section class="row lado1img rounded border  p-3">
-            <div class="col-7">
-              <h3>titulo kkkhhahha</h3>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Pariatur provident in, quo aspernatur perferendis enim esse ipsum adipisci quisquam ipsam blanditiis voluptatem! Reprehenderit perferendis officia distinctio, deserunt ad a in.</p>
-            </div>
-            <div class="col-5 m-0 p-0">
-              <img class="rounded " src="img/banner/img2.jpg" alt="">
-            </div>
-          </section>
+          <a href="filmesSinopse.php">
+            <section class="row lado1img rounded border  p-3">
+              <div class="col-7">
+                <article>
+                  <h3>titulo kkkhhahha</h3>
+                  <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Pariatur provident in, quo aspernatur perferendis enim esse ipsum adipisci quisquam ipsam blanditiis voluptatem! Reprehenderit perferendis officia distinctio, deserunt ad a in.</p>
+                </article>
+              </div>
+              <div class="col-5 m-0 p-0">
+                <aside>
+                  <img class="rounded " src="img/banner/img2.jpg" alt="">
+                </aside>
+              </div>
+            </section>
+          </a>
+          <a href="filmesSinopse.php">
+            <section class="row lado1img rounded border  p-3">
+              <div class="col-7">
+                <article>
+                  <h3>titulo kkkhhahha</h3>
+                  <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Pariatur provident in, quo aspernatur perferendis enim esse ipsum adipisci quisquam ipsam blanditiis voluptatem! Reprehenderit perferendis officia distinctio, deserunt ad a in.</p>
+                </article>
+              </div>
+              <div class="col-5 m-0 p-0">
+                <aside>
+                  <img class="rounded " src="img/banner/img2.jpg" alt="">
+                </aside>
+              </div>
+            </section>
+          </a>
+          <a href="filmesSinopse.php">
+            <section class="row lado1img rounded border  p-3">
+              <div class="col-7">
+                <article>
+                  <h3>titulo kkkhhahha</h3>
+                  <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Pariatur provident in, quo aspernatur perferendis enim esse ipsum adipisci quisquam ipsam blanditiis voluptatem! Reprehenderit perferendis officia distinctio, deserunt ad a in.</p>
+                </article>
+              </div>
+              <div class="col-5 m-0 p-0">
+                <aside>
+                  <img class="rounded " src="img/banner/img2.jpg" alt="">
+                </aside>
+              </div>
+            </section>
+          </a>
         </div>
         <div class="col-4 sugestao">
           <ul class="border border-4 rounded p-0 p-2">
-            <li class="h3">Sugestões</li>
+            <li class="li">Sugestões</li>
             <li>
               <h4>Sugestão 1</h4>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae culpa quibusdam laborum itaque quo provident, assumenda at quisquam, modi cupiditate veniam hic velit natus fugit dolores, placeat dolorum sapiente temporibus.</p>
-              <a href="" class="btn-primary btn">Clique aqui</a>
+              <a href="filmesSinopse.php" class="btn-primary btn">Clique aqui</a>
             </li>
             <li>
               <h4>Sugestão 1</h4>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae culpa quibusdam laborum itaque quo provident, assumenda at quisquam, modi cupiditate veniam hic velit natus fugit dolores, placeat dolorum sapiente temporibus.</p>
-              <a href="" class="btn-primary btn">Clique aqui</a>
+              <a href="filmesSinopse.php" class="btn-primary btn">Clique aqui</a>
             </li>
             <li>
               <h4>Sugestão 1</h4>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae culpa quibusdam laborum itaque quo provident, assumenda at quisquam, modi cupiditate veniam hic velit natus fugit dolores, placeat dolorum sapiente temporibus.</p>
-              <a href="" class="btn-primary btn">Clique aqui</a>
+              <a href="filmesSinopse.php" class="btn-primary btn">Clique aqui</a>
             </li>
           </ul>
         </div>

@@ -24,7 +24,7 @@
             <small>Filmes</small>
             <h2>Seila</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
-            <a href="filmesPrincipais.html">Continuar lendo...</a>
+            <a href="NoticiasConteudo.php">Continuar lendo...</a>
           </div>
           <img src="img/banner/img2.jpg" alt="">
         </section>
@@ -33,7 +33,7 @@
             <small>Filmes</small>
             <h2>Seila</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
-            <a href="filmesPrincipais.html">Continuar lendo...</a>
+            <a href="NoticiasConteudo.php">Continuar lendo...</a>
           </div>
           <img src="img/banner/img2.jpg" alt="">
         </section>
@@ -45,25 +45,25 @@
         <article class='obras rounded border pt-4'>
           <ul class='row p-0'>
             <li class='col-xl-3 col-md-6 col-sm-12 d-flex justify-content-center'>
-              <a href="">
+              <a href="NoticiasConteudo.php">
                 <img class='rounded border' src="img/banner/img3.jpg" alt="">
                 <h3 class='text-center'>Obra</h3>
               </a>
             </li>
             <li class='col-xl-3 col-md-6 col-sm-12 d-flex justify-content-center'>
-              <a href="">
+              <a href="NoticiasConteudo.php">
                 <img class='rounded border' src="img/banner/img3.jpg" alt="">
                 <h3 class='text-center'>Obra</h3>
               </a>
             </li>
             <li class='col-xl-3 col-md-6 col-sm-12 d-flex justify-content-center'>
-              <a href="">
+              <a href="NoticiasConteudo.php">
                 <img class='rounded border' src="img/banner/img3.jpg" alt="">
                 <h3 class='text-center'>Obra</h3>
               </a>
             </li>
             <li class='col-xl-3 col-md-6 col-sm-12 d-flex justify-content-center'>
-              <a href="">
+              <a href="NoticiasConteudo.php">
                 <img class='rounded border' src="img/banner/img3.jpg" alt="">
                 <h3 class='text-center'>Obra</h3>
               </a>
@@ -77,7 +77,7 @@
       <div class='row mb-5'>
         <div class='col-xl-6 col-sm-12 mb-5'>
           <section class='pt-2 pb-3 ps-3 m-auto pe-3 border rounded'>
-            <a href="">
+            <a href="NoticiasConteudo.php">
               <small class='mb-2 d-block'>Filmes</small>
               <div class='d-flex'>
                 <img class=' mb-3 m-auto rounded' src="img/banner/img2.jpg" alt="">
@@ -89,7 +89,7 @@
         </div>
         <div class='col-xl-6 col-sm-12'>
           <section class='pt-2 pb-3 ps-3 m-auto pe-3 border rounded'>
-            <a href="">
+            <a href="NoticiasConteudo.php">
               <small class='mb-2 d-block'>Filmes</small>
               <div class='d-flex'>
                 <img class=' mb-3 m-auto rounded' src="img/banner/img2.jpg" alt="">
@@ -104,7 +104,7 @@
       <div class='row'>
         <div class='col-xl-6 col-sm-12 mb-5'>
           <section class='pt-2 pb-3 ps-3 m-auto pe-3 border rounded'>
-            <a href="">
+            <a href="NoticiasConteudo.php">
               <small class='mb-2 d-block'>Filmes</small>
               <div class='d-flex'>
                 <img class=' mb-3 m-auto rounded' src="img/banner/img2.jpg" alt="">
@@ -116,7 +116,7 @@
         </div>
         <div class='col-xl-6 col-sm-12'>
           <section class='pt-2 pb-3 ps-3 m-auto pe-3 border rounded'>
-            <a href="">
+            <a href="NoticiasConteudo.php">
               <small class='mb-2 d-block'>Filmes</small>
               <div class='d-flex'>
                 <img class=' mb-3 m-auto rounded' src="img/banner/img2.jpg" alt="">

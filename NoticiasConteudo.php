@@ -55,7 +55,7 @@
             <small>Filmes</small>
             <h2>Seila</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
-            <a href="filmesPrincipais.html">Continuar lendo...</a>
+            <a href="NoticiasConteudo.php">Continuar lendo...</a>
           </div>
           <img src="img/banner/img2.jpg" alt="">
         </section>
@@ -64,7 +64,7 @@
             <small>Filmes</small>
             <h2>Seila</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
-            <a href="filmesPrincipais.html">Continuar lendo...</a>
+            <a href="NoticiasConteudo.php">Continuar lendo...</a>
           </div>
           <img src="img/banner/img2.jpg" alt="">
         </section>
