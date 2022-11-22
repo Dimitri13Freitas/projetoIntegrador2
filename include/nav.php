@@ -6,9 +6,9 @@ echo "<header class='header d-flex align-items-center justify-content-between bo
 <button class='menuMobile'>Menu<span class='hamburguer'></span></button>
 <a href='index.php' class='h1'>Logo</a>
 <div class='d-flex redes'>
-  <a href='https://github.com/Dimitri13Freitas/projetoIntegrador2'><img src='./img/social/github.svg' alt='Icon Logo Git-Hub'></a>
-  <a href='https://github.com/Dimitri13Freitas/projetoIntegrador2'><img src='./img/social/instagram.svg' alt='Icon Logo Instagram'></a>
-  <a href='https://github.com/Dimitri13Freitas/projetoIntegrador2'><img src='./img/social/twitter.svg' alt='Icon Logo Twitter'></a>
+  <a href='https://github.com/Dimitri13Freitas/projetoIntegrador2'><img src='./img/assets/github.svg' alt='Icon Logo Git-Hub'></a>
+  <a href='https://github.com/Dimitri13Freitas/projetoIntegrador2'><img src='./img/assets/instagram.svg' alt='Icon Logo Instagram'></a>
+  <a href='https://github.com/Dimitri13Freitas/projetoIntegrador2'><img src='./img/assets/twitter.svg' alt='Icon Logo Twitter'></a>
 </div>
 </header>
 <nav class='navegacao'>
