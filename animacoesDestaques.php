@@ -20,20 +20,20 @@
       <div class='row'>
         <div class='col-xl-8 col-md-12 col-sm-12'>
           <article class='pt-3'>
-            <h2 class='h1 pt-5 m-0'>Titulo SuperFoda</h2>
-            <small>january 1, 2022 by Dimitri</small>
-            <p class='border-top border-2 pt-2 mt-2'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis doloribus maxime officia officiis eum laboriosam commodi sapiente dicta, quisquam a inventore quam autem.</p>
+            <h2 class='h1 pt-5 m-0'>Os Destaques do Ano</h2>
+            <small>Novembro 23, 2022 by Dimitri</small>
+            <p class='border-top border-2 pt-2 mt-2'>Neste ano tivemos muitas obras que vem tendo muita relevância ultimamente, tendo em vista que ficção cientifica é um gênero que pode ser explorado de tantas formas, ver isso acontecendo na nossa frente com animações como:</p>
           </article>
         </div>
       </div>
       <section class='border destaques mt-3 p-0 p-3 rounded d-flex justfy-content-center align-items-center'>
         <div class='destaquesImg'>
-          <img class='rounded' src="img/banner/img1.jpg" alt="Seila">
+          <img class='rounded' src="img/imgAnimacao/img1.jpg" alt="Seila">
         </div>
         <div class='destaquesInf'>
-          <h2 class='h1 mb-3 mt-2'>Titulo Super foda</h2>
+          <h2 class='h1 mb-3 mt-2'>Love, Death & Robots</h2>
           <p class='mb-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint consequuntur eaque unde laboriosam ipsum laudantium quam laborum voluptatem voluptatibus asperiores reiciendis facilis at, excepturi inventore impedit  delectus cum quibusdam...</p>
-          <a href="animacoesConteudo.php">Continuar Lendo...</a>
+          <a href="AnimacaoConteudoRobots.php">Continuar Lendo...</a>
         </div>
       </section>
       <div class="d-flex justify-content-xl-between flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">

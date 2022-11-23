@@ -17,6 +17,9 @@ body {
 .titulo {
   color: #141414 !important;
 }
+/* small {
+  color: #acacac;
+} */
 
 /* Header by Dimitri Freitas */
 .header {
@@ -50,7 +53,12 @@ body {
   background-color: #2c2c2c;
 }
 .bannerHome .banner {
-  background-image: url("../img/banner/img1.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)),
+    url("../img/banner/bannerDefault.jpg");
+}
+.banner:hover {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    url("../img/banner/bannerDefault.jpg");
 }
 .bannerAnimacoes .banner {
   background-image: url("../img/banner/img2.jpg");
@@ -78,6 +86,7 @@ body {
   padding: 2px 3px;
   box-shadow: rgba(0, 0, 0, 0.04) 0px 1px 3px 0px,
     rgba(27, 31, 35, 0.4) 0px 0px 0px 1px;
+  z-index: 200000;
 }
 .navegacao li ul li a {
   padding: 6px 12px;
@@ -102,7 +111,7 @@ body {
 
 /* Obras by Dimitri Freitas */
 .obras {
-  background: #424242;
+  background: #232323;
 }
 .obras img {
   width: 178px;
@@ -118,7 +127,7 @@ body {
 /* Ultimos Reviews by Dimitri Freitas*/
 .ultimosReviews section {
   max-width: 458px;
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(0, 0, 0, 0.2);
 }
 .ultimosReviews section a img {
   width: 335px;
@@ -159,7 +168,7 @@ body {
 /* Noticias by Dimitri Freitas*/
 .noticia {
   max-width: 520px;
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(0, 0, 0, 0.2);
 }
 .noticia img {
   width: 200px;
@@ -173,7 +182,7 @@ body {
 
 /* Animação Destaques by Dimitri Freitas */
 .destaques {
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(0, 0, 0, 0.2);
 }
 .destaques img {
   width: 375px;
@@ -185,7 +194,8 @@ body {
 .destaquesInf {
   margin-left: 30px;
 }
-.border-top {
+.border-top,
+.border-bottom {
   border-color: #00ba89 !important;
 }
 
@@ -202,7 +212,7 @@ body {
 }
 .lancamentos {
   padding: 25px;
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(0, 0, 0, 0.2);
 }
 .lancamentos img {
   max-width: 220px;
@@ -216,7 +226,7 @@ body {
 
 /* Animação Premiados by Dimitri Freitas*/
 .premiados {
-  background: #424242;
+  background: rgba(0, 0, 0, 0.2);
 }
 .premiados img {
   overflow: hidden;
@@ -228,7 +238,7 @@ body {
 }
 .premiados ul li + li {
   padding-top: 20px;
-  border-top: 2px solid rgba(0, 0, 0, 0.2);
+  border-top: 2px solid rgba(255, 255, 255, 0.1);
 }
 
 /* Animação Conteudo by Dimitri Freitas */
@@ -242,7 +252,7 @@ body {
   height: 300px;
 }
 .sobreImg article {
-  background-color: #b1b2b3;
+  background: rgba(0, 0, 0, 0.2);
   max-width: 400px;
 }
 

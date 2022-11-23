@@ -73,7 +73,7 @@
       </div>
     </div>
     <div class='container ultimosReviews'>
-      <h2 class='h1  py-5'>Ultimos Reviews</h2>
+      <h2 class='h1 py-5'>Ultimos Reviews</h2>
       <div class='row mb-5'>
         <div class='col-xl-6 col-sm-12 mb-5'>
           <section class='pt-2 pb-3 ps-3 m-auto pe-3 border rounded'>
