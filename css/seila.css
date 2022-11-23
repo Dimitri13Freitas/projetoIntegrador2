@@ -70,7 +70,7 @@ body {
 .navegacao li ul {
   display: none;
   position: absolute;
-  background: white;
+  background: #424242;
   border-radius: 5px;
   padding: 2px 3px;
   box-shadow: rgba(0, 0, 0, 0.04) 0px 1px 3px 0px,
@@ -81,7 +81,7 @@ body {
   display: block;
 }
 .navegacao li ul li a:hover {
-  background: rgba(0, 0, 0, 0.1);
+  background: rgba(255, 255, 255, 0.1);
 }
 .navegacao li:hover ul {
   display: block;
@@ -94,11 +94,12 @@ body {
   border: none;
   background: none;
   cursor: pointer;
+  color: #f1f1f1;
 }
 
 /* Obras by Dimitri Freitas */
 .obras {
-  background: white;
+  background: #424242;
 }
 .obras img {
   width: 178px;
@@ -143,6 +144,7 @@ body {
 /* Noticias by Dimitri Freitas*/
 .noticia {
   max-width: 520px;
+  background: rgba(255, 255, 255, 0.1);
 }
 .noticia img {
   width: 200px;
@@ -244,7 +246,7 @@ body {
   outline: #434b4f 2px solid;
 }
 
-/* Responsivo DropDown e Especificos by Dimitri Freitas */
+/* Responsivo menu Mobile e Especificos by Dimitri Freitas */
 @media (max-width: 1000px) {
   .formulario img {
     display: none;
@@ -278,7 +280,7 @@ body {
   }
   .hamburguer {
     display: block;
-    border-top: 2px solid #141414;
+    border-top: 2px solid #f1f1f1;
     width: 20px;
   }
   .hamburguer:after,
@@ -288,7 +290,7 @@ body {
     width: 20px;
     height: 2px;
     margin-top: 5px;
-    background-color: #141414;
+    background-color: #f1f1f1;
     transition: 0.3s;
     position: relative;
   }
@@ -309,21 +311,27 @@ body {
     position: absolute;
     flex-direction: column !important;
     top: 45px;
-    left: 100px;
-    background: white;
+    left: 0;
+    background: #424242;
     box-shadow: 0px 0 2px 0px rgba(0, 0, 0, 0.1);
     padding: 5px 10px !important;
-    border: 1px solid #acacac;
+    border: 1px rgba(0, 0, 0, 0.2) solid;
+
     border-left: none;
     border-radius: 0 5px 5px 0;
     animation: animaMenu 0.3s forwards;
   }
   .navegacao.ativo ul li ul {
     border-radius: 5px;
-    border: 1px solid #acacac;
+    border: 1px rgba(0, 0, 0, 0.2) solid;
+  }
+  .navegacao.ativo ul li,
+  .navegacao.ativo ul li a {
+    width: 100%;
+    display: block;
   }
   .navegacao.ativo ul li + li {
-    border-top: 1px solid #00a5e3;
+    border-top: 1px rgba(0, 0, 0, 0.2) solid;
   }
   .bannerHome {
     margin-top: 20px;

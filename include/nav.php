@@ -1,7 +1,7 @@
 <?php
 echo "<header class='header d-flex align-items-center justify-content-between border-bottom'>
 <div class='theme'>
-  <img src='./img/assets/notification.svg' alt=''>
+  <img src='./img/assets/notifications.svg' alt=''>
 </div>
 <button class='menuMobile'>Menu<span class='hamburguer'></span></button>
 <a href='index.php' class='h1'>Logo</a>
@@ -21,7 +21,7 @@ echo "<header class='header d-flex align-items-center justify-content-between bo
       <li><a href='filmesLancamentos.php'>Lançamentos</a></li>
     </ul>
   </li>
-  <li class='p-2'><a class='p-2' href=''>Series</a></li>
+  <li><a class='p-2' href=''>Series</a></li>
   <li class='p-2'>Livros
     <ul>
       <li><a href='livrosPrincipais.php'>Principais Autores</a></li>
@@ -38,9 +38,9 @@ echo "<header class='header d-flex align-items-center justify-content-between bo
       <li><a href='animacoesPremiados.php'>Premiados</a></li>
     </ul>
   </li>
-  <li class='p-2'><a class='p-2' href='contato.php'>Contato</a></li>
-  <li class='p-2'><a class='p-2' href='normas.php'>Normas de uso</a></li>
-  <li class='p-2'><a class='p-2' href='quemSomos.php'>Quem somos</a></li>
+  <li><a class='p-2' href='contato.php'>Contato</a></li>
+  <li><a class='p-2' href='normas.php'>Normas de uso</a></li>
+  <li><a class='p-2' href='quemSomos.php'>Quem somos</a></li>
 </ul>
 </nav>";
 ?>
