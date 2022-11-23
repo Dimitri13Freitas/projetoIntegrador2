@@ -14,6 +14,9 @@ body {
 .border {
   border-color: #00ba89 !important;
 }
+.titulo {
+  color: #141414 !important;
+}
 
 /* Header by Dimitri Freitas */
 .header {
@@ -109,36 +112,48 @@ body {
   box-shadow: inset 0 -100px #2c2c2c;
 }
 .bg-secondary {
-  background: #acacac !important;
+  background: #00ba89 !important;
 }
 
 /* Ultimos Reviews by Dimitri Freitas*/
 .ultimosReviews section {
   max-width: 458px;
+  background: rgba(255, 255, 255, 0.1);
 }
 .ultimosReviews section a img {
   width: 335px;
   overflow: hidden;
 }
+.ultimosReviews section a {
+  color: #f1f1f1;
+}
 
-/* Mapa do Site by Dimitri Freitas*/
+/* Footer by Dimitri Freitas */
+.footer p {
+  background: #00ba89;
+  color: #2c2c2c;
+}
+.footer {
+  background: rgba(0, 0, 0, 0.1);
+}
 .listaPrimaria li,
 .listaPrimaria li a {
-  color: black;
+  color: white;
   font-weight: bold;
   font-size: 1.4rem;
 }
 .listaSecundaria li a {
-  color: #434b4f !important;
-  padding: 10px 0;
+  color: #f1f1f1 !important;
+  padding: 10px 5px;
   display: block;
   font-size: 1rem;
   font-weight: normal;
 }
-/* Footer by Dimitri Freitas */
-.footer p {
-  background: #141414;
-  color: white;
+.listaSecundaria li a:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+.listaSecundaria li + li {
+  border-top: 1px solid rgba(0, 0, 0, 0.2);
 }
 
 /* Noticias by Dimitri Freitas*/
@@ -157,6 +172,9 @@ body {
 }
 
 /* Animação Destaques by Dimitri Freitas */
+.destaques {
+  background: rgba(255, 255, 255, 0.1);
+}
 .destaques img {
   width: 375px;
   overflow: hidden;
@@ -167,10 +185,24 @@ body {
 .destaquesInf {
   margin-left: 30px;
 }
+.border-top {
+  border-color: #00ba89 !important;
+}
 
 /* Animação Lançamentos by Dimitri Freitas */
+.btn-primary {
+  color: #2c2c2c;
+  background: #00ba89;
+  border-color: #00ba89;
+}
+.btn-primary:hover {
+  background: #008a65;
+  border-color: #008a65;
+  color: #2c2c2c;
+}
 .lancamentos {
   padding: 25px;
+  background: rgba(255, 255, 255, 0.1);
 }
 .lancamentos img {
   max-width: 220px;
@@ -183,6 +215,9 @@ body {
 }
 
 /* Animação Premiados by Dimitri Freitas*/
+.premiados {
+  background: #424242;
+}
 .premiados img {
   overflow: hidden;
   width: 300px;
@@ -193,7 +228,7 @@ body {
 }
 .premiados ul li + li {
   padding-top: 20px;
-  border-top: 2px solid #b1b2b3;
+  border-top: 2px solid rgba(0, 0, 0, 0.2);
 }
 
 /* Animação Conteudo by Dimitri Freitas */
@@ -225,11 +260,13 @@ body {
 }
 .formulario fieldset input,
 .formulario fieldset textarea {
-  background-color: #acacac;
+  background: rgba(0, 0, 0, 0.2);
+  /* background: #424242; */
   border: none;
   border-radius: 6px;
   resize: none;
   padding: 10px 0 10px 8px;
+  color: #f1f1f1;
 }
 .formulario fieldset textarea {
   height: 150px;
@@ -243,7 +280,7 @@ body {
 }
 .formulario fieldset input:focus,
 .formulario fieldset textarea:focus {
-  outline: #434b4f 2px solid;
+  outline: #00ba89 2px solid;
 }
 
 /* Responsivo menu Mobile e Especificos by Dimitri Freitas */

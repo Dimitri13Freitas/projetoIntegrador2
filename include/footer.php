@@ -1,36 +1,36 @@
 <?php
-echo "<div class='bg-secondary pt-3 mb-0 footer'>
+echo "<div class='pt-3 mb-0 footer'>
 <footer>
-  <h2 class='h2 p-5 pt-4 pb-3'>Mapa do site</h2>
+  <h2 class='h2 p-5 titulo pt-4 pb-3'>Mapa do site</h2>
   <nav class='navFooter container py-0'>
     <ul class='listaPrimaria d-flex pb-4 justify-content-between flex-wrap'>
       <li class='p-2'>Filmes
         <ul class='listaSecundaria p-0 m-0'>
-          <li><a href='filmesCosplay.html'>Cosplays</a></li>
-          <li><a href='filmesPrincipais.html'>Principais Obras</a></li>
-          <li><a href='filmesDestaques.html'>Destaques</a></li>
-          <li><a href='filmesLancamentos.html'>Lançamentos</a></li>
+          <li><a href='filmesCosplay.php'>Cosplays</a></li>
+          <li><a href='filmesPrincipais.php'>Principais Obras</a></li>
+          <li><a href='filmesDestaques.php'>Destaques</a></li>
+          <li><a href='filmesLancamentos.php'>Lançamentos</a></li>
         </ul>
       </li>
       <li class='p-2 '>Livros
         <ul class='p-0 m-0 listaSecundaria'>
-          <li><a href='livrosPrincipais.html'>Principais Autores</a></li>
-          <li><a href='livrosFavoritos.html'>Favoritos da Crítica</a></li>
-          <li><a href='livrosClassicos.html'>Clássicos</a></li>
-          <li><a href='livrosDestaques.html'>Destaques</a></li>
+          <li><a href='livrosPrincipais.php'>Principais Autores</a></li>
+          <li><a href='livrosFavoritos.php'>Favoritos da Crítica</a></li>
+          <li><a href='livrosClassicos.php'>Clássicos</a></li>
+          <li><a href='livrosDestaques.php'>Destaques</a></li>
         </ul>
       </li>
       <li class='p-2'>Animações
         <ul class='p-0 m-0 listaSecundaria'>
-          <li><a href='animacoesDestaques.html'>Destaques</a></li>
-          <li><a href='animacoesClassicos.html'>Clássicos</a></li>
-          <li><a href='animacoesLançamentos.html'>Lançamentos</a></li>
-          <li><a href='animacoesPremiados.html'>Premiados</a></li>
+          <li><a href='animacoesDestaques.php'>Destaques</a></li>
+          <li><a href='animacoesClassicos.php'>Clássicos</a></li>
+          <li><a href='animacoesLançamentos.php'>Lançamentos</a></li>
+          <li><a href='animacoesPremiados.php'>Premiados</a></li>
         </ul>
       </li>
-      <li class='p-2'><a class='p-2' href='contato.html'>Contato</a></li>
-      <li class='p-2'><a class='p-2' href='normas.html'>Normas de uso</a></li>
-      <li class='p-2'><a class='p-2' href='quemSomos.html'>Quem somos</a></li>
+      <li class='p-2'><a class='p-2' href='contato.php'>Contato</a></li>
+      <li class='p-2'><a class='p-2' href='normas.php'>Normas de uso</a></li>
+      <li class='p-2'><a class='p-2' href='quemSomos.php'>Quem somos</a></li>
     </ul>
   </nav>
 </footer>

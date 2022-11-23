@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-  <link rel="stylesheet" href="css/seila.css">
+  <link rel="stylesheet" href="css/style.css">
 </head>
 
 <!-- RETIRAR TAMANHO DAS IMAGENS NO CSS -->
@@ -22,7 +22,7 @@
       <div class='row mb-4'>
         <iframe class='rounded' width="853" height="480" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="Rick Astley - Never Gonna Give You Up (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
-      <div class="d-flex justify-content-xl-between flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
+      <div class="d-flex justify-content-xl-between flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center my-5 noticiaContainer">
         <section class="noticia rounded-3  border d-flex align-items-center">
           <div class="noticiaSeila d-flex flex-column">
             <small>Filmes</small>
