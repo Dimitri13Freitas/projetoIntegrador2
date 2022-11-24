@@ -82,7 +82,7 @@
         </div>
         <div class='destaquesInf'>
           <h2 class='h1 mb-3 mt-2'>Os Jetsons</h2>
-          <p class='mb-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint consequuntur eaque unde laboriosam ipsum laudantium quam laborum voluptatem voluptatibus asperiores reiciendis facilis at, excepturi inventore impedit delectus cum quibusdam...</p>
+          <p class='mb-3'>Desenho criado em 1962 por Joe Barbera e Bill Hanna, nos estudios da HB Produtions, contava em seus episódios como seria o cotidiano da raça humana no futuro tomando como referência uma família muito simpática: Os Jetsons....</p>
           <a href="animacaoConteudoJetsons.php">Continuar Lendo...</a>
         </div>
       </section>
