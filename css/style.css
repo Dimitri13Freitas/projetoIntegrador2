@@ -17,6 +17,7 @@ body {
 .titulo {
   color: #141414 !important;
 }
+
 /* small {
   color: #acacac;
 } */
@@ -50,18 +51,22 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   height: 320px;
-  background-color: #2c2c2c;
 }
 .bannerHome .banner {
   background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)),
     url("../img/banner/bannerDefault.jpg");
 }
-.banner:hover {
+.bannerHome .banner:hover {
   background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
     url("../img/banner/bannerDefault.jpg");
 }
 .bannerAnimacoes .banner {
-  background-image: url("../img/banner/img2.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)),
+    url("../img/banner/bannerAnimacao.jpg");
+}
+.bannerAnimacoes .banner:hover {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    url("../img/banner/bannerAnimacao.jpg");
 }
 .banner h2 {
   color: #f1f1f1;
@@ -245,7 +250,7 @@ body {
 .cite {
   margin-left: 30px;
   padding-left: 8px;
-  border-left: 3px #b1b2b3 solid;
+  border-left: 3px #00ba89 solid;
 }
 .conteudo aside img {
   width: 100%;

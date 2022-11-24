@@ -20,24 +20,24 @@
       <div class='row mt-5'>
         <div class='col-xl-8 col-md-12 col-sm-12'>
           <article>
-            <h2 class="h1 mb-1">Love, Death & Robots</h2>
-            <small class='mb-3 d-block pb-2 border-bottom border-2'>Novembro 23, 2022 by Dimitri</small>
-            <p>Love, Death & Robots é uma série que atualmente esta em streaming na Netflix que se resume a varios contos animados em seus diversos estilos de animação que podem variar de um 3d ultra realista á um cartunesco clássico.</p>
-            <p>Assistir esta serie é uma viagem alucinante entre estilos, ideias, pensamentos e valores. Tudo misturado de forma espetacular nestes episódios muito bem planejados. Cada universo que te é apresentado é muito bem descrito, ambientado, detalhado e vivo, cada episódio te traz um gostinho de quero mais, pois nenhum desses universos são realmente explorados, o que te é mostrado vive em volta do conto do episódio, ou seja, nenhum episódio tem um final de verdade. POdemos definir como um conto curto porém ambientado em um universo denso.</p>
-            <p>Com 3 temporadas recheadas de muita personalidade e criativade de seus diretores, Tim Miller e David Fincher. Tim Miller viu que cada um de seus contos necessitava de um estilo visual diferente assim então ele entregou cada um de seus roteiros para um time de artistas diferentes.</p>
+            <h2 class="h1 mb-1">Os Jetsons</h2>
+            <small class='mb-3 d-block pb-2 border-bottom border-2'>Novembro 23, 2022 by <a href="http://www.autobahn.com.br/desenhos/jetsons.html">www.autobahn.com.br</a></small>
+            <p>Desenho criado em 1962 por Joe Barbera e Bill Hanna, nos estudios da HB Produtions, contava em seus episódios como seria o cotidiano da raça humana no futuro tomando como referência uma família muito simpática: Os Jetsons.</p>
+            <p>Imagine-se num ambiente repleto de recursos inovadores que só facilitariam o dia-a-dia, como por exemplo: a partir de uma pílula, fazer uma refeição ou ter como transporte uma nave espacial veloz. Imaginou?</p>
+            <p>Os Jetsons vivem assim, pois no futuro tudo é diferente, rápido e dinâmico. Composta por: George Jetson, sua esposa Jane, seus filhos Elroy e Judy, o cãozinho de estimação Astro e Rose a robô empregada.</p>
           </article>
         </div>
       </div>
       <div class='row my-3'>
         <div class='col-xl-7 col-md-12  col-sm-12 conteudo'>
           <aside>
-            <img class='rounded' src="img/imgAnimacao/destaques/img1Conteudo.jpg" alt="Imagem que representa a diversidade do estilos e premissas de Love, Death & Robots">
+            <img class='rounded' src="img/imgAnimacao/classicos/img4Conteudo.jpg" alt="Faxineira Robô da familia dos jetsons dando um aviso para todos da familia que estão no sofá">
           </aside>
         </div>
         <div class='col-xl-5 col-md-12 col-sm-12 sobreImg'>
           <article class='d-inline-block p-3 border rounded'>
             <h4>Sobre a Imagem:</h4>
-            <p>Imagem que representa a diversidade do estilos e premissas de Love, Death & Robots</p>
+            <p>Faxineira Robô da familia dos jetsons dando um aviso para todos da familia que estão no sofá</p>
           </article>
         </div>
       </div>
@@ -45,9 +45,8 @@
         <div class='col-xl-8 col-md-12 col-sm-12'>
           <article>
             <h6 class="remove">.</h6>
-            <p>A diversidade de genero desta série esta distribuida nos episódios onde alguns carregam uma carga moral com uma mensagem ao final do episódio, porém além desse lado artistico e profundo também podemos ver contos mais descontraidos assim descobrindo como seria se um iogurte assumisse o controle de nossa sociedade e qual seria o impacto da morte de hitler em sua adolescencia e se gatos tivessem polegares.</p>
-            <p>Tabém podemos ver ao longo dos episódeos muitas lendas e contos ja exitentes mas pela ótica de Tim miller como, A existencia de um culto que tem como lider o Cthulhu.</p>
-            <p>Assim vendo tambem em episódios soldados que viram lobisomens, como dracula recebe visitas sua fortaleza, e algumas doses reflexição sobre a vida e existencia.</p>
+            <p>Na animação, George e sua família passam mensagens otimistas aos seus espectadores, mesmo vivendo situações engraçadas de maneira bem humorada. Por isso a fórmula, cedida à trama por parte de seus criadores, deu certo.</p>
+            <p>Em sua estreia, o programa contava com apenas 24 episódios. No entanto, devido ao sucesso, a série foi relançada com novos capítulos, que foram produzidos entre 1984 e 1987. O grande marco atingido pelos Jetsons é que essa foi a primeira transmissão colorida da ABC em um tempo em que poucas empresas tinham investido nessa tecnologia.</p>
           </article>
         </div>
       </div>

@@ -15,7 +15,8 @@
   <main>
     <div class='container'>
       <?php include 'include/nav.php';?>
-      <?php include 'include/bannerHome.php';?>
+      <?php include 'include/bannerAnimacoes.php';?>
+      
 
       <div class='row mt-5'>
         <div class='col-xl-8 col-md-12 col-sm-12'>

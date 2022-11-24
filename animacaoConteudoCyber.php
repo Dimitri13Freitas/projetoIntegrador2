@@ -20,24 +20,23 @@
       <div class='row mt-5'>
         <div class='col-xl-8 col-md-12 col-sm-12'>
           <article>
-            <h2 class="h1 mb-1">Love, Death & Robots</h2>
-            <small class='mb-3 d-block pb-2 border-bottom border-2'>Novembro 23, 2022 by Dimitri</small>
-            <p>Love, Death & Robots é uma série que atualmente esta em streaming na Netflix que se resume a varios contos animados em seus diversos estilos de animação que podem variar de um 3d ultra realista á um cartunesco clássico.</p>
-            <p>Assistir esta serie é uma viagem alucinante entre estilos, ideias, pensamentos e valores. Tudo misturado de forma espetacular nestes episódios muito bem planejados. Cada universo que te é apresentado é muito bem descrito, ambientado, detalhado e vivo, cada episódio te traz um gostinho de quero mais, pois nenhum desses universos são realmente explorados, o que te é mostrado vive em volta do conto do episódio, ou seja, nenhum episódio tem um final de verdade. POdemos definir como um conto curto porém ambientado em um universo denso.</p>
-            <p>Com 3 temporadas recheadas de muita personalidade e criativade de seus diretores, Tim Miller e David Fincher. Tim Miller viu que cada um de seus contos necessitava de um estilo visual diferente assim então ele entregou cada um de seus roteiros para um time de artistas diferentes.</p>
+            <h2 class="h1 mb-1">Cyberpunk: Edgerunners</h2>
+            <small class='mb-3 d-block pb-2 border-bottom border-2'>Novembro 23, 2022 by <a href="https://br.ign.com/cyberpunk-edgerunners/102931/feature/cyberpunk-mercenarios-tera-temporada-2">br.ign.com</a></small>
+            <p>O anime Cyberpunk: Mercenários (Edgerunners), do Studio Trigger e CD Projekt Red para a Netflix, está fazendo bastante sucesso entre os assinantes do serviço -- tanto, inclusive, que o game Cyberpunk 2077, no qual ele é inspirado, teve um pico de jogadores simultâneos após a estreia da adaptação televisiva.</p>
+            <p>Com apenas 10 episódios, o anime é relativamente curto. Após as rápidas maratonas, espectadores podem se perguntar: Cyberpunk: Mercenários terá uma temporada 2? Bem, o propósito deste artigo é responder a essa tão importante pergunta.</p>
           </article>
         </div>
       </div>
       <div class='row my-3'>
         <div class='col-xl-7 col-md-12  col-sm-12 conteudo'>
           <aside>
-            <img class='rounded' src="img/imgAnimacao/destaques/img1Conteudo.jpg" alt="Imagem que representa a diversidade do estilos e premissas de Love, Death & Robots">
+            <img class='rounded' src="img/imgAnimacao/destaques/img4Conteudo.jpg" alt="Protagonista curtindo uma boate e usando drogas virtuais">
           </aside>
         </div>
         <div class='col-xl-5 col-md-12 col-sm-12 sobreImg'>
           <article class='d-inline-block p-3 border rounded'>
             <h4>Sobre a Imagem:</h4>
-            <p>Imagem que representa a diversidade do estilos e premissas de Love, Death & Robots</p>
+            <p>Protagonista curtindo uma boate e usando drogas virtuais.</p>
           </article>
         </div>
       </div>
@@ -45,9 +44,9 @@
         <div class='col-xl-8 col-md-12 col-sm-12'>
           <article>
             <h6 class="remove">.</h6>
-            <p>A diversidade de genero desta série esta distribuida nos episódios onde alguns carregam uma carga moral com uma mensagem ao final do episódio, porém além desse lado artistico e profundo também podemos ver contos mais descontraidos assim descobrindo como seria se um iogurte assumisse o controle de nossa sociedade e qual seria o impacto da morte de hitler em sua adolescencia e se gatos tivessem polegares.</p>
-            <p>Tabém podemos ver ao longo dos episódeos muitas lendas e contos ja exitentes mas pela ótica de Tim miller como, A existencia de um culto que tem como lider o Cthulhu.</p>
-            <p>Assim vendo tambem em episódios soldados que viram lobisomens, como dracula recebe visitas sua fortaleza, e algumas doses reflexição sobre a vida e existencia.</p>
+            <p>O executivo da CDPR foi questionado sobre a continuação em entrevista recente à Famitsu (via VGC). Ele relata que “gostaria de continuar trabalhando com estúdios japoneses para produzir mais animes no futuro”, pois receberam um “feedback muito bom” da produção.</p>
+            <p class='cite'>"No entanto, só para deixar claro, Cyberpunk Edgerunners foi planejado como um trabalho independente, então não existe algo como “estamos realmente trabalhando na segunda temporada nos bastidores”. Mesmo que pudéssemos fazer mais animes no futuro, não sei se seria a segunda temporada ou algo completamente diferente."</p>
+            <p>O anime é produzido pelo Studio Trigger, estúdio japonês com sede em Tóquio, e dirigido por Hiroyuki Imaishi (de Gurren Lagann e Kill la Kill). A trilha sonora é responsabilidade de Akira Yamaoka, que trabalhou em Silent Hill.</p>
           </article>
         </div>
       </div>

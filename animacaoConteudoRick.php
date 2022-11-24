@@ -20,24 +20,24 @@
       <div class='row mt-5'>
         <div class='col-xl-8 col-md-12 col-sm-12'>
           <article>
-            <h2 class="h1 mb-1">Love, Death & Robots</h2>
-            <small class='mb-3 d-block pb-2 border-bottom border-2'>Novembro 23, 2022 by Dimitri</small>
-            <p>Love, Death & Robots é uma série que atualmente esta em streaming na Netflix que se resume a varios contos animados em seus diversos estilos de animação que podem variar de um 3d ultra realista á um cartunesco clássico.</p>
-            <p>Assistir esta serie é uma viagem alucinante entre estilos, ideias, pensamentos e valores. Tudo misturado de forma espetacular nestes episódios muito bem planejados. Cada universo que te é apresentado é muito bem descrito, ambientado, detalhado e vivo, cada episódio te traz um gostinho de quero mais, pois nenhum desses universos são realmente explorados, o que te é mostrado vive em volta do conto do episódio, ou seja, nenhum episódio tem um final de verdade. POdemos definir como um conto curto porém ambientado em um universo denso.</p>
-            <p>Com 3 temporadas recheadas de muita personalidade e criativade de seus diretores, Tim Miller e David Fincher. Tim Miller viu que cada um de seus contos necessitava de um estilo visual diferente assim então ele entregou cada um de seus roteiros para um time de artistas diferentes.</p>
+            <h2 class="h1 mb-1">Rick and Morty</h2>
+            <small class='mb-3 d-block pb-2 border-bottom border-2'>Novembro 23, 2022 by <a href="https://www.aficionados.com.br/rick-and-morty/">www.aficionados.com.br</a></small>
+            <p>Criada por Justin Roiland e Dan Harmon, Rick & Morty é uma série animada de comédia que mostra as aventuras interdimensionais de Rick, a mente mais brilhante da galáxia, e seu neto Morty.</p>
+            <p>Com sua arma capaz de criar portais para viajar no tempo-espaço, Rick leva Morty para explorar todos as absurdas formas de vida que o universo é capaz de sustentar. Apesar de genial, Rick tem sofre de alcoolismo e possui uma relação conflituosa com sua família, fruto da sua visão cínica da vida e seu egoísmo. Por outro lado, Morty está longe de ter o intelecto do seu avô, mas é o único capaz de fazê-lo ser um pouquinho mais gentil.</p>
+            <p>Entre momentos hilários e reflexões interessantes sobre a vida, Rick & Morty arranca gargalhadas e ainda rende ótimas discussões filosóficas.</p>
           </article>
         </div>
       </div>
       <div class='row my-3'>
         <div class='col-xl-7 col-md-12  col-sm-12 conteudo'>
           <aside>
-            <img class='rounded' src="img/imgAnimacao/destaques/img1Conteudo.jpg" alt="Imagem que representa a diversidade do estilos e premissas de Love, Death & Robots">
+            <img class='rounded' src="img/imgAnimacao/destaques/img2Conteudo.jpg" alt="Rick e morty saindo de dentro de um portal da arma de portais.">
           </aside>
         </div>
         <div class='col-xl-5 col-md-12 col-sm-12 sobreImg'>
           <article class='d-inline-block p-3 border rounded'>
             <h4>Sobre a Imagem:</h4>
-            <p>Imagem que representa a diversidade do estilos e premissas de Love, Death & Robots</p>
+            <p>Rick and Morty respectivamente saindo de um portal</p>
           </article>
         </div>
       </div>
@@ -45,9 +45,8 @@
         <div class='col-xl-8 col-md-12 col-sm-12'>
           <article>
             <h6 class="remove">.</h6>
-            <p>A diversidade de genero desta série esta distribuida nos episódios onde alguns carregam uma carga moral com uma mensagem ao final do episódio, porém além desse lado artistico e profundo também podemos ver contos mais descontraidos assim descobrindo como seria se um iogurte assumisse o controle de nossa sociedade e qual seria o impacto da morte de hitler em sua adolescencia e se gatos tivessem polegares.</p>
-            <p>Tabém podemos ver ao longo dos episódeos muitas lendas e contos ja exitentes mas pela ótica de Tim miller como, A existencia de um culto que tem como lider o Cthulhu.</p>
-            <p>Assim vendo tambem em episódios soldados que viram lobisomens, como dracula recebe visitas sua fortaleza, e algumas doses reflexição sobre a vida e existencia.</p>
+            <p>Em questão das próximas temporadas após a atual 6ª temporada de Rick and Morty, Roiland revelou na entrevista acima que atualmente estão “escrevendo a 7ª temporada e já trabalhando na 8ª temporada” também. Contudo, no dia 6 de agosto de 2021, Cody Ziglar (roteirista) havia anunciado no Twitter que os roteiros da 7ª temporada haviam sido finalizados prontos. Então, será que o co-criador expôs um retrocesso?</p>
+            <p>Talvez sim. Mas, não se prendam à isso. Visto que revisões são um bom sinal de refinamento. Além disso, há algum tempo o Adult Swim “padronizou” este modelo duplo de produção das temporadas do seriado.</p>
           </article>
         </div>
       </div>

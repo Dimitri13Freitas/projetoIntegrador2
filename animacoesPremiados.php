@@ -15,7 +15,8 @@
   <main>
     <div class='container'>
       <?php include 'include/nav.php';?>
-      <?php include 'include/bannerHome.php';?>
+      <?php include 'include/bannerAnimacoes.php';?>
+      
 
       <h2 class='h1 mt-5'>As animações mais Premiadas:</h2>
 

@@ -15,7 +15,8 @@
   <main>
     <div class='container'>
       <?php include 'include/nav.php';?>
-      <?php include 'include/bannerHome.php';?>
+      <?php include 'include/bannerAnimacoes.php';?>
+      
 
       <h2 class='h1 m-5'>Proximos Lançamentos:</h2>
 

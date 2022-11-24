@@ -15,35 +15,35 @@
 <main>
     <div class='container'>
       <?php include 'include/nav.php';?>
-      <?php include 'include/bannerHome.php';?>
+      <?php include 'include/bannerAnimacoes.php';?>
 
       <div class='row'>
         <div class='col-xl-8 col-md-12 col-sm-12'>
           <article class='pt-3'>
-            <h2 class='h1 pt-5 m-0'>Titulo SuperFoda</h2>
+            <h2 class='h1 pt-5 m-0'>Classicos do Gênero</h2>
             <small>january 1, 2022 by Dimitri</small>
-            <p class='border-top border-2 pt-2 mt-2'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis doloribus maxime officia officiis eum laboriosam commodi sapiente dicta, quisquam a inventore quam autem.</p>
+            <p class='border-top border-2 pt-2 mt-2'>Aqui você vai poder relembrar as animações classicas e a frente do seu tempo que foram lançadas antes e depois dos anos 2000, e perceber que algumas obras listadas aqui, ainda sim são bastante atuais idependente de sua data de lançamento.</p>
           </article>
         </div>
       </div>
       <section class='border destaques mt-3 p-0 p-3 rounded d-flex justfy-content-center align-items-center'>
         <div class='destaquesImg'>
-          <img class='rounded' src="img/banner/img1.jpg" alt="Seila">
+          <img class='rounded' src="img/imgAnimacao/classicos/img1.jpg" alt="Futurama Fry, Bender e leela abraçados">
         </div>
         <div class='destaquesInf'>
-          <h2 class='h1 mb-3 mt-2'>Titulo Super foda</h2>
-          <p class='mb-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint consequuntur eaque unde laboriosam ipsum laudantium quam laborum voluptatem voluptatibus asperiores reiciendis facilis at, excepturi inventore impedit  delectus cum quibusdam...</p>
-          <a href="animacoesConteudo.php">Continuar Lendo...</a>
+          <h2 class='h1 mb-3 mt-2'>Futurama</h2>
+          <p class='mb-3'>Foi ao ar de 28 de março de 1999 a 10 de agosto de 2003 na Fox. No Brasil ia ao ar também pela Fox, no bloco Não Perturbe!, de segunda a sexta às 20 horas, e em janeiro de 2008 saiu da programação para dar lugar a mais um episódio...</p>
+          <a href="animacaoConteudoFuturama.php">Continuar Lendo...</a>
         </div>
       </section>
       <section class='border mt-5 destaques p-0 p-3 mb-5 rounded d-flex justfy-content-between align-items-center'>
-      <div class='destaquesImg'>
-          <img class='rounded' src="img/banner/img2.jpg" alt="Seila">
+        <div class='destaquesImg'>
+          <img class='rounded' src="img/imgAnimacao/classicos/img2.jpg" alt="PAtolino Gaguinho e marciano olhando para a tela">
         </div>
         <div class='destaquesInf'>
-          <h2 class='h1 mb-3 mt-2'>Titulo Super foda</h2>
-          <p class='mb-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint consequuntur eaque unde laboriosam ipsum laudantium quam laborum voluptatem voluptatibus asperiores reiciendis facilis at, excepturi inventore impedit delectus cum quibusdam...</p>
-          <a href="animacoesConteudo.php">Continuar Lendo...</a>
+          <h2 class='h1 mb-3 mt-2'>Duck Dodgers</h2>
+          <p class='mb-3'>Se tem algo que faz parte da infância de todos nós (e espero que ainda faça das crianças de hoje e sempre) é a série de desenhos Looney Tunes>. São vários personagens únicos e um mais engraçado que o outro, sendo um...</p>
+          <a href="animacaoConteudoDuck.php">Continuar Lendo...</a>
         </div>
       </section>
       <div class="d-flex justify-content-xl-between flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
@@ -66,24 +66,24 @@
           <img src="img/banner/img2.jpg" alt="">
         </section>
       </div>
-      <section class='border mt-5 destaques p-0 p-3 mb-5 rounded d-flex justfy-content-between '>
+      <section class='border mt-5 destaques p-0 p-3 mb-5 rounded d-flex justfy-content-between align-items-center'>
       <div class='destaquesImg'>
-          <img class='rounded' src="img/banner/img3.jpg" alt="Seila">
+          <img class='rounded' src="img/imgAnimacao/classicos/img3.jpg" alt="Robô zeta, vulgo, personagem principal">
         </div>
         <div class='destaquesInf'>
-          <h2 class='h1 mb-3 mt-2'>Titulo Super foda</h2>
-          <p class='mb-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint consequuntur eaque unde laboriosam ipsum laudantium quam laborum voluptatem voluptatibus asperiores reiciendis facilis at, excepturi inventore impedit delectus cum quibusdam...</p>
-          <a href="animacoesConteudo.php">Continuar Lendo...</a>
+          <h2 class='h1 mb-3 mt-2'>Projeto Zeta</h2>
+          <p class='mb-3'>The Zeta Project (no Brasil Projeto Zeta) é uma série animada americana de ficção científica produzida pela Warner Bros.. Estreou na Kids' WB em janeiro de 2001. É uma série baseada no personagem Zeta de Batman do Futuro...</p>
+          <a href="animacaoConteudoZeta.php">Continuar Lendo...</a>
         </div>
       </section>
       <section class='border mt-5 destaques p-0 p-3 mb-5 rounded d-flex justfy-content-between align-items-center'>
       <div class='destaquesImg'>
-          <img class='rounded' src="img/banner/img3.jpg" alt="Seila">
+          <img class='rounded' src="img/imgAnimacao/classicos/img4.jpg" alt="A familia jetsons andando em seu carro voador">
         </div>
         <div class='destaquesInf'>
-          <h2 class='h1 mb-3 mt-2'>Titulo Super foda</h2>
+          <h2 class='h1 mb-3 mt-2'>Os Jetsons</h2>
           <p class='mb-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint consequuntur eaque unde laboriosam ipsum laudantium quam laborum voluptatem voluptatibus asperiores reiciendis facilis at, excepturi inventore impedit delectus cum quibusdam...</p>
-          <a href="animacoesConteudo.php">Continuar Lendo...</a>
+          <a href="animacaoConteudoJetsons.php">Continuar Lendo...</a>
         </div>
       </section>
     </div>

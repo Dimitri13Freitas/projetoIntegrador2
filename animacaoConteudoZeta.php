@@ -20,24 +20,24 @@
       <div class='row mt-5'>
         <div class='col-xl-8 col-md-12 col-sm-12'>
           <article>
-            <h2 class="h1 mb-1">Love, Death & Robots</h2>
-            <small class='mb-3 d-block pb-2 border-bottom border-2'>Novembro 23, 2022 by Dimitri</small>
-            <p>Love, Death & Robots é uma série que atualmente esta em streaming na Netflix que se resume a varios contos animados em seus diversos estilos de animação que podem variar de um 3d ultra realista á um cartunesco clássico.</p>
-            <p>Assistir esta serie é uma viagem alucinante entre estilos, ideias, pensamentos e valores. Tudo misturado de forma espetacular nestes episódios muito bem planejados. Cada universo que te é apresentado é muito bem descrito, ambientado, detalhado e vivo, cada episódio te traz um gostinho de quero mais, pois nenhum desses universos são realmente explorados, o que te é mostrado vive em volta do conto do episódio, ou seja, nenhum episódio tem um final de verdade. POdemos definir como um conto curto porém ambientado em um universo denso.</p>
-            <p>Com 3 temporadas recheadas de muita personalidade e criativade de seus diretores, Tim Miller e David Fincher. Tim Miller viu que cada um de seus contos necessitava de um estilo visual diferente assim então ele entregou cada um de seus roteiros para um time de artistas diferentes.</p>
+            <h2 class="h1 mb-1">Projeto Zeta</h2>
+            <small class='mb-3 d-block pb-2 border-bottom border-2'>Novembro 23, 2022 by <a href="https://pt.wikipedia.org/wiki/The_Zeta_Project">zetaProject.fandom.com</a></small>
+            <p>The Zeta Project (no Brasil Projeto Zeta) é uma série animada americana de ficção científica produzida pela Warner Bros.. Estreou na Kids' WB em janeiro de 2001. É uma série baseada no personagem Zeta de Batman do Futuro. O show foi criado por Robert Goodman e pela Warner Bros. Animation.</p>
+            <p>O personagem principal da história, Zeta, é um robô humanóide (sintozóide) projetado para realizar assassinatos secretos em nome da NSA. No entanto, quando Zeta descobre que um de seus alvos é inocente, ele experimenta uma espécie de crise existencial sobre a bondade e o valor da vida, seguindo essa epifania, Zeta acha que ele não pode mais matar. O Zeta recém-iluminado se recusa a continuar como uma unidade de infiltração e abandona a sua missão, fugindo. Zeta é perseguido por uma equipe de NSA, liderados pelo agente obcecado Bennett, e é auxiliado pela adolescente de 14 anos, Rosalie "Ro" Rowan.</p>
+            <p>Congelado por 351 anos, Duck Dodgers acorda no século 24 e meio. Para provar que é o maior herói da Terra, ele terá de defender o planeta contra os ataques do Comandante Marciano.</p>
           </article>
         </div>
       </div>
       <div class='row my-3'>
         <div class='col-xl-7 col-md-12  col-sm-12 conteudo'>
           <aside>
-            <img class='rounded' src="img/imgAnimacao/destaques/img1Conteudo.jpg" alt="Imagem que representa a diversidade do estilos e premissas de Love, Death & Robots">
+            <img class='rounded' src="img/imgAnimacao/classicos/img3Conteudo.jpg" alt="Zeta ou zee e sua amiga em uma posição de climax de enredo.">
           </aside>
         </div>
         <div class='col-xl-5 col-md-12 col-sm-12 sobreImg'>
           <article class='d-inline-block p-3 border rounded'>
             <h4>Sobre a Imagem:</h4>
-            <p>Imagem que representa a diversidade do estilos e premissas de Love, Death & Robots</p>
+            <p>Zeta prestes a iniciar um fuga com sua amiga Rosalie.</p>
           </article>
         </div>
       </div>
@@ -45,9 +45,8 @@
         <div class='col-xl-8 col-md-12 col-sm-12'>
           <article>
             <h6 class="remove">.</h6>
-            <p>A diversidade de genero desta série esta distribuida nos episódios onde alguns carregam uma carga moral com uma mensagem ao final do episódio, porém além desse lado artistico e profundo também podemos ver contos mais descontraidos assim descobrindo como seria se um iogurte assumisse o controle de nossa sociedade e qual seria o impacto da morte de hitler em sua adolescencia e se gatos tivessem polegares.</p>
-            <p>Tabém podemos ver ao longo dos episódeos muitas lendas e contos ja exitentes mas pela ótica de Tim miller como, A existencia de um culto que tem como lider o Cthulhu.</p>
-            <p>Assim vendo tambem em episódios soldados que viram lobisomens, como dracula recebe visitas sua fortaleza, e algumas doses reflexição sobre a vida e existencia.</p>
+            <p>Projeto Zeta conta a história do sintozóide (um robô com forma humana), programado para ser uma unidade de infiltração para matar em nome do governo americano, porém ao abortar uma missão ele passa a ser perseguido pela NSA (sigla em inglês para Agência de Segurança Nacional), liderada pelo agente James Bennet, que o considera um traidor.</p>
+            <p>Em meio à fuga, Zeta conhece Rosalie Rowen, uma adolescente órfã e delinqüente, que passa a ser sua melhor amiga, e ambos saem em busca de Eli Selig, arquiteto do "Projeto Zeta" e único que pode provar sua inocência.</p>
           </article>
         </div>
       </div>

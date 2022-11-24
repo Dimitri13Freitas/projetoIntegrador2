@@ -15,7 +15,7 @@
   <main>
     <div class='container'>
       <?php include 'include/nav.php';?>
-      <?php include 'include/bannerHome.php';?>
+      <?php include 'include/bannerAnimacoes.php';?>
 
       <h1 class='h2 mt-5 mb-3 text-center'>Nome do Respectivo Filme</h1>
 

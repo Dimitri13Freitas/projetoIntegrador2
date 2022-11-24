@@ -20,24 +20,24 @@
       <div class='row mt-5'>
         <div class='col-xl-8 col-md-12 col-sm-12'>
           <article>
-            <h2 class="h1 mb-1">Love, Death & Robots</h2>
-            <small class='mb-3 d-block pb-2 border-bottom border-2'>Novembro 23, 2022 by Dimitri</small>
-            <p>Love, Death & Robots é uma série que atualmente esta em streaming na Netflix que se resume a varios contos animados em seus diversos estilos de animação que podem variar de um 3d ultra realista á um cartunesco clássico.</p>
-            <p>Assistir esta serie é uma viagem alucinante entre estilos, ideias, pensamentos e valores. Tudo misturado de forma espetacular nestes episódios muito bem planejados. Cada universo que te é apresentado é muito bem descrito, ambientado, detalhado e vivo, cada episódio te traz um gostinho de quero mais, pois nenhum desses universos são realmente explorados, o que te é mostrado vive em volta do conto do episódio, ou seja, nenhum episódio tem um final de verdade. POdemos definir como um conto curto porém ambientado em um universo denso.</p>
-            <p>Com 3 temporadas recheadas de muita personalidade e criativade de seus diretores, Tim Miller e David Fincher. Tim Miller viu que cada um de seus contos necessitava de um estilo visual diferente assim então ele entregou cada um de seus roteiros para um time de artistas diferentes.</p>
+            <h2 class="h1 mb-1">Futurama</h2>
+            <small class='mb-3 d-block pb-2 border-bottom border-2'>Novembro 23, 2022 by <a href="https://futurama.fandom/pt-br/wiki/Hist%C3%B3ria_de_Futurama">futurama.fandom.com</a></small>
+            <p>Foi ao ar de 28 de março de 1999 a 10 de agosto de 2003 na Fox. No Brasil ia ao ar também pela Fox, no bloco Não Perturbe!, de segunda a sexta às 20 horas, e em janeiro de 2008 saiu da programação para dar lugar a mais um episódio de Os Simpsons. A série retornou no final de 2007, com 4 filmes divididos em 4 episódios de 30 minutos, agora a ser exibido pelo Comedy Central, responsável por, dentre outras obras, o polêmico South Park.</p>
+            <p>A série tem 4 temporadas, e um filme lançado nos USA, Bender Big Score. está previsto o lançamento de mais um filme, The Beast with a Billion Backs, e depois de lançados em DVD, serão feitos mais quatro filmes que serão repartidos e exibidos na TV em 16 episódios.</p>
+            <p>Futurama é uma série de desenho animado americana criada por dois produtores de magia, o cartunista Matt Groening e o roteirista David X. Cohen. Situada na Nova Nova York do ano 3000, é uma mistura inteligente e divertida de humor com ficção científica protagonizada por um entregador de pizza que fica congelado por mil anos, um robô alcoólatra e uma ciclope sexy de cabelos roxos, trazendo também outros personagens menores e não por isso menos complexos, como um cientista louco de 160 anos, um médico lagosta de sandália, uma patricinha relaxada de Marte, um capitão espacial narcisista e um burcrata de rastafári.</p>
           </article>
         </div>
       </div>
       <div class='row my-3'>
         <div class='col-xl-7 col-md-12  col-sm-12 conteudo'>
           <aside>
-            <img class='rounded' src="img/imgAnimacao/destaques/img1Conteudo.jpg" alt="Imagem que representa a diversidade do estilos e premissas de Love, Death & Robots">
+            <img class='rounded' src="img/imgAnimacao/classicos/img1Conteudo.jpg" alt="Personagens principais de futurama olhando para cima.">
           </aside>
         </div>
         <div class='col-xl-5 col-md-12 col-sm-12 sobreImg'>
           <article class='d-inline-block p-3 border rounded'>
             <h4>Sobre a Imagem:</h4>
-            <p>Imagem que representa a diversidade do estilos e premissas de Love, Death & Robots</p>
+            <p>Personagens respectivamente: Hermes Conrad, Turanga Leela, Amy Wong, Fry, Bender, Farnsworth, Doctor Zoidberg</p>
           </article>
         </div>
       </div>
@@ -45,9 +45,8 @@
         <div class='col-xl-8 col-md-12 col-sm-12'>
           <article>
             <h6 class="remove">.</h6>
-            <p>A diversidade de genero desta série esta distribuida nos episódios onde alguns carregam uma carga moral com uma mensagem ao final do episódio, porém além desse lado artistico e profundo também podemos ver contos mais descontraidos assim descobrindo como seria se um iogurte assumisse o controle de nossa sociedade e qual seria o impacto da morte de hitler em sua adolescencia e se gatos tivessem polegares.</p>
-            <p>Tabém podemos ver ao longo dos episódeos muitas lendas e contos ja exitentes mas pela ótica de Tim miller como, A existencia de um culto que tem como lider o Cthulhu.</p>
-            <p>Assim vendo tambem em episódios soldados que viram lobisomens, como dracula recebe visitas sua fortaleza, e algumas doses reflexição sobre a vida e existencia.</p>
+            <p>"Futurama" foi a primeira animação de temática sci-fi a fazer sucesso com humor adulto, antecipando a febre de desenhos do gênero, que nos últimos anos rendeu de "Ricky & Morty" a "Star Trek: Lower Decks". A trama é centrada no entregador de pizza Philip Fry, que é acidentalmente congelado e acorda mil anos depois, aprendendo a viver num futuro bizarro, com alienígenas, robôs e uma civilização que não compreende.</p>
+            <p>Durante sua quarta temporada, Futurama continuou a ser transmitida de forma errática.Por deixar de ser exibida regularmente em razão de eventos esportivos, ficou difícil para os espectadores saberem quando um novo episódio da série iria ao ar. Esta grade instável fez com que a Fox deixasse de transmitir diversos episódios que foram produzidos para as temporadas três e quatro, e o excedente acabou sendo guardado para a utilização em uma quinta temporada.</p>
           </article>
         </div>
       </div>

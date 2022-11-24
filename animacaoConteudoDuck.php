@@ -20,24 +20,24 @@
       <div class='row mt-5'>
         <div class='col-xl-8 col-md-12 col-sm-12'>
           <article>
-            <h2 class="h1 mb-1">Love, Death & Robots</h2>
-            <small class='mb-3 d-block pb-2 border-bottom border-2'>Novembro 23, 2022 by Dimitri</small>
-            <p>Love, Death & Robots é uma série que atualmente esta em streaming na Netflix que se resume a varios contos animados em seus diversos estilos de animação que podem variar de um 3d ultra realista á um cartunesco clássico.</p>
-            <p>Assistir esta serie é uma viagem alucinante entre estilos, ideias, pensamentos e valores. Tudo misturado de forma espetacular nestes episódios muito bem planejados. Cada universo que te é apresentado é muito bem descrito, ambientado, detalhado e vivo, cada episódio te traz um gostinho de quero mais, pois nenhum desses universos são realmente explorados, o que te é mostrado vive em volta do conto do episódio, ou seja, nenhum episódio tem um final de verdade. POdemos definir como um conto curto porém ambientado em um universo denso.</p>
-            <p>Com 3 temporadas recheadas de muita personalidade e criativade de seus diretores, Tim Miller e David Fincher. Tim Miller viu que cada um de seus contos necessitava de um estilo visual diferente assim então ele entregou cada um de seus roteiros para um time de artistas diferentes.</p>
+            <h2 class="h1 mb-1">Futurama</h2>
+            <small class='mb-3 d-block pb-2 border-bottom border-2'>Novembro 23, 2022 by <a href="https://pt.wikipedia.org/wiki/Duck_Dodgers">duckdogers.fandom.com</a></small>
+            <p>Se tem algo que faz parte da infância de todos nós (e espero que ainda faça das crianças de hoje e sempre) é a série de desenhos Looney Tunes>. São vários personagens únicos e um mais engraçado que o outro, sendo um dos meus favoritos (talvez o número 1) ele, o pato mais ignorante, arrogante, insuportável e babão de todos: Patolino. Patolino é o terceiro personagem dos Looney Tunes com mais aparições em desenhos, ficando atrás somente do Gaguinho e Pernalonga.</p>
+            <p>Ele foi introduzido no desenho “Gaguinho e a caça ao pato” e por muito tempo foi coadjuvante dos desenhos do mesmo. Mais pra frente, em 1953, ele representou um heroi espacial no desenho Duck Dodgers no século 24½, sendo que Gaguinho era o seu coadjuvante. É engraçado que aquele pato tinha conseguido passar o porquinho para o segundo plano, mas é um fato que o Patolino talvez só não consiga ser mais famoso que o Pernalonga.</p>
+            <p>Congelado por 351 anos, Duck Dodgers acorda no século 24 e meio. Para provar que é o maior herói da Terra, ele terá de defender o planeta contra os ataques do Comandante Marciano.</p>
           </article>
         </div>
       </div>
       <div class='row my-3'>
         <div class='col-xl-7 col-md-12  col-sm-12 conteudo'>
           <aside>
-            <img class='rounded' src="img/imgAnimacao/destaques/img1Conteudo.jpg" alt="Imagem que representa a diversidade do estilos e premissas de Love, Death & Robots">
+            <img class='rounded' src="img/imgAnimacao/classicos/img2Conteudo.jpg" alt="patolino em sua versão espacial chamada duck dogers correndo do marciano junto de gaguinho">
           </aside>
         </div>
         <div class='col-xl-5 col-md-12 col-sm-12 sobreImg'>
           <article class='d-inline-block p-3 border rounded'>
             <h4>Sobre a Imagem:</h4>
-            <p>Imagem que representa a diversidade do estilos e premissas de Love, Death & Robots</p>
+            <p>Personagens respectivamente: Patolino Gaguinho e Marciano.</p>
           </article>
         </div>
       </div>
@@ -45,9 +45,7 @@
         <div class='col-xl-8 col-md-12 col-sm-12'>
           <article>
             <h6 class="remove">.</h6>
-            <p>A diversidade de genero desta série esta distribuida nos episódios onde alguns carregam uma carga moral com uma mensagem ao final do episódio, porém além desse lado artistico e profundo também podemos ver contos mais descontraidos assim descobrindo como seria se um iogurte assumisse o controle de nossa sociedade e qual seria o impacto da morte de hitler em sua adolescencia e se gatos tivessem polegares.</p>
-            <p>Tabém podemos ver ao longo dos episódeos muitas lendas e contos ja exitentes mas pela ótica de Tim miller como, A existencia de um culto que tem como lider o Cthulhu.</p>
-            <p>Assim vendo tambem em episódios soldados que viram lobisomens, como dracula recebe visitas sua fortaleza, e algumas doses reflexição sobre a vida e existencia.</p>
+            <p>Duck Edgar Dumas Aloysius Dodgers é um personagem fictício, o metaficcional protagonista da série de desenho animado da Warner Bros. Ele é realmente o famoso (mas fictício) Patolino, que interpreta um herói intergalático do futuro. É um tipo de alter ego do Patolino. O personagem é uma paródia ao herói das tiras de jornal Buck Rogers in the 25th Century, que também fez sucesso em um seriado cinematográfico de 1939, estrelado por Buster Crabbe, que também havia interpretado outro herói dos quadrinhos no cinema, Flash Gordon Duck Dodgers fez sua primeira aparição em 1953, no curta de animação Duck Dodgers no século 24 ½, dirigido por Chuck Jones. Jones criou uma paródia dos seriados de ficção científica: Buck Rogers e Flash Gordon.</p>
           </article>
         </div>
       </div>
