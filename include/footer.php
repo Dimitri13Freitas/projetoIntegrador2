@@ -24,7 +24,7 @@ echo "<div class='pt-3 mb-0 footer'>
         <ul class='p-0 m-0 listaSecundaria'>
           <li><a href='animacoesDestaques.php'>Destaques</a></li>
           <li><a href='animacoesClassicos.php'>Clássicos</a></li>
-          <li><a href='animacoesLançamentos.php'>Lançamentos</a></li>
+          <li><a href='animacoesLancamentos.php'>Lançamentos</a></li>
           <li><a href='animacoesPremiados.php'>Premiados</a></li>
         </ul>
       </li>

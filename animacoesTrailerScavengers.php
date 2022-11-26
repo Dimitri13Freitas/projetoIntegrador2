@@ -16,34 +16,13 @@
     <div class='container'>
       <?php include 'include/nav.php';?>
       <?php include 'include/bannerAnimacoes.php';?>
-      
 
-      <h2 class='h1 m-5'>Proximos Lançamentos:</h2>
+      <h1 class='h2 mt-5 mb-3 text-center'>Scavengers Reign</h1>
 
-      <div class='lançamentosContainer d-flex justify-content-around align-items-start flex-wrap lancamentosContainer mb-5'>
-        <div>
-          <section class='lancamentos border rounded  d-flex flex-column'>
-            <img class='rounded' src="img/imgAnimacao/lancamentos/img1.jpg" alt="Temporada nova de Rick and Morty">
-            <h3 class='h3 text-center mt-2 mb-4'>Rick and Morty - Season 6</h3>
-            <a href="animacoesTrailerRick.php" class='btn btn-primary d-block'>Assistir Trailer</a>
-          </section>
-        </div>
-        <div class='mt-xxl-5 mt-xl-5 mt-lg-5 mt-md-0 mt-sm-0'>
-          <section class='lancamentos border rounded  d-flex flex-column'>
-            <img class='rounded' src="img/imgAnimacao/lancamentos/img2.jpg" alt="">
-            <h3 class='h3 text-center mt-2 mb-4'>Lightyear (SpinOff de Toy Story)</h3>
-            <a href="animacoesTrailerBuzz.php" class='btn btn-primary d-block'>Assistir Trailer</a>
-          </section>
-        </div>
-        <div>
-          <section class='lancamentos border rounded  m-auto my-0 d-flex flex-column'>
-            <img class='rounded' src="img/imgAnimacao/lancamentos/img3.jpg" alt="">
-            <h3 class='h3 text-center mt-2 mb-4'>Scavengers Reign</h3>
-            <a href="animacoesTrailerScavengers.php" class='btn btn-primary d-block'>Assistir Trailer</a>
-          </section>
-        </div>
+      <div class='row mb-4'>
+      <iframe width="853" height="480" src="https://www.youtube.com/embed/CADHf3kPnjA" title="Scavengers Reign | Official Teaser | HBO Max" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
-      <div class="d-flex justify-content-xl-between flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 mb-5 noticiaContainer">
+      <div class="d-flex justify-content-xl-between flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center my-5 noticiaContainer">
         <section class="noticia rounded-3  border d-flex align-items-center">
           <div class="noticiaSeila d-flex flex-column">
             <small>Filmes</small>
