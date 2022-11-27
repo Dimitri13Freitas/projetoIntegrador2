@@ -16,7 +16,7 @@
   
     
       <div class="row justify-content-center ">
-        <article class=" sla col-xl-6 col-md-6 col-sm-12 border">
+        <article class="sla col-xl-6 col-md-6 col-sm-12 border">
           <a href="livrosPgAutores.php">
           <h1>Fulano de Tal</h1>
             <img src="img/banner/img2.jpg" style="width: 100% ;" alt="">

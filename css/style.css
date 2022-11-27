@@ -5,7 +5,7 @@
   text-decoration: none !important;
 }
 body {
-  background-color: #2c2c2c;
+  background: #2c2c2c;
   color: #f1f1f1 !important;
 }
 .remove {
@@ -17,8 +17,10 @@ body {
 .titulo {
   color: #141414 !important;
 }
-
-/* small {
+.mt {
+  margin-top: 20px;
+}
+/* .small {
   color: #acacac;
 } */
 
@@ -27,12 +29,12 @@ body {
   border-color: #00ba89 !important;
   display: flex;
 }
-.header img {
+.header .redes img {
   width: 34px;
   padding: 5px;
   border-radius: 3px;
 }
-.header img:hover {
+.header .redes img:hover {
   background-color: #00ba89;
 }
 .redes {
@@ -43,6 +45,21 @@ body {
 }
 .theme img {
   cursor: pointer;
+  width: 34px;
+  padding: 5px;
+  border-radius: 3px;
+}
+.theme img:hover {
+  background-color: #00ba89;
+}
+.logo {
+  display: flex;
+  padding: 10px 0px;
+}
+.logo img {
+  /* display: block; */
+  width: 100%;
+  overflow: hidden;
 }
 
 /* Banner by Dimitri Freitas*/
@@ -76,7 +93,7 @@ body {
   max-width: 500px;
 }
 
-/* DropDown by Dimitri Freitas */
+/* DropDown Navegação by Dimitri Freitas */
 .navegacao li {
   cursor: pointer;
 }
@@ -112,6 +129,8 @@ body {
   background: none;
   cursor: pointer;
   color: #f1f1f1;
+  padding: 20px 3px;
+  font-size: 1.25rem;
 }
 
 /* Obras by Dimitri Freitas */
@@ -245,6 +264,12 @@ body {
   padding-top: 20px;
   border-top: 2px solid rgba(255, 255, 255, 0.1);
 }
+.premiados ul li {
+  max-width: 300px;
+}
+.premiados ul {
+  margin: 0 36px;
+}
 
 /* Animação Conteudo by Dimitri Freitas */
 .cite {
@@ -316,6 +341,9 @@ body {
   .navegacao ul ul {
     margin-top: 8px;
   }
+  .navegacao ul {
+    font-size: 1.1rem;
+  }
   .navegacao {
     display: none;
   }
@@ -362,7 +390,7 @@ body {
   .navegacao.ativo ul {
     position: absolute;
     flex-direction: column !important;
-    top: 45px;
+    top: 60px;
     left: 0;
     background: #424242;
     box-shadow: 0px 0 2px 0px rgba(0, 0, 0, 0.1);
@@ -430,6 +458,9 @@ body {
   }
   .lancamentos {
     padding: 20px 15px;
+  }
+  .space {
+    margin-top: 25px;
   }
 }
 @keyframes animaMenu {

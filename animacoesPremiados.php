@@ -23,29 +23,29 @@
       <div class='row mt-5'>
         <div class='col-xl-6 col-md-6 col-sm-12 d-flex justify-content-center'>
           <section class='premiados border rounded d-inline-block py-3 px-4'>
-            <h3 class='h2 text-center mb-3'>1° Animação</h3>
+            <h3 class='h2 text-center mb-3'>WALL-E</h3>
             <div class='destaquesImg'>
-              <img class='rounded' src='img/banner/img2.jpg' alt="">
+              <img class='rounded' src='img/imgAnimacao/premiados/img1.jpg' alt="">
             </div>
-            <ul class='m-0 mt-3 p-0 text-center d-flex flex-column'>
-              <li class='h5'>Premios</li>
-              <li class='h5'>Premios</li>
-              <li class='h5'>Premios</li>
-              <li class='h5'>Premios</li>
+            <ul class='m-0 mt-3 p-0 text-center d-flex flex-column align-items-center'>
+              <li class='h5'>Oscar de Melhor Filme de Animação 2009</li>
+              <li class='h5'>Globo de Ouro de Melhor Filme de Animação</li>
+              <li class='h5'>Satellite Award de Melhor Filme de Animação</li>
+              <li class='h5'>Prêmio Nebula de Melhor Roteiro</li>
             </ul>
           </section>
         </div>
         <div class='col-xl-6 col-md-6 col-sm-12 d-flex justify-content-center'>
-          <section class='premiados border rounded d-inline-block py-3 px-4'>
-            <h3 class='h2 text-center mb-3'>1° Animação</h3>
+          <section class='premiados space border rounded d-inline-block py-3 px-4'>
+            <h3 class='h2 text-center mb-3'>O Gigante de Ferro</h3>
             <div class='destaquesImg'>
-              <img class='rounded' src='img/banner/img2.jpg' alt="">
+              <img class='rounded' src='img/imgAnimacao/premiados/img2.jpg' alt="">
             </div>
-            <ul class='m-0 mt-3 p-0 text-center d-flex flex-column'>
-              <li class='h5'>Premios</li>
-              <li class='h5'>Premios</li>
-              <li class='h5'>Premios</li>
-              <li class='h5'>Premios</li>
+            <ul class='m-0 mt-3 p-0 text-center d-flex flex-column align-items-center'>
+              <li class='h5'>Satellite Award de Melhor Filme de Animação</li>
+              <li class='h5'>Melhor Apresentação Dramática</li>
+              <li class='h5'>Prêmio Nebula de Melhor Roteiro</li>
+              <li class='h5'>Satellite Award de Melhor DVD Jovem</li>
             </ul>
           </section>
         </div>
@@ -53,29 +53,29 @@
       <div class='row my-5'>
         <div class='col-xl-6 col-md-6 col-sm-12 d-flex justify-content-center'>
           <section class='premiados border rounded d-inline-block py-3 px-4'>
-            <h3 class='h2 text-center mb-3'>1° Animação</h3>
+            <h3 class='h2 text-center mb-3'>A Família do Futuro</h3>
             <div class='destaquesImg'>
-              <img class='rounded' src='img/banner/img2.jpg' alt="">
+              <img class='rounded' src='img/imgAnimacao/premiados/img3.jpg' alt="">
             </div>
-            <ul class='m-0 mt-3 p-0 text-center d-flex flex-column'>
-              <li class='h5'>Premios</li>
-              <li class='h5'>Premios</li>
-              <li class='h5'>Premios</li>
-              <li class='h5'>Premios</li>
+            <ul class='m-0 mt-3 p-0 text-center d-flex flex-column align-items-center'>
+              <li class='h5'>Annie Award Música em uma Produção de Longa-metragem</li>
+              <li class='h5'>A família do futuro saturn award for best animated film</li>
+              <li class='h5'>A família do futuro annie award for best storyboarding in an animated feature production</li>
+              <li class='h5'>A família do futuro chicago film critics association award for best animated film</li>
             </ul>
           </section>
         </div>
         <div class='col-xl-6 col-md-6 col-sm-12 d-flex justify-content-center'>
-          <section class='premiados border rounded d-inline-block py-3 px-4'>
-            <h3 class='h2 text-center mb-3'>1° Animação</h3>
+          <section class='premiados space border rounded d-inline-block py-3 px-4'>
+            <h3 class='h2 text-center mb-3'>Operação Big Hero</h3>
             <div class='destaquesImg'>
-              <img class='rounded' src='img/banner/img2.jpg' alt="">
+              <img class='rounded' src='img/imgAnimacao/premiados/img4.jpg' alt="">
             </div>
-            <ul class='m-0 mt-3 p-0 text-center d-flex flex-column'>
-              <li class='h5'>Premios</li>
-              <li class='h5'>Premios</li>
-              <li class='h5'>Premios</li>
-              <li class='h5'>Premios</li>
+            <ul class='m-0 mt-3 p-0 text-center d-flex flex-column align-items-center'>
+              <li class='h5'>Oscar de Melhor Filme de Animação</li>
+              <li class='h5'>Prêmio Globo de Ouro de Melhor Filme de Animação</li>
+              <li class='h5'>Satellite Award de Melhor Filme de Animação</li>
+              <li class='h5'>Critics' Choice Award de Melhor Filme de Animação</li>
             </ul>
           </section>
         </div>
