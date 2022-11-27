@@ -20,9 +20,15 @@ body {
 .mt {
   margin-top: 20px;
 }
-/* .small {
+.small {
   color: #acacac;
-} */
+}
+.small a {
+  color: #5772e9;
+}
+.small a:hover {
+  text-decoration: underline !important;
+}
 
 /* Header by Dimitri Freitas */
 .header {

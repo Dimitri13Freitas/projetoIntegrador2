@@ -2,7 +2,8 @@
 <html lang="pt-br">
 
 <head>
-  <meta charset="utf-8">
+  <meta charset="UTF-8">
+  <link rel="shortcut icon" href="img/icon.svg" type="image/x-icon">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
@@ -21,7 +22,7 @@
         <div class='col-xl-8 col-md-12 col-sm-12'>
           <article>
             <h2 class="h1 mb-1">Final Space</h2>
-            <small class='mb-3 d-block pb-2 border-bottom border-2'>Novembro 23, 2022 by <a href="https://final-space.fandom.com/pt-br/wiki/Final_Space">final-space.fandom.com</a></small>
+            <small class='mb-3 d-block small pb-2 border-bottom border-2'>Novembro 23, 2022 by <a href="https://final-space.fandom.com/pt-br/wiki/Final_Space">final-space.fandom.com</a></small>
             <p>Final Space é uma série de animação adulta de space opera criada pelo cineasta indie, ator, comediante Olan Rogers, sendo originalmente desenvolvida para a emissora de TV norte-americana TBS. A série mostra as aventuras do astronauta Gary e seu companheiro alienígena Mooncake, em busca de revelar os mistérios acerca do "Espaço Final".</p>
             <p>A estreia de Final Space foi transmitida via Reddit no dia 15 de fevereiro de 2018, sendo que ao final do dia, os dois primeiros episódios já estavam disponíveis no website da TBS e em seu aplicativo. A série estreou oficialmente na TBS no dia 26 de fevereiro de 2018 e foi renovada para a segunda temporada no dia 7 de maio do mesmo ano, com previsão de estreia para 2019.</p>
           </article>

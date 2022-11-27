@@ -2,7 +2,8 @@
 <html lang="pt-br">
 
 <head>
-  <meta charset="utf-8">
+  <meta charset="UTF-8">
+  <link rel="shortcut icon" href="img/icon.svg" type="image/x-icon">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
@@ -21,7 +22,7 @@
         <div class='col-xl-8 col-md-12 col-sm-12'>
           <article>
             <h2 class="h1 mb-1">Projeto Zeta</h2>
-            <small class='mb-3 d-block pb-2 border-bottom border-2'>Novembro 23, 2022 by <a href="https://pt.wikipedia.org/wiki/The_Zeta_Project">zetaProject.fandom.com</a></small>
+            <small class='mb-3 d-block small pb-2 border-bottom border-2'>Novembro 23, 2022 by <a href="https://pt.wikipedia.org/wiki/The_Zeta_Project">zetaProject.fandom.com</a></small>
             <p>The Zeta Project (no Brasil Projeto Zeta) é uma série animada americana de ficção científica produzida pela Warner Bros.. Estreou na Kids' WB em janeiro de 2001. É uma série baseada no personagem Zeta de Batman do Futuro. O show foi criado por Robert Goodman e pela Warner Bros. Animation.</p>
             <p>O personagem principal da história, Zeta, é um robô humanóide (sintozóide) projetado para realizar assassinatos secretos em nome da NSA. No entanto, quando Zeta descobre que um de seus alvos é inocente, ele experimenta uma espécie de crise existencial sobre a bondade e o valor da vida, seguindo essa epifania, Zeta acha que ele não pode mais matar. O Zeta recém-iluminado se recusa a continuar como uma unidade de infiltração e abandona a sua missão, fugindo. Zeta é perseguido por uma equipe de NSA, liderados pelo agente obcecado Bennett, e é auxiliado pela adolescente de 14 anos, Rosalie "Ro" Rowan.</p>
             <p>Congelado por 351 anos, Duck Dodgers acorda no século 24 e meio. Para provar que é o maior herói da Terra, ele terá de defender o planeta contra os ataques do Comandante Marciano.</p>

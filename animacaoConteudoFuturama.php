@@ -2,7 +2,8 @@
 <html lang="pt-br">
 
 <head>
-  <meta charset="utf-8">
+  <meta charset="UTF-8">
+  <link rel="shortcut icon" href="img/icon.svg" type="image/x-icon">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
@@ -21,7 +22,7 @@
         <div class='col-xl-8 col-md-12 col-sm-12'>
           <article>
             <h2 class="h1 mb-1">Futurama</h2>
-            <small class='mb-3 d-block pb-2 border-bottom border-2'>Novembro 23, 2022 by <a href="https://futurama.fandom/pt-br/wiki/Hist%C3%B3ria_de_Futurama">futurama.fandom.com</a></small>
+            <small class='mb-3 d-block small pb-2 border-bottom border-2'>Novembro 23, 2022 by <a href="https://futurama.fandom/pt-br/wiki/Hist%C3%B3ria_de_Futurama">futurama.fandom.com</a></small>
             <p>Foi ao ar de 28 de março de 1999 a 10 de agosto de 2003 na Fox. No Brasil ia ao ar também pela Fox, no bloco Não Perturbe!, de segunda a sexta às 20 horas, e em janeiro de 2008 saiu da programação para dar lugar a mais um episódio de Os Simpsons. A série retornou no final de 2007, com 4 filmes divididos em 4 episódios de 30 minutos, agora a ser exibido pelo Comedy Central, responsável por, dentre outras obras, o polêmico South Park.</p>
             <p>A série tem 4 temporadas, e um filme lançado nos USA, Bender Big Score. está previsto o lançamento de mais um filme, The Beast with a Billion Backs, e depois de lançados em DVD, serão feitos mais quatro filmes que serão repartidos e exibidos na TV em 16 episódios.</p>
             <p>Futurama é uma série de desenho animado americana criada por dois produtores de magia, o cartunista Matt Groening e o roteirista David X. Cohen. Situada na Nova Nova York do ano 3000, é uma mistura inteligente e divertida de humor com ficção científica protagonizada por um entregador de pizza que fica congelado por mil anos, um robô alcoólatra e uma ciclope sexy de cabelos roxos, trazendo também outros personagens menores e não por isso menos complexos, como um cientista louco de 160 anos, um médico lagosta de sandália, uma patricinha relaxada de Marte, um capitão espacial narcisista e um burcrata de rastafári.</p>

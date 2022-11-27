@@ -2,7 +2,8 @@
 <html lang="pt-br">
 
 <head>
-  <meta charset="utf-8">
+  <meta charset="UTF-8">
+  <link rel="shortcut icon" href="img/icon.svg" type="image/x-icon">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
@@ -21,7 +22,7 @@
         <div class='col-xl-8 col-md-12 col-sm-12'>
           <article>
             <h2 class="h1 mb-1">Cyberpunk: Edgerunners</h2>
-            <small class='mb-3 d-block pb-2 border-bottom border-2'>Novembro 23, 2022 by <a href="https://br.ign.com/cyberpunk-edgerunners/102931/feature/cyberpunk-mercenarios-tera-temporada-2">br.ign.com</a></small>
+            <small class='mb-3 d-block small pb-2 border-bottom border-2'>Novembro 23, 2022 by <a href="https://br.ign.com/cyberpunk-edgerunners/102931/feature/cyberpunk-mercenarios-tera-temporada-2">br.ign.com</a></small>
             <p>O anime Cyberpunk: Mercenários (Edgerunners), do Studio Trigger e CD Projekt Red para a Netflix, está fazendo bastante sucesso entre os assinantes do serviço -- tanto, inclusive, que o game Cyberpunk 2077, no qual ele é inspirado, teve um pico de jogadores simultâneos após a estreia da adaptação televisiva.</p>
             <p>Com apenas 10 episódios, o anime é relativamente curto. Após as rápidas maratonas, espectadores podem se perguntar: Cyberpunk: Mercenários terá uma temporada 2? Bem, o propósito deste artigo é responder a essa tão importante pergunta.</p>
           </article>
