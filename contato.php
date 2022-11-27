@@ -20,7 +20,7 @@
 
       <form  class='formulario rounded rounded-3 my-5 d-flex border'>
         <div class=''>
-          <img src="img/banner/img2.jpg" alt="">
+          <img src="img/imgContato.jpg" alt="">
         </div>
         <fieldset class='d-flex flex-column'>
           <label class='h5' for="nome">Nome</label>

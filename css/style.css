@@ -468,6 +468,9 @@ body {
   .space {
     margin-top: 25px;
   }
+  .formulario fieldset {
+    padding: 20px;
+  }
 }
 @keyframes animaMenu {
   from {
