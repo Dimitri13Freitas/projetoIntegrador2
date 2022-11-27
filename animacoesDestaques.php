@@ -60,7 +60,7 @@
       </div>
       <section class='border mt-5 destaques p-0 p-3 mb-5 rounded d-flex justfy-content-between align-items-center'>
       <div class='destaquesImg'>
-          <img class='rounded' src="img/imgAnimacao/destaques/img2.jpg" alt="Rick e morty com uma estética homens de preto ">
+          <img class='rounded' src="img/imgAnimacao/destaques/img2.jpg" alt="Rick e morty com uma estética homens de preto colorido">
         </div>
         <div class='destaquesInf'>
           <h2 class='h1 mb-3 mt-2'>Rick and Morty</h2>

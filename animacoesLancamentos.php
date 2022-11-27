@@ -31,14 +31,14 @@
         </div>
         <div class='mt-xxl-5 mt-xl-5 mt-lg-5 mt-md-0 mt-sm-0'>
           <section class='lancamentos border rounded  d-flex flex-column'>
-            <img class='rounded' src="img/imgAnimacao/lancamentos/img2.jpg" alt="">
+            <img class='rounded' src="img/imgAnimacao/lancamentos/img2.jpg" alt="Buzz segurando um gatinho">
             <h3 class='h3 text-center mt-2 mb-4'>Lightyear (SpinOff de Toy Story)</h3>
             <a href="animacoesTrailerBuzz.php" class='btn btn-primary d-block'>Assistir Trailer</a>
           </section>
         </div>
         <div>
           <section class='lancamentos border rounded  m-auto my-0 d-flex flex-column'>
-            <img class='rounded' src="img/imgAnimacao/lancamentos/img3.jpg" alt="">
+            <img class='rounded' src="img/imgAnimacao/lancamentos/img3.jpg" alt="moto futurista e seu dono apreciando a vista.">
             <h3 class='h3 text-center mt-2 mb-4'>Scavengers Reign</h3>
             <a href="animacoesTrailerScavengers.php" class='btn btn-primary d-block'>Assistir Trailer</a>
           </section>

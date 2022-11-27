@@ -26,7 +26,7 @@
           <section class='premiados border rounded d-inline-block py-3 px-4'>
             <h3 class='h2 text-center mb-3'>WALL-E</h3>
             <div class='destaquesImg'>
-              <img class='rounded' src='img/imgAnimacao/premiados/img1.jpg' alt="">
+              <img class='rounded' src='img/imgAnimacao/premiados/img1.jpg' alt="Wall-e e E.V.A">
             </div>
             <ul class='m-0 mt-3 p-0 text-center d-flex flex-column align-items-center'>
               <li class='h5'>Oscar de Melhor Filme de Animação 2009</li>
@@ -40,7 +40,7 @@
           <section class='premiados space border rounded d-inline-block py-3 px-4'>
             <h3 class='h2 text-center mb-3'>O Gigante de Ferro</h3>
             <div class='destaquesImg'>
-              <img class='rounded' src='img/imgAnimacao/premiados/img2.jpg' alt="">
+              <img class='rounded' src='img/imgAnimacao/premiados/img2.jpg' alt="O gigante de ferro com seu amigo humano em sua mão">
             </div>
             <ul class='m-0 mt-3 p-0 text-center d-flex flex-column align-items-center'>
               <li class='h5'>Satellite Award de Melhor Filme de Animação</li>
@@ -56,7 +56,7 @@
           <section class='premiados border rounded d-inline-block py-3 px-4'>
             <h3 class='h2 text-center mb-3'>A Família do Futuro</h3>
             <div class='destaquesImg'>
-              <img class='rounded' src='img/imgAnimacao/premiados/img3.jpg' alt="">
+              <img class='rounded' src='img/imgAnimacao/premiados/img3.jpg' alt="todos os personagens de a familia do fururo">
             </div>
             <ul class='m-0 mt-3 p-0 text-center d-flex flex-column align-items-center'>
               <li class='h5'>Annie Award Música em uma Produção de Longa-metragem</li>
@@ -70,7 +70,7 @@
           <section class='premiados space border rounded d-inline-block py-3 px-4'>
             <h3 class='h2 text-center mb-3'>Operação Big Hero</h3>
             <div class='destaquesImg'>
-              <img class='rounded' src='img/imgAnimacao/premiados/img4.jpg' alt="">
+              <img class='rounded' src='img/imgAnimacao/premiados/img4.jpg' alt="um robô gordinho e uma criança">
             </div>
             <ul class='m-0 mt-3 p-0 text-center d-flex flex-column align-items-center'>
               <li class='h5'>Oscar de Melhor Filme de Animação</li>

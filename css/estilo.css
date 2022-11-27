@@ -63,7 +63,6 @@ body {
   padding: 10px 0px;
 }
 .logo img {
-  /* display: block; */
   width: 100%;
   overflow: hidden;
 }
@@ -142,6 +141,9 @@ body {
 /* Obras by Dimitri Freitas */
 .obras {
   background: #232323;
+}
+.obras h3 {
+  max-width: 178px;
 }
 .obras img {
   width: 178px;
@@ -307,7 +309,6 @@ body {
 .formulario fieldset input,
 .formulario fieldset textarea {
   background: rgba(0, 0, 0, 0.2);
-  /* background: #424242; */
   border: none;
   border-radius: 6px;
   resize: none;

@@ -46,9 +46,9 @@
         <article class='obras rounded border pt-4'>
           <ul class='row p-0'>
             <li class='col-xl-3 col-md-6 col-sm-12 d-flex justify-content-center'>
-              <a href="NoticiasConteudo.php">
-                <img class='rounded' src="img/banner/img3.jpg" alt="">
-                <h3 class='text-center'>Obra</h3>
+              <a href="animacaoConteudoRobots.php">
+                <img class='rounded' src="img/home/img1Obra.jpg" alt="Love, Death & Robots cartaz de anuncio">
+                <h3 class='text-center'>Love, Death & Robots</h3>
               </a>
             </li>
             <li class='col-xl-3 col-md-6 col-sm-12 d-flex justify-content-center'>
@@ -78,13 +78,13 @@
       <div class='row mb-5'>
         <div class='col-xl-6 col-sm-12 mb-5'>
           <section class='pt-2 pb-3 ps-3 m-auto pe-3 border rounded'>
-            <a href="NoticiasConteudo.php">
-              <small class='mb-2 d-block'>Filmes</small>
+            <a href="animacaoConteudoWall.php">
+              <small class='mb-2 d-block'>Animação</small>
               <div class='d-flex'>
-                <img class=' mb-3 m-auto rounded' src="img/banner/img2.jpg" alt="">
+                <img class='mb-3 m-auto rounded' src="img/imgAnimacao/premiados/img1.jpg" alt="Wall-e e E.V.A">
               </div>
-              <h3 class='text-center'>1° Review</h3>
-              <p class='text-center'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Recusandae alias perferendis nihil aliquam quos dolorem maiores vel facilis! Amet deserunt quibusdam quod porro sed cumque nulla harum rerum quis obcaecati.</p>
+              <h3 class='h3 text-center'>WALL-E</h3>
+              <p class='text-center'>Afirmar que Wall-E é simplesmente o melhor filme lançado em 2008 é pouco. Este clássico instantâneo merece muito mais. De cara, podemos afirmar que é a melhor produção assinada pela Pixar Animation, desde o início de sua parceria com os...</p>
             </a>
           </section>
         </div>

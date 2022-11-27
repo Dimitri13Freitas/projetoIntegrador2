@@ -16,29 +16,30 @@
   <main>
     <div class='container'>
       <?php include 'include/nav.php';?>
-      <?php include 'include/bannerHome.php';?>
+      <?php include 'include/bannerAnimacoes.php';?>
 
       <div class='row mt-5'>
         <div class='col-xl-8 col-md-12 col-sm-12'>
           <article>
-            <h2 class="h1 mb-1">Titulo Super Foda</h2>
-            <small class='mb-3 d-block small pb-2 border-bottom border-2'>January 1, 2014 by Dimitri</small>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos quaerat at quasi porro dignissimos! Deleniti optio recusandae, tempora, minus veritatis laboriosam dolorum a, nobis fuga ad minima in enim eos.</p>
-            <p>"Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus sint totam ab suscipit adipisci et quisquam reprehenderit ratione corporis earum illum accusantium deleniti quaerat rem voluptatibus quidem, placeat impedit qui. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit corporis, deleniti pariatur illum commodi itaque iusto, numquam, iste unde quisquam ea odit sunt possimus quo. Adipisci consequatur enim illum saepe. "</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum perferendis cum id eos tempora aut repellendus laborum soluta doloremque. Voluptatem esse expedita consectetur? Nostrum alias incidunt, necessitatibus cum facere fuga!</p>
+            <h2 class="h1 mb-1">WALL-E</h2>
+            <small class='mb-3 d-block small pb-2 border-bottom border-2'>Novembro 23, 2022 by <a href="https://www.papodecinema.com.br/filmes/wall%C2%B7e/">www.papodecinema.com.br</a></small>
+            <p>Afirmar que Wall-E é simplesmente o melhor filme lançado em 2008 é pouco. Este clássico instantâneo merece muito mais. De cara, podemos afirmar que é a melhor produção assinada pela Pixar Animation, desde o início de sua parceria com os Estúdios Disney. </p>
+            <p>E olha que o páreo é duro, batendo títulos impressionantes como Monstros S.A. (2001) e Os Incríveis (2004), entre tantos outros.</p>
+            <p>É também a animação mais inteligente em muitos anos, superando obras que falam diretamente com o público adulto, como Persépolis (2007), Happy Feet (2006) e A Viagem de Chihiro (2001). E, por fim, é perfeito do início até sua conclusão, merecedor de todas as honrarias possíveis e absolutamente apto a ser analisado ao lado de qualquer outra produção dos mais diversos gêneros, extrapolando limites e barreiras convencionais.</p>
+            <p>É o melhor do ano, independente de qualquer qualificação. Se A Bela e a Fera (1991) era, ao menos até então, o único desenho animado a ser indicado ao Oscar de Melhor Filme, Wall-E merecia mais: levar a cobiçada estatueta dourada para casa.</p>
           </article>
         </div>
       </div>
       <div class='row my-3'>
         <div class='col-xl-7 col-md-12  col-sm-12 conteudo'>
           <aside>
-            <img class='border rounded' src="img/banner/img3.jpg" alt="">
+            <img class='rounded' src="img/home/img2Obra.jpg" alt="Wall-e (personagem principal do filme) olhando com esperança para o céu logo após o sol se pôr">
           </aside>
         </div>
         <div class='col-xl-5 col-md-12 col-sm-12 sobreImg'>
-          <article class='d-inline-block p-3 rounded'>
-            <h4>Sobre a Imagem</h4>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus fugit assumenda quas aliquam?</p>
+          <article class='d-inline-block p-3 border rounded'>
+            <h4>Sobre a Imagem:</h4>
+            <p>Nesta imagen podemos ver Wall-e em montanha de lixo olhando para o céu</p>
           </article>
         </div>
       </div>
@@ -46,7 +47,8 @@
         <div class='col-xl-8 col-md-12 col-sm-12'>
           <article>
             <h6 class="remove">.</h6>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam voluptatibus commodi a debitis corrupti facere eos sed blanditiis vel quae soluta aut itaque perspiciatis possimus praesentium, ratione quaerat voluptatem pariatur. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque magni obcaecati animi consequuntur possimus quasi molestiae hic eos explicabo, iusto quia ea laboriosam fugiat nam molestias voluptate sapiente nemo neque. Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto delectus doloremque deserunt odit facere deleniti necessitatibus consectetur consequatur qui libero. Laborum ratione vero numquam rem nam! Sit quasi nobis optio?</p>
+            <p>A expressão ‘wall-e’ signfica “waste allocation load lifter – earth class”, que poderia ser livremente traduzido como “robô responsável pela reorganização de lixo – classe terrestre”. Ou seja, é um empilhador de entulho.</p>
+            <p>E o protagonista desta aventura é o último de uma geração de máquinas responsáveis em “limpar a Terra”. Isso tudo está acontecendo há mais de 800 anos no futuro, quando o planeta deixou de ser habitável e toda a Humanidade vive numa gigantesca nave espacial há séculos. Wall-E leva uma vida solitária, tendo como companhia apenas uma barata (elas sobrevivem à tudo), encaixotando pilhas de lixo, até o dia em que encontra algo fora do seu cotidiano: uma pequena plantinha, um ser orgânico diferente de tudo que tenha visto até então.</p>
           </article>
         </div>
       </div>
