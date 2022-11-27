@@ -1,7 +1,7 @@
 <?php
-echo "<div class='pt-3 mb-0 footer'>
+echo "<div class='pt-3 mb-0 mt-5 footer'>
 <footer>
-  <h2 class='h2 p-5 titulo pt-4 pb-3'>Mapa do site</h2>
+  <h2 class='h1 p-5 titulo pt-4 pb-3'>Mapa do site</h2>
   <nav class='navFooter container py-0'>
     <ul class='listaPrimaria d-flex pb-4 justify-content-between flex-wrap'>
       <li class='p-2'>Filmes

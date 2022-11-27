@@ -177,7 +177,7 @@ body {
 }
 .listaPrimaria li,
 .listaPrimaria li a {
-  color: white;
+  color: #00ba89;
   font-weight: bold;
   font-size: 1.4rem;
 }
@@ -470,6 +470,10 @@ body {
   }
   .formulario fieldset {
     padding: 20px;
+  }
+  .listaPrimaria {
+    flex-direction: column;
+    display: inline;
   }
 }
 @keyframes animaMenu {
