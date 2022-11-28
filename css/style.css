@@ -524,6 +524,7 @@ body {
 }
 .sugestao {
   text-align: center;
+  margin-top: 20px;
 }
 .sugestao ul li h4 {
   margin-top: 40px;
@@ -545,6 +546,8 @@ body {
   height: 290px;
   margin: 0 auto;
   display: block;
+  width: 100%;
+  margin-bottom: 30px;
 }
 .filmestextodestaques article h3 {
   margin-top: 60px;
@@ -552,9 +555,53 @@ body {
 .quemsomos aside img {
   width: 410px;
   height: 300px;
+  margin: 0 auto;
+  display: block;
 }
 .integrantes {
   margin-top: 30px;
+}
+.textoquemsomos article h2,
+.textoquemsomos article p {
+  max-width: 410px;
+  margin: 30px auto;
+}
+@media (max-width: 710px) {
+  .cosplaybanner {
+    display: none;
+  }
+  .imagenscosplay img {
+    display: block;
+    width: 100%;
+  }
+  .imgcosplay img {
+    display: block;
+    width: 100%;
+  }
+  .personagem {
+    margin: 20px 0 20px 0;
+  }
+}
+@media (max-width: 767px) {
+  .lado1img img {
+    display: none;
+  }
+  .sinopse h2 {
+    text-align: center;
+    font-size: 35px;
+  }
+}
+.filmesdestaques h2 {
+  text-align: center;
+}
+.filmesdestaques,
+.filmesbannerdestaques {
+  margin-top: 30px;
+}
+@media (max-width: 545px) {
+  .quemsomos aside img {
+    width: 100%;
+  }
 }
 
 /* CSS LUCAS VIEIRA */

@@ -2,12 +2,11 @@
 <html lang="pt-br">
 
 <head>
-  <meta charset="UTF-8">
-  <link rel="shortcut icon" href="img/icon.svg" type="image/x-icon">
+  <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-  <link rel="stylesheet" href="css/estilo.css">
+  <link rel="stylesheet" href="css/style.css">
 </head>
 
 <!-- RETIRAR TAMANHO DAS IMAGENS NO CSS -->
@@ -19,13 +18,13 @@
       <?php include 'include/bannerHome.php';?>
 
       <div class="row filmesdestaques">
-        <div class="col-6">
+        <div class="col-lg-7 col-md-7 col-sm-12">
           <article>
             <h2>Título foda</h2>
             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rem in eveniet molestias molestiae earum vitae, autem, nemo animi iusto nisi consectetur sed velit, quas non. Nostrum, neque! Non, ipsum modi. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, harum sunt. Consectetur autem eligendi mollitia eos facilis similique, assumenda alias possimus reiciendis officiis, nam provident amet, sed dicta esse. Neque.</p>
           </article>
         </div>
-        <div class="col-6">
+        <div class="col-lg-5 col-md-5 col-sm-12 filmesbannerdestaques">
           <aside>
             <img src="img/banner/img1.jpg" alt="fds">
           </aside>
@@ -53,7 +52,7 @@
       </div>
       <div class="row filmestextodestaques">
         <a href="filmesSinopse.php">
-            <div class="col-12">
+            <div class="col-lg-12 col-md-12 col-sm-12">
               <article>
                 <h3>Primeiro destaque</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla ullam quas obcaecati quis tempore earum accusamus vitae quasi, corrupti ex, voluptatibus nemo provident. Beatae recusandae fuga quisquam blanditiis molestiae quas. lorem
@@ -62,14 +61,15 @@
               </article>
             </div>
           <div class="row filmesbannerdestaques">
-            <div class="col-12">
+            <div class="col-lg-12 col-md-12 col-sm-12">
               <img src="img/banner/img1.jpg" alt="uau">
             </div>
           </div>
         </a>
+      </div>
       <div class="row filmestextodestaques">
         <a href="filmesSinopse.php">
-          <div class="col-12">
+          <div class="col-lg-12 col-md-12 col-sm-12">
             <article>
               <h3>Primeiro destaque</h3>
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla ullam quas obcaecati quis tempore earum accusamus vitae quasi, corrupti ex, voluptatibus nemo provident. Beatae recusandae fuga quisquam blanditiis molestiae quas. lorem
@@ -77,15 +77,16 @@
               </p>
             </article>
           </div>
-        <div class="row filmesbannerdestaques">
-          <div class="col-12">
-            <img src="img/banner/img1.jpg" alt="uau">
+          <div class="row filmesbannerdestaques">
+            <div class="col-lg-12 col-md-12 col-sm-12">
+              <img src="img/banner/img1.jpg" alt="uau">
+            </div>
           </div>
-        </div>
-      </a>
+        </a>
+      </div>
       <div class="row filmestextodestaques">
         <a href="filmesSinopse.php">
-            <div class="col-12">
+            <div class="col-lg-12 col-md-12 col-sm-12">
               <article>
                 <h3>Primeiro destaque</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla ullam quas obcaecati quis tempore earum accusamus vitae quasi, corrupti ex, voluptatibus nemo provident. Beatae recusandae fuga quisquam blanditiis molestiae quas. lorem
@@ -94,7 +95,7 @@
               </article>
             </div>
           <div class="row filmesbannerdestaques">
-            <div class="col-12">
+            <div class="col-lg-12 col-md-12 col-sm-12">
               <img src="img/banner/img1.jpg" alt="uau">
             </div>
           </div>

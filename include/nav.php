@@ -4,7 +4,7 @@ echo "<header class='header d-flex align-items-center justify-content-between bo
   <img src='./img/assets/notifications.svg' alt=''>
 </div>
 <button class='menuMobile'>Menu<span class='hamburguer'></span></button>
-<a href='index.php' class='logo'><img src='img/Logo.png' alt='Logo Escrito Los Fofuritos sem calça'></a>
+<a href='index.php' class='logo'><img src='img/logo.png' alt='Logo Escrito Los Fofuritos sem calça'></a>
 <div class='d-flex redes'>
   <a href='https://github.com/Dimitri13Freitas/projetoIntegrador2'><img src='./img/assets/github.svg' alt='Icon Logo Git-Hub'></a>
   <a href='https://github.com/Dimitri13Freitas/projetoIntegrador2'><img src='./img/assets/instagram.svg' alt='Icon Logo Instagram'></a>

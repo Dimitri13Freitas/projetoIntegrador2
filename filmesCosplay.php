@@ -2,12 +2,11 @@
 <html lang="pt-br">
 
 <head>
-  <meta charset="UTF-8">
-  <link rel="shortcut icon" href="img/icon.svg" type="image/x-icon">
+  <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-  <link rel="stylesheet" href="css/estilo.css">
+  <link rel="stylesheet" href="css/style.css">
 </head>
 
 <!-- RETIRAR TAMANHO DAS IMAGENS NO CSS -->
@@ -18,15 +17,14 @@
       <?php include 'include/nav.php';?>
       <?php include 'include/bannerHome.php';?>
 
-      
       <div class="row cosplay">
-        <div class="col-7">
+        <div class="col-lg-7 col-md-5 col-sm-12">
           <article>
             <h2>Título foda</h2>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero, dolor sunt? Rem fugit architecto pariatur dolor veritatis tenetur ipsa fuga saepe assumenda, natus corporis maiores odio eum velit commodi quia! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis dolore tempora aliquam sit facere, aliquid animi consequuntur? Dignissimos perspiciatis culpa, consectetur praesentium assumenda ratione eligendi deleniti commodi vitae sequi. Ipsam?</p>
           </article>
         </div>
-        <div class="col-5">
+        <div class="col-lg-5 col-md-7 col-sm-12 imgcosplay">
           <aside>
             <img class="border" src="img/banner/img3.jpg" alt="foda-se">
           </aside>
@@ -40,48 +38,48 @@
       <div class="row">
         <div class="col-12">
           <article>
-            <h2>Primeiro cosplay impressionante</h2>
+            <h2 class="text-center">Primeiro cosplay impressionante</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni atque aperiam esse accusantium iste velit ipsam repellat repudiandae sapiente quibusdam saepe dignissimos hic voluptatem fugit reiciendis maxime, rerum illo ut? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolores blanditiis obcaecati dignissimos quasi, et, nostrum hic totam mollitia, quaerat eveniet ratione. Quaerat aliquam debitis consequuntur fuga corporis eaque enim laboriosam.</p>
           </article>
         </div>
       </div>
       <div class="row imagenscosplay">
-        <div class="col-6">
+        <div class="col-lg-6 col-md-6 col-sm-12">
           <img src="img/banner/img2.jpg" alt="fds">
         </div>
-        <div class="col-6">
+        <div class="col-lg-6 col-md-6 col-sm-12 personagem">
           <img src="img/banner/img2.jpg" alt="ngm liga">
         </div>
       </div>
       <div class="row">
         <div class="col-12">
           <article>
-            <h2>Segundo cosplay impressionante</h2>
+            <h2 class="text-center">Segundo cosplay impressionante</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni atque aperiam esse accusantium iste velit ipsam repellat repudiandae sapiente quibusdam saepe dignissimos hic voluptatem fugit reiciendis maxime, rerum illo ut? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolores blanditiis obcaecati dignissimos quasi, et, nostrum hic totam mollitia, quaerat eveniet ratione. Quaerat aliquam debitis consequuntur fuga corporis eaque enim laboriosam.</p>
           </article>
         </div>
       </div>
       <div class="row imagenscosplay">
-        <div class="col-6">
+        <div class="col-lg-6 col-md-6 col-sm-12">
           <img src="img/banner/img2.jpg" alt="fds">
         </div>
-        <div class="col-6">
+        <div class="col-lg-6 col-md-6 col-sm-12 personagem">
           <img src="img/banner/img2.jpg" alt="ngm liga">
         </div>
       </div>
       <div class="row">
         <div class="col-12">
           <article>
-            <h2>Terceiro cosplay impressionante</h2>
+            <h2 class="text-center">Terceiro cosplay impressionante</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni atque aperiam esse accusantium iste velit ipsam repellat repudiandae sapiente quibusdam saepe dignissimos hic voluptatem fugit reiciendis maxime, rerum illo ut? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolores blanditiis obcaecati dignissimos quasi, et, nostrum hic totam mollitia, quaerat eveniet ratione. Quaerat aliquam debitis consequuntur fuga corporis eaque enim laboriosam.</p>
           </article>
         </div>
       </div>
       <div class="row imagenscosplay">
-        <div class="col-6">
+        <div class="col-lg-6 col-md-6 col-sm-12">
           <img src="img/banner/img2.jpg" alt="fds">
         </div>
-        <div class="col-6">
+        <div class="col-lg-6 col-md-6 col-sm-12 personagem">
           <img src="img/banner/img2.jpg" alt="ngm liga">
         </div>
       </div>
