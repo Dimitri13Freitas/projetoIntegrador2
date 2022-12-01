@@ -15,7 +15,7 @@ body {
   border-color: #00ba89 !important;
 }
 .titulo {
-  color: #141414 !important;
+  color: #141414;
 }
 .mt {
   margin-top: 20px;
@@ -162,7 +162,7 @@ body {
   background: rgba(0, 0, 0, 0.2);
 }
 .ultimosReviews section a img {
-  width: 335px;
+  /* width: 335px; */
   overflow: hidden;
 }
 .ultimosReviews section a {
@@ -172,10 +172,10 @@ body {
 /* Footer by Dimitri Freitas */
 .footer p {
   background: #00ba89;
-  color: #2c2c2c;
+  color: #141414;
 }
 .footer {
-  background: rgba(0, 0, 0, 0.1);
+  background: rgba(255, 255, 255, 0.5);
 }
 .listaPrimaria li,
 .listaPrimaria li a {
