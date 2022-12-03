@@ -30,7 +30,7 @@
       </div>
       <section class='border destaques mt-3 p-0 p-3 rounded d-flex justfy-content-center align-items-center'>
         <div class='destaquesImg'>
-          <img class='rounded' src="img/imgAnimacao/destaques/img1.jpg" alt="Robô com a cor laranja">
+          <img class='rounded' src="img/imgAnimacao/destaques/img1.webp" alt="Robô com a cor laranja">
         </div>
         <div class='destaquesInf'>
           <h2 class='h1 mb-3 mt-2'>Love, Death & Robots</h2>
@@ -39,6 +39,7 @@
         </div>
       </section>
       <div class="d-flex justify-content-xl-between flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
+        <?php include 'include/noticiaAnimacao2.php';?>
         <section class="noticia rounded-3 border d-flex align-items-center">
           <div class="noticiaSeila d-flex flex-column">
             <small>Filmes</small>
@@ -46,21 +47,12 @@
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
             <a href="NoticiasConteudo.php">Continuar lendo...</a>
           </div>
-          <img src="img/banner/img2.jpg" alt="">
-        </section>
-        <section class="noticia rounded-3 border d-flex align-items-center">
-          <div class="noticiaSeila d-flex flex-column">
-            <small>Filmes</small>
-            <h2 class='h2'>Seila</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
-            <a href="NoticiasConteudo.php">Continuar lendo...</a>
-          </div>
-          <img src="img/banner/img2.jpg" alt="">
+          <img src="img/banner/img2.webp" alt="">
         </section>
       </div>
       <section class='border mt-5 destaques p-0 p-3 mb-5 rounded d-flex justfy-content-between align-items-center'>
       <div class='destaquesImg'>
-          <img class='rounded' src="img/imgAnimacao/destaques/img2.jpg" alt="Rick e morty com uma estética homens de preto colorido">
+          <img class='rounded' src="img/imgAnimacao/destaques/img2.webp" alt="Rick e morty com uma estética homens de preto colorido">
         </div>
         <div class='destaquesInf'>
           <h2 class='h1 mb-3 mt-2'>Rick and Morty</h2>
@@ -70,7 +62,7 @@
       </section>
       <section class='border mt-5 destaques p-0 p-3 mb-5 rounded d-flex justfy-content-between align-items-center'>
       <div class='destaquesImg'>
-          <img class='rounded' src="img/imgAnimacao/destaques/img3.jpg" alt="Personagens da serie final space">
+          <img class='rounded' src="img/imgAnimacao/destaques/img3.webp" alt="Personagens da serie final space">
         </div>
         <div class='destaquesInf'>
           <h2 class='h1 mb-3 mt-2'>Final Space</h2>
@@ -80,7 +72,7 @@
       </section>
       <section class='border mt-5 destaques p-0 p-3 mb-5 rounded d-flex justfy-content-between align-items-center'>
       <div class='destaquesImg'>
-          <img class='rounded' src="img/imgAnimacao/destaques/img4.jpg" alt="Protagonista da respectiva serie e a vilã">
+          <img class='rounded' src="img/imgAnimacao/destaques/img4.webp" alt="Protagonista da respectiva serie e a vilã">
         </div>
         <div class='destaquesInf'>
           <h2 class='h1 mb-3 mt-2'>Cyberpunk: Edgerunners</h2>

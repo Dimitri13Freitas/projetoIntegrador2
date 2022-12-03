@@ -24,21 +24,21 @@
       <div class='lançamentosContainer d-flex justify-content-around align-items-start flex-wrap lancamentosContainer mb-5'>
         <div>
           <section class='lancamentos border rounded  d-flex flex-column'>
-            <img class='rounded' src="img/imgAnimacao/lancamentos/img1.jpg" alt="Temporada nova de Rick and Morty">
+            <img class='rounded' src="img/imgAnimacao/lancamentos/img1.webp" alt="Temporada nova de Rick and Morty">
             <h3 class='h3 text-center mt-2 mb-4'>Rick and Morty - Season 6</h3>
             <a href="animacoesTrailerRick.php" class='btn btn-primary d-block'>Assistir Trailer</a>
           </section>
         </div>
         <div class='mt-xxl-5 mt-xl-5 mt-lg-5 mt-md-0 mt-sm-0'>
           <section class='lancamentos border rounded  d-flex flex-column'>
-            <img class='rounded' src="img/imgAnimacao/lancamentos/img2.jpg" alt="Buzz segurando um gatinho">
+            <img class='rounded' src="img/imgAnimacao/lancamentos/img2.webp" alt="Buzz segurando um gatinho">
             <h3 class='h3 text-center mt-2 mb-4'>Lightyear (SpinOff de Toy Story)</h3>
             <a href="animacoesTrailerBuzz.php" class='btn btn-primary d-block'>Assistir Trailer</a>
           </section>
         </div>
         <div>
           <section class='lancamentos border rounded  m-auto my-0 d-flex flex-column'>
-            <img class='rounded' src="img/imgAnimacao/lancamentos/img3.jpg" alt="moto futurista e seu dono apreciando a vista.">
+            <img class='rounded' src="img/imgAnimacao/lancamentos/img3.webp" alt="moto futurista e seu dono apreciando a vista.">
             <h3 class='h3 text-center mt-2 mb-4'>Scavengers Reign</h3>
             <a href="animacoesTrailerScavengers.php" class='btn btn-primary d-block'>Assistir Trailer</a>
           </section>
@@ -52,7 +52,7 @@
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
             <a href="NoticiasConteudo.php">Continuar lendo...</a>
           </div>
-          <img src="img/banner/img2.jpg" alt="">
+          <img src="img/banner/img2.webp" alt="">
         </section>
         <section class="noticia rounded-3 border d-flex align-items-center">
           <div class="noticiaSeila d-flex flex-column">
@@ -61,7 +61,7 @@
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
             <a href="NoticiasConteudo.php">Continuar lendo...</a>
           </div>
-          <img src="img/banner/img2.jpg" alt="">
+          <img src="img/banner/img2.webp" alt="">
         </section>
       </div>
     </div>

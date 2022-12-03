@@ -39,7 +39,7 @@ Sangue suor e lágrimas.
       <div class='row my-3'>
         <div class='col-xl-7 col-md-12  col-sm-12 conteudo'>
           <aside>
-          <img class='rounded' src="img/imgAnimacao/destaques/img3Conteudo.jpg" alt="Todos os personagens envolvidos na trama principal da série Final space juntos.">
+          <img class='rounded' src="img/imgAnimacao/destaques/img3Conteudo.webp" alt="Todos os personagens envolvidos na trama principal da série Final space juntos.">
           </aside>
         </div>
         <div class='col-xl-5 col-md-12 col-sm-12 sobreImg'>

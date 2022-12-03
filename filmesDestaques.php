@@ -20,13 +20,14 @@
       <div class="row filmesdestaques">
         <div class="col-lg-7 col-md-7 col-sm-12">
           <article>
-            <h2>Título foda</h2>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rem in eveniet molestias molestiae earum vitae, autem, nemo animi iusto nisi consectetur sed velit, quas non. Nostrum, neque! Non, ipsum modi. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit, harum sunt. Consectetur autem eligendi mollitia eos facilis similique, assumenda alias possimus reiciendis officiis, nam provident amet, sed dicta esse. Neque.</p>
+            <h2>Ficção Científica</h2>
+            <p>A ficção científica cinematográfica é um gênero de filme que utiliza a ficção científica e a ficção especulativa com base científica de fenômenos que não são totalmente aceitos pela ciência moderna, como formas de vida extraterrestre, outros planetas, percepção extra-sensorial e viagem no tempo, juntamente com elementos futuristas tais como naves espaciais, robôs, ciborgues, rebelião das máquinas, viagens interestelares ou outras tecnologias. Filmes de ficção científica têm sido muitas vezes usados para se concentrar em questões políticas ou sociais, e para explorar questões filosóficas como a condição humana.</p>
+            <!-- Fonte:https://pt.wikipedia.org/wiki/Filme_de_fic%C3%A7%C3%A3o_cient%C3%ADfica#:~:text=A%20fic%C3%A7%C3%A3o%20cient%C3%ADfica%20cinematogr%C3%A1fica%20%C3%A9,viagem%20no%20tempo%2C%20juntamente%20com -->
           </article>
         </div>
         <div class="col-lg-5 col-md-5 col-sm-12 filmesbannerdestaques">
           <aside>
-            <img src="img/banner/img1.jpg" alt="fds">
+            <img src="img/imgDestaques.png" alt="Imagem de Naves futuristas">
           </aside>
         </div>
       </div>
@@ -51,52 +52,49 @@
         </section>
       </div>
       <div class="row filmestextodestaques">
-        <a href="filmesSinopse.php">
+        <a href="SinopseHomem-Aranha.php">
             <div class="col-lg-12 col-md-12 col-sm-12">
               <article>
-                <h3>Primeiro destaque</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla ullam quas obcaecati quis tempore earum accusamus vitae quasi, corrupti ex, voluptatibus nemo provident. Beatae recusandae fuga quisquam blanditiis molestiae quas. lorem
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate nam nihil officia ullam praesentium ipsam modi dignissimos hic, ut cumque sunt. Saepe dolorum sunt ab repellendus aliquid tempora, ut aperiam.
+                <h3>Homem-Aranha sem volta para casa </h3>
+                <p>Peter Parker tem a sua identidade secreta revelada e pede ajuda ao Doutor Estranho. Quando um feitiço para reverter o evento não sai como o esperado, o Homem-Aranha e seu companheiro dos Vingadores precisam enfrentar inimigos de todo o multiverso.
                 </p>
               </article>
             </div>
           <div class="row filmesbannerdestaques">
             <div class="col-lg-12 col-md-12 col-sm-12">
-              <img src="img/banner/img1.jpg" alt="uau">
+              <img src="img/imgMiranhaDestaques.png" alt="Banner do filme Homem Aranha sem volta para casa">
             </div>
           </div>
         </a>
       </div>
       <div class="row filmestextodestaques">
-        <a href="filmesSinopse.php">
+        <a href="SinopseJurassicWorld.php">
           <div class="col-lg-12 col-md-12 col-sm-12">
             <article>
-              <h3>Primeiro destaque</h3>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla ullam quas obcaecati quis tempore earum accusamus vitae quasi, corrupti ex, voluptatibus nemo provident. Beatae recusandae fuga quisquam blanditiis molestiae quas. lorem
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate nam nihil officia ullam praesentium ipsam modi dignissimos hic, ut cumque sunt. Saepe dolorum sunt ab repellendus aliquid tempora, ut aperiam.
+              <h3>Jurassic World 3</h3>
+              <p>Quatro anos após a destruição da Ilha Nublar, os dinossauros agora vivem e caçam ao lado de humanos em todo o mundo. Esse frágil equilíbrio remodela o futuro e deve determinar de uma vez por todas se os seres humanos continuarão sendo a espécie dominante em um planeta que agora compartilham com as criaturas mais temíveis da história
               </p>
             </article>
           </div>
           <div class="row filmesbannerdestaques">
             <div class="col-lg-12 col-md-12 col-sm-12">
-              <img src="img/banner/img1.jpg" alt="uau">
+              <img src="img/imgJurassicWorld.png" alt="Imagem do filme Jurassic World">
             </div>
           </div>
         </a>
       </div>
       <div class="row filmestextodestaques">
-        <a href="filmesSinopse.php">
+        <a href="SinopseCapitaMarvel.php">
             <div class="col-lg-12 col-md-12 col-sm-12">
               <article>
-                <h3>Primeiro destaque</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla ullam quas obcaecati quis tempore earum accusamus vitae quasi, corrupti ex, voluptatibus nemo provident. Beatae recusandae fuga quisquam blanditiis molestiae quas. lorem
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate nam nihil officia ullam praesentium ipsam modi dignissimos hic, ut cumque sunt. Saepe dolorum sunt ab repellendus aliquid tempora, ut aperiam.
+                <h3>Capitã Marvel</h3>
+                <p>Capitã Marvel, parte do exército de elite dos Kree, uma raça alienígena, encontra-se no meio de uma batalha entre seu povo e os Skrulls. Ao tentar impedir uma invasão de larga escala na Terra, em 1995, ela tem memórias recorrentes de uma outra vida, como Carol Danvers, agente da Força Aérea norte-americana. Com a ajuda de Nick Fury, Capitã Marvel precisa descobrir os segredos de seu passado e pôr um fim ao conflito intergalático com os Skrulls.
                 </p>
               </article>
             </div>
           <div class="row filmesbannerdestaques">
             <div class="col-lg-12 col-md-12 col-sm-12">
-              <img src="img/banner/img1.jpg" alt="uau">
+              <img src="img/imgCapitaMarvel.png" alt="Banner do filme Capitã Marvel">
             </div>
           </div>
         </a>

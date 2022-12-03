@@ -20,24 +20,8 @@
 
       <!-- Noticias -->
       <div class="d-flex justify-content-xl-between flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
-        <section class="noticia rounded-3  border d-flex align-items-center">
-          <div class="noticiaSeila d-flex flex-column">
-            <small>Animações</small>
-            <h2>Kid Cudi Lança seu Albúm em uma animação Netflix</h2>
-            <p>Este ano não foi fácil para Kid Cudi, mas o hitmaker de “Rager” manteve a cabeça erguida durante todos os imprevistos...</p>
-            <a href="animacaoNoticia1.php">Continuar lendo...</a>
-          </div>
-          <img src="img/imgNoticias/img1Animacao.jpg" alt="Protagonista abraçado seu novo amor.">
-        </section>
-        <section class="noticia rounded-3 border d-flex align-items-center">
-          <div class="noticiaSeila d-flex flex-column">
-            <small>Filmes</small>
-            <h2>Seila</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
-            <a href="NoticiasConteudo.php">Continuar lendo...</a>
-          </div>
-          <img src="img/banner/img2.jpg" alt="">
-        </section>
+        <?php include 'include/noticiaAnimacao1.php';?>
+        <?php include 'include/noticiaAnimacao2.php';?>
       </div>
     </div>
     <div class='bg-secondary mt-5 mb-5 obrasContainer'>
@@ -47,25 +31,25 @@
           <ul class='row p-0'>
             <li class='col-xl-3 col-md-6 col-sm-12 d-flex justify-content-center'>
               <a href="animacaoConteudoRobots.php">
-                <img class='rounded' src="img/home/img1Obra.jpg" alt="Love, Death & Robots cartaz de anuncio">
+                <img class='rounded' src="img/home/img1Obra.webp" alt="Love, Death & Robots cartaz de anuncio">
                 <h3 class='text-center'>Love, Death & Robots</h3>
               </a>
             </li>
             <li class='col-xl-3 col-md-6 col-sm-12 d-flex justify-content-center'>
               <a href="NoticiasConteudo.php">
-                <img class='rounded' src="img/banner/img3.jpg" alt="">
+                <img class='rounded' src="img/home/img1Obra.webp" alt="">
                 <h3 class='text-center'>Obra</h3>
               </a>
             </li>
             <li class='col-xl-3 col-md-6 col-sm-12 d-flex justify-content-center'>
               <a href="NoticiasConteudo.php">
-                <img class='rounded' src="img/banner/img3.jpg" alt="">
+                <img class='rounded' src="img/home/img1Obra.webp" alt="">
                 <h3 class='text-center'>Obra</h3>
               </a>
             </li>
             <li class='col-xl-3 col-md-6 col-sm-12 d-flex justify-content-center'>
               <a href="NoticiasConteudo.php">
-                <img class='rounded' src="img/banner/img3.jpg" alt="">
+                <img class='rounded' src="img/home/img1Obra.webp" alt="">
                 <h3 class='text-center'>Obra</h3>
               </a>
             </li>
@@ -81,7 +65,7 @@
             <a href="animacaoConteudoWall.php">
               <small class='mb-2 d-block'>Animação</small>
               <div class='d-flex'>
-                <img class='mb-3 m-auto rounded' src="img/imgAnimacao/premiados/img1.jpg" alt="Wall-e e E.V.A">
+                <img class='mb-3 m-auto rounded' src="img/imgAnimacao/premiados/img1.webp" alt="Wall-e e E.V.A">
               </div>
               <h3 class='h3 text-center'>WALL-E</h3>
               <p class='text-center'>Afirmar que Wall-E é simplesmente o melhor filme lançado em 2008 é pouco. Este clássico instantâneo merece muito mais. De cara, podemos afirmar que é a melhor produção assinada pela Pixar Animation, desde o início de sua parceria com os...</p>
@@ -93,7 +77,7 @@
             <a href="NoticiasConteudo.php">
               <small class='mb-2 d-block'>Filmes</small>
               <div class='d-flex'>
-                <img class=' mb-3 m-auto rounded' src="img/banner/img2.jpg" alt="">
+                <img class=' mb-3 m-auto rounded' src="img/imgAnimacao/premiados/img1.webp" alt="">
               </div>
               <h3 class='text-center'>1° Review</h3>
               <p class='text-center'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Recusandae alias perferendis nihil aliquam quos dolorem maiores vel facilis! Amet deserunt quibusdam quod porro sed cumque nulla harum rerum quis obcaecati.</p>
@@ -108,7 +92,7 @@
             <a href="NoticiasConteudo.php">
               <small class='mb-2 d-block'>Filmes</small>
               <div class='d-flex'>
-                <img class=' mb-3 m-auto rounded' src="img/banner/img2.jpg" alt="">
+                <img class=' mb-3 m-auto rounded' src="img/imgAnimacao/premiados/img1.webp" alt="">
               </div>
               <h3 class='text-center'>1° Review</h3>
               <p class='text-center'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Recusandae alias perferendis nihil aliquam quos dolorem maiores vel facilis! Amet deserunt quibusdam quod porro sed cumque nulla harum rerum quis obcaecati.</p>
@@ -120,7 +104,7 @@
             <a href="NoticiasConteudo.php">
               <small class='mb-2 d-block'>Filmes</small>
               <div class='d-flex'>
-                <img class=' mb-3 m-auto rounded' src="img/banner/img2.jpg" alt="">
+                <img class=' mb-3 m-auto rounded' src="img/imgAnimacao/premiados/img1.webp" alt="">
               </div>
               <h3 class='text-center'>1° Review</h3>
               <p class='text-center'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Recusandae alias perferendis nihil aliquam quos dolorem maiores vel facilis! Amet deserunt quibusdam quod porro sed cumque nulla harum rerum quis obcaecati.</p>

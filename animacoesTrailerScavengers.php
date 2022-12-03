@@ -31,7 +31,7 @@
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
             <a href="NoticiasConteudo.php">Continuar lendo...</a>
           </div>
-          <img src="img/banner/img2.jpg" alt="">
+          <img src="img/banner/img2.webp" alt="">
         </section>
         <section class="noticia rounded-3 border d-flex align-items-center">
           <div class="noticiaSeila d-flex flex-column">
@@ -40,7 +40,7 @@
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
             <a href="NoticiasConteudo.php">Continuar lendo...</a>
           </div>
-          <img src="img/banner/img2.jpg" alt="">
+          <img src="img/banner/img2.webp" alt="">
         </section>
       </div>
     </div>

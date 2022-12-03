@@ -20,67 +20,67 @@
       <div class="row cosplay">
         <div class="col-lg-7 col-md-5 col-sm-12">
           <article>
-            <h2>Título foda</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero, dolor sunt? Rem fugit architecto pariatur dolor veritatis tenetur ipsa fuga saepe assumenda, natus corporis maiores odio eum velit commodi quia! Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis dolore tempora aliquam sit facere, aliquid animi consequuntur? Dignissimos perspiciatis culpa, consectetur praesentium assumenda ratione eligendi deleniti commodi vitae sequi. Ipsam?</p>
+            <h2>O que é cosplay?</h2>
+            <p>Cosplay é uma atividade que consiste em fantasiar de forma correta, com acessórios e outros artigos, representando um determinado personagem. Esta atividade se originou nos Estados Unidos, em 1970, quando uma determinada convenção promoveu a entrada gratuita de pessoas fantasiadas de super-heróis.Normalmente os cosplayers se fantasiam a partir de personagens japoneses contidos em animes, mangás e videogames, produzindo sua própria fantasia (réplica), sua apresentação e até mesmo o desenvolvimento do cenário. Essa atividade permite que adultos, adolescentes e crianças participem juntas deste processo, criando vínculos entre diferentes idades.</p> <!-- Fonte:https://brasilescola.uol.com.br/artes/cosplay.htm -->
           </article>
         </div>
         <div class="col-lg-5 col-md-7 col-sm-12 imgcosplay">
           <aside>
-            <img class="border" src="img/banner/img3.jpg" alt="foda-se">
+            <img class="border" src="img/exemplo_cosplay.png" alt="Exemplo de cosplay">
           </aside>
         </div>
       </div>
       <div class="row cosplaybanner">
         <div class="col-12">
-          <img src="img/banner/img2.jpg" alt="ninguem liga">
+          <img src="img/banner_cosplay.png" alt="Cosplayers reunidos">
         </div>
       </div>
       <div class="row">
         <div class="col-12">
           <article>
-            <h2 class="text-center">Primeiro cosplay impressionante</h2>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni atque aperiam esse accusantium iste velit ipsam repellat repudiandae sapiente quibusdam saepe dignissimos hic voluptatem fugit reiciendis maxime, rerum illo ut? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolores blanditiis obcaecati dignissimos quasi, et, nostrum hic totam mollitia, quaerat eveniet ratione. Quaerat aliquam debitis consequuntur fuga corporis eaque enim laboriosam.</p>
+            <h2 class="text-center">Thor</h2>
+            <p>Thor é um personagem fictício que aparece nas histórias em quadrinhos, publicadas pela Marvel Comics, baseadas no deus Thor da Mitologia Nórdica, ele foi criado por Stan Lee e Jack Kirby. Sua principal arma é o martelo Mjonir. Ele ficou muito conhecido quando teve participação em diversos filmes dos Vingadores.</p>
           </article>
         </div>
       </div>
       <div class="row imagenscosplay">
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <img src="img/banner/img2.jpg" alt="fds">
+          <img src="img/cosplaythor.png" alt="Imagem do cosplay do thor">
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12 personagem">
-          <img src="img/banner/img2.jpg" alt="ngm liga">
+          <img src="img/personagemthor.png" alt="Imagem do personagem fictício thor criado pela marvel">
         </div>
       </div>
       <div class="row">
         <div class="col-12">
           <article>
-            <h2 class="text-center">Segundo cosplay impressionante</h2>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni atque aperiam esse accusantium iste velit ipsam repellat repudiandae sapiente quibusdam saepe dignissimos hic voluptatem fugit reiciendis maxime, rerum illo ut? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolores blanditiis obcaecati dignissimos quasi, et, nostrum hic totam mollitia, quaerat eveniet ratione. Quaerat aliquam debitis consequuntur fuga corporis eaque enim laboriosam.</p>
+            <h2 class="text-center">Doutor Estranho</h2>
+            <p>O doutor Stephen Vincent Strange, mais conhecido como Doutor Estranho, é um super-herói que aparece nos quadrinhos publicados pela Marvel Comics. Criado pelo desenhista Steve Ditko e pelo roteirista Stan Lee, o personagem apareceu pela primeira vez em Strange Tales #110</p>
           </article>
         </div>
       </div>
       <div class="row imagenscosplay">
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <img src="img/banner/img2.jpg" alt="fds">
+          <img src="img/cosplaydrestranho.png" alt="Cosplay do personagem fictício Dr.Estranho">
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12 personagem">
-          <img src="img/banner/img2.jpg" alt="ngm liga">
+          <img src="img/personagemdrestranho.png" alt="Personagem fictício Dr.Estranho">
         </div>
       </div>
       <div class="row">
         <div class="col-12">
           <article>
-            <h2 class="text-center">Terceiro cosplay impressionante</h2>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni atque aperiam esse accusantium iste velit ipsam repellat repudiandae sapiente quibusdam saepe dignissimos hic voluptatem fugit reiciendis maxime, rerum illo ut? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolores blanditiis obcaecati dignissimos quasi, et, nostrum hic totam mollitia, quaerat eveniet ratione. Quaerat aliquam debitis consequuntur fuga corporis eaque enim laboriosam.</p>
+            <h2 class="text-center">Buzz Lightyear</h2>
+            <p>história de origem definitiva de Buzz Lightyear, o herói que inspirou o brinquedo em Toy Story (1995). Lightyear segue o lendário Patrulheiro Espacial depois que em um teste de voo da nave espacial faz com que ele vá para um planeta hostil e fique abandonado a 4,2 milhões de anos-luz da Terra ao lado de seu comandante e sua tripulação.</p>
           </article>
         </div>
       </div>
       <div class="row imagenscosplay">
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <img src="img/banner/img2.jpg" alt="fds">
+          <img src="img/cosplaybuzz.png" alt="Cosplay do personagem fictício buzz lightyear">
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12 personagem">
-          <img src="img/banner/img2.jpg" alt="ngm liga">
+          <img src="img/personagembuzz.png" alt="Personagem Fictício Buzz Lightyear">
         </div>
       </div>
       <div class="d-flex justify-content-xl-between flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">

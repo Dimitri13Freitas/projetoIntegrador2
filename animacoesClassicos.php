@@ -29,7 +29,7 @@
       </div>
       <section class='border destaques mt-3 p-0 p-3 rounded d-flex justfy-content-center align-items-center'>
         <div class='destaquesImg'>
-          <img class='rounded' src="img/imgAnimacao/classicos/img1.jpg" alt="Futurama Fry, Bender e leela abraçados">
+          <img class='rounded' src="img/imgAnimacao/classicos/img1.webp" alt="Futurama Fry, Bender e leela abraçados">
         </div>
         <div class='destaquesInf'>
           <h2 class='h1 mb-3 mt-2'>Futurama</h2>
@@ -39,7 +39,7 @@
       </section>
       <section class='border mt-5 destaques p-0 p-3 mb-5 rounded d-flex justfy-content-between align-items-center'>
         <div class='destaquesImg'>
-          <img class='rounded' src="img/imgAnimacao/classicos/img2.jpg" alt="PAtolino Gaguinho e marciano olhando para a tela">
+          <img class='rounded' src="img/imgAnimacao/classicos/img2.webp" alt="PAtolino Gaguinho e marciano olhando para a tela">
         </div>
         <div class='destaquesInf'>
           <h2 class='h1 mb-3 mt-2'>Duck Dodgers</h2>
@@ -55,7 +55,7 @@
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
             <a href="NoticiasConteudo.php">Continuar lendo...</a>
           </div>
-          <img src="img/banner/img2.jpg" alt="">
+          <img src="img/banner/img2.webp" alt="">
         </section>
         <section class="noticia rounded-3 border d-flex align-items-center">
           <div class="noticiaSeila d-flex flex-column">
@@ -64,12 +64,12 @@
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
             <a href="NoticiasConteudo.php">Continuar lendo...</a>
           </div>
-          <img src="img/banner/img2.jpg" alt="">
+          <img src="img/banner/img2.webp" alt="">
         </section>
       </div>
       <section class='border mt-5 destaques p-0 p-3 mb-5 rounded d-flex justfy-content-between align-items-center'>
       <div class='destaquesImg'>
-          <img class='rounded' src="img/imgAnimacao/classicos/img3.jpg" alt="Robô zeta, vulgo, personagem principal">
+          <img class='rounded' src="img/imgAnimacao/classicos/img3.webp" alt="Robô zeta, vulgo, personagem principal">
         </div>
         <div class='destaquesInf'>
           <h2 class='h1 mb-3 mt-2'>Projeto Zeta</h2>
@@ -79,7 +79,7 @@
       </section>
       <section class='border mt-5 destaques p-0 p-3 mb-5 rounded d-flex justfy-content-between align-items-center'>
       <div class='destaquesImg'>
-          <img class='rounded' src="img/imgAnimacao/classicos/img4.jpg" alt="A familia jetsons andando em seu carro voador">
+          <img class='rounded' src="img/imgAnimacao/classicos/img4.webp" alt="A familia jetsons andando em seu carro voador">
         </div>
         <div class='destaquesInf'>
           <h2 class='h1 mb-3 mt-2'>Os Jetsons</h2>

@@ -31,7 +31,7 @@
       <div class='row my-3'>
         <div class='col-xl-7 col-md-12  col-sm-12 conteudo'>
           <aside>
-            <img class='rounded' src="img/imgAnimacao/destaques/img3Conteudo.jpg" alt="Todos os personagens envolvidos na trama principal da série Final space juntos.">
+            <img class='rounded' src="img/imgAnimacao/destaques/img3Conteudo.webp" alt="Todos os personagens envolvidos na trama principal da série Final space juntos.">
           </aside>
         </div>
         <div class='col-xl-5 col-md-12 col-sm-12 sobreImg'>
@@ -58,7 +58,7 @@
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
             <a href="NoticiasConteudo.php">Continuar lendo...</a>
           </div>
-          <img src="img/banner/img2.jpg" alt="">
+          <img src="img/banner/img2.webp" alt="">
         </section>
         <section class="noticia rounded-3 border d-flex align-items-center">
           <div class="noticiaSeila d-flex flex-column">
@@ -67,7 +67,7 @@
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
             <a href="NoticiasConteudo.php">Continuar lendo...</a>
           </div>
-          <img src="img/banner/img2.jpg" alt="">
+          <img src="img/banner/img2.webp" alt="">
         </section>
       </div>
     </div>
