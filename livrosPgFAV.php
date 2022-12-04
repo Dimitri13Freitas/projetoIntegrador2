@@ -13,8 +13,7 @@
 <main>
     <div class='container'>
       <?php include 'include/nav.php';?>
-      <?php include 'include/bannerHome.php';?>
-    
+      <?php include 'include/bannerLivros.php';?>    
     <div class="row">
       <div class=" sla col-12">
         <h1>Livro 1</h1>

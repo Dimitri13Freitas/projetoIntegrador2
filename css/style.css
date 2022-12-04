@@ -90,6 +90,22 @@ body {
   background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
     url("../img/banner/bannerAnimacao.webp");
 }
+.bannerFilmes .banner {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)),
+    url("../img/banner/bannerFilmes.webp");
+}
+.bannerFilmes .banner:hover {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    url("../img/banner/bannerFilmes.webp");
+}
+.bannerLivros .banner {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)),
+    url("../img/banner/bannerLivros.webp");
+}
+.bannerLivros .banner:hover {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    url("../img/banner/bannerLivros.webp");
+}
 .banner h2 {
   color: #f1f1f1;
 }

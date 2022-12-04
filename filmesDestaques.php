@@ -15,7 +15,7 @@
   <main>
     <div class='container'>
       <?php include 'include/nav.php';?>
-      <?php include 'include/bannerHome.php';?>
+      <?php include 'include/bannerFilmes.php';?>
 
       <div class="row filmesdestaques">
         <div class="col-lg-7 col-md-7 col-sm-12">
@@ -27,7 +27,7 @@
         </div>
         <div class="col-lg-5 col-md-5 col-sm-12 filmesbannerdestaques">
           <aside>
-            <img src="img/imgDestaques.png" alt="Imagem de Naves futuristas">
+            <img src="img/imgFilmes/imgDestaques.webp" alt="Imagem de Naves futuristas">
           </aside>
         </div>
       </div>
@@ -62,7 +62,7 @@
             </div>
           <div class="row filmesbannerdestaques">
             <div class="col-lg-12 col-md-12 col-sm-12">
-              <img src="img/imgMiranhaDestaques.png" alt="Banner do filme Homem Aranha sem volta para casa">
+              <img src="img/imgFilmes/imgMiranhaDestaques.webp" alt="Banner do filme Homem Aranha sem volta para casa">
             </div>
           </div>
         </a>
@@ -78,7 +78,7 @@
           </div>
           <div class="row filmesbannerdestaques">
             <div class="col-lg-12 col-md-12 col-sm-12">
-              <img src="img/imgJurassicWorld.png" alt="Imagem do filme Jurassic World">
+              <img src="img/imgFilmes/imgJurassicWorld.webp" alt="Imagem do filme Jurassic World">
             </div>
           </div>
         </a>
@@ -94,7 +94,7 @@
             </div>
           <div class="row filmesbannerdestaques">
             <div class="col-lg-12 col-md-12 col-sm-12">
-              <img src="img/imgCapitaMarvel.png" alt="Banner do filme Capitã Marvel">
+              <img src="img/imgFilmes/imgCapitaMarvel.webp" alt="Banner do filme Capitã Marvel">
             </div>
           </div>
         </a>

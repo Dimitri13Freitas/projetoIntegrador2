@@ -15,7 +15,7 @@
   <main>
     <div class='container'>
       <?php include 'include/nav.php';?>
-      <?php include 'include/bannerHome.php';?>
+      <?php include 'include/bannerFilmes.php';?>
       
       <div class="row">
         <div class="lado1 col-lg-8 col-md-12 col-sm-12">
@@ -29,7 +29,7 @@
               </div>
               <div class="col-lg-5 col-md-6 col-sm-12 m-0 p-0">
                 <aside>
-                  <img class="rounded " src="img/imgPrincipaisStarWars.png" alt="Imagem do Filme Star Wars IV">
+                  <img class="rounded " src="img/imgFilmes/imgPrincipaisStarWars.webp" alt="Imagem do Filme Star Wars IV">
                 </aside>
               </div>
             </section>
@@ -44,7 +44,7 @@
               </div>
               <div class="col-lg-5 col-md-6 col-sm-12 m-0 p-0">
                 <aside>
-                  <img class="rounded " src="img/imgPrincipaisPlanetaDosMacacos.png" alt="">
+                  <img class="rounded " src="img/imgFilmes/imgPrincipaisPlanetaDosMacacos.webp" alt="">
                 </aside>
               </div>
             </section>
@@ -59,7 +59,7 @@
               </div>
               <div class="col-lg-5 col-md-6 col-sm-12 m-0 p-0">
                 <aside>
-                  <img class="rounded " src="img/imgPrincipaisDepoisDaTerra.png" alt="Imagem do Filme Depois da Terra">
+                  <img class="rounded " src="img/imgFilmes/imgPrincipaisDepoisDaTerra.webp" alt="Imagem do Filme Depois da Terra">
                 </aside>
               </div>
             </section>

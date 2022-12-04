@@ -15,7 +15,7 @@
   <main>
     <div class='container'>
       <?php include 'include/nav.php';?>
-      <?php include 'include/bannerHome.php';?>
+      <?php include 'include/bannerFilmes.php';?>
 
       <div class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 sinopse">
@@ -28,7 +28,7 @@
       </div>
       <div class="row bannersinopse">
         <div class="col-lg-12 col-md-12 col-sm-12">
-          <img class="border border-5" src="img/imgAvatar2.png" alt="Imagem do banner do filme Avatar 2">
+          <img class="border border-5" src="img/imgFilmes/imgAvatar2.webp" alt="Imagem do banner do filme Avatar 2">
         </div>
       </div>
     </div>

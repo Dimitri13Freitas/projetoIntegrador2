@@ -39,7 +39,7 @@
         </div>
       </section>
       <div class="d-flex justify-content-xl-between flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
-        <?php include 'include/noticiaAnimacao2.php';?>
+        <?php include 'include/noticiaAnimacao3.php';?>
         <section class="noticia rounded-3 border d-flex align-items-center">
           <div class="noticiaSeila d-flex flex-column">
             <small>Filmes</small>

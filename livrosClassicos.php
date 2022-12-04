@@ -13,8 +13,7 @@
 <main>
     <div class='container'>
       <?php include 'include/nav.php';?>
-      <?php include 'include/bannerHome.php';?>
-    
+      <?php include 'include/bannerLivros.php';?>    
     
     <div class=" sla row justify-content-center ">
       <article class="  col-xl-5 col-md-6 col-sm-12">

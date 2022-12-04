@@ -15,7 +15,7 @@
   <main>
     <div class='container'>
       <?php include 'include/nav.php';?>
-      <?php include 'include/bannerHome.php';?>
+      <?php include 'include/bannerFilmes.php';?>
 
       <div class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 sinopse">

@@ -15,7 +15,7 @@
   <main>
     <div class='container'>
       <?php include 'include/nav.php';?>
-      <?php include 'include/bannerHome.php';?>
+      <?php include 'include/bannerFilmes.php';?>
 
       <div class="row cosplay">
         <div class="col-lg-7 col-md-5 col-sm-12">
@@ -26,13 +26,13 @@
         </div>
         <div class="col-lg-5 col-md-7 col-sm-12 imgcosplay">
           <aside>
-            <img class="border" src="img/exemplo_cosplay.png" alt="Exemplo de cosplay">
+            <img class="border" src="img/imgFilmes/exemplo-cosplay.webp" alt="Exemplo de cosplay">
           </aside>
         </div>
       </div>
       <div class="row cosplaybanner">
         <div class="col-12">
-          <img src="img/banner_cosplay.png" alt="Cosplayers reunidos">
+          <img src="img/imgFilmes/banner-cosplay.webp" alt="Cosplayers reunidos">
         </div>
       </div>
       <div class="row">
@@ -45,10 +45,10 @@
       </div>
       <div class="row imagenscosplay">
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <img src="img/cosplaythor.png" alt="Imagem do cosplay do thor">
+          <img src="img/imgFilmes/cosplaythor.webp" alt="Imagem do cosplay do thor">
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12 personagem">
-          <img src="img/personagemthor.png" alt="Imagem do personagem fictício thor criado pela marvel">
+          <img src="img/imgFilmes/personagemthor.webp" alt="Imagem do personagem fictício thor criado pela marvel">
         </div>
       </div>
       <div class="row">
@@ -61,10 +61,10 @@
       </div>
       <div class="row imagenscosplay">
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <img src="img/cosplaydrestranho.png" alt="Cosplay do personagem fictício Dr.Estranho">
+          <img src="img/imgFilmes/cosplaydrestranho.webp" alt="Cosplay do personagem fictício Dr.Estranho">
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12 personagem">
-          <img src="img/personagemdrestranho.png" alt="Personagem fictício Dr.Estranho">
+          <img src="img/imgFilmes/personagemdrestranho.webp" alt="Personagem fictício Dr.Estranho">
         </div>
       </div>
       <div class="row">
@@ -77,10 +77,10 @@
       </div>
       <div class="row imagenscosplay">
         <div class="col-lg-6 col-md-6 col-sm-12">
-          <img src="img/cosplaybuzz.png" alt="Cosplay do personagem fictício buzz lightyear">
+          <img src="img/imgFilmes/cosplaybuzz.webp" alt="Cosplay do personagem fictício buzz lightyear">
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12 personagem">
-          <img src="img/personagembuzz.png" alt="Personagem Fictício Buzz Lightyear">
+          <img src="img/imgFilmes/personagembuzz.webp" alt="Personagem Fictício Buzz Lightyear">
         </div>
       </div>
       <div class="d-flex justify-content-xl-between flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">

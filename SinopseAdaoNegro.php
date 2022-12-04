@@ -15,7 +15,7 @@
   <main>
     <div class='container'>
       <?php include 'include/nav.php';?>
-      <?php include 'include/bannerHome.php';?>
+      <?php include 'include/bannerFilmes.php';?>
 
       <div class="row">
         <div class="col-lg-12 col-md-12 col-sm-12 sinopse">
@@ -28,7 +28,7 @@
       </div>
       <div class="row bannersinopse">
         <div class="col-lg-12 col-md-12 col-sm-12">
-          <img class="border border-5" src="img/imgAdaoNegro.png" alt="Imagem do Adão Negro">
+          <img class="border border-5" src="img/imgFilmes/imgAdaoNegro.webp" alt="Imagem do Adão Negro">
         </div>
       </div>
     </div>

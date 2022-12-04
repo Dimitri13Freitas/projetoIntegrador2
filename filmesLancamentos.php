@@ -15,7 +15,7 @@
   <main>
     <div class='container'>
       <?php include 'include/nav.php';?>
-      <?php include 'include/bannerHome.php';?>
+      <?php include 'include/bannerFilmes.php';?>
       
       <div class="row">
         <div class="lado1 col-lg-8 col-md-12 col-sm-12">
@@ -29,7 +29,7 @@
               </div>
               <div class="col-lg-5 col-md-6 col-sm-12 m-0 p-0">
                 <aside>
-                  <img class="rounded " src="img/imgAvatar2.png" alt="Banner do filme avatar 2">
+                  <img class="rounded " src="img/imgFilmes/imgAvatar2.webp" alt="Banner do filme avatar 2">
                 </aside>
               </div>
             </section>
@@ -44,7 +44,7 @@
               </div>
               <div class="col-lg-5 col-md-6 col-sm-12 m-0 p-0">
                 <aside>
-                  <img class="rounded " src="img/imgAdaoNegro.png" alt="Banner do Filme Adão Negro">
+                  <img class="rounded " src="img/imgFilmes/imgAdaoNegro.webp" alt="Banner do Filme Adão Negro">
                 </aside>
               </div>
             </section>
@@ -53,13 +53,13 @@
             <section class="row lado1img rounded border  p-3">
               <div class="col-lg-7 col-md-6 col-sm-12">
                 <article>
-                  <h3>Não Não Olhe</h3>
+                  <h3>Não! Não Olhe!</h3>
                   <p>Os cuidadores de um rancho de cavalos na Califórnia encontram uma força misteriosa que afeta o comportamento humano e animal.</p>
                 </article>
               </div>
               <div class="col-lg-5 col-md-6 col-sm-12 m-0 p-0">
                 <aside>
-                  <img class="rounded " src="img/imgLancamentosNaoNaoOlhe.png" alt="">
+                  <img class="rounded " src="img/imgFilmes/imgLancamentosNaoNaoOlhe.webp" alt="Imagem do Filme não não olhe">
                 </aside>
               </div>
             </section>

@@ -21,7 +21,7 @@
       <div class='row mt-5'>
         <div class='col-xl-8 col-md-12 col-sm-12'>
           <article>
-            <h2 class="h1 mb-1">Futurama</h2>
+            <h2 class="h1 mb-1">Duck Dodgers</h2>
             <small class='mb-3 d-block small pb-2 border-bottom border-2'>Novembro 23, 2022 by <a href="https://pt.wikipedia.org/wiki/Duck_Dodgers">duckdogers.fandom.com</a></small>
             <p>Se tem algo que faz parte da infância de todos nós (e espero que ainda faça das crianças de hoje e sempre) é a série de desenhos Looney Tunes>. São vários personagens únicos e um mais engraçado que o outro, sendo um dos meus favoritos (talvez o número 1) ele, o pato mais ignorante, arrogante, insuportável e babão de todos: Patolino. Patolino é o terceiro personagem dos Looney Tunes com mais aparições em desenhos, ficando atrás somente do Gaguinho e Pernalonga.</p>
             <p>Ele foi introduzido no desenho “Gaguinho e a caça ao pato” e por muito tempo foi coadjuvante dos desenhos do mesmo. Mais pra frente, em 1953, ele representou um heroi espacial no desenho Duck Dodgers no século 24½, sendo que Gaguinho era o seu coadjuvante. É engraçado que aquele pato tinha conseguido passar o porquinho para o segundo plano, mas é um fato que o Patolino talvez só não consiga ser mais famoso que o Pernalonga.</p>
