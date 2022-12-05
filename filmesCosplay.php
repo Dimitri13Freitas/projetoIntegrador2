@@ -84,24 +84,8 @@
         </div>
       </div>
       <div class="d-flex justify-content-xl-between flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
-        <section class="noticia rounded-3  border d-flex align-items-center">
-          <div class="noticiaSeila d-flex flex-column">
-            <small>Filmes</small>
-            <h2>Seila</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
-            <a href="NoticiasConteudo.php">Continuar lendo...</a>
-          </div>
-          <img src="img/banner/img2.jpg" alt="">
-        </section>
-        <section class="noticia rounded-3 border d-flex align-items-center">
-          <div class="noticiaSeila d-flex flex-column">
-            <small>Filmes</small>
-            <h2>Seila</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
-            <a href="NoticiasConteudo.php">Continuar lendo...</a>
-          </div>
-          <img src="img/banner/img2.jpg" alt="">
-        </section>
+      <?php include 'include/noticiaFilme1.php';?>
+      <?php include 'include/noticiaFilme2.php';?>
       </div>
     </div>
     <?php include 'include/footer.php';?>

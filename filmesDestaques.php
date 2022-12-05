@@ -27,29 +27,13 @@
         </div>
         <div class="col-lg-5 col-md-5 col-sm-12 filmesbannerdestaques">
           <aside>
-            <img src="img/imgFilmes/imgDestaques.webp" alt="Imagem de Naves futuristas">
+            <img class='rounded' src="img/imgFilmes/imgDestaques.webp" alt="Imagem de Naves futuristas">
           </aside>
         </div>
       </div>
       <div class="d-flex justify-content-xl-between flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
-        <section class="noticia rounded-3  border d-flex align-items-center">
-          <div class="noticiaSeila d-flex flex-column">
-            <small>Filmes</small>
-            <h2>Seila</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
-            <a href="NoticiasConteudo.php">Continuar lendo...</a>
-          </div>
-          <img src="img/banner/img2.jpg" alt="">
-        </section>
-        <section class="noticia rounded-3 border d-flex align-items-center">
-          <div class="noticiaSeila d-flex flex-column">
-            <small>Filmes</small>
-            <h2>Seila</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
-            <a href="NoticiasConteudo.php">Continuar lendo...</a>
-          </div>
-          <img src="img/banner/img2.jpg" alt="">
-        </section>
+      <?php include 'include/noticiaFilme3.php';?>
+      <?php include 'include/noticiaFilme1.php';?>
       </div>
       <div class="row filmestextodestaques">
         <a href="SinopseHomem-Aranha.php">
@@ -62,7 +46,7 @@
             </div>
           <div class="row filmesbannerdestaques">
             <div class="col-lg-12 col-md-12 col-sm-12">
-              <img src="img/imgFilmes/imgMiranhaDestaques.webp" alt="Banner do filme Homem Aranha sem volta para casa">
+              <img class='rounded' src="img/imgFilmes/imgMiranhaDestaques.webp" alt="Banner do filme Homem Aranha sem volta para casa">
             </div>
           </div>
         </a>
@@ -78,7 +62,7 @@
           </div>
           <div class="row filmesbannerdestaques">
             <div class="col-lg-12 col-md-12 col-sm-12">
-              <img src="img/imgFilmes/imgJurassicWorld.webp" alt="Imagem do filme Jurassic World">
+              <img class='rounded' src="img/imgFilmes/imgJurassic.webp" alt="Imagem do filme Jurassic World">
             </div>
           </div>
         </a>
@@ -94,7 +78,7 @@
             </div>
           <div class="row filmesbannerdestaques">
             <div class="col-lg-12 col-md-12 col-sm-12">
-              <img src="img/imgFilmes/imgCapitaMarvel.webp" alt="Banner do filme Capitã Marvel">
+              <img class='rounded' src="img/imgFilmes/imgCapitaMarvel.webp" alt="Banner do filme Capitã Marvel">
             </div>
           </div>
         </a>

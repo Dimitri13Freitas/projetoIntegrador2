@@ -29,7 +29,7 @@
               </div>
               <div class="col-lg-5 col-md-6 col-sm-12 m-0 p-0">
                 <aside>
-                  <img class="rounded " src="img/imgFilmes/imgavatarlancamentos.webp" alt="Banner do filme avatar 2">
+                  <img class="rounded " src="img/imgFilmes/imgAvatarLancamentos.webp" alt="Banner do filme avatar 2">
                 </aside>
               </div>
             </section>
@@ -44,7 +44,7 @@
               </div>
               <div class="col-lg-5 col-md-6 col-sm-12 m-0 p-0">
                 <aside>
-                  <img class="rounded " src="img/imgFilmes/imgadaonegrolancamentos.webp" alt="Banner do Filme Adão Negro">
+                  <img class="rounded " src="img/imgFilmes/imgAdaoNegroLancamentos.webp" alt="Banner do Filme Adão Negro">
                 </aside>
               </div>
             </section>
@@ -59,7 +59,7 @@
               </div>
               <div class="col-lg-5 col-md-6 col-sm-12 m-0 p-0">
                 <aside>
-                  <img class="rounded " src="img/imgFilmes/imgnaonaoolhelancamentos.webp" alt="Imagem do Filme não não olhe">
+                  <img class="rounded " src="img/imgFilmes/imgNaoNaoOlheLancamentos.webp" alt="Imagem do Filme não não olhe">
                 </aside>
               </div>
             </section>

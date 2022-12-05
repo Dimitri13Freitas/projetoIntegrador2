@@ -507,8 +507,6 @@ body {
 
 /* CSS LUCAS PEREIRA */
 .cosplay img {
-  width: 370px;
-  height: 360px;
   margin: 0 auto;
   display: block;
 }
@@ -518,15 +516,12 @@ body {
   margin: 25px 0;
 }
 .imagenscosplay img {
-  width: 460px;
-  height: 400px;
+  width: 100%;
 }
 .cosplay {
   margin-top: 30px;
 }
 .lado1img img {
-  width: 220px;
-  height: 305px;
   display: block;
   margin: 0 auto;
 }
@@ -542,31 +537,25 @@ body {
 }
 .bannersinopse img {
   width: 100%;
-  height: 400px;
 }
 .filmesdestaques img {
-  width: 456px;
-  height: 290px;
+  width: 100%;
 }
 .filmestextodestaques article h3,
 .filmestextodestaques article p {
   text-align: center;
 }
 .filmesbannerdestaques img {
-  width: 855px;
-  height: 290px;
+  width: 100%;
   margin: 0 auto;
   display: block;
-  width: 100%;
   margin-bottom: 30px;
 }
 .filmestextodestaques article h3 {
   margin-top: 60px;
 }
 .quemsomos aside img {
-  width: 410px;
-  height: 300px;
-  margin: 0 auto;
+  margin: 30px auto;
   display: block;
 }
 .integrantes {
