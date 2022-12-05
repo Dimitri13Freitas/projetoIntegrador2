@@ -8,6 +8,15 @@ body {
   background: #2c2c2c;
   color: #f1f1f1 !important;
 }
+a.verde {
+  color: #008a65;
+}
+a.verde:hover {
+  color: #00ba89;
+}
+a {
+  color: #f1f1f1;
+}
 .remove {
   display: none;
 }
@@ -555,16 +564,16 @@ body {
   margin-top: 60px;
 }
 .quemsomos aside img {
-  margin: 30px auto;
   display: block;
 }
 .integrantes {
   margin-top: 30px;
 }
-.textoquemsomos article h2,
-.textoquemsomos article p {
-  max-width: 410px;
-  margin: 30px auto;
+.pags {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
 }
 @media (max-width: 710px) {
   .cosplaybanner {
