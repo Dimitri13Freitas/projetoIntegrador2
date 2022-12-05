@@ -74,6 +74,8 @@ body {
   background-size: cover;
   height: 320px;
 }
+
+/* Home */
 .bannerHome .banner {
   background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)),
     url("../img/banner/bannerDefault.webp");
@@ -82,6 +84,8 @@ body {
   background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
     url("../img/banner/bannerDefault.webp");
 }
+
+/* Animações */
 .bannerAnimacoes .banner {
   background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)),
     url("../img/banner/bannerAnimacao.webp");
@@ -90,6 +94,8 @@ body {
   background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
     url("../img/banner/bannerAnimacao.webp");
 }
+
+/* Filmes */
 .bannerFilmes .banner {
   background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)),
     url("../img/banner/bannerFilmes.webp");
@@ -98,6 +104,8 @@ body {
   background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
     url("../img/banner/bannerFilmes.webp");
 }
+
+/* Livros */
 .bannerLivros .banner {
   background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)),
     url("../img/banner/bannerLivros.webp");
@@ -106,6 +114,7 @@ body {
   background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
     url("../img/banner/bannerLivros.webp");
 }
+
 .banner h2 {
   color: #f1f1f1;
 }
