@@ -28,7 +28,7 @@
       </div>
       <div class="row bannersinopse">
         <div class="col-lg-12 col-md-12 col-sm-12">
-          <img class="border border-5" src="img/imgFilmes/imgJurassicWorld.webp" alt="Imagem do banner do filme jurassic world">
+          <img  class="border rounded border-5" src="img/imgFilmes/imgJurassic.webp" alt="Imagem do banner do filme jurassic world">
         </div>
       </div>
     </div>
