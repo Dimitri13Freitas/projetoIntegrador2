@@ -31,7 +31,7 @@
       <div class='row my-3'>
         <div class='col-xl-7 col-md-12  col-sm-12 conteudo'>
           <aside>
-            <img class='rounded' src="img/imgNoticias/img1ConteudoAnimacao.webp" alt="Protagonista e seus amigos tomando uma cerveja no terrasso de um prédio">
+            <img class='rounded' src="img/imgNoticias/noticiasAnimacao/img1conteudoanimacao.webp" alt="Protagonista e seus amigos tomando uma cerveja no terrasso de um prédio">
           </aside>
         </div>
         <div class='col-xl-5 col-md-12 col-sm-12 sobreImg'>

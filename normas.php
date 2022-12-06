@@ -16,25 +16,25 @@
       <?php include 'include/nav.php';?>
       <?php include 'include/bannerHome.php';?>
 
-      <div class="row">
-        <article class="col-12">
-          <h1 class="titulos3">Termos e condições de uso do nosso portal </h1>
-          <p> Seja bem-vindo ao nosso site. Leia com atenção todos os termos abaixo. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate enim et corrupti voluptates similique animi! Delectus, ut, mollitia ex autem rerum, accusamus reprehenderit magni culpa iusto nostrum error dolores quasi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad suscipit, natus repellat itaque praesentium placeat vero fugiat harum dolorem exercitationem voluptatum molestiae necessitatibus incidunt optio corporis! Voluptate amet maiores recusandae?Lorem, ipsum dolor sit amet consectetur adipisicing elit. Impedit sint quisquam vitae fuga quae exercitationem ea, nemo sed optio ut dolorem placeat delectus quibusdam voluptate, dignissimos laborum, corrupti neque. Corrupti?Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempore totam quo possimus. Cumque saepe odio corporis dicta? Unde, quis dolor magni consequuntur, modi, sunt nisi dolore nesciunt debitis impedit blanditiis.</p>
+      <div class="row espaço">
+        <article class=" col-12">
+          <h1 class=" espaço titulos3">Termos e condições de uso do nosso portal </h1>
+          <p> Seja bem-vindo ao nosso site. Leia com atenção todos os termos abaixo. Este documento, e todo o conteúdo é oferecido pelos 'Fofuritos sem Calça', que regulamentam todos os direitos e obrigações com todos que acessam o portal e, reguardado todos os direitos previstos na legislação, trazem as cláusulas abaixo como requisito para acesso e visita do mesmo.A permanência no portal implica-se automaticamente na leitura e aceitação dos presente termos de uso a seguir. Este termo foi atualizado pela última vez em 05 de Dezembro de 2022.</p>
         </article>
       </div>
 
-      <div class="row justify-content-center">
+      <div class="espaço row justify-content-center">
         <section class="col-12 ">
           <h2 class="titulos3">1.Da Função do Portal</h2>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, repellendus ut saepe itaque quidem sequi quasi odio libero modi porro mollitia, et aperiam voluptates, iure sint impedit eveniet eligendi a? Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo possimus laudantium amet quasi, reiciendis quas maxime? Blanditiis autem voluptate molestiae amet asperiores doloremque earum facilis nesciunt voluptas? Commodi, illum Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel similique consequuntur dicta eos totam maxime eius beatae ex sint quo? Sint id hic deleniti tempore. Debitis at ratione delectus recusandae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe odio assumenda corporis accusantium commodi quia sapiente aspernatur recusandae ut soluta doloribus quod aut voluptatum ducimus delectus vel, facere animi reprehenderit </p>
+          <p>Esse portal visa trazer informação referente à ficcção científica, fornecendo conteúdos para agregar conhecimento aos visitantes e pesquisadores do nosso portal. Os fofuritos sem calça prezam pela boa experiência dos internautas e pela boa qualidade dos conteúdos abordados. Por isso,você encontrará tudo relacionado a ficcção científica, um genêro muito interessante e que traz muita fantasia e conhecimento em suas histórias.</p>
         </section>
-        <section class=" col-12 ">
+        <section class="espaço col-12 ">
           <h2 class="titulos3">2.Do Aceite de Termos</h2>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, repellendus ut saepe itaque quidem sequi quasi odio libero modi porro mollitia, et aperiam voluptates, iure sint impedit eveniet eligendi a? Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo possimus laudantium amet quasi, reiciendis quas maxime? Blanditiis autem voluptate molestiae amet asperiores doloremque earum facilis nesciunt voluptas? Commodi, illum Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel similique consequuntur dicta eos totam maxime eius beatae ex sint quo? Sint id hic deleniti tempore. Debitis at ratione delectus recusandae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe odio assumenda corporis accusantium commodi quia sapiente aspernatur recusandae ut soluta doloribus quod aut voluptatum ducimus delectus vel, facere animi reprehenderit </p>
+          <p>O presente Termo estabelece obrigações contratadas de livre e espontânea vontade entre a plataforma e as pessoas físicas ou jurídicas, visitantes do portal. Ao utilizar a plataforma o usuário aceita integralmente as presentes normas e compromete-se a observá-las, sob o risco de aplicação das penalidade cabíveis. Caso não concorde com as disposições deste instrumento não deve utilizá-lo, lembrando que nenhuma informação pessoal será coletada ou armazenada referente ao uso do portal. </p>
         </section>
-        <section class=" col-12 ">
-          <h2 class="titulos3">2.Do Aceite de Termos</h2>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, repellendus ut saepe itaque quidem sequi quasi odio libero modi porro mollitia, et aperiam voluptates, iure sint impedit eveniet eligendi a? Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo possimus laudantium amet quasi, reiciendis quas maxime? Blanditiis autem voluptate molestiae amet asperiores doloremque earum facilis nesciunt voluptas? Commodi, illum Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel similique consequuntur dicta eos totam maxime eius beatae ex sint quo? Sint id hic deleniti tempore. Debitis at ratione delectus recusandae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe odio assumenda corporis accusantium commodi quia sapiente aspernatur recusandae ut soluta doloribus quod aut voluptatum ducimus delectus vel, facere animi reprehenderit </p>
+        <section class="espaço col-12 ">
+          <h2 class="titulos3">3.Da comunicação com usuários</h2>
+          <p>Os fofuritos sem calça podem ser chamados para esclarecimentos de dúvidas, elogios e críticas referentes ao conteúdo, a interface, design e tudo referente ao portal. O contato pode ser feito a qualquer hora do dia pela página de contatos, basta digitar e adionar seu e-mail que responderemos. Além disso, a navegação na plataforma ou em alguma de suas páginas poderá ser interrompida, limitada ou suspensa para atualizações, modificações ou qualquer ação necessária ao seu bom funcionamento. </p>
         </section>
       </div>
 

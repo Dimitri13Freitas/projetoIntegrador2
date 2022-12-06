@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <link rel="shortcut icon" href="img/assets/icon.svg" type="image/x-icon">
+  <link rel="shortcut icon" href="img/icon.svg" type="image/x-icon">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
@@ -13,94 +13,56 @@
 <main>
     <div class='container'>
       <?php include 'include/nav.php';?>
-      <?php include 'include/bannerLivros.php';?>    
-    <div class="row">
-      <div class=" sla col-12">
-        <h1>Livro 1</h1>
-      </div>
-      <article class="col-xl-5 col-md-6 col-sm-12">
-        
-          <img src="img/banner/img2.jpg" style="width: 100% ;" alt="">
-      </article>
-        <section class=" col-xl-6 col-md-6 col-sm-12">
-          <p >Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, repellendus ut saepe itaque quidem sequi quasi odio libero modi porro mollitia, et aperiam voluptates, iure sint impedit eveniet eligendi a? Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo possimus laudantium amet quasi, reiciendis quas maxime? Blanditiis autem voluptate molestiae amet asperiores doloremque earum facilis nesciunt voluptas? Commodi, illum Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel similique consequuntur dicta eos totam maxime eius beatae ex sint quo? Sint id hic deleniti tempore. Debitis at ratione delectus recusandae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe odio assumenda corporis accusantium commodi quia sapiente aspernatur recusandae ut soluta doloribus quod aut voluptatum ducimus delectus vel, facere animi reprehenderit </p>
-        </section>
-    </div>
-      <div class="sla row justify-content-center"> 
-        <h1 class="col-12 justify-content-center" style="text-align:center ;"> Obras Principais </h1>
-        <section class="src col-xl-2 col-md-5 col-sm-12 justify-content-center ">
-          <h2>seila</h2>
-          <img style="width:100% ;" src="img/banner/img2.jpg" alt="">
-        </section>
-        <section class="src col-xl-2 col-md-5 col-sm-12 justify-content-center">
-          <h2>seila</h2>
-          <img style="width:100% ;" src="img/banner/img2.jpg" alt="">
-        </section>
-        <section class="src col-xl-2 col-md-5 col-sm-12 justify-content-center">
-          <h2>seila</h2>
-          <img style="width:100% ;" src="img/banner/img2.jpg" alt="">
-        </section>
-        <section class="src col-xl-2 col-md-5 col-sm-12 justify-content-center">
-          <h2>seila</h2>
-          <img style="width:100% ;" src="img/banner/img2.jpg" alt="">
-        </section>
-      
-        
-      </div>
+      <?php include 'include/bannerLivros.php';?>
 
-      <div class="row">
-        <div class=" sla col-12">
-          <h1>Autor 1</h1>
-        </div>
-        <article class="col-xl-5 col-md-6 col-sm-12">
-            <img src="img/banner/img2.jpg" style="width: 100% ;" alt="">
-        </article>
-          <section class=" sla col-xl-6 col-md-6 col-sm-12">
-            <p >Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, repellendus ut saepe itaque quidem sequi quasi odio libero modi porro mollitia, et aperiam voluptates, iure sint impedit eveniet eligendi a? Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo possimus laudantium amet quasi, reiciendis quas maxime? Blanditiis autem voluptate molestiae amet asperiores doloremque earum facilis nesciunt voluptas? Commodi, illum Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel similique consequuntur dicta eos totam maxime eius beatae ex sint quo? Sint id hic deleniti tempore. Debitis at ratione delectus recusandae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe odio assumenda corporis accusantium commodi quia sapiente aspernatur recusandae ut soluta doloribus quod aut voluptatum ducimus delectus vel, facere animi reprehenderit </p>
-          </section>
+    <div class="row">
+      
+      <div class="espaço col-12">
+        <h2 >Frankstein</h2>
+        <small class=' mb-3 d-block small pb-2 border-bottom border-2'>Julho 01, 2020 by <a href="https://www.queriaestarlendo.com.br/2020/07/resenha-frankenstein.html">QueriaEstarLendo.com</a></small>
       </div>
-      <div>
-      <h3 class="titulo2">Notícias</h3>
+     
+      <article class=" col-xl-2 col-md-4 col-sm-5">
+        <img class="brdr" src="img/livros/frankstein3.webp"  alt="Imagem do capa do livro 'Frankestein'">
+      </article>
+      <section class=" col-xl-6 col-md-6 col-sm-12 justify-content-center">
+      <h2> Sinopse </h2>
+        <p>Victor é um cientista que dedica a juventude e a saúde para descobrir como reanimar tecidos mortos e gerar vida artificialmente. O resultado de sua experiência, um monstro que o próprio Frankenstein considera uma aberração, ganha consciência, vontade, desejo, medo. Criador e criatura se enfrentam: são opostos e, de certa forma, iguais. Humanos! Eis a força descomunal de um grande texto. Quando foi a última vez que você teve a chance de entrar em contato com a narrativa original desse que é um dos romances mais influentes dos últimos dois séculos? Que tal agora, na tradução de Márcia Xavier de Brito?</p>
+      </section>
     </div>
+
+    <div class="row espaço">
+      <div class=" col-xl-10 col-md-12 col-sm-12 row justify-content-center"> 
+        <h2>Análise Crítica, by Denise Flaiban</h2>
+        <p>Optei pelo Frankenstein porque conhecia a história bem por cima, sem muitos detalhes da obra original. Assistir à série Penny Dreadful me incentivou ainda mais, porque o Victor Frankenstein e a “criatura” da série são personagens interessantes.</p>
+        <p>Quando terminei de ler, a princípio Frankenstein me pareceu um excelente livro, uma história fechadinha e bem finalizada. No entanto, parando para pensar a respeito, é um livro tão recheado de alegorias que fica complicado classificá-lo como apenas uma história de um cientista que deu vida à uma criatura destruidora.A história é bem conhecida: Victor Frankenstein é um cientista ambicioso que almeja sucesso na profissão e tem uma sede eterna pelo saber. Sempre instigado a entender a origem da vida e os mistérios da morte, resolve dar vida à sua própria criação, com o objetivo de mostrar seu potencial no meio científico.Ele acredita ser capaz de criar um ser humano, como se moldasse um boneco de argila. </p>
+       <p> Mas depois que a criatura ganha vida e torna-se tenebrosa, ele imediatamente se arrepende e a abandona, fugindo para longe e tentando viver como se aquilo nunca tivesse acontecido. Com o tempo, a criatura volta em busca de Frankenstein e, claro, de respostas; basicamente tentando entender por qual motivo os humanos o rejeitam tanto, sempre pedindo ajuda para diminuir seu sofrimento.</p>
+       <p> O mais interessante é que a criatura é digna de pena. Inicialmente, um capricho equivocado de Frankenstein, um “demônio” como ele mesmo o intitula; um ser deformado, gigantesco, de voz rouca e rosto assustador. Porém, ele só deseja ser aceito e amado, como qualquer outro humano. Quer se integrar na sociedade, viver uma vida normal, andar em locais públicos sem ser massacrado, ganhar o reconhecimento de seu criador. E tudo isso lhe é negado; Frankenstein o rejeita totalmente, morrendo de medo de sua própria criação e sentindo remorso todos os dias pela sua falha.Ao mesmo tempo em que o objetivo da autora Mary Shelley era vencer um concurso de história de terror mais assustadora, ela conseguiu unir o sentimento aterrorizante à crítica do indivíduo que tem medo de sua própria criação. Frankenstein e a criatura não são mais do que duas partes do mesmo ser. Um, movido pelo medo, ceticismo e frieza. O outro, a externalização dos sentimentos, a emoção. E as emoções fortes não são inerentes do humano, mas sim da criatura.O livro é angustiante. Dá para sentir na pele o nervosismo, o medo, a ansiedade do arrependido cientista. Acompanhamos sua trajetória desde a infância, até sua derrocada, quando está enfermo e cego pela vingança. O monstro é incrivelmente inteligente e amável, mas de tanto ser rejeitado e escorraçado, se transforma verdadeiramente em um demônio.</p>
+      </div>
+    </div>
+  </div>
+      <div class='config bg-secondary mt-5 mb-5 '>
+          <h2 class='py-5 titulo'>Vistos Também</h2>
+      </div>
+  <div class="container">
     <div class="d-flex justify-content-xl-around flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
         <section class="noticia rounded-3  border d-flex align-items-center">
           <div class="noticiaSeila d-flex flex-column">
-            <small>Filmes</small>
-            <h2>Seila</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
-            <a href="NoticiasConteudo.php">Continuar lendo...</a>
+          <small>Análise da obra</small>
+            <h2>Mochileiro das Galáxias</h2>
+            <p>O Céu sobre o porto tinha cor de televisão num canal fora do ar. Considerada a obra precursora do movimento cyberpunk e um clássico da ficção científica moderna, Neuromancer conta a história de Case, um cowboy do ciber...</p>
+            <a href="livrosPgFAV3.php">Continuar lendo...</a>
           </div>
-          <img src="img/banner/img2.jpg" alt="">
+          <img src="img/livros/im0(7).webp" alt="Imagem da capa da Obra 'Mochileiros da Galáxia'">
         </section>
         <section class="noticia rounded-3 border d-flex align-items-center">
           <div class="noticiaSeila d-flex flex-column">
-            <small>Filmes</small>
-            <h2>Seila</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
-            <a href="NoticiasConteudo.php">Continuar lendo...</a>
+          <small>Análise da obra</small>
+            <h2>A mão esquerda da escuridão</h2>
+            <p>Genly Ai foi enviado a Gethen com a missão de convencer seus governantes a se unirem a uma grande comunidade universal. Ao chegar ali, o experiente emissário sente-se completamente despreparado para a situação que lhe aguarda...</p>
+            <a href="livrosPgFAV4.php">Continuar lendo...</a>
           </div>
-          <img src="img/banner/img2.jpg" alt="">
-        </section>
-      </div>
-
-      <div class="d-flex justify-content-xl-around flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
-        <section class="noticia rounded-3  border d-flex align-items-center">
-          <div class="noticiaSeila d-flex flex-column">
-            <small>Filmes</small>
-            <h2>Seila</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
-            <a href="NoticiasConteudo.php">Continuar lendo...</a>
-          </div>
-          <img src="img/banner/img2.jpg" alt="">
-        </section>
-        <section class="noticia rounded-3 border d-flex align-items-center">
-          <div class="noticiaSeila d-flex flex-column">
-            <small>Filmes</small>
-            <h2>Seila</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
-            <a href="NoticiasConteudo.php">Continuar lendo...</a>
-          </div>
-          <img src="img/banner/img2.jpg" alt="">
+          <img src="img/livros/im0(8).webp" alt="Imagem da capa da Obra 'A mão esquerda da escuridão'">
         </section>
       </div>
     </div>

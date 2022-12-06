@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <link rel="shortcut icon" href="img/assets/icon.svg" type="image/x-icon">
+  <link rel="shortcut icon" href="img/icon.svg" type="image/x-icon">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
@@ -14,72 +14,61 @@
     <div class='container'>
       <?php include 'include/nav.php';?>
       <?php include 'include/bannerLivros.php';?>
-      
-    <div class=" sla row justify-content-center ">
-      <article class="  col-xl-5 col-md-5 col-sm-12">
-        <h1>Livro 1</h1>
-        <img src="img/banner/img2.jpg" style="width: 100% ;" alt="">
-        <p >Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, repellendus ut saepe itaque quidem sequi quasi odio libero modi porro mollitia </p>
-        <h1>Livro 2</h1>
-        <img src="img/banner/img2.jpg" style="width: 100% ;" alt="">
-        <p >Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, repellendus ut saepe itaque quidem sequi quasi odio libero modi porro mollitia  <p>   
+    
+      <div class=" sla row justify-content-center ">
+        <article class=" col-xl-5 col-md-6 col-sm-12">
+          <div class="mud bordas">
+            <a href="livrosDst3.php">
+          <h2 class="titulos">Última criatura humana</h2>
+            <img class="brdr"src="img/livros/humano.webp"  alt="Imagem da capa do livro 'Última criatura humana'">
+            <p class="br" >Em um futuro não muito distante, os robôs exterminaram a espécie humana. E XR_935, um robô de doze anos, não vê nisso um problema. Sem humanos, não há guerras... </p>
+            </a>
+          </div>
+        </article>
+      <article class="col-xl-5 col-md-6 col-sm-12">     
+        <div class="mud bordas">
+          <a href="livrosDst2.php">
+          <h2 class="titulos">Crônicas Marcianas</h2>
+          <img class="brdr" src="img/livros/marcianas.webp" alt="Imagem da capa da obra 'Crônicas Marcianas'">
+          <p class="br">As crônicas marcianas foram reunidas num livro por seu autor, no início dos anos 1960, e interligadas por pequenas costuras narrativas... </p>
+          </a>
+        </div>
+      </article>
+    </div>
+    <div class="sla row justify-content-center ">
+      <article class="  col-xl-5 col-md-6 col-sm-12">
+        <div class="mud bordas">
+          <a href="livrosDst1.php">
+        <h2 class="titulos" >A guerra dos Mundos</h2>
+          <img class="brdr" src="img/livros/mundos.webp" alt="Imagem da capa da obra' A guerra dos mundos'">
+          <p class="br">Eles vieram do espaço. Eles vieram de Marte. Com tripés biomecânicos gigantes, querem conquistar a Terra e manter os humanos como escravos...</p>
+          </a>
+        </div> 
       </article>
 
-    <article class=" col-xl-5 col-md-5 col-sm-12 ">
-        <h1>Livro 3</h1>
-          <img src="img/banner/img2.jpg" style="width: 100% ;" alt="">
-          <p >Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, repellendus ut saepe itaque quidem sequi quasi odio libero modi porro mollitia </p>
-        <h1>Livro 4</h1>
-          <img src="img/banner/img2.jpg" style="width: 100% ;" alt="">
-          <p >Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, repellendus ut saepe itaque quidem sequi quasi odio libero modi porro mollitia  </p>      
-    </article>
+      <article class=" col-xl-5 col-md-6 col-sm-12">     
+        <div class="mud bordas">
+          <a href="livrosDst.php">
+          <h2 class="titulos">Viagem a Alfa Centauri</h2>
+          <img class="brdr"src="img/livros/viagem.webp" alt="Imagem da capa do livro 'Alfa Centauri'">
+          <p class="br">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, repellendus ut saepe itaque quidem sequi quasi odio libero modi porro mollitia </p>
+          </a>
+        </div>
+      </article>
+    </div>
   </div>
-  
-
-    <div>
-      <h3 class="titulo2">Vistos Também</h3>
+</div>
+    <div class='config bg-secondary mt-5 mb-5 '>
+        <h2 class='py-5 titulo'>Notícias</h2>
     </div>
     <div class="d-flex justify-content-xl-around flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
-        <section class="noticia rounded-3  border d-flex align-items-center">
-          <div class="noticiaSeila d-flex flex-column">
-            <small>Filmes</small>
-            <h2>Seila</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
-            <a href="NoticiasConteudo.php">Continuar lendo...</a>
-          </div>
-          <img src="img/banner/img2.jpg" alt="">
-        </section>
-        <section class="noticia rounded-3 border d-flex align-items-center">
-          <div class="noticiaSeila d-flex flex-column">
-            <small>Filmes</small>
-            <h2>Seila</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
-            <a href="NoticiasConteudo.php">Continuar lendo...</a>
-          </div>
-          <img src="img/banner/img2.jpg" alt="">
-        </section>
-      </div>
-
-      <div class="d-flex justify-content-xl-around flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
-        <section class="noticia rounded-3  border d-flex align-items-center">
-          <div class="noticiaSeila d-flex flex-column">
-            <small>Filmes</small>
-            <h2>Seila</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
-            <a href="NoticiasConteudo.php">Continuar lendo...</a>
-          </div>
-          <img src="img/banner/img2.jpg" alt="">
-        </section>
-        <section class="noticia rounded-3 border d-flex align-items-center">
-          <div class="noticiaSeila d-flex flex-column">
-            <small>Filmes</small>
-            <h2>Seila</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
-            <a href="NoticiasConteudo.php">Continuar lendo...</a>
-          </div>
-          <img src="img/banner/img2.jpg" alt="">
-        </section>
-      </div>
+    <?php include 'include/noticiaFilme3.php';?>
+    <?php include 'include/noticiaFilme1.php';?>
+    </div>
+    <div class="d-flex justify-content-xl-around flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
+    <?php include 'include/noticiaAnimacao3.php';?>
+    <?php include 'include/noticiaAnimacao1.php';?>
+    </div>
   </div>
   <?php include 'include/footer.php';?>
   </main>

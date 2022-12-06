@@ -31,7 +31,7 @@
       <div class='row my-3'>
         <div class='col-xl-7 col-md-12  col-sm-12 conteudo'>
           <aside>
-          <img class='rounded' src="img/imgNoticias/img3ConteudoAnimacao.webp" alt="Protagonistas em conjunto em close, entre eles um casal se abraçando sem muito afeto.">
+          <img class='rounded' src="img/imgNoticias/noticiasAnimacao/img3ConteudoAnimacao.webp" alt="Protagonistas em conjunto em close, entre eles um casal se abraçando sem muito afeto.">
           </aside>
         </div>
         <div class='col-xl-5 col-md-12 col-sm-12 sobreImg'>
