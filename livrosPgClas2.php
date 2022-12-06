@@ -90,14 +90,18 @@
     <div class='config bg-secondary mt-5 mb-5 '>
           <h2 class='py-5 titulo'>Notícias</h2>
     </div>
-    <div class="d-flex justify-content-xl-around flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
-    <?php include 'include/noticiaAnimacao1.php';?>
-    <?php include 'include/noticiaFilme2.php';?>
-      </div>
-      <div class="d-flex justify-content-xl-around flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
+    <div class="container">
+        <div class="d-flex justify-content-xl-around flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
         <?php include 'include/livrosNoticia1.php';?>
-        <?php include 'include/noticiaAnimacao3.php';?>
-      </div>
+        <?php include 'include/noticiaAnimacao2.php';?>
+
+          </div>
+
+          <div class="d-flex justify-content-xl-around flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
+          <?php include 'include/noticiaAnimacao1.php';?>
+        <?php include 'include/livrosNoticia3.php';?>
+          </div>
+  </div>
     <?php include 'include/footer.php';?>
   </main>
 

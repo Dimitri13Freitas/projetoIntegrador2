@@ -36,21 +36,21 @@
               </a>
             </li>
             <li class='col-xl-3 col-md-6 col-sm-12 d-flex justify-content-center'>
-              <a href="NoticiasConteudo.php">
-                <img class='rounded' src="img/home/img1Obra.webp" alt="">
-                <h3 class='text-center'>Obra</h3>
+              <a href="SinopseStarWars.php">
+                <img class='rounded' src="img/home/img3obra.webp" alt="Imagem Do filme Star Wars">
+                <h3 class='text-center'>Star Wars IV</h3>
+              </a>
+            </li>
+            <li class='col-xl-3 col-md-6 col-sm-12 d-flex justify-content-center'>
+              <a href="livrosPgClas2.php">
+              <img class='rounded' src="img/home/img5obra.webp"  alt="Imagem da capa do livro 'Duna', em um deserto">
+                <h3 class='text-center'>Duna</h3>
               </a>
             </li>
             <li class='col-xl-3 col-md-6 col-sm-12 d-flex justify-content-center'>
               <a href="NoticiasConteudo.php">
                 <img class='rounded' src="img/home/img1Obra.webp" alt="">
-                <h3 class='text-center'>Obra</h3>
-              </a>
-            </li>
-            <li class='col-xl-3 col-md-6 col-sm-12 d-flex justify-content-center'>
-              <a href="NoticiasConteudo.php">
-                <img class='rounded' src="img/home/img1Obra.webp" alt="">
-                <h3 class='text-center'>Obra</h3>
+                <h3 class='text-center'>Series</h3>
               </a>
             </li>
           </ul>
@@ -74,13 +74,13 @@
         </div>
         <div class='col-xl-6 col-sm-12'>
           <section class='pt-2 pb-3 ps-3 m-auto pe-3 border rounded'>
-            <a href="NoticiasConteudo.php">
+            <a href="SinopseAvatar2.php">
               <small class='mb-2 d-block'>Filmes</small>
               <div class='d-flex'>
-                <img class=' mb-3 m-auto rounded' src="img/imgAnimacao/premiados/img1.webp" alt="">
+                <img class=' mb-3 m-auto rounded' src="img/home/img4obra.webp" alt="Imagem de banner do Filmes Avatar 2">
               </div>
-              <h3 class='text-center'>1° Review</h3>
-              <p class='text-center'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Recusandae alias perferendis nihil aliquam quos dolorem maiores vel facilis! Amet deserunt quibusdam quod porro sed cumque nulla harum rerum quis obcaecati.</p>
+              <h3 class='text-center'>Avatar 2</h3>
+              <p class='text-center'>Uma década após a primeira batalha de Pandora entre os Na'vi e os humanos, Jake (Sam Worthington) vive pacificamente com sua família e seu povo. Ele e Ney'tiri (Zoe Saldana) formaram uma família e estão fazendo de tudo para superar os conflitos e continuarem juntos.</p>
             </a>
           </section>
         </div>
@@ -89,24 +89,24 @@
       <div class='row'>
         <div class='col-xl-6 col-sm-12 mb-5'>
           <section class='pt-2 pb-3 ps-3 m-auto pe-3 border rounded'>
-            <a href="NoticiasConteudo.php">
-              <small class='mb-2 d-block'>Filmes</small>
+            <a href="livrosPgFAV.php">
+              <small class='mb-2 d-block'>Livros</small>
               <div class='d-flex'>
-                <img class=' mb-3 m-auto rounded' src="img/imgAnimacao/premiados/img1.webp" alt="">
+                <img class=' mb-3 m-auto rounded' src="img/home/img6obra.webp" alt="">
               </div>
-              <h3 class='text-center'>1° Review</h3>
-              <p class='text-center'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Recusandae alias perferendis nihil aliquam quos dolorem maiores vel facilis! Amet deserunt quibusdam quod porro sed cumque nulla harum rerum quis obcaecati.</p>
+              <h3 class='text-center'>Frankstein</h3>
+              <p class='text-center'>Victor é um cientista que dedica a juventude e a saúde para descobrir como reanimar tecidos mortos e gerar vida artificialmente. O resultado de sua experiência, um monstro que o próprio Frankenstein considera uma...</p>
             </a>
           </section>
         </div>
         <div class='col-xl-6 col-sm-12'>
           <section class='pt-2 pb-3 ps-3 m-auto pe-3 border rounded'>
             <a href="NoticiasConteudo.php">
-              <small class='mb-2 d-block'>Filmes</small>
+              <small class='mb-2 d-block'>Series</small>
               <div class='d-flex'>
                 <img class=' mb-3 m-auto rounded' src="img/imgAnimacao/premiados/img1.webp" alt="">
               </div>
-              <h3 class='text-center'>1° Review</h3>
+              <h3 class='text-center'>4° Review</h3>
               <p class='text-center'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Recusandae alias perferendis nihil aliquam quos dolorem maiores vel facilis! Amet deserunt quibusdam quod porro sed cumque nulla harum rerum quis obcaecati.</p>
             </a>
           </section>
