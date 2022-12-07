@@ -2,7 +2,8 @@
 <html lang='pt-br'>
 
 <head>
-  <meta charset="UTF-8">
+   <meta charset="UTF-8">
+  <link rel="shortcut icon" href="img/assets/icon.svg" type="image/x-icon">
   <link rel="shortcut icon" href="img/icon.svg" type="image/x-icon">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
@@ -45,7 +46,7 @@
             <small>Sinopse</small>
             <h2>Uma Odisseia no Espaço</h2>
             <p>No começo reina a selvageria. Homens pré-históricos dão os primeiros passos rumo à evolução fundada na dominação do mais fraco e na conquista territorial, ambas tão caras à nossa espécie...</p>
-            <a href="livrosCnt2PgAutores.php">Continuar lendo...</a>
+            <a href="livrosCnt1PgAutores.php">Continuar lendo...</a>
           </div>
           <img src="img/livros/odisseia.webp" alt="Imagem da capa do Livro 'Uma Odisseia no espaço'">
         </section>

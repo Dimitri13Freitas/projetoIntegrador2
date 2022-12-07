@@ -2,7 +2,8 @@
 <html lang='pt-br'>
 
 <head>
-  <meta charset="UTF-8">
+   <meta charset="UTF-8">
+  <link rel="shortcut icon" href="img/assets/icon.svg" type="image/x-icon">
   <link rel="shortcut icon" href="img/icon.svg" type="image/x-icon">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
@@ -49,7 +50,7 @@
                 <div class="noticiaSeila d-flex flex-column">
                 <small>Análise da obra</small>
                   <h2>A mão esquerda da escuridão</h2>
-                  <p>Genly Ai foi enviado a Gethen com a missão de convencer seus governantes a se unirem a uma grande comunidade universal. Ao chegar ali, o experiente emissário sente-se completamente despreparado para a situação que lhe aguarda...</p>
+                  <p>Genly Ai foi enviado a Gethen com a missão de convencer seus governantes a se unirem a uma grande comunidade universal. Ao chegar ali, o experiente emissário...</p>
                   <a href="livrosPgFAV4.php">Continuar lendo...</a>
                 </div>
                 <img src="img/livros/im0(8).webp" alt="Imagem da capa da Obra 'A mão esquerda da escuridão'">
@@ -58,10 +59,10 @@
               <div class="noticiaSeila d-flex flex-column">
                 <small>Análise da obra</small>
                   <h2>Nós</h2>
-                  <p>Nós é um romance distópico escrito entre 1920 e 1921 pelo escritor russo Yevgeny Zamyatin. A história narra as impressões de um cientista sobre o mundo em que vive, uma sociedade aparentemente perfeita mas opressora...</p>
+                  <p>Nós é um romance distópico escrito entre 1920 e 1921 pelo escritor russo Yevgeny Zamyatin. A história narra as impressões de um cientista sobre o mundo em que vive...</p>
                   <a href="livrosPgFAV2.php">Continuar lendo...</a>
                 </div>
-                <img src="img/livros/im0(6).webp" alt="Imagem da capa da obra 'Zamiátin'">
+                <img src="img/livros/zamia.webp" alt="Imagem da capa da obra 'Zamiátin'">
           </section>
       </div>
 </div>

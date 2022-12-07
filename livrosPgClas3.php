@@ -2,7 +2,8 @@
 <html lang='pt-br'>
 
 <head>
-  <meta charset="UTF-8">
+   <meta charset="UTF-8">
+  <link rel="shortcut icon" href="img/assets/icon.svg" type="image/x-icon">
   <link rel="shortcut icon" href="img/icon.svg" type="image/x-icon">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
@@ -71,7 +72,7 @@
           <div class="noticiaSeila d-flex flex-column">
           <small>Sinopse</small>
             <h2>Duna</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
+            <p>Duna conta a história de Paul Atreides, jovem talentoso e brilhante que nasceu com um destino grandioso, para além até da sua própria compreensão, e precisa viajar ao planeta mais perigoso do universo para garantir o futuro...</p>
             <a href="livrosPgClas2.php">Continuar lendo...</a>
           </div>
           <img src="img/livros/duna2.webp" alt="Imagem da capa do livro  'Duna'">
@@ -80,7 +81,7 @@
           <div class="noticiaSeila d-flex flex-column">
           <small>Sinopse</small>
             <h2>Fahrenheit</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
+            <p>Na cidade do futuro, que se apresenta totalmente controlada pelo governo, havia uma lenda de que, no passado, os bombeiros eram chamados apenas para apagar o fogo. Não havia literatura que mostrasse a ação de...</p>
             <a href="livrosPgClas.php">Continuar lendo...</a>
           </div>
           <img src="img/livros/fahrheit2.webp" alt="Imagem da capa do livro 'Fahrheint'">

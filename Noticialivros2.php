@@ -2,7 +2,7 @@
 <html lang="pt-br">
 
 <head>
-  <meta charset="UTF-8">
+   <meta charset="UTF-8">
   <link rel="shortcut icon" href="img/assets/icon.svg" type="image/x-icon">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
@@ -16,7 +16,7 @@
   <main>
     <div class='container'>
       <?php include 'include/nav.php';?>
-      <<?php include 'include/bannerLivros.php';?>
+      <?php include 'include/bannerLivros.php';?>
 
       <div class='row mt-5'>
         <div class='col-xl-8 col-md-12 col-sm-12'>

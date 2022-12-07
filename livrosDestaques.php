@@ -2,7 +2,8 @@
 <html lang='pt-br'>
 
 <head>
-  <meta charset="UTF-8">
+   <meta charset="UTF-8">
+  <link rel="shortcut icon" href="img/assets/icon.svg" type="image/x-icon">
   <link rel="shortcut icon" href="img/icon.svg" type="image/x-icon">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
@@ -51,7 +52,7 @@
           <a href="livrosDst.php">
           <h2 class="titulos">Viagem a Alfa Centauri</h2>
           <img class="brdr"src="img/livros/viagem.webp" alt="Imagem da capa do livro 'Alfa Centauri'">
-          <p class="br">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, repellendus ut saepe itaque quidem sequi quasi odio libero modi porro mollitia </p>
+          <p class="br">Ambientado no futuro, a oitenta anos de hoje, este romance do autor bestseller Michael O’Brien trata de uma expedição enviada do planeta...</p>
           </a>
         </div>
       </article>

@@ -2,7 +2,8 @@
 <html lang='pt-br'>
 
 <head>
-  <meta charset="UTF-8">
+   <meta charset="UTF-8">
+  <link rel="shortcut icon" href="img/assets/icon.svg" type="image/x-icon">
   <link rel="shortcut icon" href="img/icon.svg" type="image/x-icon">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
@@ -21,7 +22,7 @@
           <a href="livrosPgClas2.php">
           <h2 class="titulos">Duna</h2>
           <img class="brdr"src="img/livros/imgs1(5).webp"  alt="Imagem da capa do livro 'Duna', em um deserto">
-          <p class="br" >Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, repellendus ut saepe itaque quidem sequi quasi odio libero modi porro mollitia </p></a>
+          <p class="br" >Duna conta a história de Paul Atreides, jovem talentoso e brilhante que nasceu com um destino grandioso...</p></a>
         </div>
       </article>
       <article class="col-xl-5 col-md-6 col-sm-12">     
@@ -29,28 +30,28 @@
           <a  href="livrosPgClas.php">
           <h2 class="titulos">Fahrheint</h2>
           <img class="brdr" src="img/livros/Fahrheint.webp" alt="Imagem da capa do livro 'Fahrheit', vermelho e e preto representando o fogo.">
-          <p class="br">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, repellendus ut saepe itaque quidem sequi quasi odio libero modi porro mollitia </p></a>
+          <p class="br">Na cidade do futuro, que se apresenta totalmente controlada pelo governo, havia uma lenda de que...</p></a>
         </div>
       </article>
     </div>
     <div class="sla row justify-content-center ">
       <article class="  col-xl-5 col-md-6 col-sm-12">
-        <a href="livrosPgClas3.php">
         <div class="mud bordas">
-        <h2 class="titulos" >Neuromanger</h2>
+          <a href="livrosPgClas3.php">
+        <h2 class="titulos" >Neuromancer</h2>
           <img class="brdr" src="img/livros/imgs1(4).webp" alt="Imagem da capa do livro 'Neuromancer', com cores fortes(rosa, amarelo) e referências ao ciberpunk">
-          <p class="br">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, repellendus ut saepe itaque quidem sequi quasi odio libero modi porro mollitia  </p>
-        </div>
+          <p class="br"> Neuromancer conta a história de Case, um cowboy do ciberespaço. Este livro é pioneiro no movimento ciberpunk...</p>
         </a>
+      </div>
       </article>
       <article class=" col-xl-5 col-md-6 col-sm-12"> 
-        <a href="livrosPgClas4.php">   
         <div class="mud bordas">
+          <a href="livrosPgClas4.php">   
           <h2 class="titulos">Eu, robô</h2>
           <img class="brdr"src="img/livros/imgs1(3).webp" alt="Imagem minimalista do livro 'eu, robô.'">
-          <p class="br">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, repellendus ut saepe itaque quidem sequi quasi odio libero modi porro mollitia </p>
-        </div>
+          <p class="br">Um dos maiores clássicos da literatura de ficção científica, Eu, Robô, escrito por Isaac Asimov, é um conjunto...</p>
         </a> 
+      </div>
       </article>
     </div>
   </div>

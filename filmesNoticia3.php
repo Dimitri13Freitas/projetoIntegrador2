@@ -2,7 +2,7 @@
 <html lang="pt-br">
 
 <head>
-  <meta charset="UTF-8">
+   <meta charset="UTF-8">
   <link rel="shortcut icon" href="img/assets/icon.svg" type="image/x-icon">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
@@ -30,7 +30,7 @@
       <div class='row my-3'>
         <div class='col-xl-7 col-md-12  col-sm-12 conteudo'>
           <aside>
-          <img class='rounded' src="img/imgNoticias/noticiasFilmes/imgConteudofilmesNoticias3.webp" alt="Imagem do Eu não tenho boca e devo gritar">
+          <img class='rounded' src="img/imgNoticias/noticiasFilmes/imgConteudofilmesNoticias3.jpg" alt="Imagem do Eu não tenho boca e devo gritar">
           </aside>
         </div>
         <div class='col-xl-5 col-md-12 col-sm-12 sobreImg'>

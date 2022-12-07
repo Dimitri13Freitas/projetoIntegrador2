@@ -6,6 +6,6 @@ echo"<section class='noticia rounded-3  border d-flex align-items-center'>
 <p>A Netflix lançou um novo filme de ficção científica pós-apocalíptica que está dando o que falar...</p>
 <a class='verde' href='filmesNoticia1.php'>Continuar lendo...</a>
 </div>
-<img src='img/imgNoticias/noticiasFilmes/imgfilmesNoticia1.webp' alt='Imagem do filmeexército do amanhã'>
+<img src='img/imgNoticias/noticiasFilmes/imgfilmesNoticia1.jpg' alt='Imagem do filmeexército do amanhã'>
 </section>";
 ?>

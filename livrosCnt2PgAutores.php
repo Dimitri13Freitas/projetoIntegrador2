@@ -2,7 +2,8 @@
 <html lang='pt-br'>
 
 <head>
-  <meta charset="UTF-8">
+   <meta charset="UTF-8">
+  <link rel="shortcut icon" href="img/assets/icon.svg" type="image/x-icon">
   <link rel="shortcut icon" href="img/icon.svg" type="image/x-icon">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
@@ -47,7 +48,7 @@
             <small>Sinopse</small>
             <h2>Uma Odisseia no Espaço</h2>
             <p>No começo reina a selvageria. Homens pré-históricos dão os primeiros passos rumo à evolução fundada na dominação do mais fraco e na conquista territorial, ambas tão caras à nossa espécie...</p>
-            <a href="livrosCnt2PgAutores.php">Continuar lendo...</a>
+            <a href="livrosCnt1PgAutores.php">Continuar lendo...</a>
           </div>
           <img src="img/livros/odisseia.webp" alt="Imagem da capa do livro 'Uma Odisseia no Espaço'">
         </section>
@@ -58,7 +59,7 @@
             <p>Um dia comum, uma “horda” de extraterrestres pairam sobre as principais cidades do mundo, oferecendo uma mão amiga. Oferecendo o nirvana em vida, o paraíso perdido há tempos. A erradicação da fome, o fim das guerras...</p>
             <a href="livrosCnt3PgAutores.php">Continuar lendo...</a>
           </div>
-          <img src="img/livros/Fim.webp" alt="Imagem da capa do livro 'Fim da Infância'">
+          <img src="img/livros/fim.webp" alt="Imagem da capa do livro 'Fim da Infância'">
         </section>
       </div>
     </div>   

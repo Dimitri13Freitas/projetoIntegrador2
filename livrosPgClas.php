@@ -2,7 +2,8 @@
 <html lang='pt-br'>
 
 <head>
-  <meta charset="UTF-8">
+   <meta charset="UTF-8">
+  <link rel="shortcut icon" href="img/assets/icon.svg" type="image/x-icon">
   <link rel="shortcut icon" href="img/icon.svg" type="image/x-icon">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
@@ -72,7 +73,7 @@
           <div class="noticiaSeila d-flex flex-column">
             <small>Sinopse</small>
             <h2>Duna</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
+            <p>Duna conta a história de Paul Atreides, jovem talentoso e brilhante que nasceu com um destino grandioso, para além até da sua própria compreensão, e precisa viajar ao planeta mais...</p>
             <a href="livrosPgClas2.php">Continuar lendo...</a>
           </div>
           <img src="img/livros/duna2.webp" alt="Imagem da capa do livro 'Duna'">
@@ -81,7 +82,7 @@
           <div class="noticiaSeila d-flex flex-column">
           <small>Sinopse</small>
             <h2>Eu,Robô</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nam molestias ipsa praesentium tenetur ea fugiat unde impedit, assumenda itaque deleniti quam facilis totam doloremque. Soluta quia omnis cupiditate minima.</p>
+            <p>Um dos maiores clássicos da literatura de ficção científica, Eu, Robô, escrito por Isaac Asimov, é um conjunto de nove contos, interconectados pela Dra. Susan Calvin, que apresenta seus...</p>
             <a href="livrosPgClas4.php">Continuar lendo...</a>
           </div>
           <img src="img/livros/robo2.webp" alt="Imagem da capa do livro 'eu, robô'">
@@ -92,6 +93,8 @@
     <div class='config bg-secondary mt-5 mb-5 '>
           <h2 class='py-5 titulo'>Notícias</h2>
     </div>
+    <div class='container'>
+
     <div class="d-flex justify-content-xl-around flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
     <?php include 'include/noticiaAnimacao1.php';?>
     <?php include 'include/noticiaFilme2.php';?>
@@ -100,6 +103,8 @@
         <?php include 'include/livrosNoticia1.php';?>
         <?php include 'include/noticiaAnimacao3.php';?>
       </div>
+    </div>
+
     <?php include 'include/footer.php';?>
   </main>
 

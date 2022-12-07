@@ -2,7 +2,8 @@
 <html lang='pt-br'>
 
 <head>
-  <meta charset="UTF-8">
+   <meta charset="UTF-8">
+  <link rel="shortcut icon" href="img/assets/icon.svg" type="image/x-icon">
   <link rel="shortcut icon" href="img/icon.svg" type="image/x-icon">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
@@ -32,7 +33,7 @@
         <h2 class="col-12 justify-content-center" style="text-align:center ;"> Principais produções </h2>
         <section class="mud principais brd col-xl-3 col-md-5 col-sm-12 justify-content-center border">
         <a class="col" href="livrosCnt1PgAutores.php">
-          <img class="brdr"src="img/livros/OdisseiA.webp" alt="Imagem da capa do livro 'Uma Odisseia no Espaço'">
+          <img class="brdr"src="img/livros/odisseia.webp" alt="Imagem da capa do livro 'Uma Odisseia no Espaço'">
           <h3 class="br"> Odisseia no espaço </h3>
           </a>
         </section>

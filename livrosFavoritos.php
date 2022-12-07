@@ -2,7 +2,8 @@
 <html lang='pt-br'>
 
 <head>
-  <meta charset="UTF-8">
+   <meta charset="UTF-8">
+  <link rel="shortcut icon" href="img/assets/icon.svg" type="image/x-icon">
   <link rel="shortcut icon" href="img/icon.svg" type="image/x-icon">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
@@ -24,7 +25,7 @@
             <p>Victor é um cientista que dedica a juventude e a saúde para descobrir como reanimar tecidos mortos e gerar vida artificialmente. O resultado de sua experiência, um monstro que o próprio Frankenstein considera uma aberração...</p>
             <a href="livrosPgFAV.php">Continuar lendo...</a>
           </div>
-          <img src="img/livros/im0(5).webp" alt="Imagem da capa da obra 'Frankstein'">
+          <img src="img/livros/frankstein3.webp" alt="Imagem da capa da obra 'Frankstein'">
         </section>
         <section class="noticia rounded-3 border d-flex align-items-center">
           <div class="noticiaSeila d-flex flex-column">
@@ -33,7 +34,7 @@
             <p>Nós é um romance distópico escrito entre 1920 e 1921 pelo escritor russo Yevgeny Zamyatin. A história narra as impressões de um cientista sobre o mundo em que vive, uma sociedade aparentemente perfeita mas opressora...</p>
             <a href="livrosPgFAV2.php">Continuar lendo...</a>
           </div>
-          <img src="img/livros/im0(6).webp" alt="Imagem da capa da obra 'Zamiátin'">
+          <img src="img/livros/zamia.webp" alt="Imagem da capa da obra 'Zamiátin'">
         </section>
       </div>
 
@@ -45,7 +46,7 @@
             <p>O Céu sobre o porto tinha cor de televisão num canal fora do ar. Considerada a obra precursora do movimento cyberpunk e um clássico da ficção científica...</p>
             <a href="livrosPgFAV3.php">Continuar lendo...</a>
           </div>
-          <img src="img/livros/im0(7).webp" alt="Imagem da capa da Obra 'Mochileiros da Galáxia'">
+          <img src="img/livros/mochileiro.webp" alt="Imagem da capa da Obra 'Mochileiros da Galáxia'">
         </section>
         <section class="noticia rounded-3 border d-flex align-items-center">
           <div class="noticiaSeila d-flex flex-column">

@@ -564,6 +564,12 @@ a {
 .cosplay {
   margin-top: 30px;
 }
+.lado1img:hover {
+  background: rgba(0, 186, 137, 0.1);
+}
+.lado1img {
+  color: #f1f1f1;
+}
 .lado1img img {
   display: block;
   margin: 0 auto;
@@ -587,6 +593,12 @@ a {
 .filmestextodestaques article h3,
 .filmestextodestaques article p {
   text-align: center;
+  color: #f1f1f1;
+}
+.filmestextodestaques article:hover > p,
+.filmestextodestaques article:hover > h3 {
+  text-align: center;
+  color: #008a65;
 }
 .filmesbannerdestaques img {
   width: 100%;
@@ -716,17 +728,10 @@ a {
   padding: 20px;
   text-align: center;
 }
-
-/* .border {
-  padding: 5px;
-  border-radius: 50px;
-} */
-
 .br {
   margin: 5px;
   text-align: center;
 }
-
 .brd {
   text-align: center;
   padding: 20px;

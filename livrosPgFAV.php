@@ -2,7 +2,8 @@
 <html lang='pt-br'>
 
 <head>
-  <meta charset="UTF-8">
+   <meta charset="UTF-8">
+  <link rel="shortcut icon" href="img/assets/icon.svg" type="image/x-icon">
   <link rel="shortcut icon" href="img/icon.svg" type="image/x-icon">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
@@ -50,16 +51,16 @@
           <div class="noticiaSeila d-flex flex-column">
           <small>Análise da obra</small>
             <h2>Mochileiro das Galáxias</h2>
-            <p>O Céu sobre o porto tinha cor de televisão num canal fora do ar. Considerada a obra precursora do movimento cyberpunk e um clássico da ficção científica moderna, Neuromancer conta a história de Case, um cowboy do ciber...</p>
+            <p>O Céu sobre o porto tinha cor de televisão num canal fora do ar. Considerada a obra precursora do movimento cyberpunk e um clássico da ficção científica moderna...</p>
             <a href="livrosPgFAV3.php">Continuar lendo...</a>
           </div>
-          <img src="img/livros/im0(7).webp" alt="Imagem da capa da Obra 'Mochileiros da Galáxia'">
+          <img src="img/livros/mochileiro.webp" alt="Imagem da capa da Obra 'Mochileiros da Galáxia'">
         </section>
         <section class="noticia rounded-3 border d-flex align-items-center">
           <div class="noticiaSeila d-flex flex-column">
           <small>Análise da obra</small>
             <h2>A mão esquerda da escuridão</h2>
-            <p>Genly Ai foi enviado a Gethen com a missão de convencer seus governantes a se unirem a uma grande comunidade universal. Ao chegar ali, o experiente emissário sente-se completamente despreparado para a situação que lhe aguarda...</p>
+            <p>Genly Ai foi enviado a Gethen com a missão de convencer seus governantes a se unirem a uma grande comunidade universal. Ao chegar ali...</p>
             <a href="livrosPgFAV4.php">Continuar lendo...</a>
           </div>
           <img src="img/livros/im0(8).webp" alt="Imagem da capa da Obra 'A mão esquerda da escuridão'">

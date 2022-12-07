@@ -2,7 +2,8 @@
 <html lang="pt-br">
 
 <head>
-  <meta charset="utf-8">
+   <meta charset="UTF-8">
+  <link rel="shortcut icon" href="img/assets/icon.svg" type="image/x-icon">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
@@ -27,7 +28,7 @@
         </div>
         <div class="col-lg-5 col-md-5 col-sm-12 filmesbannerdestaques">
           <aside>
-            <img class='rounded' src="img/imgFilmes/imgDestaques.webp" alt="Imagem de Naves futuristas">
+            <img class='rounded' src="img/imgFilmes/imgDestaques.jpg" alt="Imagem de Naves futuristas">
           </aside>
         </div>
       </div>
@@ -46,7 +47,7 @@
             </div>
           <div class="row filmesbannerdestaques">
             <div class="col-lg-12 col-md-12 col-sm-12">
-              <img class='rounded' src="img/imgFilmes/imgMiranhaDestaques.webp" alt="Banner do filme Homem Aranha sem volta para casa">
+              <img class='rounded' src="img/imgFilmes/imgMiranhaDestaques.jpg" alt="Banner do filme Homem Aranha sem volta para casa">
             </div>
           </div>
         </a>
@@ -62,7 +63,7 @@
           </div>
           <div class="row filmesbannerdestaques">
             <div class="col-lg-12 col-md-12 col-sm-12">
-              <img class='rounded' src="img/imgFilmes/imgJurassic.webp" alt="Imagem do filme Jurassic World">
+              <img class='rounded' src="img/imgFilmes/imgJurassic.jpg" alt="Imagem do filme Jurassic World">
             </div>
           </div>
         </a>
@@ -78,7 +79,7 @@
             </div>
           <div class="row filmesbannerdestaques">
             <div class="col-lg-12 col-md-12 col-sm-12">
-              <img class='rounded' src="img/imgFilmes/imgCapitaMarvel.webp" alt="Banner do filme Capitã Marvel">
+              <img class='rounded' src="img/imgFilmes/imgCapitaMarvel.jpg" alt="Banner do filme Capitã Marvel">
             </div>
           </div>
         </a>

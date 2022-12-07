@@ -2,7 +2,8 @@
 <html lang="pt-br">
 
 <head>
-  <meta charset="utf-8">
+   <meta charset="UTF-8">
+  <link rel="shortcut icon" href="img/assets/icon.svg" type="image/x-icon">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
@@ -29,7 +30,7 @@
               </div>
               <div class="col-lg-5 col-md-6 col-sm-12 m-0 p-0">
                 <aside>
-                  <img class="rounded " src="img/imgFilmes/imgPrincipaisStarWars.webp" alt="Imagem do Filme Star Wars IV">
+                  <img class="rounded " src="img/imgFilmes/imgPrincipaisStarWars.jpg" alt="Imagem do Filme Star Wars IV">
                 </aside>
               </div>
             </section>
@@ -44,7 +45,7 @@
               </div>
               <div class="col-lg-5 col-md-6 col-sm-12 m-0 p-0">
                 <aside>
-                  <img class="rounded " src="img/imgFilmes/imgPrincipaisPlanetaDosMacacos.webp" alt="">
+                  <img class="rounded " src="img/imgFilmes/imgPrincipaisPlanetaDosMacacos.jpg" alt="">
                 </aside>
               </div>
             </section>
@@ -59,7 +60,7 @@
               </div>
               <div class="col-lg-5 col-md-6 col-sm-12 m-0 p-0">
                 <aside>
-                  <img class="rounded " src="img/imgFilmes/imgPrincipaisDepoisDaTerra.webp" alt="Imagem do Filme Depois da Terra">
+                  <img class="rounded " src="img/imgFilmes/imgPrincipaisDepoisDaTerra.jpg" alt="Imagem do Filme Depois da Terra">
                 </aside>
               </div>
             </section>

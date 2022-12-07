@@ -2,7 +2,8 @@
 <html lang="pt-br">
 
 <head>
-  <meta charset="utf-8">
+   <meta charset="UTF-8">
+  <link rel="shortcut icon" href="img/assets/icon.svg" type="image/x-icon">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
@@ -19,7 +20,7 @@
       <div class="row integrantes">
         <div class="col-lg-5 col-md-12 quemsomos">
           <aside>
-            <img class="rounded" src="img/imgQuemsomos/imgDimitri.webp" alt="Foto do dimitri">
+            <img class="rounded" src="img/imgQuemsomos/imgDimitri.jpg" alt="Foto do dimitri">
           </aside>
         </div>
         <div class="col-lg-7 col-md-12 textoquemsomos">
@@ -45,7 +46,7 @@
       <div class="row integrantes">
         <div class="col-lg-5 col-md-12 quemsomos">
           <aside>
-            <img class="rounded" src="img/imgQuemSomos/imgLucasPereira.webp" alt="Foto do Lucas Pereira">
+            <img class="rounded" src="img/imgQuemSomos/imgLucasPereira.jpg" alt="Foto do Lucas Pereira">
           </aside>
         </div>
         <div class="col-lg-7 col-md-12 textoquemsomos">
@@ -70,7 +71,7 @@
       <div class="row integrantes">
         <div class="col-lg-5 col-md-12 quemsomos">
           <aside>
-            <img class="rounded" src="img/imgQuemSomos/imgLucasVieira.webp" alt="Foto do Lucas Vieira">
+            <img class="rounded" src="img/imgQuemSomos/imgLucasVieira.jpg" alt="Foto do Lucas Vieira">
           </aside>
         </div>
         <div class="col-lg-7 col-md-12 textoquemsomos">
