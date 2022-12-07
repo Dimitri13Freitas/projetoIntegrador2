@@ -92,7 +92,7 @@
             <a href="livrosPgFAV.php">
               <small class='mb-2 d-block'>Livros</small>
               <div class='d-flex'>
-                <img class=' mb-3 m-auto rounded' src="img/home/img6obra.webp" alt="">
+                <img class=' mb-3 m-auto rounded' src="img/home/img6obra.jpg" alt="">
               </div>
               <h3 class='text-center'>Frankstein</h3>
               <p class='text-center'>Victor é um cientista que dedica a juventude e a saúde para descobrir como reanimar tecidos mortos e gerar vida artificialmente. O resultado de sua experiência, um monstro que o próprio Frankenstein considera uma...</p>

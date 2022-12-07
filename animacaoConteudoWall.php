@@ -33,7 +33,7 @@
       <div class='row my-3'>
         <div class='col-xl-7 col-md-12  col-sm-12 conteudo'>
           <aside>
-            <img class='rounded' src="img/home/img2Obra.webp" alt="Wall-e (personagem principal do filme) olhando com esperança para o céu logo após o sol se pôr">
+            <img class='rounded' src="img/home/img2Obra.jpg" alt="Wall-e (personagem principal do filme) olhando com esperança para o céu logo após o sol se pôr">
           </aside>
         </div>
         <div class='col-xl-5 col-md-12 col-sm-12 sobreImg'>
