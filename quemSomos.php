@@ -2,8 +2,7 @@
 <html lang="pt-br">
 
 <head>
-   <meta charset="UTF-8">
-  <link rel="shortcut icon" href="img/assets/icon.svg" type="image/x-icon">
+  <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
@@ -54,7 +53,7 @@
           <h2> Lucas Pereira de Oliveira</h2>
             <p>RA:2650832213022</p>
             <p>Tenho 18 anos e estou no primeiro semestre de Sistemas para Internet, na Fatec São Roque. Tenho 1,96 de altura e impressionantemente calço 47/48. Estudei na escola adventista de São Roque.Isso só foi possível pois eu era bolsista. Estou gostando muito da faculdade e das matérias, acho que vou me dar bem na área.</p>
-            <p>Responsável pelo html, css e conteúdo das páginas:</p>
+            <p>Responsável pelo html, css e conteúdo de todas as paginas relacionadas ao tema de Filmes:</p>
             <div class='pags'>
               <a href="filmesCosplay.php" class="btn-primary btn">Filmes (Cosplay)</a>
               <a href="filmesPrincipais.php" class="btn-primary btn">Filmes (Principais Obras)</a>
@@ -79,15 +78,15 @@
             <h2>Lucas Vieira Pinto</h2>
             <p>RA: 2650832213021</p>
             <p>Tenho 18 anos e moro em Ibiúna. Fiz o ensino técnico integrado ao médio no curso de administração do IFSP. No final do curso, comecei a me interessar por tecnologia, pois fiz um programa de aprendizagem no lassu da USP. Atualmente curso Sistemas para Internet na Fatec e pretendo seguir nessa área.</p>
-            <p>Responsável pelo html,css e conteúdo das páginas:</p>
+            <p>Responsável pelo html,css e conteúdo de todas as paginas relacionadas ao tema de Livros:</p>
             <div class='pags'>
               <a href="livrosPrincipais.php" class="btn-primary btn">Livros (Principais Autores)</a>
               <a href="livrosFavoritos.php" class="btn-primary btn">Livros (Favoritos da Critica)</a>
               <a href="livrosClassicos.php" class="btn-primary btn">Livros(Clássicos)</a>
               <a href="livrosDestaques.php" class="btn-primary btn">Livros(Destaques)</a>
-              <a href="livrosNoticia1.php" class="btn-primary btn">Notícia Tal...</a>
-              <a href="livrosNoticia2.php" class="btn-primary btn">Notícia Tal...</a>
-              <a href="livrosNoticia3.php" class="btn-primary btn">Notícia Tal...</a>
+              <a href="Noticialivros1.php" class="btn-primary btn">Star Wars: Novos mangás...</a>
+              <a href="Noticialivros2.php" class="btn-primary btn">Homem mais rico do mundo...</a>
+              <a href="Noticialivros3.php" class="btn-primary btn">Lipe Diaz lança novo selo...</a>
               <a href="normas.php" class="btn-primary btn">Normas de Uso</a>
             </div>
           </article>
