@@ -2,7 +2,7 @@
 <html lang="pt-br">
 
 <head>
-   <meta charset="UTF-8">
+  <meta charset="UTF-8">
   <link rel="shortcut icon" href="img/assets/icon.svg" type="image/x-icon">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
@@ -13,15 +13,15 @@
 <!-- RETIRAR TAMANHO DAS IMAGENS NO CSS -->
 
 <body>
-<main>
-    <div class='container'>
-      <?php include 'include/nav.php';?>
-
+  <div class='container'>
+    <?php include 'include/nav.php';?>
+    <?php include 'include/bannerAnimacoes.php';?>
+    <main>
       <div class='row'>
         <div class='col-xl-8 col-md-12 col-sm-12'>
           <article class='pt-3'>
             <h2 class='h1 pt-5 m-0'>Classicos do Gênero</h2>
-            <small>january 1, 2022 by Dimitri</small>
+            <small>january 1, 2022 by <cite><a href="https://github.com/Dimitri13Freitas">Dimitri</a></cite></small>
             <p class='border-top border-2 pt-2 mt-2'>Aqui você vai poder relembrar as animações classicas e a frente do seu tempo que foram lançadas antes e depois dos anos 2000, e perceber que algumas obras listadas aqui, ainda sim são bastante atuais idependente de sua data de lançamento.</p>
           </article>
         </div>
@@ -82,11 +82,11 @@
           <a href="animacaoConteudoJetsons.php">Continuar Lendo...</a>
         </article>
       </section>
-    </div>
+    </main>
+  </div>
 
 
-    <?php include 'include/footer.php';?>
-  </main>
+  <?php include 'include/footer.php';?>
 
 
   <script src="js/script.js"></script>

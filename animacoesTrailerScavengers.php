@@ -13,22 +13,23 @@
 <!-- RETIRAR TAMANHO DAS IMAGENS NO CSS -->
 
 <body>
-  <main>
-    <div class='container'>
-      <?php include 'include/nav.php';?>
-      <?php include 'include/bannerAnimacoes.php';?>
+  <div class='container'>
+    <?php include 'include/nav.php';?>
+    <?php include 'include/bannerAnimacoes.php';?>
+    
+    <main>
+      <h2 class='h2 mt-5 mb-3 text-center'>Scavengers Reign</h2>
 
-      <h1 class='h2 mt-5 mb-3 text-center'>Scavengers Reign</h1>
-
-      <div class='row mb-4'>
+      <figure class='row mb-4'>
+      <figcaption>HBO Scavengers Reign</figcaption>
       <iframe width="853" height="480" src="https://www.youtube.com/embed/CADHf3kPnjA" title="Scavengers Reign | Official Teaser | HBO Max" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </div>
+      </figure>
       <div class="d-flex justify-content-xl-between flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
         <?php include 'include/noticiaAnimacao3.php';?>
         <?php include 'include/noticiaFilme2.php';?>
       </div>
+    </main>
     <?php include 'include/footer.php';?>
-  </main>
 
 
   <script src="js/script.js"></script>

@@ -17,12 +17,13 @@
     <div class='container'>
       <?php include 'include/nav.php';?>
       <?php include 'include/bannerHome.php';?>
-
-      <form  class='formulario rounded rounded-3 my-5 d-flex border'>
-        <div class=''>
-          <img src="img/assets/imgContato.webp" alt="">
-        </div>
-        <fieldset class='d-flex flex-column'>
+      
+      <fieldset  class='formulario rounded rounded-3 my-5 d-flex border'>
+        <figure class=''>
+          <figcaption>Imagem meramente ilustrativa</figcaption>
+          <img src="img/assets/imgContato.webp" alt="Nave espacial em outro planeta">
+        </figure>
+        <form class='d-flex flex-column'>
           <label class='h5' for="nome">Nome</label>
           <input type="text" id='nome'>
           <label class='h5 mt-3' for="email">E-mail</label>
@@ -30,8 +31,8 @@
           <label class='h5 mt-3' for="msg">Mensagem</label>
           <textarea class='d-block' id="msg"></textarea>
           <button class='btn-primary my-3 btn'>Enviar</button>
-        </fieldset>
-      </form>
+        </form>
+      </fieldset>
     </div>
     <?php include 'include/footer.php';?>
   </main>

@@ -43,6 +43,5 @@ echo "<header class='header d-flex align-items-center justify-content-between bo
   <li><a class='p-2' href='quemSomos.php'>Quem somos</a></li>
 </ul>
 </nav>
-<?php include 'include/bannerHome.php';?>
 </header>";
 ?>
