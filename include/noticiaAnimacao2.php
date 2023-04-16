@@ -3,7 +3,7 @@ echo "<section class='noticia rounded-3  border d-flex align-items-center'>
 <h5>Noticia</h5>
 <article class='noticiaSeila d-flex flex-column'>
   <small>Animações</small>
-  <h2>‘Final Space’ deixará a Netflix internacionalmente</h2>
+  <h3>‘Final Space’ deixará a Netflix internacionalmente</h3>
   <p>A animação é excelente, e a trilha sonora é incrível, ajudando a construir a atmosfera e embelezar momentos...</p>
   <a class='verde' href='animacaoNoticia2.php'>Continuar lendo...</a>
 </article>

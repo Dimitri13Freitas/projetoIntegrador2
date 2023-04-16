@@ -7,30 +7,29 @@
   <link rel="shortcut icon" href="img/icon.svg" type="image/x-icon">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-  <link rel="stylesheet" href="css/style.css">
+  <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+  <link rel="stylesheet" href="css/style.css"> -->
 </head>
 <body>
 <main>
   <div class='container'>
     <?php include 'include/nav.php';?>
     <?php include 'include/bannerLivros.php';?>
-    <div class="row cntr">
+    <article class="row cntr">
       <div class=" sla col-12">
         <h2 class="titulos">Última Criatura Humana</h2>
         <small class='titulos mb-3 d-block small pb-2 border-bottom border-2'>Dezembro 01, 2022 by <a href="https://www.topleituras.com/livros/criatura-humana-29b2">Topleituras.com</a></small>
       </div>
-     
-      <article class="col-xl-2 col-md-4 col-sm-5">
+      <figure class="col-xl-2 col-md-4 col-sm-5">
         <img class="brdr" src="img/livros/ult.webp"  alt="Imagem da capa da obra 'Última criatura humana'">
-      </article>
-      <section class="col-xl-5 col-md-7 col-sm-12">
+        <figcaption>Última Criatura Humana, 1960 </figcaption>
+      </figure>
+      <div class="col-xl-5 col-md-7 col-sm-12">
       <h2  > Sinopse </h2>
         <p>Em um futuro não muito distante, os robôs exterminaram a espécie humana. E XR_935, um robô de doze anos, não vê nisso um problema. Sem humanos, não há guerras, não há poluição, não há crime. Cada membro da sociedade tem um objetivo e tudo funciona com eficiência. Até que um dia, XR descobre algo impossível: uma garota chamada Emma. Estava assustada e precisando de ajuda. Agora, XR vai embarcar numa perigosa viagem com Emma e dois outros robôs para levá-la em segurança a um ponto misterioso do mapa. Mas como vão sobreviver num lugar onde as regras nunca podem ser quebradas e no qual a espécie humana era considerada extinta?
         </p>
-      </section>
-    </div>
-  
+      </div>
+</article>
 
     <div class="row cntr"> 
       <aside class="col-xl-10 col-md-12 col-sm-12">
@@ -39,17 +38,18 @@
       </aside> 
     </div>
       
-    <div class="row justify-content-center">
+    <article class="row justify-content-center">
       <div class=" col-10">
         <h1>Lee Bacon</h1>
       </div>
-      <article class=" col-xl-4 col-md-6 col-sm-12 justify-content-center">
-          <img class="brdr"src= "img/livros/lee.webp"   alt="Imagem do autor dessa obra, Lee Bacon.">
-      </article>
-      <section class=" col-xl-6 col-md-6 col-sm-12">
+      <figure class=" col-xl-4 col-md-6 col-sm-12 justify-content-center">
+        <img class="brdr"src= "img/livros/lee.webp"   alt="Imagem do autor dessa obra, Lee Bacon.">
+        <figcaption> Bacon, Lee  1920-2000</figcaption>
+      </figure>
+      <div class=" col-xl-6 col-md-6 col-sm-12">
         <p >Por mais contraditório que possa parecer, a leitura acabou atrapalhando o desempenho escolar de Gibson. Com seus 12 anos, William já alimentava o sonho de se tornar um escritor de ficção científica. Tornou-se um jovem recluso, apegado às leituras do gênero, não dava devida atenção aos estudos.Com 13 anos, teve seu primeiro contato com grandes autores como  Allen Ginsberg, Jack Kerouac e William S. Burroughs. O último, segundo Gibson, foi um dos principais responsáveis pela percepção da importância da literatura e da ficção. Alguns o chamam de O Profeta Noir do Cyberpunk, afinal, não é para menos. A sua obra de estreia é nada menos que Neuromancer, de 1984. O seu primeiro livro deu origem à consagrada trilogia de ficção científica Sprawl. Essa obra prima da ficção científica e cyberpunk é composta, também, pelos livros Count Zero e Mona Lisa Overdriver.</p>
-      </section>
-    </div>  
+      </div>
+    </article>  
   </div>
 
   <div class='config bg-secondary mt-5 mb-5 '>

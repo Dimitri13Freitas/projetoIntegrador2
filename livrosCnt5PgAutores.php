@@ -7,8 +7,8 @@
   <link rel="shortcut icon" href="img/icon.svg" type="image/x-icon">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-  <link rel="stylesheet" href="css/style.css">
+  <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+  <link rel="stylesheet" href="css/style.css"> -->
 </head>
 
 <body>
@@ -17,53 +17,62 @@
     <?php include 'include/nav.php';?>
     <?php include 'include/bannerLivros.php';?>
     
-    <div class="row cntr">
+    <article class="row cntr">
       <div class=" sla col-12">
         <h2 class="titulos">A Revolução dos Bichos</h2>
         <small class='titulos mb-3 d-block small pb-2 border-bottom border-2'>Dezembro 01, 2022 by <a href="https://guiadoestudante.abril.com.br/dica-cultural/a-revolucao-dos-bichos-conheca-o-classico-que-critica-o-totalitarismo/#:~:text=A%20cl%C3%A1ssica%20obra%20do%20autor,pela%20Revolu%C3%A7%C3%A3o%20Russa%2C%20de%201917.">Guiadoestudante.com</a></small>
       </div>
      
-      <article class="col-xl-2 col-md-3 col-sm-5">
+      <figure class="col-xl-2 col-md-3 col-sm-5">
         <img class="brdr" src="img/livros/revolu.webp"  alt="Imagem da capa do livro 'A revolução dos bichos', com um porco de capa, simbolo do livro.">
-      </article>
-      <section class="col-xl-5 col-md-9 col-sm-12">
-      <h2> Sinopse </h2>
+        <figcaption> A revolução dos bichos, 1990</figcaption>
+      </figure>
+      <div class="col-xl-5 col-md-9 col-sm-12">
+      <h3> Sinopse </h3>
         <p> A clássica obra do autor inglês George Orwell narra a jornada de um grupo de animais que decide se rebelar contra o dono da fazenda, o Sr. Jones, e com a exploração dos humanos. É uma alegoria e uma e uma sátira sobre o totalitarismo, mais especificamente com os rumos que tomados pela Revolução Russa, de 1917.</p>
-      </section>
-  
-    </div>
+      </div>
+    </article>
+
       <div class=" row justify-content-center"> 
-        <article class="principais xl-col-7 md-col-11 sm-col-12">
-          <h2>Crítica </h2>
+        <aside class="principais xl-col-7 md-col-11 sm-col-12">
+          <h3>Crítica </h3>
           <p>George Orwell pertencia a um grupo de socialistas ocidentais que acreditava nos ideais de Karl Marx. “Ele faz parte de uma linha de intelectuais europeus que acreditavam no socialismo como uma utopia  democrática igualitária; em um governo proletário, com sindicatos, assembleias e representantes populares no poder”, diz Duique. “É uma geração influenciada ainda pelo pensamento utópico marxista, , que sonhava com uma revolução socialista que trouxesse, além da igualdade, a liberdade”.<p>
-        </article>
-    </div>   
-        
+        </aside>
+      </div>   
+  
+  <section>
     <div>
-      <h3 class="titulos">Outros lidos</h3>
+      <h2 class="titulos">Outros lidos</h2>
     </div>
     <div class="d-flex justify-content-xl-around flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
-        <section class="noticia rounded-3  border d-flex align-items-center">
+        <article class="noticia rounded-3  border d-flex align-items-center">
           <div class="noticiaSeila d-flex flex-column">
             <small>Sinopse</small>
-            <h2>1984</h2>
+            <h3>1984</h3>
             <p>Após uma guerra global, semelhante à segunda grande guerra, porém com mais bombas atômicas, o mundo foi dividido em três continentes: Lestásia, Eurásia e Oceania, onde fica a cidade de Londres. Esse último é comandado pelo...</p>
             <a href="livrosCnt4PgAutores.php">Continuar lendo...</a>
           </div>
-          <img src="img/livros/1984.webp" alt="Imagem da capa do livro '1984'">
-        </section>
-        <section class="noticia rounded-3 border d-flex align-items-center">
+          <figure>
+            <img src="img/livros/1984.webp" alt="Imagem da capa do livro '1984'">
+            <figcaption>1984, ano tal</figcaption>
+          </figure>
+        </article>
+        <article class="noticia rounded-3 border d-flex align-items-center">
           <div class="noticiaSeila d-flex flex-column">
             <small>Sinopse</small>
-            <h2>Flor da Inglaterra</h2>
+            <h3>Flor da Inglaterra</h3>
             <p>Após a terrível colisão de um meteorito contra o continente europeu, líderes mundiais e cientistas criaram um sistema de monitoramento para evitar que uma catástrofe voltasse...</p>
             <a href="livrosCnt6PgAutores.php">Continuar lendo...</a>
           </div>
-          <img src="img/livros/planta.webp" alt="Imagem da capa do livro 'Flor da Inglaterra'">
-        </section>
-      </div>
-    </div>   
-  </div>
+          <figure>
+            <img src="img/livros/planta.webp" alt="Imagem da capa do livro 'Flor da Inglaterra'">
+            <figcaption> Flor da Inglaterra, 1970</figcaption>
+          </figure>
+      </article>
+    </div>
+  </section>   
+</div>
+
 <div class='config bg-secondary mt-5 mb-5 '>
       <h2 class='py-5 titulo'>Notícias</h2>
 </div>
