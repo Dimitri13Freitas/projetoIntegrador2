@@ -10,7 +10,7 @@ echo "<header class='header d-flex align-items-center justify-content-between bo
   <a href='https://github.com/Dimitri13Freitas/projetoIntegrador2'><img src='./img/assets/instagram.svg' alt='Icon Logo Instagram'></a>
   <a href='https://github.com/Dimitri13Freitas/projetoIntegrador2'><img src='./img/assets/twitter.svg' alt='Icon Logo Twitter'></a>
 </div>
-
+</header>
 <nav class='navegacao'>
 <ul class='d-flex p-0 flex-row align-items-center justify-content-around'>
   <li class='p-2'>Filmes
@@ -42,6 +42,5 @@ echo "<header class='header d-flex align-items-center justify-content-between bo
   <li><a class='p-2' href='normas.php'>Normas de uso</a></li>
   <li><a class='p-2' href='quemSomos.php'>Quem somos</a></li>
 </ul>
-</nav>
-</header>";
+</nav>";
 ?>
