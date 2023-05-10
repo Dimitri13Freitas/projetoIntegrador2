@@ -160,6 +160,9 @@ a {
   display: block;
   animation: animaNav 0.3s forwards;
 }
+.navegacao li a:focus + ul {
+  display: block;
+}
 
 /* Menu Mobile by Dimitri Freitas */
 .menuMobile {
@@ -785,3 +788,8 @@ a {
 .espaço {
   margin-top: 20px;
 }
+
+figcaption {
+  display: none;
+}
+

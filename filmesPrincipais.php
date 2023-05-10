@@ -6,8 +6,8 @@
   <link rel="shortcut icon" href="img/assets/icon.svg" type="image/x-icon">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
-  <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-  <link rel="stylesheet" href="css/style.css"> -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+  <link rel="stylesheet" href="css/style.css">
 </head>
 
 <!-- RETIRAR TAMANHO DAS IMAGENS NO CSS -->
@@ -15,8 +15,8 @@
 <body>
   <main>
     <div class='container'>
-      <?php include 'include/nav.php';?>
-      <?php include 'include/bannerFilmes.php';?>
+      <?php include 'include/nav.php'; ?>
+      <?php include 'include/bannerFilmes.php'; ?>
       <div class="row">
         <div class="lado1 col-lg-8 col-md-12 col-sm-12">
           <a href="SinopseStarWars.html">
@@ -31,8 +31,7 @@
               <div class="col-lg-5 col-md-6 col-sm-12 m-0 p-0">
                 <aside>
                   <figure>
-                    <img class="rounded " src="img/imgFilmes/imgPrincipaisStarWars.jpg"
-                      alt="Capa do Filme Star Wars IV, mostrando 4 personagens ao fundo e uma nave espacial a frente com o logotipo do filme logo abaixo.">
+                    <img class="rounded " src="img/imgFilmes/imgPrincipaisStarWars.jpg" alt="Capa do Filme Star Wars IV, mostrando 4 personagens ao fundo e uma nave espacial a frente com o logotipo do filme logo abaixo.">
                     <figcaption>Capa do filme Star Wars IV</figcaption>
                   </figure>
                 </aside>
@@ -72,8 +71,7 @@
               <div class="col-lg-5 col-md-6 col-sm-12 m-0 p-0">
                 <aside>
                   <figure>
-                    <img class="rounded " src="img/imgFilmes/imgPrincipaisDepoisDaTerra.jpg"
-                      alt="Capa do Filme Depois da Terra, com o ator Will Smith e seu filho Jaden Smith no plano principal.">
+                    <img class="rounded " src="img/imgFilmes/imgPrincipaisDepoisDaTerra.jpg" alt="Capa do Filme Depois da Terra, com o ator Will Smith e seu filho Jaden Smith no plano principal.">
                     <figcaption>Capa do filme Depois da Terra</figcaption>
                   </figure>
                 </aside>
@@ -112,7 +110,7 @@
         </div>
       </div>
     </div>
-    <?php include 'include/footer.php';?>
+    <?php include 'include/footer.php'; ?>
   </main>
 
 

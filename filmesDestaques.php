@@ -6,8 +6,8 @@
   <link rel="shortcut icon" href="img/assets/icon.svg" type="image/x-icon">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
-  <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
-  <link rel="stylesheet" href="css/style.css"> -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+  <link rel="stylesheet" href="css/style.css">
 </head>
 
 <!-- RETIRAR TAMANHO DAS IMAGENS NO CSS -->
@@ -15,8 +15,8 @@
 <body>
   <main>
     <div class='container'>
-      <?php include 'include/nav.php';?>
-      <?php include 'include/bannerAnimacoes.php';?>
+      <?php include 'include/nav.php'; ?>
+      <?php include 'include/bannerAnimacoes.php'; ?>
       <div class="row filmesdestaques">
         <div class="col-lg-7 col-md-7 col-sm-12">
           <section>
@@ -42,8 +42,7 @@
           </section>
         </div>
       </div>
-      <div
-        class="d-flex justify-content-xl-between flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
+      <div class="d-flex justify-content-xl-between flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
         <section class='noticia rounded-3  border d-flex align-items-center'>
           <div class='noticiaSeila d-flex flex-column'>
             <small>Filmes</small>
@@ -53,8 +52,7 @@
             <a class='verde' href='filmesNoticia3.html'>Continuar lendo...</a>
           </div>
           <figure>
-            <img src='img/imgNoticias/noticiasFilmes/imgfilmesNoticia3.jpg'
-              alt='Imagem do filme Eu não tenho boca e devo gritar'>
+            <img src='img/imgNoticias/noticiasFilmes/imgfilmesNoticia3.jpg' alt='Imagem do filme Eu não tenho boca e devo gritar'>
             <figcaption>imagem do filme Eu não tenho boca e devo gritar</figcaption>
           </figure>
         </section>
@@ -85,8 +83,7 @@
               <div class="row filmesbannerdestaques">
                 <div class="col-lg-12 col-md-12 col-sm-12">
                   <figure>
-                    <img class='rounded' src="img/imgFilmes/imgMiranhaDestaques.jpg"
-                      alt="Banner do filme Homem Aranha sem volta para casa">
+                    <img class='rounded' src="img/imgFilmes/imgMiranhaDestaques.jpg" alt="Banner do filme Homem Aranha sem volta para casa">
                     <figcaption>Banner do filme Homem-Aranha sem volta para casa</figcaption>
                   </figure>
                 </div>
@@ -142,7 +139,7 @@
     </div>
     </section>
     </div>
-    <?php include 'include/footer.php';?>
+    <?php include 'include/footer.php'; ?>
   </main>
 
 
