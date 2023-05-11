@@ -6,8 +6,8 @@
   <link rel="shortcut icon" href="img/assets/icon.svg" type="image/x-icon">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
-  <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous"> -->
-  <!-- <link rel="stylesheet" href="css/style.css"> -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+  <link rel="stylesheet" href="css/style.css">
 </head>
 
 <!-- RETIRAR TAMANHO DAS IMAGENS NO CSS -->
@@ -16,7 +16,7 @@
   <main>
     <div class='container'>
       <?php include 'include/nav.php'; ?>
-      <?php include 'include/bannerAnimacoes.php'; ?>
+      <?php include 'include/bannerFilmes.php'; ?>
 
       <div class="row cosplay">
         <div class="col-lg-7 col-md-5 col-sm-12">
@@ -112,32 +112,32 @@
         </div>
       </div>
       </section>
-      <!-- <div class="d-flex justify-content-xl-between flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer"> -->
-      <section class='noticia rounded-3  border d-flex align-items-center'>
-        <div class='noticiaSeila d-flex flex-column'>
-          <small>Filmes</small>
-          <h2>O filme que todo mundo está vendo na Netflix</h2>
-          <p>A Netflix lançou um novo filme de ficção científica pós-apocalíptica que está dando o que falar...</p>
-          <a class='verde' href='filmesNoticia1.html'>Continuar lendo...</a>
-        </div>
-        <figure>
-          <img src='img/imgNoticias/noticiasFilmes/imgfilmesNoticia1.jpg' alt='Imagem do filmeexército do amanhã'>
-          <figcaption>Imagem de capa do filme Exército do amanhã</figcaption>
-        </figure>
-      </section>
-      <section class='noticia rounded-3  border d-flex align-items-center'>
-        <div class='noticiaSeila d-flex flex-column'>
-          <small>Filmes</small>
-          <h2>O filme que previu os finalistas da Copa do Mundo 2022</h2>
-          <p>Entenda como o filme de ficção científica pode ter previsto a final da...</p>
-          <a class='verde' href='filmesNoticia2.html'>Continuar lendo...</a>
-        </div>
-        <figure>
-          <img src='img/imgNoticias/noticiasFilmes/imgfilmesNoticia2.jpg' alt='Imagem do filme a guerra do amanhã'>
-          <figcaption>Imagem de capa do filme A guerra do amanhã</figcaption>
-        </figure>
-      </section>
-    </div>
+      <div class="d-flex justify-content-xl-between flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
+        <section class='noticia rounded-3  border d-flex align-items-center'>
+          <div class='noticiaSeila d-flex flex-column'>
+            <small>Filmes</small>
+            <h2>O filme que todo mundo está vendo na Netflix</h2>
+            <p>A Netflix lançou um novo filme de ficção científica pós-apocalíptica que está dando o que falar...</p>
+            <a class='verde' href='filmesNoticia1.html'>Continuar lendo...</a>
+          </div>
+          <figure>
+            <img src='img/imgNoticias/noticiasFilmes/imgfilmesNoticia1.jpg' alt='Imagem do filmeexército do amanhã'>
+            <figcaption>Imagem de capa do filme Exército do amanhã</figcaption>
+          </figure>
+        </section>
+        <section class='noticia rounded-3  border d-flex align-items-center'>
+          <div class='noticiaSeila d-flex flex-column'>
+            <small>Filmes</small>
+            <h2>O filme que previu os finalistas da Copa do Mundo 2022</h2>
+            <p>Entenda como o filme de ficção científica pode ter previsto a final da...</p>
+            <a class='verde' href='filmesNoticia2.html'>Continuar lendo...</a>
+          </div>
+          <figure>
+            <img src='img/imgNoticias/noticiasFilmes/imgfilmesNoticia2.jpg' alt='Imagem do filme a guerra do amanhã'>
+            <figcaption>Imagem de capa do filme A guerra do amanhã</figcaption>
+          </figure>
+        </section>
+      </div>
     </div>
     <?php include 'include/footer.php'; ?>
   </main>

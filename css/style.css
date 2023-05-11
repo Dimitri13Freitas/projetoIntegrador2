@@ -160,9 +160,6 @@ a {
   display: block;
   animation: animaNav 0.3s forwards;
 }
-.navegacao li a:focus + ul {
-  display: block;
-}
 
 /* Menu Mobile by Dimitri Freitas */
 .menuMobile {
@@ -214,6 +211,10 @@ a {
 }
 .ultimosReviews section a {
   color: #f1f1f1;
+}
+.ultimosReviews ul li figure {
+  display: block;
+  margin: 0 auto;
 }
 
 /* Footer by Dimitri Freitas */
@@ -646,7 +647,7 @@ a {
   }
   .sinopse h2 {
     text-align: center;
-    font-size: 35px;
+    font-size: 2.18rem;
   }
 }
 .filmesdestaques h2 {
@@ -789,7 +790,29 @@ a {
   margin-top: 20px;
 }
 
-figcaption {
+figure figcaption {
   display: none;
 }
 
+*:focus {
+  outline: none;
+  background-color: rgba(136, 136, 136, 0.3) !important ;
+  padding: 10px;
+  border: 3px solid #00bbff;
+  color: white !important;
+}
+.btn:focus {
+  outline: none;
+  background-color: #008a65 !important ;
+  padding: 10px;
+  border: 3px solid #00bbff;
+  color: white !important;
+}
+
+a div:focus {
+  outline: none;
+  background-color: #008a65 !important ;
+  padding: 10px;
+  border: 3px solid #00bbff;
+  color: white !important;
+}
