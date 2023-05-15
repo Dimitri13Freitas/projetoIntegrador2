@@ -31,7 +31,7 @@
           <div class='col-xl-7 col-md-12  col-sm-12 conteudo'>
             <figure>
               <img class='rounded' src="img/livros/cavalo.webp" alt="Banner dos novos personagens do selo de Lipe Diaz">
-              <figcaption> Personagens do selo, by Lipe Dias</figcaption>
+              <figcaption class='sumir'> Personagens do selo, by Lipe Dias</figcaption>
             </figure>
           </div>
           <div class='col-xl-5 col-md-12 col-sm-12 sobreImg'>

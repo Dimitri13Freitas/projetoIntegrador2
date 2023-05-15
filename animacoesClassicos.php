@@ -29,7 +29,7 @@
       <section class='border destaques mt-3 p-0 p-3 rounded d-flex justfy-content-center align-items-center'>
         <aside>
           <figure class='destaquesImg'>
-            <figcaption>Imagem da animação Futurama</figcaption>
+            <figcaption class='sumir'>Imagem da animação Futurama</figcaption>
             <img class='rounded' src="img/imgAnimacao/classicos/img1.webp" alt="Futurama Fry, Bender e leela abraçados">
           </figure>
         </aside>
@@ -42,7 +42,7 @@
       <section class='border mt-5 destaques p-0 p-3 mb-5 rounded d-flex justfy-content-between align-items-center'>
         <aside class='destaquesImg'>
           <figure>
-            <figcaption>Imagem do Desenho Duck Dogers</figcaption>
+            <figcaption class='sumir'>Imagem do Desenho Duck Dogers</figcaption>
             <img class='rounded' src="img/imgAnimacao/classicos/img2.webp" alt="Patolino Gaguinho e marciano olhando para a tela">
           </figure>
         </aside>
@@ -59,7 +59,7 @@
       <section class='border mt-5 destaques p-0 p-3 mb-5 rounded d-flex justfy-content-between align-items-center'>
         <aside>
           <figure class='destaquesImg'>
-            <figcaption>Imagem do Desenho Zeta</figcaption>
+            <figcaption class='sumir'>Imagem do Desenho Zeta</figcaption>
             <img class='rounded' src="img/imgAnimacao/classicos/img3.webp" alt="Robô zeta, vulgo, personagem principal">
           </figure>
         </aside>
@@ -72,7 +72,7 @@
       <section class='border mt-5 destaques p-0 p-3 mb-5 rounded d-flex justfy-content-between align-items-center'>
         <aside>
           <figure class='destaquesImg'>
-            <figcaption>Imagem do Desenho da familia do futuro "Os jetsons".</figcaption>
+            <figcaption class='sumir'>Imagem do Desenho da familia do futuro "Os jetsons".</figcaption>
             <img class='rounded' src="img/imgAnimacao/classicos/img4.webp" alt="A familia jetsons andando em seu carro voador">
           </figure>
         </aside>

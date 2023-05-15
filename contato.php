@@ -20,7 +20,7 @@
 
       <fieldset class='formulario rounded rounded-3 my-5 d-flex border'>
         <figure class=''>
-          <figcaption>Imagem meramente ilustrativa</figcaption>
+          <figcaption class='sumir'>Imagem meramente ilustrativa</figcaption>
           <img src="img/assets/imgContato.webp" alt="Nave espacial em outro planeta">
         </figure>
         <form class='d-flex flex-column'>

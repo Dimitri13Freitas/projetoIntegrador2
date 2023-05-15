@@ -26,7 +26,7 @@
           <section class='premiados border rounded d-inline-block py-3 px-4'>
             <h3 class='h2 text-center mb-3'>WALL-E</h3>
             <figure class='destaquesImg'>
-              <figcaption>Fime da pixar "WALL-E"</figcaption>
+              <figcaption class='sumir'>Fime da pixar "WALL-E"</figcaption>
               <img class='rounded' src='img/imgAnimacao/premiados/img1.webp' alt="Wall-e e E.V.A">
             </figure>
             <ul class='m-0 mt-3 p-0 text-center d-flex flex-column align-items-center'>
@@ -41,7 +41,7 @@
           <section class='premiados space border rounded d-inline-block py-3 px-4'>
             <h3 class='h2 text-center mb-3'>O Gigante de Ferro</h3>
             <figure class='destaquesImg'>
-              <figcaption>Filme da Pixar Gigante de Ferro</figcaption>
+              <figcaption class='sumir'>Filme da Pixar Gigante de Ferro</figcaption>
               <img class='rounded' src='img/imgAnimacao/premiados/img2.webp' alt="O gigante de ferro com seu amigo humano em sua mão">
             </figure>
             <ul class='m-0 mt-3 p-0 text-center d-flex flex-column align-items-center'>
@@ -58,7 +58,7 @@
           <section class='premiados border rounded d-inline-block py-3 px-4'>
             <h3 class='h2 text-center mb-3'>A Família do Futuro</h3>
             <figure class='destaquesImg'>
-              <figcaption>Filme da dreamworks "Familia do Futuro"</figcaption>
+              <figcaption class='sumir'>Filme da dreamworks "Familia do Futuro"</figcaption>
               <img class='rounded' src='img/imgAnimacao/premiados/img3.webp' alt="Todos os personagens de a familia do fururo">
             </figure>
             <ul class='m-0 mt-3 p-0 text-center d-flex flex-column align-items-center'>
@@ -73,7 +73,7 @@
           <section class='premiados space border rounded d-inline-block py-3 px-4'>
             <h3 class='h2 text-center mb-3'>Operação Big Hero</h3>
             <figure class='destaquesImg'>
-              <figcaption>Animação da Disney "Operação big Hero"</figcaption>
+              <figcaption class='sumir'>Animação da Disney "Operação big Hero"</figcaption>
               <img class='rounded' src='img/imgAnimacao/premiados/img4.webp' alt="um robô gordinho e uma criança">
             </figure>
             <ul class='m-0 mt-3 p-0 text-center d-flex flex-column align-items-center'>

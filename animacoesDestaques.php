@@ -31,7 +31,7 @@
       <section class='border destaques mt-3 p-0 p-3 rounded d-flex justfy-content-center align-items-center'>
         <aside>
           <figure class='destaquesImg'>
-            <figcaption>Imagem da Serie Love, Death and Robots</figcaption>
+            <figcaption class='sumir'>Imagem da Serie Love, Death and Robots</figcaption>
             <img class='rounded' src="img/imgAnimacao/destaques/img1.webp" alt="Robô com a cor laranja">
           </figure>
         </aside>
@@ -48,7 +48,7 @@
       <section class='border mt-5 destaques p-0 p-3 mb-5 rounded d-flex justfy-content-between align-items-center'>
         <aside>
           <figure class='destaquesImg'>
-            <figcaption>Imagem da animação Rick and Morty</figcaption>
+            <figcaption class='sumir'>Imagem da animação Rick and Morty</figcaption>
             <img class='rounded' src="img/imgAnimacao/destaques/img2.webp" alt="Rick e morty com uma estética homens de preto colorido">
           </figure>
         </aside>
@@ -61,7 +61,7 @@
       <section class='border mt-5 destaques p-0 p-3 mb-5 rounded d-flex justfy-content-between align-items-center'>
         <aside>
           <figure class='destaquesImg'>
-            <figcaption>Imagem da Animação de Final space Netflix</figcaption>
+            <figcaption class='sumir'>Imagem da Animação de Final space Netflix</figcaption>
             <img class='rounded' src="img/imgAnimacao/destaques/img3.webp" alt="Personagens da serie final space">
           </figure>
         </aside>
@@ -74,7 +74,7 @@
       <section class='border mt-5 destaques p-0 p-3 mb-5 rounded d-flex justfy-content-between align-items-center'>
         <aside>
           <figure class='destaquesImg'>
-            <figcaption>Imagem da animação da Netflix baseada no jogo Cyberpunk 2077</figcaption>
+            <figcaption class='sumir'>Imagem da animação da Netflix baseada no jogo Cyberpunk 2077</figcaption>
             <img class='rounded' src="img/imgAnimacao/destaques/img4.webp" alt="O protagonista da respectiva serie e a vilã">
           </figure>
         </aside>

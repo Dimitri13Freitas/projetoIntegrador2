@@ -1,6 +1,6 @@
 <?php
 echo "<section class='noticia rounded-3  border d-flex align-items-center'>
-<h5>Noticia</h5>
+<h5 class='sumir'>Noticia</h5>
 <article class='noticiaSeila d-flex flex-column'>
   <small>Animações</small>
   <h3>Kid Cudi Lança seu Albúm em uma animação Netflix</h3>
@@ -8,4 +8,3 @@ echo "<section class='noticia rounded-3  border d-flex align-items-center'>
   <a href='animacaoNoticia1.php'>Continuar lendo...</a>
 </article>
 </section>";
-?>

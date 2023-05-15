@@ -26,7 +26,7 @@
           <div>
             <section class='lancamentos border rounded  d-flex flex-column'>
               <figure>
-                <figcaption>Rick and Morty</figcaption>
+                <figcaption class='sumir'>Rick and Morty</figcaption>
                 <img class='rounded' src="img/imgAnimacao/lancamentos/img1.webp" alt="Temporada nova de Rick and Morty">
               </figure>
               <h3 class='h3 text-center mt-2 mb-4'>Rick and Morty - Season 6</h3>
@@ -36,7 +36,7 @@
           <div class='mt-xxl-5 mt-xl-5 mt-lg-5 mt-md-0 mt-sm-0'>
             <section class='lancamentos border rounded  d-flex flex-column'>
               <figure>
-                <figcaption>Buzz Lightyear</figcaption>
+                <figcaption class='sumir'>Buzz Lightyear</figcaption>
                 <img class='rounded' src="img/imgAnimacao/lancamentos/img2.webp" alt="Buzz segurando um gatinho">
               </figure>
               <h3 class='h3 text-center mt-2 mb-4'>Lightyear (SpinOff de Toy Story)</h3>
@@ -46,7 +46,7 @@
           <div>
             <section class='lancamentos border rounded  m-auto my-0 d-flex flex-column'>
               <figure>
-                <figcaption>HBO Scavengers Reign</figcaption>
+                <figcaption class='sumir'>HBO Scavengers Reign</figcaption>
                 <img class='rounded' src="img/imgAnimacao/lancamentos/img3.webp" alt="moto futurista e seu dono apreciando a vista.">
               </figure>
               <h3 class='h3 text-center mt-2 mb-4'>Scavengers Reign</h3>

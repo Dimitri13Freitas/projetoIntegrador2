@@ -16,7 +16,7 @@
   <main>
     <div class='container'>
       <?php include 'include/nav.php'; ?>
-      <?php include 'include/bannerAnimacoes.php'; ?>
+      <?php include 'include/bannerFilmes.php'; ?>
       <div class="row filmesdestaques">
         <div class="col-lg-7 col-md-7 col-sm-12">
           <section>
@@ -36,7 +36,7 @@
           <aside>
             <figure>
               <img class='rounded' src="img/imgFilmes/imgDestaques.jpg" alt="Imagem de Naves futuristas">
-              <figcaption>Imagem de uma possível nave futurista</figcaption>
+              <figcaption class='sumir'>Imagem de uma possível nave futurista</figcaption>
             </figure>
           </aside>
           </section>
@@ -45,32 +45,18 @@
       <div class="d-flex justify-content-xl-between flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
         <section class='noticia rounded-3  border d-flex align-items-center'>
           <div class='noticiaSeila d-flex flex-column'>
-            <small>Filmes</small>
-            <h2>O filme mais assustador que nunca será feito</h2>
-            <p>Embora seja um texto seminal no subgênero distópico de terror de ficção científica, a história mais
-              infame do...</p>
-            <a class='verde' href='filmesNoticia3.html'>Continuar lendo...</a>
+            <?php include 'include/noticiaFilme3.php'; ?>
           </div>
-          <figure>
-            <img src='img/imgNoticias/noticiasFilmes/imgfilmesNoticia3.jpg' alt='Imagem do filme Eu não tenho boca e devo gritar'>
-            <figcaption>imagem do filme Eu não tenho boca e devo gritar</figcaption>
-          </figure>
         </section>
         <section class='noticia rounded-3  border d-flex align-items-center'>
           <div class='noticiaSeila d-flex flex-column'>
-            <small>Filmes</small>
-            <h2>O filme que todo mundo está vendo na Netflix</h2>
-            <p>A Netflix lançou um novo filme de ficção científica pós-apocalíptica que está dando o que falar...</p>
-            <a class='verde' href='filmesNoticia1htmlfilmesCosplay.html'>Continuar lendo...</a>
+            <?php include 'include/noticiaFilme1.php'; ?>
           </div>
-          <figure>
-            <img src='img/imgNoticias/noticiasFilmes/imgfilmesNoticia1.jpg' alt='Imagem do filmeexército do amanhã'>
-            <figcaption>Imagem de capa do filme Exército do amanhã</figcaption>
-          </figure>
         </section>
-        <div class="row filmestextodestaques">
+      </div>
+        <!-- <div class="row filmestextodestaques">
           <section>
-            <a href="SinopseHomem-Aranha.html">
+            <a href="SinopseHomem-Aranha.php">
               <div class="col-lg-12 col-md-12 col-sm-12">
                 <article>
                   <h3>Homem-Aranha sem volta para casa </h3>
@@ -84,14 +70,35 @@
                 <div class="col-lg-12 col-md-12 col-sm-12">
                   <figure>
                     <img class='rounded' src="img/imgFilmes/imgMiranhaDestaques.jpg" alt="Banner do filme Homem Aranha sem volta para casa">
-                    <figcaption>Banner do filme Homem-Aranha sem volta para casa</figcaption>
+                    <figcaption class='sumir'>Banner do filme Homem-Aranha sem volta para casa</figcaption>
                   </figure>
                 </div>
               </div>
             </a>
+        </div> -->
+        <div class="row filmestextodestaques">
+          <a href="SinopseHomem-Aranha.php">
+            <div class="col-lg-12 col-md-12 col-sm-12">
+              <article>
+                <h3>Homem-Aranha sem volta para casa</h3>
+                <p>Peter Parker tem a sua identidade secreta revelada e pede ajuda ao Doutor Estranho. Quando um
+                    feitiço para reverter o evento não sai como o esperado, o Homem-Aranha e seu companheiro dos
+                    Vingadores precisam enfrentar inimigos de todo o multiverso.
+                </p>
+              </article>
+            </div>
+            <div class="row filmesbannerdestaques">
+              <div class="col-lg-12 col-md-12 col-sm-12">
+                <figure>
+                  <img class='rounded' src="img/imgFilmes/imgMiranhaDestaques.jpg" alt="Banner do filme Homem Aranha sem volta para casa">
+                  <figcaption class='sumir'>Banner do filme Homem-Aranha sem volta para casa</figcaption>
+                </figure>
+              </div>
+            </div>
+          </a>
         </div>
         <div class="row filmestextodestaques">
-          <a href="SinopseJurassicWorld.html">
+          <a href="SinopseJurassicWorld.php">
             <div class="col-lg-12 col-md-12 col-sm-12">
               <article>
                 <h3>Jurassic World 3</h3>
@@ -106,14 +113,14 @@
               <div class="col-lg-12 col-md-12 col-sm-12">
                 <figure>
                   <img class='rounded' src="img/imgFilmes/imgJurassic.jpg" alt="Imagem do filme Jurassic World">
-                  <figcaption>Banner do filme Jurassic World 3</figcaption>
+                  <figcaption class='sumir'>Banner do filme Jurassic World 3</figcaption>
                 </figure>
               </div>
             </div>
           </a>
         </div>
         <div class="row filmestextodestaques">
-          <a href="SinopseCapitaMarvel.html">
+          <a href="SinopseCapitaMarvel.php">
             <div class="col-lg-12 col-md-12 col-sm-12">
               <article>
                 <h3>Capitã Marvel</h3>
@@ -129,7 +136,7 @@
               <div class="col-lg-12 col-md-12 col-sm-12">
                 <figure>
                   <img class='rounded' src="img/imgFilmes/imgCapitaMarvel.jpg" alt="Banner do filme Capitã Marvel">
-                  <figcaption>Banner do filme Capitã Marvel</figcaption>
+                  <figcaption class='sumir'>Banner do filme Capitã Marvel</figcaption>
                 </figure>
               </div>
             </div>
@@ -145,7 +152,7 @@
 
 
   <script src="js/script.js"></script>
-  <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script> -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
 </body>
 
 </html>

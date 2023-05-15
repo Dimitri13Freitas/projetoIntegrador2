@@ -32,7 +32,7 @@
           <aside>
             <figure>
               <img class='rounded' src="img/imgNoticias/noticiasFilmes/imgConteudofilmesNoticias3.jpg" alt="Rosto de um homem com um olho azul e outro vermelho pintado em cores quentes, sem a boca. ">
-              <figcaption>Imagem do Eu não tenho boca e devo gritar</figcaption>
+              <figcaption class='sumir'>Imagem do Eu não tenho boca e devo gritar</figcaption>
             </figure>
           </aside>
         </div>

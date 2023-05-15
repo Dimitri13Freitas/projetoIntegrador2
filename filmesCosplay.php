@@ -30,7 +30,7 @@
           <aside>
             <figure>
               <img class="border" src="img/imgFilmes/exemplo-cosplay.jpg" alt="Exemplo de cosplay">
-              <figcaption>Cosplayer fantasiado de Homem-Aranha </figcaption>
+              <figcaption class='sumir'>Cosplayer fantasiado de Homem-Aranha </figcaption>
             </figure>
           </aside>
         </div>
@@ -39,7 +39,7 @@
         <div class="col-12">
           <figure>
             <img src="img/imgFilmes/banner-cosplay.jpg" alt="Cosplayers reunidos">
-            <figcaption>Um grupo de cosplayers fantasiados de integrantes da liga da justiça</figcaption>
+            <figcaption class='sumir'>Um grupo de cosplayers fantasiados de integrantes da liga da justiça</figcaption>
           </figure>
         </div>
       </div>
@@ -57,13 +57,13 @@
         <div class="col-lg-6 col-md-6 col-sm-12">
           <figure>
             <img src="img/imgFilmes/cosplaythor.jpg" alt="Imagem do cosplay do thor">
-            <figcaption>Cosplayer fantasiado de Thor</figcaption>
+            <figcaption class='sumir'>Cosplayer fantasiado de Thor</figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12 personagem">
           <figure>
             <img src="img/imgFilmes/personagemthor.jpg" alt="Imagem do personagem fictício thor criado pela marvel">
-            <figcaption>Herói da Marvel Thor</figcaption>
+            <figcaption class='sumir'>Herói da Marvel Thor</figcaption>
           </figure>
         </div>
       </div>
@@ -79,13 +79,13 @@
         <div class="col-lg-6 col-md-6 col-sm-12">
           <figure>
             <img src="img/imgFilmes/cosplaydrestranho.jpg" alt="Cosplay do personagem fictício Dr.Estranho">
-            <figcaption>Cosplayer fantasiado de Doutor Estranho</figcaption>
+            <figcaption class='sumir'>Cosplayer fantasiado de Doutor Estranho</figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12 personagem">
           <figure>
             <img src="img/imgFilmes/personagemdrestranho.jpg" alt="Personagem fictício Dr.Estranho">
-            <figcaption>Herói da Marvel Doutor Estranho</figcaption>
+            <figcaption class='sumir'>Herói da Marvel Doutor Estranho</figcaption>
           </figure>
         </div>
       </div>
@@ -101,43 +101,28 @@
         <div class="col-lg-6 col-md-6 col-sm-12">
           <figure>
             <img src="img/imgFilmes/cosplaybuzz.jpg" alt="Cosplay do personagem fictício buzz lightyear">
-            <figcaption>Cosplayer fantasiado de Buzz Lightyear</figcaption>
+            <figcaption class='sumir'>Cosplayer fantasiado de Buzz Lightyear</figcaption>
           </figure>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-12 personagem">
           <figure>
             <img src="img/imgFilmes/personagembuzz.jpg" alt="Personagem Fictício Buzz Lightyear">
-            <figcaption>Personagem Buzz Lightyear</figcaption>
+            <figcaption class='sumir'>Personagem Buzz Lightyear</figcaption>
           </figure>
         </div>
       </div>
       </section>
       <div class="d-flex justify-content-xl-between flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
-        <section class='noticia rounded-3  border d-flex align-items-center'>
-          <div class='noticiaSeila d-flex flex-column'>
-            <small>Filmes</small>
-            <h2>O filme que todo mundo está vendo na Netflix</h2>
-            <p>A Netflix lançou um novo filme de ficção científica pós-apocalíptica que está dando o que falar...</p>
-            <a class='verde' href='filmesNoticia1.html'>Continuar lendo...</a>
-          </div>
-          <figure>
-            <img src='img/imgNoticias/noticiasFilmes/imgfilmesNoticia1.jpg' alt='Imagem do filmeexército do amanhã'>
-            <figcaption>Imagem de capa do filme Exército do amanhã</figcaption>
-          </figure>
-        </section>
-        <section class='noticia rounded-3  border d-flex align-items-center'>
-          <div class='noticiaSeila d-flex flex-column'>
-            <small>Filmes</small>
-            <h2>O filme que previu os finalistas da Copa do Mundo 2022</h2>
-            <p>Entenda como o filme de ficção científica pode ter previsto a final da...</p>
-            <a class='verde' href='filmesNoticia2.html'>Continuar lendo...</a>
-          </div>
-          <figure>
-            <img src='img/imgNoticias/noticiasFilmes/imgfilmesNoticia2.jpg' alt='Imagem do filme a guerra do amanhã'>
-            <figcaption>Imagem de capa do filme A guerra do amanhã</figcaption>
-          </figure>
-        </section>
-      </div>
+      <section class='noticia rounded-3  border d-flex align-items-center'>
+        <div class='noticiaSeila d-flex flex-column'>
+          <?php include 'include/noticiaFilme1.php'; ?>
+        </div>
+      </section>
+      <section class='noticia rounded-3  border d-flex align-items-center'>
+        <div class='noticiaSeila d-flex flex-column'>
+        <?php include 'include/noticiaFilme2.php'; ?>
+      </section>
+    </div>
     </div>
     <?php include 'include/footer.php'; ?>
   </main>

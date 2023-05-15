@@ -1,5 +1,6 @@
 <?php
 echo"<section class='noticia rounded-3  border d-flex align-items-center'>
+<h5 class='sumir'>Noticia</h5>
 <div class='noticiaSeila d-flex flex-column'>
 <small>Filmes</small>
 <h2>O filme que todo mundo está vendo na Netflix</h2>
@@ -8,7 +9,6 @@ echo"<section class='noticia rounded-3  border d-flex align-items-center'>
 </div>
 <figure>
 <img src='img/imgNoticias/noticiasFilmes/imgfilmesNoticia1.jpg' alt='capa do filme exercito do amanhã onde há três personagens principais em destaque com uma nave voando ao fundo e o titulo do filme a frente de tudo.'>
-<figcaption>Imagem do filmeexército do amanhã</figcaption>
+<figcaption class='sumir'>Imagem do filmeexército do amanhã</figcaption>
 </figure>
 </section>";
-?>

@@ -5,7 +5,7 @@
   text-decoration: none !important;
 }
 body {
-  background: #2c2c2c;
+  background: #2c2c2c !important;
   color: #f1f1f1 !important;
 }
 a.verde {
@@ -159,6 +159,9 @@ a {
 .navegacao li:hover ul {
   display: block;
   animation: animaNav 0.3s forwards;
+}
+.navegacao li a:focus + ul {
+  display: block;
 }
 
 /* Menu Mobile by Dimitri Freitas */
@@ -790,7 +793,11 @@ a {
   margin-top: 20px;
 }
 
-figure figcaption {
+.sumir {
+  display: none;
+}
+
+section h5 {
   display: none;
 }
 
@@ -808,7 +815,6 @@ figure figcaption {
   border: 3px solid #00bbff;
   color: white !important;
 }
-
 a div:focus {
   outline: none;
   background-color: #008a65 !important ;
@@ -816,3 +822,4 @@ a div:focus {
   border: 3px solid #00bbff;
   color: white !important;
 }
+

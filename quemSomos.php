@@ -22,7 +22,7 @@
             <aside>
               <figure>
                 <img class="rounded" src="img/imgQuemsomos/imgDimitri.jpg" alt="Foto do dimitri">
-                <figcaption>Integrante Dimitri</figcaption>
+                <figcaption class='sumir'>Integrante Dimitri</figcaption>
               </figure>
             </aside>
           </div>
@@ -35,15 +35,15 @@
               <p>Responsável pelo desenvolvimento da identidade visual e também pelo html, css, javascript e conteúdo de
                 todas as paginas relacionadas ao tema de Animação:</p>
               <div class='pags'>
-                <a href="animacoesDestaques.html" class="btn-primary btn">Animações (Destaques)</a>
-                <a href="animacoesClassicos.html" class="btn-primary btn">Animações (Clássicos)</a>
-                <a href="animacoesLancamentos.html" class="btn-primary btn">Animações(Lançamentos)</a>
-                <a href="animacoesPremiados.html" class="btn-primary btn">Animações(Preimiados)</a>
-                <a href="animacaoNoticia1.html" class="btn-primary btn">Notícia Kid Cudi...</a>
-                <a href="animacaoNoticia2.html" class="btn-primary btn">Notícia ‘Final Space’ deixará...</a>
-                <a href="animacaoNoticia3.html" class="btn-primary btn">Notícia STAR TREK: LOWER DECKS...</a>
-                <a href="index.html" class="btn-primary btn">Home</a>
-                <a href="contato.html" class="btn-primary btn">Contato</a>
+                <a href="animacoesDestaques.php" class="btn-primary btn">Animações (Destaques)</a>
+                <a href="animacoesClassicos.php" class="btn-primary btn">Animações (Clássicos)</a>
+                <a href="animacoesLancamentos.php" class="btn-primary btn">Animações(Lançamentos)</a>
+                <a href="animacoesPremiados.php" class="btn-primary btn">Animações(Preimiados)</a>
+                <a href="animacaoNoticia1.php" class="btn-primary btn">Notícia Kid Cudi...</a>
+                <a href="animacaoNoticia2.php" class="btn-primary btn">Notícia ‘Final Space’ deixará...</a>
+                <a href="animacaoNoticia3.php" class="btn-primary btn">Notícia STAR TREK: LOWER DECKS...</a>
+                <a href="index.php" class="btn-primary btn">Home</a>
+                <a href="contato.php" class="btn-primary btn">Contato</a>
               </div>
             </article>
           </div>
@@ -54,7 +54,7 @@
             <aside>
               <figure>
                 <img class="rounded" src="img/imgQuemsomos/imgKauan.jpg" alt="Foto do Kauan">
-                <figcaption>Integrante Dimitri</figcaption>
+                <figcaption class='sumir'>Integrante Dimitri</figcaption>
               </figure>
             </aside>
           </div>
@@ -65,15 +65,15 @@
               <p>Tenho 27 anos e recentemente fui adotado pela família Fofuritos sem calças.</p>
               <p>Aos 45 do segundo tempo com mais 1 minuto de acrescimo estou tentando contribuir com o possível.</p>
               <div class='pags'>
-                <a href="filmesCosplay.html" class="btn-primary btn">Filmes (Cosplay)</a>
-                <a href="filmesPrincipais.html" class="btn-primary btn">Filmes (Principais Obras)</a>
-                <a href="filmesDestaques.html" class="btn-primary btn">Fimes(Destaques)</a>
-                <a href="filmesLancamentos.html" class="btn-primary btn">Filmes(Lançamentos)</a>
-                <a href="filmesNoticia1.html" class="btn-primary btn">Notícia ficção científica pós-apocalíptica...</a>
-                <a href="filmesNoticia2.html" class="btn-primary btn">Notícia A Guerra do Amanhã...</a>
-                <a href="filmesNoticia3.html" class="btn-primary btn">Notícia do filme de ficção científica mais
+                <a href="filmesCosplay.php" class="btn-primary btn">Filmes (Cosplay)</a>
+                <a href="filmesPrincipais.php" class="btn-primary btn">Filmes (Principais Obras)</a>
+                <a href="filmesDestaques.php" class="btn-primary btn">Fimes(Destaques)</a>
+                <a href="filmesLancamentos.php" class="btn-primary btn">Filmes(Lançamentos)</a>
+                <a href="filmesNoticia1.php" class="btn-primary btn">Notícia ficção científica pós-apocalíptica...</a>
+                <a href="filmesNoticia2.php" class="btn-primary btn">Notícia A Guerra do Amanhã...</a>
+                <a href="filmesNoticia3.php" class="btn-primary btn">Notícia do filme de ficção científica mais
                   assustador...</a>
-                <a href="quemSomos.html" class="btn-primary btn">Quem Somos</a>
+                <a href="quemSomos.php" class="btn-primary btn">Quem Somos</a>
               </div>
             </article>
           </div>
@@ -85,7 +85,7 @@
             <aside>
               <figure>
                 <img class="rounded" src="img/imgQuemSomos/imgLucasPereira.jpg" alt="Foto do Lucas Pereira">
-                <figcaption>Integrante Lucas Pereira</figcaption>
+                <figcaption class='sumir'>Integrante Lucas Pereira</figcaption>
               </figure>
             </aside>
           </div>
@@ -99,15 +99,15 @@
               </p>
               <p>Responsável pelo html, css e conteúdo de todas as paginas relacionadas ao tema de Filmes:</p>
               <div class='pags'>
-                <a href="filmesCosplay.html" class="btn-primary btn">Filmes (Cosplay)</a>
-                <a href="filmesPrincipais.html" class="btn-primary btn">Filmes (Principais Obras)</a>
-                <a href="filmesDestaques.html" class="btn-primary btn">Fimes(Destaques)</a>
-                <a href="filmesLancamentos.html" class="btn-primary btn">Filmes(Lançamentos)</a>
-                <a href="filmesNoticia1.html" class="btn-primary btn">Notícia ficção científica pós-apocalíptica...</a>
-                <a href="filmesNoticia2.html" class="btn-primary btn">Notícia A Guerra do Amanhã...</a>
-                <a href="filmesNoticia3.html" class="btn-primary btn">Notícia do filme de ficção científica mais
+                <a href="filmesCosplay.php" class="btn-primary btn">Filmes (Cosplay)</a>
+                <a href="filmesPrincipais.php" class="btn-primary btn">Filmes (Principais Obras)</a>
+                <a href="filmesDestaques.php" class="btn-primary btn">Fimes(Destaques)</a>
+                <a href="filmesLancamentos.php" class="btn-primary btn">Filmes(Lançamentos)</a>
+                <a href="filmesNoticia1.php" class="btn-primary btn">Notícia ficção científica pós-apocalíptica...</a>
+                <a href="filmesNoticia2.php" class="btn-primary btn">Notícia A Guerra do Amanhã...</a>
+                <a href="filmesNoticia3.php" class="btn-primary btn">Notícia do filme de ficção científica mais
                   assustador...</a>
-                <a href="quemSomos.html" class="btn-primary btn">Quem Somos</a>
+                <a href="quemSomos.php" class="btn-primary btn">Quem Somos</a>
               </div>
             </article>
           </div>
@@ -117,7 +117,7 @@
             <aside>
               <figure>
                 <img class="rounded" src="img/imgQuemSomos/imgLucasVieira.jpg" alt="Foto do Lucas Vieira">
-                <figcaption>Integrante Lucas Vieira</figcaption>
+                <figcaption class='sumir'>Integrante Lucas Vieira</figcaption>
               </figure>
             </aside>
           </div>
@@ -130,14 +130,14 @@
                 lassu da USP. Atualmente curso Sistemas para Internet na Fatec e pretendo seguir nessa área.</p>
               <p>Responsável pelo html,css e conteúdo de todas as paginas relacionadas ao tema de Livros:</p>
               <div class='pags'>
-                <a href="livrosPrincipais.html" class="btn-primary btn">Livros (Principais Autores)</a>
-                <a href="livrosFavoritos.html" class="btn-primary btn">Livros (Favoritos da Critica)</a>
-                <a href="livrosClassicos.html" class="btn-primary btn">Livros(Clássicos)</a>
-                <a href="livrosDestaques.html" class="btn-primary btn">Livros(Destaques)</a>
-                <a href="Noticialivros1.html" class="btn-primary btn">Star Wars: Novos mangás...</a>
-                <a href="Noticialivros2.html" class="btn-primary btn">Homem mais rico do mundo...</a>
-                <a href="Noticialivros3.html" class="btn-primary btn">Lipe Diaz lança novo selo...</a>
-                <a href="normas.html" class="btn-primary btn">Normas de Uso</a>
+                <a href="livrosPrincipais.php" class="btn-primary btn">Livros (Principais Autores)</a>
+                <a href="livrosFavoritos.php" class="btn-primary btn">Livros (Favoritos da Critica)</a>
+                <a href="livrosClassicos.php" class="btn-primary btn">Livros(Clássicos)</a>
+                <a href="livrosDestaques.php" class="btn-primary btn">Livros(Destaques)</a>
+                <a href="Noticialivros1.php" class="btn-primary btn">Star Wars: Novos mangás...</a>
+                <a href="Noticialivros2.php" class="btn-primary btn">Homem mais rico do mundo...</a>
+                <a href="Noticialivros3.php" class="btn-primary btn">Lipe Diaz lança novo selo...</a>
+                <a href="normas.php" class="btn-primary btn">Normas de Uso</a>
               </div>
             </article>
           </div>

@@ -31,7 +31,7 @@
           <div class='col-xl-7 col-md-12  col-sm-12 conteudo'>
             <figure>
               <img class='rounded' src="img/livros/elon.webp" alt="Foto de Elon musk com expressão de pensativo">
-              <figcaption>Elon Musk, 1960-atual</figcaption>
+              <figcaption class='sumir'>Elon Musk, 1960-atual</figcaption>
             </figure>
           </div>
           <div class='col-xl-5 col-md-12 col-sm-12 sobreImg'>

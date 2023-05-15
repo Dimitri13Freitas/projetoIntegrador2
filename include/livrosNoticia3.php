@@ -10,7 +10,7 @@ echo "
   </article>
   <figure>
     <img src='img/livros/7k.webp' alt='Imagem de Elon Musk vestindo roupa Social'>
-    <figcaption> Elon Musk, 1960-atual </figcaption>
+    <figcaption class='sumir'> Elon Musk, 1960-atual </figcaption>
   </figure>
 </section>";
 ?>

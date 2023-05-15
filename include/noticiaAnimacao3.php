@@ -1,6 +1,6 @@
 <?php
 echo "<section class='noticia rounded-3  border d-flex align-items-center'>
-<h5>Noticia</h5>
+<h5 class='sumir'>Noticia</h5>
 <article class='noticiaSeila d-flex flex-column'>
   <small>Animações</small>
   <h3>STAR TREK: LOWER DECKS – 3ª</h3>
@@ -9,9 +9,8 @@ echo "<section class='noticia rounded-3  border d-flex align-items-center'>
 </article>
 <aside>
 <figure>
-<figcaption>Banner da animação STAR TREK: LOWER DECKS.</figcaption>
+<figcaption class='sumir'>Banner da animação STAR TREK: LOWER DECKS.</figcaption>
 <img src='img/imgNoticias/noticiasAnimacao/img3Animacao.webp' alt='Banner da animação STAR TREK: LOWER DECKS.'>
 </figure>
 </aside>
 </section>";
-?>

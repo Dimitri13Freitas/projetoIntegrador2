@@ -31,7 +31,7 @@
           <div class='col-xl-7 col-md-12  col-sm-12 conteudo'>
             <figure>
               <img class='rounded' src="img/livros/princesa.webp" alt="Ilustração de Leia, Princesa de Alderaan">
-              <figcaption>Leia, princesa de Alderaan</figcaption>
+              <figcaption class='sumir'>Leia, princesa de Alderaan</figcaption>
             </figure>
           </div>
           <div class='col-xl-5 col-md-12 col-sm-12 sobreImg'>

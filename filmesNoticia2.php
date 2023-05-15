@@ -32,7 +32,7 @@
           <aside>
             <figure>
               <img class='rounded' src="img/imgNoticias/noticiasFilmes/imgConteudofilmesNoticias2.jpg" alt="Foto de um jogo de futebol da copa do mundo de 2022 no Qatar onde aparecem dois jogadores do Brasil com camisa amarela, um jogador de camisa azul do outro time e o goleiro ao fundo com a roupa toda verde">
-              <figcaption>Copa do Mundo 2022, Brasil no Qatar</figcaption>
+              <figcaption class='sumir'>Copa do Mundo 2022, Brasil no Qatar</figcaption>
             </figure>
           </aside>
         </div>
@@ -57,7 +57,7 @@
 
 
   <script src="js/script.js"></script>
-  <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script> -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
 </body>
 
 </html>

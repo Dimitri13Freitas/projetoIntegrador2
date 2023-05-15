@@ -10,7 +10,7 @@ echo "
   </article>
   <figure>
       <img src='img/livros/leia.webp' alt='Princesa Protagonista do Mangá segurando sua espada'>
-      <figcaption> Princesa Protagonista </igcaption>
+      <figcaption class='sumir'> Princesa Protagonista </igcaption>
     </figure>
 </section>";
 ?>

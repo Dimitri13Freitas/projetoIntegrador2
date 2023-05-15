@@ -21,7 +21,7 @@
       <h2 class='h2 mt-5 mb-3 text-center'>Rick and Morty - Season 6</h2>
 
       <figure class='row mb-4'>
-        <figcaption>Rick and Morty</figcaption>
+        <figcaption class='sumir'>Rick and Morty</figcaption>
         <iframe width="853" height="480" src="https://www.youtube.com/embed/6Zt15L7Gy3U" title="Rick And Morty  - 6ª Temporada | Trailer Oficial | HBO Max" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </figure>
       <div class="d-flex justify-content-xl-between flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">

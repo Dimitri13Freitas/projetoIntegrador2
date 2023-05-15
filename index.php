@@ -23,8 +23,8 @@
       </div>
       <div class='mt-5 mb-5 obrasContainer'>
         <div class='container'>
+          <h2 class='h1 py-5 titulo'>Obras que recomendamos:</h2>
           <article class='obras rounded border pt-4'>
-            <h2 class='h1 py-5 titulo'>Obras que recomendamos:</h2>
             <ul class='row p-0'>
               <li class='col-xl-3 col-md-6 col-sm-12 d-flex justify-content-center'>
                 <a href="animacaoConteudoRobots.php">
@@ -126,7 +126,7 @@
 
 
   <script src="js/script.js"></script>
-  <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script> -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
 </body>
 
 </html>

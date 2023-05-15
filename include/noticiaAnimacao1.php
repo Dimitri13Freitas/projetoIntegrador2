@@ -1,6 +1,6 @@
 <?php
 echo "<section class='noticia rounded-3  border d-flex align-items-center'>
-<h5>Noticia</h5>
+<h5 class='sumir'>Noticia</h5>
 <article class='noticiaSeila d-flex flex-column'>
 <small>Animações</small>
 <h3>Kid Cudi Lança seu Albúm em uma animação Netflix</h3>
@@ -9,9 +9,8 @@ echo "<section class='noticia rounded-3  border d-flex align-items-center'>
 </article>
 <aside>
 <figure>
-<figcaption>Protagonista abraçado seu novo amor.</figcaption>
+<figcaption class='sumir'>Protagonista abraçado seu novo amor.</figcaption>
 <img src='img/imgNoticias/noticiasAnimacao/img1Animacao.webp' alt='Protagonista abraçado seu novo amor.'>
 </figure>
 </aside>
 </section>";
-?>
