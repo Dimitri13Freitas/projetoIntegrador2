@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 
-<!-- RETIRAR TAMANHO DAS IMAGENS NO CSS -->
+
 
 <body>
   <div class='container'>

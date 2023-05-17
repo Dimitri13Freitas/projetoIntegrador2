@@ -6,18 +6,18 @@
   <link rel="shortcut icon" href="img/assets/icon.svg" type="image/x-icon">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Ficção cientifica</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
 
   <link rel="stylesheet" href="css/style.css">
 </head>
 
-<!-- RETIRAR TAMANHO DAS IMAGENS NO CSS -->
+
 
 <body>
   <main>
     <div class='container'>
-      <?php include 'include/nav.php';?>
-      <?php include 'include/bannerFilmes.php';?>
+      <?php include 'include/nav.php'; ?>
+      <?php include 'include/bannerFilmes.php'; ?>
       <div class="row">
         <section>
           <div class="col-lg-12 col-md-12 col-sm-12 sinopse">
@@ -35,15 +35,14 @@
       <div class="row bannersinopse">
         <div class="col-lg-12 col-md-12 col-sm-12">
           <figure>
-            <img class="border border-5" src="img/imgFilmes/imgStarWars.jpg"
-              alt="Quatro personagens do filme ao lado esquerdo da imagem com duas naves sobrevoando, com o titulo star wars uma nova esperança Episódio 4 em destaque ao lado direito.">
+            <img class="border border-5" src="img/imgFilmes/imgStarWars.jpg" alt="Quatro personagens do filme ao lado esquerdo da imagem com duas naves sobrevoando, com o titulo star wars uma nova esperança Episódio 4 em destaque ao lado direito.">
             <figcaption class='sumir'>Imagem do filme Star Wars IV </figcaption>
           </figure>
         </div>
       </div>
       </section>
     </div>
-    <?php include 'include/footer.php';?>
+    <?php include 'include/footer.php'; ?>
   </main>
 
 

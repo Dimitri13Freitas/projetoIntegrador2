@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 
-<!-- RETIRAR TAMANHO DAS IMAGENS NO CSS -->
+
 
 <body>
   <main>
@@ -21,64 +21,64 @@
       <div class="row">
         <div class="lado1 col-lg-8 col-md-12 col-sm-12">
           <!-- <a href="SinopseAvatar2.php"> -->
-            <section class="row lado1img rounded border  p-3">
-              <div class="col-lg-7 col-md-6 col-sm-12">
-                <article>
-                  <h3>Avatar 2</h3>
-                  <p>Após formar uma família, Jake Sully e Ney'tiri fazem de tudo para ficarem juntos. No entanto, eles
-                    devem sair de casa e explorar as regiões de Pandora quando uma antiga ameaça ressurge, e Jake deve
-                    travar uma guerra difícil contra os humanos.</p>
-                    <a href="SinopseAvatar2.php" class="verde">Continuar lendo...</a>
-                </article>
-              </div>
-              <div class="col-lg-5 col-md-6 col-sm-12 m-0 p-0">
-                <aside>
-                  <figure>
-                    <img class="rounded " src="img/imgFilmes/imgAvatarLancamentos.jpg" alt="Banner do filme avatar 2">
-                    <figcaption class='sumir'>Imagem do filme avatar 2</figcaption>
-                  </figure>
-                </aside>
-              </div>
-            </section>
+          <section class="row lado1img rounded border  p-3">
+            <div class="col-lg-7 col-md-6 col-sm-12">
+              <article>
+                <h3>Avatar 2</h3>
+                <p>Após formar uma família, Jake Sully e Ney'tiri fazem de tudo para ficarem juntos. No entanto, eles
+                  devem sair de casa e explorar as regiões de Pandora quando uma antiga ameaça ressurge, e Jake deve
+                  travar uma guerra difícil contra os humanos.</p>
+                <a href="SinopseAvatar2.php" class="verde">Continuar lendo...</a>
+              </article>
+            </div>
+            <div class="col-lg-5 col-md-6 col-sm-12 m-0 p-0">
+              <aside>
+                <figure>
+                  <img class="rounded " src="img/imgFilmes/imgAvatarLancamentos.jpg" alt="Banner do filme avatar 2">
+                  <figcaption class='sumir'>Imagem do filme avatar 2</figcaption>
+                </figure>
+              </aside>
+            </div>
+          </section>
           <!-- </a> -->
           <!-- <a href="SinopseAdaoNegro.php"> -->
-            <section class="row lado1img rounded border  p-3">
-              <div class="col-lg-7 col-md-6 col-sm-12">
-                <article>
-                  <h3>Adão Negro</h3>
-                  <p>O poderoso Adão Negro é libertado de sua tumba para lançar sua justiça cruel sobre a Terra.</p>
-                  <a href="SinopseAdaoNegro.php" class="verde">Continuar lendo...</a>
-                </article>
-              </div>
-              <div class="col-lg-5 col-md-6 col-sm-12 m-0 p-0">
-                <aside>
-                  <figure>
-                    <img class="rounded " src="img/imgFilmes/imgAdaoNegroLancamentos.jpg" alt="Banner do Filme Adão Negro">
-                    <figcaption class='sumir'>Imagem do anti herói Adão Negro</figcaption>
-                  </figure>
-                </aside>
-              </div>
-            </section>
+          <section class="row lado1img rounded border  p-3">
+            <div class="col-lg-7 col-md-6 col-sm-12">
+              <article>
+                <h3>Adão Negro</h3>
+                <p>O poderoso Adão Negro é libertado de sua tumba para lançar sua justiça cruel sobre a Terra.</p>
+                <a href="SinopseAdaoNegro.php" class="verde">Continuar lendo...</a>
+              </article>
+            </div>
+            <div class="col-lg-5 col-md-6 col-sm-12 m-0 p-0">
+              <aside>
+                <figure>
+                  <img class="rounded " src="img/imgFilmes/imgAdaoNegroLancamentos.jpg" alt="Banner do Filme Adão Negro">
+                  <figcaption class='sumir'>Imagem do anti herói Adão Negro</figcaption>
+                </figure>
+              </aside>
+            </div>
+          </section>
           <!-- </a> -->
           <!-- <a href="SinopseNaoNaoOlhe.php"> -->
-            <section class="row lado1img rounded border  p-3">
-              <div class="col-lg-7 col-md-6 col-sm-12">
-                <article>
-                  <h3>Não! Não Olhe!</h3>
-                  <p>Os cuidadores de um rancho de cavalos na Califórnia encontram uma força misteriosa que afeta o
-                    comportamento humano e animal.</p>
-                    <a href="SinopseNaoNaoOlhe.php" class="verde">Continuar lendo...</a>
-                </article>
-              </div>
-              <div class="col-lg-5 col-md-6 col-sm-12 m-0 p-0">
-                <aside>
-                  <figure>
-                    <img class="rounded " src="img/imgFilmes/imgNaoNaoOlheLancamentos.jpg" alt="Imagem do Filme não não olhe">
-                    <figcaption class='sumir'>Imagem de capa do filme não! não olhe!</figcaption>
-                  </figure>
-                </aside>
-              </div>
-            </section>
+          <section class="row lado1img rounded border  p-3">
+            <div class="col-lg-7 col-md-6 col-sm-12">
+              <article>
+                <h3>Não! Não Olhe!</h3>
+                <p>Os cuidadores de um rancho de cavalos na Califórnia encontram uma força misteriosa que afeta o
+                  comportamento humano e animal.</p>
+                <a href="SinopseNaoNaoOlhe.php" class="verde">Continuar lendo...</a>
+              </article>
+            </div>
+            <div class="col-lg-5 col-md-6 col-sm-12 m-0 p-0">
+              <aside>
+                <figure>
+                  <img class="rounded " src="img/imgFilmes/imgNaoNaoOlheLancamentos.jpg" alt="Imagem do Filme não não olhe">
+                  <figcaption class='sumir'>Imagem de capa do filme não! não olhe!</figcaption>
+                </figure>
+              </aside>
+            </div>
+          </section>
           <!-- </a> -->
         </div>
         <div class="col-lg-4 col-md-12 col-sm-12 sugestao">

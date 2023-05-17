@@ -1,27 +1,49 @@
-@charset "UTF-8";
 /* Geral by Dimitri Freitas */
+@charset "UTF-8";
+:root {
+  --p1: #008a65;
+  --p2: #00ba89;
+  --p3: #424242;
+  --font1: #f1f1f1;
+  --font: #141414;
+  --bg1: #2c2c2c;
+  --bg2: rgba(0, 186, 137, 0.1);
+  --bg3: rgba(255, 255, 255, 0.1);
+}
+:root.change {
+  --p1: #008a65;
+  --p2: #00ba89;
+  --p3: #d3d3d3;
+  --font1: #141414;
+  --font: #141414;
+  --bg1: #f1f1f1;
+  --bg2: rgba(0, 186, 137, 0.1);
+  --bg3: rgba(0, 0, 0, 0.1);
+}
+
 * {
   list-style: none !important;
   text-decoration: none !important;
 }
 body {
-  background: #2c2c2c !important;
-  color: #f1f1f1 !important;
+  background: var(--bg1) !important;
+  color: var(--font1) !important;
 }
+
 a.verde {
-  color: #008a65;
+  color: var(--p1);
 }
 a.verde:hover {
-  color: #00ba89;
+  color: var(--p2);
 }
 a {
-  color: #f1f1f1;
+  color: var(--font1);
 }
 .remove {
   display: none;
 }
 .border {
-  border-color: #00ba89 !important;
+  border-color: var(--p2) !important;
 }
 .titulo {
   color: #141414;
@@ -29,19 +51,13 @@ a {
 .mt {
   margin-top: 20px;
 }
-.small {
-  color: #acacac;
-}
-.small a {
-  color: #5772e9;
-}
 .small a:hover {
   text-decoration: underline !important;
 }
 
 /* Header by Dimitri Freitas */
 .header {
-  border-color: #00ba89 !important;
+  border-color: var(--p2) !important;
   display: flex;
 }
 .header .redes img {
@@ -50,23 +66,31 @@ a {
   border-radius: 3px;
 }
 .header .redes img:hover {
-  background-color: #00ba89;
+  background-color: var(--p2);
 }
 .redes {
   gap: 10px;
 }
 .navegacao ul li a {
-  color: #f1f1f1;
+  color: var(--font1);
+}
+.theme {
+  border: none;
+  border-radius: 4px;
+  background: var(--p2);
+}
+.theme:focus {
+  border: none;
 }
 .theme img {
-  cursor: pointer;
+  /* cursor: pointer; */
   width: 34px;
   padding: 5px;
-  border-radius: 3px;
+  /* border-radius: 3px; */
 }
-.theme img:hover {
-  background-color: #00ba89;
-}
+/* .theme img:hover {
+  background-color: var(--p2);
+} */
 .logo {
   display: flex;
   padding: 10px 0px;
@@ -125,10 +149,10 @@ a {
 }
 
 .banner h2 {
-  color: #f1f1f1;
+  color: var(--font1);
 }
 .banner p {
-  color: #e2e2e2;
+  color: var(--font1);
   max-width: 500px;
 }
 
@@ -142,7 +166,7 @@ a {
 .navegacao li ul {
   display: none;
   position: absolute;
-  background: #424242;
+  background: var(--p3);
   border-radius: 5px;
   padding: 2px 3px;
   box-shadow: rgba(0, 0, 0, 0.04) 0px 1px 3px 0px,
@@ -154,7 +178,7 @@ a {
   display: block;
 }
 .navegacao li ul li a:hover {
-  background: rgba(255, 255, 255, 0.1);
+  background: var(--bg3);
 }
 .navegacao li:hover ul {
   display: block;
@@ -170,7 +194,7 @@ a {
   border: none;
   background: none;
   cursor: pointer;
-  color: #f1f1f1;
+  color: var(--font1);
   padding: 20px 3px;
   font-size: 1.25rem;
 }
@@ -184,20 +208,20 @@ a {
   color: #424242;
 }
 .obras h3:hover {
-  color: #008a65;
+  color: var(--p1);
 }
 .obras img {
   width: 178px;
   height: 255px;
 }
 .obras img:hover ~ h3 {
-  color: #008a65;
+  color: var(--p1);
 }
 .obrasContainer {
   box-shadow: inset 0 -100px #2c2c2c;
 }
 .bg-secondary {
-  background: #00ba89 !important;
+  background: var(--p2) !important;
 }
 
 /* Ultimos Reviews by Dimitri Freitas*/
@@ -213,7 +237,7 @@ a {
   overflow: hidden;
 }
 .ultimosReviews section a {
-  color: #f1f1f1;
+  color: var(--font1);
 }
 .ultimosReviews ul li figure {
   display: block;
@@ -222,7 +246,7 @@ a {
 
 /* Footer by Dimitri Freitas */
 .footer p {
-  background: #00ba89;
+  background: var(--p2);
   color: #141414;
 }
 .footer {
@@ -230,12 +254,12 @@ a {
 }
 .listaPrimaria li,
 .listaPrimaria li a {
-  color: #00ba89;
+  color: var(--p2);
   font-weight: bold;
   font-size: 1.4rem;
 }
 .listaSecundaria li a {
-  color: #f1f1f1 !important;
+  color: var(--font1) !important;
   padding: 10px 5px;
   display: block;
   font-size: 1rem;
@@ -265,10 +289,10 @@ a {
   margin: 10px 15px;
 }
 .noticiaSeila a {
-  color: #008a65;
+  color: var(--p1);
 }
 .noticiaSeila a:hover {
-  color: #00ba89;
+  color: var(--p2);
 }
 
 /* Animação Destaques by Dimitri Freitas */
@@ -289,25 +313,25 @@ a {
   margin-left: 30px;
 }
 .destaquesInf a {
-  color: #008a65;
+  color: var(--p1);
 }
 .destaquesInf a:hover {
-  color: #00ba89;
+  color: var(--p2);
 }
 .border-top,
 .border-bottom {
-  border-color: #00ba89 !important;
+  border-color: var(--p2) !important;
 }
 
 /* Animação Lançamentos by Dimitri Freitas */
 .btn-primary {
   color: #2c2c2c;
-  background: #00ba89;
-  border-color: #00ba89;
+  background: var(--p2);
+  border-color: var(--p2);
 }
 .btn-primary:hover {
-  background: #008a65;
-  border-color: #008a65;
+  background: var(--p1);
+  border-color: var(--p1);
   color: #2c2c2c;
 }
 .lancamentos {
@@ -350,68 +374,51 @@ a {
 .cite {
   margin-left: 30px;
   padding-left: 8px;
-  border-left: 3px #00ba89 solid;
+  border-left: 3px var(--p2) solid;
 }
 .conteudo aside img {
   width: 100%;
 }
-.sobreImg article {
+.sobreImg {
   background: rgba(0, 0, 0, 0.2);
   max-width: 400px;
-}
-
-*:focus {
-  outline: none;
-  background-color: rgba(136, 136, 136, 0.3) !important ;
-  padding: 10px;
-  border: 3px solid #00bbff;
-  color: white !important;
-}
-.btn:focus {
-  outline: none;
-  background-color: #008a65 !important ;
-  padding: 10px;
-  border: 3px solid #00bbff;
-  color: white !important;
-}
-a div:focus {
-  outline: none;
-  background-color: #008a65 !important ;
-  padding: 10px;
-  border: 3px solid #00bbff;
-  color: white !important;
+  display: inline-block;
 }
 
 /* Contato by Dimitri Freitas */
-.formulario fieldset {
+.formulario {
+  display: flex;
   width: 100%;
-  padding: 30px 80px 20px 35px;
+  gap: 30px;
 }
-.formulario fieldset label {
+.formulario form {
+  width: 35%;
+}
+.formulario label {
   display: block;
 }
-.formulario fieldset form input,
-.formulario fieldset textarea {
+.formulario form input,
+.formulario textarea {
   /* background: rgba(0, 0, 0, 0.2); */
   border: none;
   border-radius: 6px;
   resize: none;
   padding: 10px 0 10px 8px;
-  color: #f1f1f1;
+  color: var(--font1);
 }
-.formulario fieldset textarea {
+.formulario textarea {
   height: 150px;
 }
 .formulario img {
   border-radius: 7px 0px 0px 7px;
 }
-.formulario fieldset button {
+.formulario button {
   width: 100px;
   height: 40px;
 }
-.formulario fieldset input:focus,
-.formulario fieldset textarea:focus {
-  outline: #00ba89 2px solid;
+.formulario input:focus,
+.formulario textarea:focus {
+  outline: var(--p2) 2px solid;
 }
 
 /* Responsivo menu Mobile e Especificos by Dimitri Freitas */
@@ -451,7 +458,7 @@ a div:focus {
   }
   .hamburguer {
     display: block;
-    border-top: 2px solid #f1f1f1;
+    border-top: 2px solid var(--font1);
     width: 20px;
   }
   .hamburguer:after,
@@ -461,7 +468,7 @@ a div:focus {
     width: 20px;
     height: 2px;
     margin-top: 5px;
-    background-color: #f1f1f1;
+    background-color: var(--font1);
     transition: 0.3s;
     position: relative;
   }
@@ -597,7 +604,7 @@ a div:focus {
   background: rgba(0, 186, 137, 0.1);
 }
 .lado1img {
-  color: #f1f1f1;
+  color: var(--font1);
 }
 .lado1img img {
   display: block;
@@ -622,12 +629,12 @@ a div:focus {
 .filmestextodestaques article h3,
 .filmestextodestaques article p {
   text-align: center;
-  color: #f1f1f1;
+  color: var(--font1);
 }
 .filmestextodestaques article:hover > p,
 .filmestextodestaques article:hover > h3 {
   text-align: center;
-  color: #008a65;
+  color: var(--p1);
 }
 .filmesbannerdestaques img {
   width: 100%;
@@ -703,7 +710,7 @@ a div:focus {
 }
 .bordas {
   padding: 10px;
-  border: #008a65 solid 3px;
+  border: var(--p1) solid 3px;
   border-radius: 30px;
   margin: 5px;
 }
@@ -713,7 +720,7 @@ a div:focus {
 }
 .titulo2 {
   text-align: center;
-  background-color: #008a65;
+  background-color: var(--p1);
   padding: 50px;
   margin: 20px;
 }
@@ -743,7 +750,7 @@ a div:focus {
 
 .pgAuto {
   background-color: #242424;
-  border: #008a65 solid 2px;
+  border: var(--p1) solid 2px;
   border-radius: 20px;
   padding: 30px;
   margin-bottom: 50px;
@@ -792,7 +799,7 @@ a div:focus {
 }
 
 .col {
-  color: #008a65;
+  color: var(--p1);
 }
 
 .col:hover {
@@ -821,5 +828,25 @@ a div:focus {
 
 section h5 {
   display: none;
+}
+
+*:focus {
+  outline: none;
+  border: 3px solid #00bbff;
+  color: var(--font1) !important;
+}
+.btn:focus {
+  outline: none;
+  background-color: var(--p1) !important ;
+  padding: 10px;
+  border: 3px solid #00bbff;
+  color: var(--font1) !important;
+}
+a div:focus {
+  outline: none;
+  background-color: var(--p1) !important ;
+  padding: 10px;
+  border: 3px solid #00bbff;
+  color: var(--font1) !important;
 }
 

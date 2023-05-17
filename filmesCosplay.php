@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 
-<!-- RETIRAR TAMANHO DAS IMAGENS NO CSS -->
+
 
 <body>
   <main>
@@ -113,16 +113,16 @@
       </div>
       </section>
       <div class="d-flex justify-content-xl-between flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
-      <section class='noticia rounded-3  border d-flex align-items-center'>
-        <div class='noticiaSeila d-flex flex-column'>
-          <?php include 'include/noticiaFilme1.php'; ?>
-        </div>
-      </section>
-      <section class='noticia rounded-3  border d-flex align-items-center'>
-        <div class='noticiaSeila d-flex flex-column'>
-        <?php include 'include/noticiaFilme2.php'; ?>
-      </section>
-    </div>
+        <section class='noticia rounded-3  border d-flex align-items-center'>
+          <div class='noticiaSeila d-flex flex-column'>
+            <?php include 'include/noticiaFilme1.php'; ?>
+          </div>
+        </section>
+        <section class='noticia rounded-3  border d-flex align-items-center'>
+          <div class='noticiaSeila d-flex flex-column'>
+            <?php include 'include/noticiaFilme2.php'; ?>
+        </section>
+      </div>
     </div>
     <?php include 'include/footer.php'; ?>
   </main>

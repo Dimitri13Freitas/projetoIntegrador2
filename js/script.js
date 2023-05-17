@@ -13,7 +13,18 @@ function menuMobile() {
 }
 menuMobile();
 
-const ancor = document.querySelector(".verde");
+const theme = document.querySelector(".theme");
 
-console.log(ancor);
+theme.addEventListener("click", () => {
+  let active = false;
+  active = !active;
+  window.localStorage.setItem("theme", active);
+  document.documentElement.classList.toggle("change");
+});
+
+window.onload = () => {
+  if (window.localStorage.getItem("theme")) {
+    document.documentElement.classList.toggle("change");
+  }
+};
 

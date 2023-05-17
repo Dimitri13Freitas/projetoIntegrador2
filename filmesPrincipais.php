@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 
-<!-- RETIRAR TAMANHO DAS IMAGENS NO CSS -->
+
 
 <body>
   <main>
@@ -20,66 +20,66 @@
       <div class="row">
         <div class="lado1 col-lg-8 col-md-12 col-sm-12">
           <!-- <a href="SinopseStarWars.php"> -->
-            <section class="row lado1img rounded border  p-3">
-              <div class="col-lg-7 col-md-6 col-sm-12">
-                <article>
-                  <h3>Star Wars IV</h3>
-                  <p>A princesa Leia é mantida refém pelas forças imperiais comandadas por Darth Vader. Luke Skywalker
-                    e o capitão Han Solo precisam libertá-la e restaurar a liberdade e a justiça na galáxia.</p>
-                  <a href="SinopseStarWars.php" class="verde"> Continuar lendo...</a>
-                </article>
-              </div>
-              <div class="col-lg-5 col-md-6 col-sm-12 m-0 p-0">
-                <aside>
-                  <figure>
-                    <img class="rounded " src="img/imgFilmes/imgPrincipaisStarWars.jpg" alt="Capa do Filme Star Wars IV, mostrando 4 personagens ao fundo e uma nave espacial a frente com o logotipo do filme logo abaixo.">
-                    <figcaption class='sumir'>Capa do filme Star Wars IV</figcaption>
-                  </figure>
-                </aside>
-              </div>
-            </section>
+          <section class="row lado1img rounded border  p-3">
+            <div class="col-lg-7 col-md-6 col-sm-12">
+              <article>
+                <h3>Star Wars IV</h3>
+                <p>A princesa Leia é mantida refém pelas forças imperiais comandadas por Darth Vader. Luke Skywalker
+                  e o capitão Han Solo precisam libertá-la e restaurar a liberdade e a justiça na galáxia.</p>
+                <a href="SinopseStarWars.php" class="verde"> Continuar lendo...</a>
+              </article>
+            </div>
+            <div class="col-lg-5 col-md-6 col-sm-12 m-0 p-0">
+              <aside>
+                <figure>
+                  <img class="rounded " src="img/imgFilmes/imgPrincipaisStarWars.jpg" alt="Capa do Filme Star Wars IV, mostrando 4 personagens ao fundo e uma nave espacial a frente com o logotipo do filme logo abaixo.">
+                  <figcaption class='sumir'>Capa do filme Star Wars IV</figcaption>
+                </figure>
+              </aside>
+            </div>
+          </section>
           <!-- </a> -->
           <!-- <a href="SinopsePlanetaDosMacacos.php"> -->
-            <section class="row lado1img rounded border  p-3">
-              <div class="col-lg-7 col-md-6 col-sm-12">
-                <article>
-                  <h3>Planeta Dos Macacos-A Origem</h3>
-                  <p>Um chimpanzé de laboratório desenvolve inteligência e emoções humanas e uma batalha épica surge
-                    para determinar qual espécie será dominante no planeta Terra.</p>
-                    <a href="SinopsePlanetaDosMacacos.php" class="verde"> Continuar lendo...</a>
-                </article>
-              </div>
-              <div class="col-lg-5 col-md-6 col-sm-12 m-0 p-0">
-                <aside>
-                  <figure>
-                    <img class="rounded " src="img/imgFilmes/imgPrincipaisPlanetaDosMacacos.jpg" alt="Capa do filme Planeta dos macacos. No plano principal está um macaco com uma mão para cima fazendo um sinal de conquista. Ponte Golden Gate ao fundo.">
-                    <figcaption class='sumir'>Capa do filme Planeta dos Macacos - A Origem </figcaption>
-                  </figure>
-                </aside>
-              </div>
-            </section>
+          <section class="row lado1img rounded border  p-3">
+            <div class="col-lg-7 col-md-6 col-sm-12">
+              <article>
+                <h3>Planeta Dos Macacos-A Origem</h3>
+                <p>Um chimpanzé de laboratório desenvolve inteligência e emoções humanas e uma batalha épica surge
+                  para determinar qual espécie será dominante no planeta Terra.</p>
+                <a href="SinopsePlanetaDosMacacos.php" class="verde"> Continuar lendo...</a>
+              </article>
+            </div>
+            <div class="col-lg-5 col-md-6 col-sm-12 m-0 p-0">
+              <aside>
+                <figure>
+                  <img class="rounded " src="img/imgFilmes/imgPrincipaisPlanetaDosMacacos.jpg" alt="Capa do filme Planeta dos macacos. No plano principal está um macaco com uma mão para cima fazendo um sinal de conquista. Ponte Golden Gate ao fundo.">
+                  <figcaption class='sumir'>Capa do filme Planeta dos Macacos - A Origem </figcaption>
+                </figure>
+              </aside>
+            </div>
+          </section>
           <!-- </a> -->
           <!-- <a href="SinopseDepoisDaTerra.php"> -->
-            <section class="row lado1img rounded border  p-3">
-              <div class="col-lg-7 col-md-6 col-sm-12">
-                <article>
-                  <h3>Depois da Terra</h3>
-                  <p>Cypher embarca em uma viagem espacial ao lado do filho Kitai, mas uma chuva de asteroides força a
-                    dupla a pousar na Terra, que há mil anos não é habitada por humanos. Cypher é gravemente ferido e
-                    Kitai precisa enfrentar grandes perigos na busca do sinalizador, o único objeto que pode ajudá-los
-                    a voltar para casa</p>
-                    <a href="SinopseDepoisDaTerra.php" class="verde"> Continuar lendo...</a>
-                </article>
-              </div>
-              <div class="col-lg-5 col-md-6 col-sm-12 m-0 p-0">
-                <aside>
-                  <figure>
-                    <img class="rounded " src="img/imgFilmes/imgPrincipaisDepoisDaTerra.jpg" alt="Capa do Filme Depois da Terra, com o ator Will Smith e seu filho Jaden Smith no plano principal.">
-                    <figcaption class='sumir'>Capa do filme Depois da Terra</figcaption>
-                  </figure>
-                </aside>
-              </div>
-            </section>
+          <section class="row lado1img rounded border  p-3">
+            <div class="col-lg-7 col-md-6 col-sm-12">
+              <article>
+                <h3>Depois da Terra</h3>
+                <p>Cypher embarca em uma viagem espacial ao lado do filho Kitai, mas uma chuva de asteroides força a
+                  dupla a pousar na Terra, que há mil anos não é habitada por humanos. Cypher é gravemente ferido e
+                  Kitai precisa enfrentar grandes perigos na busca do sinalizador, o único objeto que pode ajudá-los
+                  a voltar para casa</p>
+                <a href="SinopseDepoisDaTerra.php" class="verde"> Continuar lendo...</a>
+              </article>
+            </div>
+            <div class="col-lg-5 col-md-6 col-sm-12 m-0 p-0">
+              <aside>
+                <figure>
+                  <img class="rounded " src="img/imgFilmes/imgPrincipaisDepoisDaTerra.jpg" alt="Capa do Filme Depois da Terra, com o ator Will Smith e seu filho Jaden Smith no plano principal.">
+                  <figcaption class='sumir'>Capa do filme Depois da Terra</figcaption>
+                </figure>
+              </aside>
+            </div>
+          </section>
           <!-- </a> -->
         </div>
         <div class="col-lg-4 col-md-12 col-sm-12 sugestao">

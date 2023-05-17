@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 
-<!-- RETIRAR TAMANHO DAS IMAGENS NO CSS -->
+
 
 <body>
   <main>
@@ -54,7 +54,7 @@
           </div>
         </section>
       </div>
-        <!-- <div class="row filmestextodestaques">
+      <!-- <div class="row filmestextodestaques">
           <section>
             <a href="SinopseHomem-Aranha.php">
               <div class="col-lg-12 col-md-12 col-sm-12">
@@ -76,73 +76,73 @@
               </div>
             </a>
         </div> -->
-        <div class="row filmestextodestaques">
-          <a href="SinopseHomem-Aranha.php">
+      <div class="row filmestextodestaques">
+        <a href="SinopseHomem-Aranha.php">
+          <div class="col-lg-12 col-md-12 col-sm-12">
+            <article>
+              <h3>Homem-Aranha sem volta para casa</h3>
+              <p>Peter Parker tem a sua identidade secreta revelada e pede ajuda ao Doutor Estranho. Quando um
+                feitiço para reverter o evento não sai como o esperado, o Homem-Aranha e seu companheiro dos
+                Vingadores precisam enfrentar inimigos de todo o multiverso.
+              </p>
+            </article>
+          </div>
+          <div class="row filmesbannerdestaques">
             <div class="col-lg-12 col-md-12 col-sm-12">
-              <article>
-                <h3>Homem-Aranha sem volta para casa</h3>
-                <p>Peter Parker tem a sua identidade secreta revelada e pede ajuda ao Doutor Estranho. Quando um
-                    feitiço para reverter o evento não sai como o esperado, o Homem-Aranha e seu companheiro dos
-                    Vingadores precisam enfrentar inimigos de todo o multiverso.
-                </p>
-              </article>
+              <figure>
+                <img class='rounded' src="img/imgFilmes/imgMiranhaDestaques.jpg" alt="Banner do filme Homem Aranha sem volta para casa">
+                <figcaption class='sumir'>Banner do filme Homem-Aranha sem volta para casa</figcaption>
+              </figure>
             </div>
-            <div class="row filmesbannerdestaques">
-              <div class="col-lg-12 col-md-12 col-sm-12">
-                <figure>
-                  <img class='rounded' src="img/imgFilmes/imgMiranhaDestaques.jpg" alt="Banner do filme Homem Aranha sem volta para casa">
-                  <figcaption class='sumir'>Banner do filme Homem-Aranha sem volta para casa</figcaption>
-                </figure>
-              </div>
-            </div>
-          </a>
-        </div>
-        <div class="row filmestextodestaques">
-          <a href="SinopseJurassicWorld.php">
-            <div class="col-lg-12 col-md-12 col-sm-12">
-              <article>
-                <h3>Jurassic World 3</h3>
-                <p>Quatro anos após a destruição da Ilha Nublar, os dinossauros agora vivem e caçam ao lado de humanos
-                  em todo o mundo. Esse frágil equilíbrio remodela o futuro e deve determinar de uma vez por todas se os
-                  seres humanos continuarão sendo a espécie dominante em um planeta que agora compartilham com as
-                  criaturas mais temíveis da história
-                </p>
-              </article>
-            </div>
-            <div class="row filmesbannerdestaques">
-              <div class="col-lg-12 col-md-12 col-sm-12">
-                <figure>
-                  <img class='rounded' src="img/imgFilmes/imgJurassic.jpg" alt="Imagem do filme Jurassic World">
-                  <figcaption class='sumir'>Banner do filme Jurassic World 3</figcaption>
-                </figure>
-              </div>
-            </div>
-          </a>
-        </div>
-        <div class="row filmestextodestaques">
-          <a href="SinopseCapitaMarvel.php">
-            <div class="col-lg-12 col-md-12 col-sm-12">
-              <article>
-                <h3>Capitã Marvel</h3>
-                <p>Capitã Marvel, parte do exército de elite dos Kree, uma raça alienígena, encontra-se no meio de uma
-                  batalha entre seu povo e os Skrulls. Ao tentar impedir uma invasão de larga escala na Terra, em 1995,
-                  ela tem memórias recorrentes de uma outra vida, como Carol Danvers, agente da Força Aérea
-                  norte-americana. Com a ajuda de Nick Fury, Capitã Marvel precisa descobrir os segredos de seu passado
-                  e pôr um fim ao conflito intergalático com os Skrulls.
-                </p>
-              </article>
-            </div>
-            <div class="row filmesbannerdestaques">
-              <div class="col-lg-12 col-md-12 col-sm-12">
-                <figure>
-                  <img class='rounded' src="img/imgFilmes/imgCapitaMarvel.jpg" alt="Banner do filme Capitã Marvel">
-                  <figcaption class='sumir'>Banner do filme Capitã Marvel</figcaption>
-                </figure>
-              </div>
-            </div>
-          </a>
-        </div>
+          </div>
+        </a>
       </div>
+      <div class="row filmestextodestaques">
+        <a href="SinopseJurassicWorld.php">
+          <div class="col-lg-12 col-md-12 col-sm-12">
+            <article>
+              <h3>Jurassic World 3</h3>
+              <p>Quatro anos após a destruição da Ilha Nublar, os dinossauros agora vivem e caçam ao lado de humanos
+                em todo o mundo. Esse frágil equilíbrio remodela o futuro e deve determinar de uma vez por todas se os
+                seres humanos continuarão sendo a espécie dominante em um planeta que agora compartilham com as
+                criaturas mais temíveis da história
+              </p>
+            </article>
+          </div>
+          <div class="row filmesbannerdestaques">
+            <div class="col-lg-12 col-md-12 col-sm-12">
+              <figure>
+                <img class='rounded' src="img/imgFilmes/imgJurassic.jpg" alt="Imagem do filme Jurassic World">
+                <figcaption class='sumir'>Banner do filme Jurassic World 3</figcaption>
+              </figure>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div class="row filmestextodestaques">
+        <a href="SinopseCapitaMarvel.php">
+          <div class="col-lg-12 col-md-12 col-sm-12">
+            <article>
+              <h3>Capitã Marvel</h3>
+              <p>Capitã Marvel, parte do exército de elite dos Kree, uma raça alienígena, encontra-se no meio de uma
+                batalha entre seu povo e os Skrulls. Ao tentar impedir uma invasão de larga escala na Terra, em 1995,
+                ela tem memórias recorrentes de uma outra vida, como Carol Danvers, agente da Força Aérea
+                norte-americana. Com a ajuda de Nick Fury, Capitã Marvel precisa descobrir os segredos de seu passado
+                e pôr um fim ao conflito intergalático com os Skrulls.
+              </p>
+            </article>
+          </div>
+          <div class="row filmesbannerdestaques">
+            <div class="col-lg-12 col-md-12 col-sm-12">
+              <figure>
+                <img class='rounded' src="img/imgFilmes/imgCapitaMarvel.jpg" alt="Banner do filme Capitã Marvel">
+                <figcaption class='sumir'>Banner do filme Capitã Marvel</figcaption>
+              </figure>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
     </div>
     </section>
     </div>

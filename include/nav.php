@@ -1,8 +1,8 @@
 <?php
 echo "<header class='header d-flex align-items-center justify-content-between border-bottom'>
-<div class='theme'>
-  <img src='./img/assets/notifications.svg' alt=''>
-</div>
+<button aria-label='Clique para trocar o tema do site' class='theme'>
+  <img src='./img/assets/sun.svg' alt=''>
+</button>
 <button class='menuMobile' aria-label='Abrir menu de navegação'>Menu<span class='hamburguer'></span></button>
 <a href='index.php' class='logo'><img src='img/assets/logo.png' alt='Logo Escrito Los Fofuritos sem calça'></a>
 <div class='d-flex redes'>
