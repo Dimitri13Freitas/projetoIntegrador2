@@ -5,7 +5,7 @@ echo "<section class='noticia rounded-3  border d-flex align-items-center'>
   <small>Animações</small>
   <h3>‘Final Space’ deixará a Netflix internacionalmente</h3>
   <p>A animação é excelente, e a trilha sonora é incrível, ajudando a construir a atmosfera e embelezar momentos...</p>
-  <a class='verde' href='animacaoNoticia2.php'>Continuar lendo...</a>
+  <a aria-label='Seguir lendo noticia de animações' class='verde' href='animacaoNoticia2.php'>Continuar lendo...</a>
 </article>
 <aside>
 <figure>

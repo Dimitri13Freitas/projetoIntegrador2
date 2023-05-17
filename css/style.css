@@ -360,6 +360,28 @@ a {
   max-width: 400px;
 }
 
+*:focus {
+  outline: none;
+  background-color: rgba(136, 136, 136, 0.3) !important ;
+  padding: 10px;
+  border: 3px solid #00bbff;
+  color: white !important;
+}
+.btn:focus {
+  outline: none;
+  background-color: #008a65 !important ;
+  padding: 10px;
+  border: 3px solid #00bbff;
+  color: white !important;
+}
+a div:focus {
+  outline: none;
+  background-color: #008a65 !important ;
+  padding: 10px;
+  border: 3px solid #00bbff;
+  color: white !important;
+}
+
 /* Contato by Dimitri Freitas */
 .formulario fieldset {
   width: 100%;
@@ -368,9 +390,9 @@ a {
 .formulario fieldset label {
   display: block;
 }
-.formulario fieldset input,
+.formulario fieldset form input,
 .formulario fieldset textarea {
-  background: rgba(0, 0, 0, 0.2);
+  /* background: rgba(0, 0, 0, 0.2); */
   border: none;
   border-radius: 6px;
   resize: none;
@@ -799,27 +821,5 @@ a {
 
 section h5 {
   display: none;
-}
-
-*:focus {
-  outline: none;
-  background-color: rgba(136, 136, 136, 0.3) !important ;
-  padding: 10px;
-  border: 3px solid #00bbff;
-  color: white !important;
-}
-.btn:focus {
-  outline: none;
-  background-color: #008a65 !important ;
-  padding: 10px;
-  border: 3px solid #00bbff;
-  color: white !important;
-}
-a div:focus {
-  outline: none;
-  background-color: #008a65 !important ;
-  padding: 10px;
-  border: 3px solid #00bbff;
-  color: white !important;
 }
 

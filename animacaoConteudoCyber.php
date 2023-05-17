@@ -22,7 +22,7 @@
         <div class='row mt-5'>
           <div class='col-xl-8 col-md-12 col-sm-12'>
             <h2 class="h1 mb-1">Cyberpunk: Edgerunners</h2>
-            <small class='mb-3 d-block small pb-2 border-bottom border-2' aria-label='Link para a fonte do conteúdo da página'>Novembro 23, 2022 by <cite><a href="https://br.ign.com/cyberpunk-edgerunners/102931/feature/cyberpunk-mercenarios-tera-temporada-2">br.ign.com</a></cite></small>
+            <small class='mb-3 d-block small pb-2 border-bottom border-2' aria-label='Link para a fonte do conteúdo da página'>Novembro 23, 2022 by <cite><a aria-label='Fonte do conteúdo' href="https://br.ign.com/cyberpunk-edgerunners/102931/feature/cyberpunk-mercenarios-tera-temporada-2">br.ign.com</a></cite></small>
             <p>O anime Cyberpunk: Mercenários (Edgerunners), do Studio Trigger e CD Projekt Red para a Netflix, está fazendo bastante sucesso entre os assinantes do serviço -- tanto, inclusive, que o game Cyberpunk 2077, no qual ele é inspirado, teve um pico de jogadores simultâneos após a estreia da adaptação televisiva.</p>
             <p>Com apenas 10 episódios, o anime é relativamente curto. Após as rápidas maratonas, espectadores podem se perguntar: Cyberpunk: Mercenários terá uma temporada 2? Bem, o propósito deste artigo é responder a essa tão importante pergunta.</p>
           </div>

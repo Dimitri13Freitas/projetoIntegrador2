@@ -38,7 +38,7 @@
         <article class='destaquesInf'>
           <h2 class='h1 mb-3 mt-2'>Love, Death & Robots</h2>
           <p class='mb-3'>Love, Death & Robots é uma série que atualmente esta em streaming na Netflix que se resume a varios contos animados em seus diversos estilos de animação que podem variar de um 3d ultra realista á um cartunesco clássico...</p>
-          <a href="animacaoConteudoRobots.php">Continuar Lendo...</a>
+          <a aria-label='Seguir lendo sobre Love, Death & Robots' href="animacaoConteudoRobots.php">Continuar Lendo...</a>
         </article>
       </section>
       <div class="d-flex justify-content-xl-between flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
@@ -55,7 +55,7 @@
         <article class='destaquesInf'>
           <h2 class='h1 mb-3 mt-2'>Rick and Morty</h2>
           <p class='mb-3'>Com sua arma capaz de criar portais para viajar no tempo-espaço, Rick leva Morty para explorar todos as absurdas formas de vida que o universo é capaz de sustentar. Apesar de genial, Rick tem sofre de alcoolismo e possui uma relação...</p>
-          <a href="animacaoConteudoRick.php">Continuar Lendo...</a>
+          <a aria-label='Seguir lendo sobre Rick and Morty' href="animacaoConteudoRick.php">Continuar Lendo...</a>
         </article>
       </section>
       <section class='border mt-5 destaques p-0 p-3 mb-5 rounded d-flex justfy-content-between align-items-center'>
@@ -68,7 +68,7 @@
         <article class='destaquesInf'>
           <h2 class='h1 mb-3 mt-2'>Final Space</h2>
           <p class='mb-3'>A ideia para a criação da série surgiu em meados de 2010, quando Olan Rogers disponibilizou um vídeo no seu canal pessoal no YouTube nomeado Gary Space como parte de uma websérie animada de 10 episódios. O projeto logo foi descontinuado com...</p>
-          <a href="animacaoConteudoFinal.php">Continuar Lendo...</a>
+          <a aria-label='Seguir lendo sobre Final Space' href="animacaoConteudoFinal.php">Continuar Lendo...</a>
         </article>
       </section>
       <section class='border mt-5 destaques p-0 p-3 mb-5 rounded d-flex justfy-content-between align-items-center'>
@@ -81,7 +81,7 @@
         <article class='destaquesInf'>
           <h2 class='h1 mb-3 mt-2'>Cyberpunk: Edgerunners</h2>
           <p class='mb-3'>O anime Cyberpunk: Mercenários (Edgerunners), do Studio Trigger e CD Projekt Red para a Netflix, está fazendo bastante sucesso entre os assinantes do serviço -- tanto, inclusive, que o game Cyberpunk 2077, no qual ele é...</p>
-          <a href="animacaoConteudoCyber.php">Continuar Lendo...</a>
+          <a aria-label='Seguir lendo sobre Cyberpunk: Edgerunners' href="animacaoConteudoCyber.php">Continuar Lendo...</a>
         </article>
       </section>
     </main>

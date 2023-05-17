@@ -3,7 +3,7 @@ echo "<header class='header d-flex align-items-center justify-content-between bo
 <div class='theme'>
   <img src='./img/assets/notifications.svg' alt=''>
 </div>
-<button class='menuMobile' aria-label='Menu'>Menu<span class='hamburguer'></span></button>
+<button class='menuMobile' aria-label='Abrir menu de navegação'>Menu<span class='hamburguer'></span></button>
 <a href='index.php' class='logo'><img src='img/assets/logo.png' alt='Logo Escrito Los Fofuritos sem calça'></a>
 <div class='d-flex redes'>
   <a href='https://github.com/Dimitri13Freitas/projetoIntegrador2'><img src='./img/assets/github.svg' alt='Icon Logo Git-Hub'></a>

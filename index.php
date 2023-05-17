@@ -15,6 +15,7 @@
 <body>
   <div class='container'>
     <?php include 'include/nav.php'; ?>
+    <?php include 'include/bannerHome.php'; ?>
     <main>
       <!-- Noticias -->
       <div class="d-flex justify-content-xl-between flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">

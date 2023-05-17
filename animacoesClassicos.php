@@ -36,7 +36,7 @@
         <article class='destaquesInf'>
           <h2 class='h1 mb-3 mt-2'>Futurama</h2>
           <p class='mb-3'>Foi ao ar de 28 de março de 1999 a 10 de agosto de 2003 na Fox. No Brasil ia ao ar também pela Fox, no bloco Não Perturbe!, de segunda a sexta às 20 horas, e em janeiro de 2008 saiu da programação para dar lugar a mais um episódio...</p>
-          <a href="animacaoConteudoFuturama.php">Continuar Lendo...</a>
+          <a aria-label='Seguir lendo sobre Futurama' href="animacaoConteudoFuturama.php">Continuar Lendo...</a>
         </article>
       </section>
       <section class='border mt-5 destaques p-0 p-3 mb-5 rounded d-flex justfy-content-between align-items-center'>
@@ -49,7 +49,7 @@
         <article class='destaquesInf'>
           <h2 class='h1 mb-3 mt-2'>Duck Dodgers</h2>
           <p class='mb-3'>Se tem algo que faz parte da infância de todos nós (e espero que ainda faça das crianças de hoje e sempre) é a série de desenhos Looney Tunes>. São vários personagens únicos e um mais engraçado que o outro, sendo um...</p>
-          <a href="animacaoConteudoDuck.php">Continuar Lendo...</a>
+          <a aria-label='Seguir lendo sobre Duck Dogers' href="animacaoConteudoDuck.php">Continuar Lendo...</a>
         </article>
       </section>
       <div class="d-flex justify-content-xl-between flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
@@ -66,7 +66,7 @@
         <article class='destaquesInf'>
           <h2 class='h1 mb-3 mt-2'>Projeto Zeta</h2>
           <p class='mb-3'>The Zeta Project (no Brasil Projeto Zeta) é uma série animada americana de ficção científica produzida pela Warner Bros.. Estreou na Kids' WB em janeiro de 2001. É uma série baseada no personagem Zeta de Batman do Futuro...</p>
-          <a href="animacaoConteudoZeta.php">Continuar Lendo...</a>
+          <a aria-label='Seguir lendo sobre Projeto Zeta' href="animacaoConteudoZeta.php">Continuar Lendo...</a>
         </article>
       </section>
       <section class='border mt-5 destaques p-0 p-3 mb-5 rounded d-flex justfy-content-between align-items-center'>
@@ -79,7 +79,7 @@
         <article class='destaquesInf'>
           <h2 class='h1 mb-3 mt-2'>Os Jetsons</h2>
           <p class='mb-3'>Desenho criado em 1962 por Joe Barbera e Bill Hanna, nos estudios da HB Produtions, contava em seus episódios como seria o cotidiano da raça humana no futuro tomando como referência uma família muito simpática: Os Jetsons....</p>
-          <a href="animacaoConteudoJetsons.php">Continuar Lendo...</a>
+          <a aria-label='Seguir lendo sobre Os jetsons' href="animacaoConteudoJetsons.php">Continuar Lendo...</a>
         </article>
       </section>
     </main>

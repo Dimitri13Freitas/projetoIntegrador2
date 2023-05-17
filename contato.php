@@ -19,7 +19,7 @@
       <?php include 'include/bannerHome.php'; ?>
 
       <fieldset class='formulario rounded rounded-3 my-5 d-flex border'>
-        <figure class=''>
+        <figure>
           <figcaption class='sumir'>Imagem meramente ilustrativa</figcaption>
           <img src="img/assets/imgContato.webp" alt="Nave espacial em outro planeta">
         </figure>

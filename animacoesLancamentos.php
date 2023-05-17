@@ -30,7 +30,7 @@
                 <img class='rounded' src="img/imgAnimacao/lancamentos/img1.webp" alt="Temporada nova de Rick and Morty">
               </figure>
               <h3 class='h3 text-center mt-2 mb-4'>Rick and Morty - Season 6</h3>
-              <a href="animacoesTrailerRick.php" class='btn btn-primary d-block'>Assistir Trailer</a>
+              <a aria-label="Assistir Trailer de Rick and Morty - Season 6" href="animacoesTrailerRick.php" class='btn btn-primary d-block'>Assistir Trailer</a>
             </section>
           </div>
           <div class='mt-xxl-5 mt-xl-5 mt-lg-5 mt-md-0 mt-sm-0'>
@@ -40,7 +40,7 @@
                 <img class='rounded' src="img/imgAnimacao/lancamentos/img2.webp" alt="Buzz segurando um gatinho">
               </figure>
               <h3 class='h3 text-center mt-2 mb-4'>Lightyear (SpinOff de Toy Story)</h3>
-              <a href="animacoesTrailerBuzz.php" class='btn btn-primary d-block'>Assistir Trailer</a>
+              <a aria-label="Assistir Trailer de Lightyear (SpinOff de Toy Story)" href="animacoesTrailerBuzz.php" class='btn btn-primary d-block'>Assistir Trailer</a>
             </section>
           </div>
           <div>
@@ -50,7 +50,7 @@
                 <img class='rounded' src="img/imgAnimacao/lancamentos/img3.webp" alt="moto futurista e seu dono apreciando a vista.">
               </figure>
               <h3 class='h3 text-center mt-2 mb-4'>Scavengers Reign</h3>
-              <a href="animacoesTrailerScavengers.php" class='btn btn-primary d-block'>Assistir Trailer</a>
+              <a aria-label="Scavengers Reign" href="animacoesTrailerScavengers.php" class='btn btn-primary d-block'>Assistir Trailer</a>
             </section>
           </div>
         </div>
