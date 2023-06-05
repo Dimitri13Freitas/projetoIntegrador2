@@ -29,7 +29,15 @@ body {
   background: var(--bg1) !important;
   color: var(--font1) !important;
 }
+.dropdown-toggle {
+  background-color: transparent;
+  border: 1px solid var(--bg1);
+  color: var(--font1);
+}
 
+.change .redes img {
+  background-color: var(--p2);
+}
 a.verde {
   color: var(--p1);
 }
@@ -78,19 +86,15 @@ a {
   border: none;
   border-radius: 4px;
   background: var(--p2);
+  border: 1px solid var(--bg1);
 }
 .theme:focus {
-  border: none;
 }
 .theme img {
-  /* cursor: pointer; */
+  cursor: pointer;
   width: 34px;
   padding: 5px;
-  /* border-radius: 3px; */
 }
-/* .theme img:hover {
-  background-color: var(--p2);
-} */
 .logo {
   display: flex;
   padding: 10px 0px;
@@ -184,9 +188,12 @@ a {
   display: block;
   animation: animaNav 0.3s forwards;
 }
-.navegacao li a:focus + ul {
+.dropItem.ativo {
   display: block;
 }
+/* .navegacao li a:focus + ul {
+  display: block;
+} */
 
 /* Menu Mobile by Dimitri Freitas */
 .menuMobile {
@@ -829,24 +836,33 @@ a {
 section h5 {
   display: none;
 }
+a,
+button {
+  border-width: 1px;
+}
 
-*:focus {
+a:focus,
+button:focus {
   outline: none;
-  border: 3px solid #00bbff;
+  border: 1px solid #00bbff;
   color: var(--font1) !important;
 }
 .btn:focus {
   outline: none;
   background-color: var(--p1) !important ;
   padding: 10px;
-  border: 3px solid #00bbff;
+  border: 1px solid #00bbff;
   color: var(--font1) !important;
 }
 a div:focus {
   outline: none;
   background-color: var(--p1) !important ;
   padding: 10px;
-  border: 3px solid #00bbff;
+  border: 1px solid #00bbff;
   color: var(--font1) !important;
+}
+
+.dropdown-on .dropdown-menu {
+  display: block;
 }
 

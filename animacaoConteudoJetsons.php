@@ -22,7 +22,7 @@
           <div class='col-xl-8 col-md-12 col-sm-12'>
             <article>
               <h2 class="h1 mb-1">Os Jetsons</h2>
-              <small class='mb-3 d-block small pb-2 border-bottom border-2' aria-label='Link para a fonte do conteúdo da página'>Novembro 23, 2022 by <cite><a href="http://www.autobahn.com.br/desenhos/jetsons.php">www.autobahn.com.br</a></cite></small>
+              <small class='mb-3 d-block small pb-2 border-bottom border-2' aria-label='Link para a fonte do conteúdo da página'>Novembro 23, 2022 by <cite><a aria-label="Link que leva para o endereço de onde foram tiradas essas informações" href="http://www.autobahn.com.br/desenhos/jetsons.php">www.autobahn.com.br</a></cite></small>
               <p>Desenho criado em 1962 por Joe Barbera e Bill Hanna, nos estudios da HB Produtions, contava em seus episódios como seria o cotidiano da raça humana no futuro tomando como referência uma família muito simpática: Os Jetsons.</p>
               <p>Imagine-se num ambiente repleto de recursos inovadores que só facilitariam o dia-a-dia, como por exemplo: a partir de uma pílula, fazer uma refeição ou ter como transporte uma nave espacial veloz. Imaginou?</p>
               <p>Os Jetsons vivem assim, pois no futuro tudo é diferente, rápido e dinâmico. Composta por: George Jetson, sua esposa Jane, seus filhos Elroy e Judy, o cãozinho de estimação Astro e Rose a robô empregada.</p>

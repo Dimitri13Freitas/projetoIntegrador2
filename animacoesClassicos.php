@@ -21,7 +21,7 @@
         <div class='col-xl-8 col-md-12 col-sm-12'>
           <article class='pt-3'>
             <h2 class='h1 pt-5 m-0'>Classicos do Gênero</h2>
-            <small>january 1, 2022 by <cite><a href="https://github.com/Dimitri13Freitas">Dimitri</a></cite></small>
+            <small>january 1, 2022 by <cite><a aria-label="Link do criador do texto que vem a seguir" href="https://github.com/Dimitri13Freitas">Dimitri</a></cite></small>
             <p class='border-top border-2 pt-2 mt-2'>Aqui você vai poder relembrar as animações classicas e a frente do seu tempo que foram lançadas antes e depois dos anos 2000, e perceber que algumas obras listadas aqui, ainda sim são bastante atuais idependente de sua data de lançamento.</p>
           </article>
         </div>
@@ -48,7 +48,7 @@
         </aside>
         <article class='destaquesInf'>
           <h2 class='h1 mb-3 mt-2'>Duck Dodgers</h2>
-          <p class='mb-3'>Se tem algo que faz parte da infância de todos nós (e espero que ainda faça das crianças de hoje e sempre) é a série de desenhos Looney Tunes>. São vários personagens únicos e um mais engraçado que o outro, sendo um...</p>
+          <p class='mb-3'>Se tem algo que faz parte da infância de todos nós (e espero que ainda faça das crianças de hoje e sempre) é a série de desenhos Looney Tunes. São vários personagens únicos e um mais engraçado que o outro, sendo um...</p>
           <a aria-label='Seguir lendo sobre Duck Dogers' href="animacaoConteudoDuck.php">Continuar Lendo...</a>
         </article>
       </section>
