@@ -24,7 +24,7 @@
       </div>
       <div class="col-xl-5 col-md-7 col-sm-12">
         <figure>
-          <img class="brdr" src="img/livros/Arthur.webp"  alt="">
+          <img class="brdr" src="img/livros/Arthur.webp"  alt="Foto de Arthur C. Clark">
           <figcaption> Arthur C.Clark, ano tal</figcaption>
         </figure>
       </div>
@@ -35,7 +35,7 @@
   </article>
       <section class="sla row justify-content-center"> 
         <h2 class="col-12 justify-content-center"> Principais produções </h2>
-        <a class=" mud principais brd col-xl-3 col-md-5 col-sm-12 justify-content-center border" href="livrosCnt1PgAutores.php">
+        <a aria-label='Seguir para uma odisseia no espaço'class=" mud principais brd col-xl-3 col-md-5 col-sm-12 justify-content-center border" href="livrosCnt1PgAutores.php">
         <article class="">
         <!-- <a class="col" href="livrosCnt1PgAutores.php"> -->
           <figure>
@@ -46,7 +46,7 @@
         <!-- </a> -->
         </article>
         </a>
-        <a class="mud principais brd col-xl-3 col-md-5 col-sm-12 justify-content-center border" href="livrosCnt2PgAutores.php">
+        <a aria-label='Seguir para encontro com Rama'class="mud principais brd col-xl-3 col-md-5 col-sm-12 justify-content-center border" href="livrosCnt2PgAutores.php">
         <article>
         <!-- <a class="col" href="livrosCnt2PgAutores.php"> -->
           <figure>
@@ -57,7 +57,7 @@
           <!-- </a> -->
         </article>
         </a>
-        <a class="mud principais brd col-xl-3 col-md-5 col-sm-12 justify-content-center border" href="livrosCnt3PgAutores.php">
+        <a aria-label='Seguir para O fim da infância' class="mud principais brd col-xl-3 col-md-5 col-sm-12 justify-content-center border" href="livrosCnt3PgAutores.php">
         <article>
         <!-- <a class="col" href="livrosCnt3PgAutores.php"> -->
           <figure>
@@ -78,7 +78,7 @@
             <h3>George Orwell</h3>
             <small>sobre o autor</small>
             <p>George Orwell foi considerado o maior cronista do século xx, já devem imaginar o porquê, né? É muita criatividade, critica social e ficção científica misturada em suas obras, o que as deixam...</p>
-            <a href="livrosPgAutores2.php"> Continuar lendo...</a>
+            <a aria-label='Continuar lendo sobre George Orwell' href="livrosPgAutores2.php"> Continuar lendo...</a>
           </article>
           <figure>
             <img src="img/livros/george2.webp" alt="Imagem do autor George Orwell">

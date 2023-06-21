@@ -23,7 +23,7 @@
         <div class='col-xl-8 col-md-12 col-sm-12'>
           <article class='pt-3'>
             <h2 class='h1 pt-5 m-0'>Os Destaques do Ano</h2>
-            <small>Novembro 23, 2022 by <cite><a href="https://github.com/Dimitri13Freitas">Dimitri</a></cite></small>
+            <small>Novembro 23, 2022 by <cite><a aria-label='Seguir para GitHub Dimitri13Freitas' href="https://github.com/Dimitri13Freitas">Dimitri</a></cite></small>
             <p class='border-top border-2 pt-2 mt-2'>Neste ano tivemos muitas obras que vem tendo muita relevância ultimamente, tendo em vista que ficção cientifica é um gênero que pode ser explorado de tantas formas, ver isso acontecendo na nossa frente com animações como:</p>
           </article>
         </div>

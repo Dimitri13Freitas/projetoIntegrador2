@@ -6,6 +6,6 @@ echo "
     <small>Livros</small>
     <h3>Lipe Diaz lança novo selo de quadrinhos: 'Cavalo de Pau'  </h3>
     <p>A revista Cavalo de Paué o mais novo lançamento do autor Lipe Diaz, e marca a estreia de seu próprio selo de quadrinhos... </p>
-    <a  href='Noticialivros3.php'>Continuar lendo...</a>
+    <a aria-label='Continuar lendo sobre Cavalo de Pau de Lipe Diaz'  href='Noticialivros3.php'>Continuar lendo...</a>
   </article>
 </section>";

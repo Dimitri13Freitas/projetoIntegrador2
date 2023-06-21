@@ -12,12 +12,12 @@
 </head>
 <body>
 <main>
-    <div class='container'>
+    <div class='container '>
       <?php include 'include/nav.php';?>
       <?php include 'include/bannerLivros.php';?>
 
-    <article class="row">
-      <div class="espaço col-12">
+    <article class="row justify-content-center cntr">
+      <div class="espaço col-12 cntr">
         <h2 >Frankstein</h2>
         <small class=' mb-3 d-block small pb-2 border-bottom border-2'>Julho 01, 2020 by <a href="https://www.queriaestarlendo.com.br/2020/07/resenha-frankenstein.html">QueriaEstarLendo.com</a></small>
       </div>
@@ -32,7 +32,7 @@
       </div>
     </article>
 
-    <aside class="row espaço">
+    <aside class="row espaço justify-content-center">
       <div class=" col-xl-10 col-md-12 col-sm-12 row justify-content-center"> 
         <h3>Análise Crítica, by Denise Flaiban</h3>
         <p>Optei pelo Frankenstein porque conhecia a história bem por cima, sem muitos detalhes da obra original. Assistir à série Penny Dreadful me incentivou ainda mais, porque o Victor Frankenstein e a “criatura” da série são personagens interessantes.</p>
@@ -42,11 +42,11 @@
       </div>
   </aside>
 </div>
-      <!-- <div class='config bg-secondary mt-5 mb-5 '>
-          
-      </div> -->
-  <section class="container">
+<section>
+  <div class='config bg-secondary mt-5 mb-5 '>
     <h2 class='py-5 titulo'>Vistos Também</h2>
+  </div>
+    <div class="container">
     <div class="d-flex justify-content-xl-around flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
       <article class="noticia rounded-3  border d-flex align-items-center">
         <div class="noticiaSeila d-flex flex-column">

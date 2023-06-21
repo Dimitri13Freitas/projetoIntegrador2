@@ -22,7 +22,7 @@
         <div class='row mt-5'>
           <div class='col-xl-8 col-md-12 col-sm-12'>
             <h2 class="h1 mb-1">Lipe Diaz lança novo selo de quadrinhos: 'Cavalo de Pau' </h2>
-            <small class='mb-3 d-block small pb-2 border-bottom border-2' aria-label='Link para a fonte do conteúdo da página'>Novembro 14, 2022 by <a href="https://universohq.com/noticias/autor-lipe-diaz-lanca-novo-selo-de-quadrinhos-com-a-obra-cavalo-de-pau/">universoHQ.com</a></small>
+            <small class='mb-3 d-block small pb-2 border-bottom border-2' aria-label='Link para a fonte do conteúdo da página'>Novembro 14, 2022 by <a aria-label='Seguir para o site Universo HQ, Cavalo de Pau de Lipe Diaz' href="https://universohq.com/noticias/autor-lipe-diaz-lanca-novo-selo-de-quadrinhos-com-a-obra-cavalo-de-pau/">universoHQ.com</a></small>
             <p>A revista Cavalo de Pau (formato 17 x 26 cm, 64 páginas) é o mais novo lançamento do autor Lipe Diaz, e marca a estreia de seu próprio selo de quadrinhos, a LDZ Editora, um braço da LDZ Escola de Artes Visuais. O objetivo da revista é levar ao grande público, anualmente, novos conceitos para graphic novels, propriedades industriais que serão lançadas no futuro.</p>
             <p>Cavalo de Pau é uma coletânea de histórias inéditas desenhadas ou escritas por Lipe Diaz, apresentando uma nova safra de quadrinhos que desvendarão mistérios em uma expedição na Amazônia, desafiarão o apocalipse entre demônios e anjos, viajarão no tempo, enfrentarão medos em novas dimensões, farão o leitor voltarem a ser criança.</p>
           </div>

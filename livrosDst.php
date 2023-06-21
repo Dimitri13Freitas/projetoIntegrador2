@@ -19,7 +19,7 @@
     <article class="row cntr">
       <div class=" sla col-12">
         <h2 class="titulos">Viagem a Alfa Centauri</h2>
-        <small class='titulos mb-3 d-block small pb-2 border-bottom border-2'>Dezembro 01, 2022 by <a href="https://unasp.br/blog/viagem-a-alfa-centauri/">Unasp.com</a></small>
+        <small class='titulos mb-3 d-block small pb-2 border-bottom border-2'>Dezembro 01, 2022 by <a aria-label='Seguir para site Unasp, Viagem a Alfa Centauri' href="https://unasp.br/blog/viagem-a-alfa-centauri/">Unasp.com</a></small>
       </div>
       <figure class="col-xl-2 col-md-4 col-sm-5">
         <img class="brdr" src="img/livros/vgm.webp"  alt="Imagem da capa da obra 'Viagem a Alfa Centauri'">

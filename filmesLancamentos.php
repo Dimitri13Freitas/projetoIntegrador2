@@ -28,7 +28,7 @@
                 <p>Após formar uma família, Jake Sully e Ney'tiri fazem de tudo para ficarem juntos. No entanto, eles
                   devem sair de casa e explorar as regiões de Pandora quando uma antiga ameaça ressurge, e Jake deve
                   travar uma guerra difícil contra os humanos.</p>
-                <a href="SinopseAvatar2.php" class="verde">Continuar lendo...</a>
+                <a aria-label='Seguir para Sinopse Avatar 2'href="SinopseAvatar2.php" class="verde">Continuar lendo...</a>
               </article>
             </div>
             <div class="col-lg-5 col-md-6 col-sm-12 m-0 p-0">
@@ -47,7 +47,7 @@
               <article>
                 <h3>Adão Negro</h3>
                 <p>O poderoso Adão Negro é libertado de sua tumba para lançar sua justiça cruel sobre a Terra.</p>
-                <a href="SinopseAdaoNegro.php" class="verde">Continuar lendo...</a>
+                <a aria-label='Seguir para Sinopse Adão Negro' href="SinopseAdaoNegro.php" class="verde">Continuar lendo...</a>
               </article>
             </div>
             <div class="col-lg-5 col-md-6 col-sm-12 m-0 p-0">
@@ -67,7 +67,7 @@
                 <h3>Não! Não Olhe!</h3>
                 <p>Os cuidadores de um rancho de cavalos na Califórnia encontram uma força misteriosa que afeta o
                   comportamento humano e animal.</p>
-                <a href="SinopseNaoNaoOlhe.php" class="verde">Continuar lendo...</a>
+                <a aria-label='Seguir para Sinopse Não Não Olhe' href="SinopseNaoNaoOlhe.php" class="verde">Continuar lendo...</a>
               </article>
             </div>
             <div class="col-lg-5 col-md-6 col-sm-12 m-0 p-0">
@@ -89,14 +89,14 @@
                 <h4>Star Wars IV</h4>
                 <p>A princesa Leia é mantida refém pelas forças imperiais comandadas por Darth Vader. Luke Skywalker e o
                   capitão Han Solo precisam libertá-la e restaurar a liberdade e a justiça na galáxia.</p>
-                <a href="SinopseStarWars.php" class="btn-primary btn">Clique aqui</a>
+                <a aria-label='Seguir para Sinopse Star Wars' href="SinopseStarWars.php" class="btn-primary btn">Clique aqui</a>
               </li>
               <li>
                 <h4>Homem-Aranha sem volta para casa</h4>
                 <p>Peter Parker tem a sua identidade secreta revelada e pede ajuda ao Doutor Estranho. Quando um feitiço
                   para reverter o evento não sai como o esperado, o Homem-Aranha e seu companheiro dos Vingadores
                   precisam enfrentar inimigos de todo o multiverso.</p>
-                <a href="SinopseHomem-Aranha.php" class="btn-primary btn">Clique aqui</a>
+                <a  aria-label='Seguir para Sinopse Homem Aranha' href="SinopseHomem-Aranha.php" class="btn-primary btn">Clique aqui</a>
               </li>
               <li>
                 <h4>Depois da Terra</h4>
@@ -104,7 +104,7 @@
                   dupla a pousar na Terra, que há mil anos não é habitada por humanos. Cypher é gravemente ferido e
                   Kitai precisa enfrentar grandes perigos na busca do sinalizador, o único objeto que pode ajudá-los a
                   voltar para casa</p>
-                <a href="SinopseDepoisDaTerra.php" class="btn-primary btn">Clique aqui</a>
+                <a aria-label='Seguir para Sinopse Depois da Terra' href="SinopseDepoisDaTerra.php" class="btn-primary btn">Clique aqui</a>
               </li>
             </ul>
           </section>

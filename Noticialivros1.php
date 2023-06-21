@@ -22,7 +22,7 @@
         <div class='row mt-5'>
           <div class='col-xl-8 col-md-12 col-sm-12'>
             <h2 class="h1 mb-1">Star Wars: Novos mangás chegarão ao Brasil pela Panini</h2>
-            <small class='mb-3 d-block small pb-2 border-bottom border-2' aria-label='Link para a fonte do conteúdo da página'>Dezembro 05, 2022 by <a href="https://br.ign.com/baby-yoda/104420/news/star-wars-novos-mangas-chegarao-ao-brasil-pela-panini">Ing.com</a></small>
+            <small class='mb-3 d-block small pb-2 border-bottom border-2' aria-label='Link para a fonte do conteúdo da página'>Dezembro 05, 2022 by <a aria-label='Seguir para o site IGN, matéria sobre mangás de Star Wars' href="https://br.ign.com/baby-yoda/104420/news/star-wars-novos-mangas-chegarao-ao-brasil-pela-panini">Ing.com</a></small>
             <p>Durante a CCXP22, a Panini Comics anunciou uma leva de novidades em publicações futuras. Para os fãs de Star Wars e mangás, a editora preparou uma grata surpresa: a publicação de séries baseadas na franquia.</p>
             <p>A novidade é o mangá Star Wars: Leia, Princesa de Alderaan. Desenhado por Haruichi (Haikyu!!), a historia segue a vida de Leia enquanto princesa adolescente. Atualmente, a obra possui dois volumes publicados no Japão e é uma adaptação do livro de mesmo nome.</p>
           </div>

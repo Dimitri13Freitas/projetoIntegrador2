@@ -77,7 +77,7 @@
             </a>
         </div> -->
       <div class="row filmestextodestaques">
-        <a href="SinopseHomem-Aranha.php">
+        <a aria-label='Seguir para pagina Sinopse Homem Aranha' href="SinopseHomem-Aranha.php">
           <div class="col-lg-12 col-md-12 col-sm-12">
             <article>
               <h3>Homem-Aranha sem volta para casa</h3>
@@ -98,7 +98,7 @@
         </a>
       </div>
       <div class="row filmestextodestaques">
-        <a href="SinopseJurassicWorld.php">
+        <a aria-label='Seguir para Sinopse Jurassic-World' href="SinopseJurassicWorld.php">
           <div class="col-lg-12 col-md-12 col-sm-12">
             <article>
               <h3>Jurassic World 3</h3>
@@ -120,7 +120,7 @@
         </a>
       </div>
       <div class="row filmestextodestaques">
-        <a href="SinopseCapitaMarvel.php">
+        <a aria-label='Seguir para Sinopse Capitã Marvel'href="SinopseCapitaMarvel.php">
           <div class="col-lg-12 col-md-12 col-sm-12">
             <article>
               <h3>Capitã Marvel</h3>

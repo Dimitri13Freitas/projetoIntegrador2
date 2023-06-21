@@ -21,7 +21,7 @@
             <h2>Arthur C.Clark</h2>
               <img class="brdr" src="img/livros/Arthur.webp" alt="Autorretrato de um dos autores mais conhecidos de ficcção científica, Arthur C.Clark">
               <p> Arthur Charles Clark foi um escritor no universo da ficção científica muito renomado, sendo autor de várias obras icônicas relacionadas à ficção. Suas histórias eram tão interessantes...</p>
-              <a class="verde" href="livrosPgAutores.php">Continue lendo... </a>
+              <a aria-label='Continuar lendo sobre Arthur C. Clark' class="verde" href="livrosPgAutores.php">Continue lendo... </a>
               <!-- <hr> -->
           </div>
         
@@ -30,7 +30,7 @@
             <img class="brdr" src="img/livros/George.webp"  alt="Autorretrato de um dos autores mais conhecidos de ficcção científica, George Orwell">
             <p> George Orwell foi considerado o maior cronista do século xx, já devem imaginar o porquê, né? É muita criatividade, critica social e ficção científica misturada em suas obras, o que as deixam...  </p></a>
           <!-- <hr>  -->
-          <a class='verde' href="livrosPgAutores2.php">Continue lendo...</a>
+          <a aria-label='Continuar lendo sobre George Orwell' class='verde' href="livrosPgAutores2.php">Continue lendo...</a>
         </div>  
       </article>
     

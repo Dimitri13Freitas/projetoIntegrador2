@@ -20,7 +20,7 @@
     <article class="row cntr">
       <div class=" sla col-12">
         <h2 class="titulos">A Revolução dos Bichos</h2>
-        <small class='titulos mb-3 d-block small pb-2 border-bottom border-2'>Dezembro 01, 2022 by <a href="https://guiadoestudante.abril.com.br/dica-cultural/a-revolucao-dos-bichos-conheca-o-classico-que-critica-o-totalitarismo/#:~:text=A%20cl%C3%A1ssica%20obra%20do%20autor,pela%20Revolu%C3%A7%C3%A3o%20Russa%2C%20de%201917.">Guiadoestudante.com</a></small>
+        <small class='titulos mb-3 d-block small pb-2 border-bottom border-2'>Dezembro 01, 2022 by <a aria-label='Seguir para site guia do estudante, Revolução dos Bichos' href="https://guiadoestudante.abril.com.br/dica-cultural/a-revolucao-dos-bichos-conheca-o-classico-que-critica-o-totalitarismo/#:~:text=A%20cl%C3%A1ssica%20obra%20do%20autor,pela%20Revolu%C3%A7%C3%A3o%20Russa%2C%20de%201917.">Guiadoestudante.com</a></small>
       </div>
      
       <figure class="col-xl-2 col-md-3 col-sm-5">
@@ -50,7 +50,7 @@
             <small>Sinopse</small>
             <h3>1984</h3>
             <p>Após uma guerra global, semelhante à segunda grande guerra, porém com mais bombas atômicas, o mundo foi dividido em três continentes: Lestásia, Eurásia e Oceania, onde fica a cidade de Londres. Esse último é comandado pelo...</p>
-            <a href="livrosCnt4PgAutores.php">Continuar lendo...</a>
+            <a aria-label='Continuar lendo sinopse 1984.' href="livrosCnt4PgAutores.php">Continuar lendo...</a>
           </div>
           <figure>
             <img src="img/livros/1984.webp" alt="Imagem da capa do livro '1984'">
@@ -62,7 +62,7 @@
             <small>Sinopse</small>
             <h3>Flor da Inglaterra</h3>
             <p>Após a terrível colisão de um meteorito contra o continente europeu, líderes mundiais e cientistas criaram um sistema de monitoramento para evitar que uma catástrofe voltasse...</p>
-            <a href="livrosCnt6PgAutores.php">Continuar lendo...</a>
+            <a aria-label='Continuar lendo sinopse Flor da Inglaterra' href="livrosCnt6PgAutores.php">Continuar lendo...</a>
           </div>
           <figure>
             <img src="img/livros/planta.webp" alt="Imagem da capa do livro 'Flor da Inglaterra'">

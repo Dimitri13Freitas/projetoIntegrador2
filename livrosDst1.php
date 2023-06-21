@@ -19,7 +19,7 @@
     <article class="row cntr">
       <div class=" sla col-12">
         <h2 class="titulos">A Guerra dos Mundos</h2>
-        <small class='titulos mb-3 d-block small pb-2 border-bottom border-2'>Dezembro 01, 2022 by <a href="https://www.ficcoeshumanas.com.br/post/resenha-a-guerra-dos-mundos-de-h-g-wells">ficcoeshumanas.com</a></small>
+        <small class='titulos mb-3 d-block small pb-2 border-bottom border-2'>Dezembro 01, 2022 by <a aria-label='Seguir para site Ficções Humanas, resenha Guerra dos Mundos' href="https://www.ficcoeshumanas.com.br/post/resenha-a-guerra-dos-mundos-de-h-g-wells">ficcoeshumanas.com</a></small>
       </div>  
       <figure class="col-xl-2 col-md-4 col-sm-5">
         <img class="brdr" src="img/livros/mund.webp"  alt="Imagem da capa vermelha do livro 'A Guerra dos Mundos'">

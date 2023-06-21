@@ -19,7 +19,7 @@
     <article class="row cntr">
       <div class=" sla col-12">
         <h2 class="titulos">Neuromancer</h2>
-        <small class='titulos mb-3 d-block small pb-2 border-bottom border-2'>Dezembro 01, 2022 by <a href="https://www.esfera.com.vc/p/neuromancer/e100331026#:~:text=Considerada%20a%20obra%20precursora%20do,de%20entrar%20no%20mundo%20virtual.">Esfera.com</a></small>
+        <small class='titulos mb-3 d-block small pb-2 border-bottom border-2'>Dezembro 01, 2022 by <a aria-label='Seguir para site esfera, resenha Neuromancer' href="https://www.esfera.com.vc/p/neuromancer/e100331026#:~:text=Considerada%20a%20obra%20precursora%20do,de%20entrar%20no%20mundo%20virtual.">Esfera.com</a></small>
       </div>
      
       <figure class="col-xl-2 col-md-4 col-sm-5">
@@ -77,7 +77,7 @@
           <small>Sinopse</small>
             <h3>Duna</h3>
             <p>Duna conta a história de Paul Atreides, jovem talentoso e brilhante que nasceu com um destino grandioso, para além até da sua própria compreensão, e precisa viajar ao planeta mais perigoso do universo para garantir o futuro...</p>
-            <a href="livrosPgClas2.php">Continuar lendo...</a>
+            <a aria-label='Continuar lendo sinopse Duna' href="livrosPgClas2.php">Continuar lendo...</a>
           </div>
           <figure>
             <img src="img/livros/duna2.webp" alt="Imagem da capa do livro  'Duna'">
@@ -89,7 +89,7 @@
           <small>Sinopse</small>
             <h3>Fahrenheit</h3>
             <p>Na cidade do futuro, que se apresenta totalmente controlada pelo governo, havia uma lenda de que, no passado, os bombeiros eram chamados apenas para apagar o fogo. Não havia literatura que mostrasse a ação de...</p>
-            <a href="livrosPgClas.php">Continuar lendo...</a>
+            <a aria-label='Continuar lendo sinopse Fahrenheit' href="livrosPgClas.php">Continuar lendo...</a>
           </div>
           <figure>
             <img src="img/livros/fahrheit2.webp" alt="Imagem da capa do livro 'Fahrheint'">

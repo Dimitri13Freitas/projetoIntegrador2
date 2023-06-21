@@ -19,7 +19,7 @@
     <article class="row cntr">
       <div class=" sla col-12">
         <h2 class="titulos">Duna</h2>
-        <small class='titulos mb-3 d-block small pb-2 border-bottom border-2'>Dezembro 01, 2022 by <a href="https://referencianerd.com/resenha-nos-ievgueni-zamiatin/#:~:text=Escrito%20numa%20%C3%A9poca%20dif%C3%ADcil%2C%20%C3%A9,felicidade%20em%20detrimento%20da%20liberdade.">ReferênciaNerd.com</a></small>
+        <small class='titulos mb-3 d-block small pb-2 border-bottom border-2'>Dezembro 01, 2022 by <a aria-label='Seguir para site referencia Nerd, resenha  Duna' href="https://referencianerd.com/resenha-nos-ievgueni-zamiatin/#:~:text=Escrito%20numa%20%C3%A9poca%20dif%C3%ADcil%2C%20%C3%A9,felicidade%20em%20detrimento%20da%20liberdade.">ReferênciaNerd.com</a></small>
       </div>
       <figure class="col-xl-2 col-md-4 col-sm-5">
         <img class="brdr" src="img/livros/duna2.webp"  alt="Imagem da capa do livro 'Duna'">
@@ -90,7 +90,7 @@
             <small>Sinopse</small>
             <h3>Fahrenheit</h3>
             <p>Na cidade do futuro, que se apresenta totalmente controlada pelo governo, havia uma lenda de que, no passado, os bombeiros eram chamados apenas para apagar o fogo. Não havia literatura que mostrasse a ação de...</p>
-            <a href="livrosPgClas.php">Continuar lendo...</a>
+            <a aria-label='Continuar lendo sinopse Fahrenheit' href="livrosPgClas.php">Continuar lendo...</a>
           </div>
           <figure>
             <img src="img/livros/fahrheit2.webp" alt="Imagem da capa do livro 'Farenheit'">

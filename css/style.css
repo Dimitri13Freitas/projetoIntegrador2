@@ -54,7 +54,7 @@ a {
   border-color: var(--p2) !important;
 }
 .titulo {
-  color: #141414;
+  color: var(--font);
 }
 .mt {
   margin-top: 20px;
@@ -208,11 +208,11 @@ a {
 
 /* Obras by Dimitri Freitas */
 .obras {
-  background: #232323;
+  background: var(--bg1);
 }
 .obras h3 {
   max-width: 178px;
-  color: #424242;
+  color: red;
 }
 .obras h3:hover {
   color: var(--p1);
@@ -224,20 +224,17 @@ a {
 .obras img:hover ~ h3 {
   color: var(--p1);
 }
-.obrasContainer {
-  box-shadow: inset 0 -100px #2c2c2c;
-}
 .bg-secondary {
   background: var(--p2) !important;
 }
 
 /* Ultimos Reviews by Dimitri Freitas*/
-.ultimosReviews section:hover {
-  background: rgba(0, 186, 137, 0.1);
+.ultimosReviews div.teste:hover {
+  background: var(--bg2);
 }
 .ultimosReviews section {
   max-width: 458px;
-  background: rgba(0, 0, 0, 0.2);
+  background: var(--bg3);
   transition: 0.1s ease-in-out;
 }
 .ultimosReviews section a img {

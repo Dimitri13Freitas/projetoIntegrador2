@@ -19,7 +19,7 @@
     <article class="row cntr">
         <div class=" sla col-12">
           <h2 class="titulos">Fahrheint</h2>
-          <small class='titulos mb-3 d-block small pb-2 border-bottom border-2'>Dezembro 01, 2022 by <a href="https://www.culturagenial.com/fahrenheit-451/">CulturaGenial.com</a></small>
+          <small class='titulos mb-3 d-block small pb-2 border-bottom border-2'>Dezembro 01, 2022 by <a aria-label='Seguir para site cultura genial, Fahrenheit' href="https://www.culturagenial.com/fahrenheit-451/">CulturaGenial.com</a></small>
         </div>
         <!-- <article class="col-xl-2 col-md-4 col-sm-5">
         </article> -->
@@ -79,7 +79,7 @@
             <small>Sinopse</small>
             <h3>Duna</h3>
             <p>Duna conta a história de Paul Atreides, jovem talentoso e brilhante que nasceu com um destino grandioso, para além até da sua própria compreensão, e precisa viajar ao planeta mais...</p>
-            <a href="livrosPgClas2.php">Continuar lendo...</a>
+            <a aria-label='Continuar lendo sinopse Duna'href="livrosPgClas2.php">Continuar lendo...</a>
           </div>
             <figure>
              <img src="img/livros/duna2.webp" alt="Imagem da capa do livro 'Duna'">
@@ -91,7 +91,7 @@
           <small>Sinopse</small>
             <h3>Eu,Robô</h3>
             <p>Um dos maiores clássicos da literatura de ficção científica, Eu, Robô, escrito por Isaac Asimov, é um conjunto de nove contos, interconectados pela Dra. Susan Calvin, que apresenta seus...</p>
-            <a href="livrosPgClas4.php">Continuar lendo...</a>
+            <a aria-label='Continuar lendo Eu,Robô' href="livrosPgClas4.php">Continuar lendo...</a>
           </div>
             <figure>
               <img src="img/livros/robo2.webp" alt="Imagem da capa do livro 'eu, robô'">

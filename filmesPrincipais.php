@@ -26,7 +26,7 @@
                 <h3>Star Wars IV</h3>
                 <p>A princesa Leia é mantida refém pelas forças imperiais comandadas por Darth Vader. Luke Skywalker
                   e o capitão Han Solo precisam libertá-la e restaurar a liberdade e a justiça na galáxia.</p>
-                <a href="SinopseStarWars.php" class="verde"> Continuar lendo...</a>
+                <a aria-label='Seguir para sinopse Star Wars' href="SinopseStarWars.php" class="verde"> Continuar lendo...</a>
               </article>
             </div>
             <div class="col-lg-5 col-md-6 col-sm-12 m-0 p-0">
@@ -46,7 +46,7 @@
                 <h3>Planeta Dos Macacos-A Origem</h3>
                 <p>Um chimpanzé de laboratório desenvolve inteligência e emoções humanas e uma batalha épica surge
                   para determinar qual espécie será dominante no planeta Terra.</p>
-                <a href="SinopsePlanetaDosMacacos.php" class="verde"> Continuar lendo...</a>
+                <a aria-label='Seguir para sinopse Planeta dos Macacos' href="SinopsePlanetaDosMacacos.php" class="verde"> Continuar lendo...</a>
               </article>
             </div>
             <div class="col-lg-5 col-md-6 col-sm-12 m-0 p-0">
@@ -68,7 +68,7 @@
                   dupla a pousar na Terra, que há mil anos não é habitada por humanos. Cypher é gravemente ferido e
                   Kitai precisa enfrentar grandes perigos na busca do sinalizador, o único objeto que pode ajudá-los
                   a voltar para casa</p>
-                <a href="SinopseDepoisDaTerra.php" class="verde"> Continuar lendo...</a>
+                <a aria-label='Seguir para Sinopse Depois da Terra' href="SinopseDepoisDaTerra.php" class="verde"> Continuar lendo...</a>
               </article>
             </div>
             <div class="col-lg-5 col-md-6 col-sm-12 m-0 p-0">
@@ -91,13 +91,13 @@
                 <p>O jornalista Eddie Brock desenvolve força e poder sobre-humanos quando seu corpo se funde com o
                   alienígena Venom. Dominado pela raiva, Venom tenta controlar as novas e perigosas habilidades de
                   Eddie.</p>
-                <a href="SinopseVenom.php" class="btn-primary btn">Clique aqui</a>
+                <a aria-label='Seguir para sinopse Venom'href="SinopseVenom.php" class="btn-primary btn">Clique aqui</a>
               </li>
               <li>
                 <h4>Morbius</h4>
                 <p>O bioquímico Michael Morbius tenta curar-se de uma doença rara no sangue mas, sem perceber, ele
                   fica infectado com uma forma de vampirismo</p>
-                <a href="SinopseMorbius.php" class="btn-primary btn">Clique aqui</a>
+                <a aria-label='Seguir para sinopse Morbius' href="SinopseMorbius.php" class="btn-primary btn">Clique aqui</a>
               </li>
               <li>
                 <h4>Liga da Justiça</h4>
@@ -106,7 +106,7 @@
                   recém-despertado. Juntos, Batman e Mulher-Maravilha buscam e recrutam com agilidade um time de
                   meta-humanos, mas mesmo com a formação da liga de heróis sem precedentes, pode ser tarde demais para
                   salvar o planeta.</p>
-                <a href="SinopseLigaDaJustica.php" class="btn-primary btn">Clique aqui</a>
+                <a aria-label='Seguir para Sinopse Liga da Justiça' href="SinopseLigaDaJustica.php" class="btn-primary btn">Clique aqui</a>
               </li>
             </ul>
           </section>

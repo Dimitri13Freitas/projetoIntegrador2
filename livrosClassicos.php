@@ -18,7 +18,7 @@
       <?php include 'include/bannerLivros.php'; ?>
 
       <div class=" sla row justify-content-center ">
-        <a class=" col-xl-5 col-md-6 col-sm-12" href="livrosPgClas2.php">
+        <a aria-label='Seguir para pagina Livros' class=" col-xl-5 col-md-6 col-sm-12" href="livrosPgClas2.php">
           <article>
             <div class="mud bordas">
               <h2 class="titulos">Duna</h2>
@@ -28,7 +28,7 @@
           </article>
         </a>
 
-        <a class="col-xl-5 col-md-6 col-sm-12" href="livrosPgClas.php">
+        <a aria-label='Seguir para página Livros ' class="col-xl-5 col-md-6 col-sm-12" href="livrosPgClas.php">
           <article>
             <div class="mud bordas">
               <h2 class="titulos">Fahrheint</h2>
@@ -39,7 +39,7 @@
         </a>
       </div>
       <div class="sla row justify-content-center ">
-        <a class="  col-xl-5 col-md-6 col-sm-12" href="livrosPgClas3.php">
+        <a aria-label='Seguir para página Livros' class="  col-xl-5 col-md-6 col-sm-12" href="livrosPgClas3.php">
           <article>
             <div class="mud bordas">
               <h2 class="titulos">Neuromancer</h2>
@@ -48,7 +48,7 @@
             </div>
           </article>
         </a>
-        <a class=" col-xl-5 col-md-6 col-sm-12" href="livrosPgClas4.php">
+        <a aria-label='Seguir para página Livros' class=" col-xl-5 col-md-6 col-sm-12" href="livrosPgClas4.php">
           <article>
             <div class="mud bordas">
 
@@ -79,8 +79,8 @@
     <?php include 'include/footer.php'; ?>
   </main>
 
-  <!-- <script src="js/script.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script> -->
+  <script src="js/script.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
 </body>
 
 </html>

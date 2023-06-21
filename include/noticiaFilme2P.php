@@ -5,6 +5,6 @@ echo "<section class='noticia rounded-3  border d-flex align-items-center'>
 <small>Filmes</small>
 <h2>O filme que previu os finalistas da Copa do Mundo 2022</h2>
 <p>Entenda como o filme de ficção científica pode ter previsto a final da...</p>
-<a class='verde' href='filmesNoticia2.php'>Continuar lendo...</a>
+<a aria-label='Continuar lendo sobre o filme' class='verde' href='filmesNoticia2.php'>Continuar lendo...</a>
 </div>
 </section>";

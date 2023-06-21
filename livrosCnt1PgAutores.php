@@ -20,7 +20,7 @@
     <article class="row cntr">
       <div class=" sla col-12">
         <h2 class="titulos">Uma Odisseia no Espaço</h2>
-        <small class='titulos mb-3 d-block small pb-2 border-bottom border-2'>Dezembro 01, 2022 by <a href="https://www.papodecinema.com.br/filmes/2001-uma-odisseia-no-espaco/">Papodecinema.com</a></small>
+        <small class='titulos mb-3 d-block small pb-2 border-bottom border-2'>Dezembro 01, 2022 by <a aria-label='Seguir para site Papo de Cinema, Filme, Uma Odisseia no espaço' href="https://www.papodecinema.com.br/filmes/2001-uma-odisseia-no-espaco/">Papodecinema.com</a></small>
       </div>
      
       <figure class="col-xl-2 col-md-4 col-sm-5">
@@ -49,7 +49,7 @@
             <small>Sinopse</small>
             <h3>Encontro com Rama</h3>
             <p>Após a terrível colisão de um meteorito contra o continente europeu, líderes mundiais e cientistas criaram um sistema de monitoramento para evitar que uma catástrofe voltasse...</p>
-            <a href="livrosCnt2PgAutores.php">Continuar lendo...</a>
+            <a aria-label='Seguir para Livros, Encontro com Rama' href="livrosCnt2PgAutores.php">Continuar lendo...</a>
           </div>
           <figure>
             <img src="img/livros/livro2.webp" alt="Imagem da capa do livro 'Encontro com Rama'">
@@ -61,7 +61,7 @@
             <small>Sinopse</small>
             <h3>Fim da Infância</h3>
             <p>Um dia comum, uma “horda” de extraterrestres pairam sobre as principais cidades do mundo, oferecendo uma mão amiga. Oferecendo o nirvana em vida, o paraíso perdido há tempos. A erradicação da fome, o fim das guerras...</p>
-            <a href="livrosCnt3PgAutores.php">Continuar lendo...</a>
+            <a  aria-label='Seguir para Livros, Fim da Infância ' href="livrosCnt3PgAutores.php">Continuar lendo...</a>
           </div>
           <figure>
             <img src="img/livros/fim.webp" alt="Imagem da capa do livro 'Fim da Infância'">

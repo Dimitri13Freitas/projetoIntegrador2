@@ -22,7 +22,7 @@
         <div class='row mt-5'>
           <div class='col-xl-8 col-md-12 col-sm-12'>
             <h2 class="h1 mb-1">Homem mais rico do mundo baseia decisões em livro de ficção, conheça a Bíblia de Elon Musk</h2>
-            <small class='mb-3 d-block small pb-2 border-bottom border-2' aria-label='Link para a fonte do conteúdo da página'>Novembro 27, 2022 by <a href="https://www.moneytimes.com.br/homem-mais-rico-do-mundo-baseia-decisoes-em-livro-de-ficcao-conheca-a-biblia-de-elon-musk/">Moneytimes.com</a></small>
+            <small class='mb-3 d-block small pb-2 border-bottom border-2' aria-label='Link para a fonte do conteúdo da página'>Novembro 27, 2022 by <a aria-label='Seguir para o site Money Times, A Biblia de Elon Musk' href="https://www.moneytimes.com.br/homem-mais-rico-do-mundo-baseia-decisoes-em-livro-de-ficcao-conheca-a-biblia-de-elon-musk/">Moneytimes.com</a></small>
             <p>Não é nenhuma novidade que Elon Musk, o homem mais rico do mundo, é no mínimo excêntrico. Entretanto, o que nem todos talvez saibam é que o CEO da Tesla, SpaceX, Neuralink e, mais recentemente, do Twitter construiu seu império com base em um livro de ficção científica.</p>
             <p>“A Fundação” do escritor Isaac Asimov, mesmo autor de “Eu, Robô”, é a obra que inspira Musk. Trata-se de um livro escrito na primeira metade do século XX, que narra um cenário a milhões de anos-luz da terra em um futuro muito distante, onde a humanidade – organizada pelo “Império” – já dominou a galáxia e coloniza milhares de planetas.</p>
           </div>

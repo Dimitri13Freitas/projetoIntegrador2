@@ -35,15 +35,15 @@
               <p>Responsável pelo desenvolvimento da identidade visual e também pelo html, css, javascript e conteúdo de
                 todas as paginas relacionadas ao tema de Animação:</p>
               <div class='pags'>
-                <a href="animacoesDestaques.php" class="btn-primary btn">Animações (Destaques)</a>
-                <a href="animacoesClassicos.php" class="btn-primary btn">Animações (Clássicos)</a>
-                <a href="animacoesLancamentos.php" class="btn-primary btn">Animações(Lançamentos)</a>
-                <a href="animacoesPremiados.php" class="btn-primary btn">Animações(Preimiados)</a>
-                <a href="animacaoNoticia1.php" class="btn-primary btn">Notícia Kid Cudi...</a>
-                <a href="animacaoNoticia2.php" class="btn-primary btn">Notícia ‘Final Space’ deixará...</a>
-                <a href="animacaoNoticia3.php" class="btn-primary btn">Notícia STAR TREK: LOWER DECKS...</a>
-                <a href="index.php" class="btn-primary btn">Home</a>
-                <a href="contato.php" class="btn-primary btn">Contato</a>
+                <a  aria-label='Seguir para página animacoesDestaques.php'href="animacoesDestaques.php" class="btn-primary btn">Animações (Destaques)</a>
+                <a  aria-label='Seguir para página animacoesClassicos.php'href="animacoesClassicos.php" class="btn-primary btn">Animações (Clássicos)</a>
+                <a  aria-label='Seguir para página animacoesLancamentos.php'href="animacoesLancamentos.php" class="btn-primary btn">Animações(Lançamentos)</a>
+                <a  aria-label='Seguir para página animacoesPremiados.php'href="animacoesPremiados.php" class="btn-primary btn">Animações(Preimiados)</a>
+                <a  aria-label='Seguir para página animacaoNoticia1.php' href="animacaoNoticia1.php" class="btn-primary btn">Notícia Kid Cudi...</a>
+                <a  aria-label='Seguir para página animacaoNoticia2.php'href="animacaoNoticia2.php" class="btn-primary btn">Notícia ‘Final Space’ deixará...</a>
+                <a  aria-label='Seguir para página animacaoNoticia3.php'href="animacaoNoticia3.php" class="btn-primary btn">Notícia STAR TREK: LOWER DECKS...</a>
+                <a  aria-label='Seguir para página index.php'href="index.php" class="btn-primary btn">Home</a>
+                <a  aria-label='Seguir para página contato.php'href="contato.php" class="btn-primary btn">Contato</a>
               </div>
             </article>
           </div>
@@ -65,15 +65,15 @@
               <p>Tenho 27 anos e recentemente fui adotado pela família Fofuritos sem calças.</p>
               <p>Aos 45 do segundo tempo com mais 1 minuto de acrescimo estou tentando contribuir com o possível.</p>
               <div class='pags'>
-                <a href="filmesCosplay.php" class="btn-primary btn">Filmes (Cosplay)</a>
-                <a href="filmesPrincipais.php" class="btn-primary btn">Filmes (Principais Obras)</a>
-                <a href="filmesDestaques.php" class="btn-primary btn">Fimes(Destaques)</a>
-                <a href="filmesLancamentos.php" class="btn-primary btn">Filmes(Lançamentos)</a>
-                <a href="filmesNoticia1.php" class="btn-primary btn">Notícia ficção científica pós-apocalíptica...</a>
-                <a href="filmesNoticia2.php" class="btn-primary btn">Notícia A Guerra do Amanhã...</a>
-                <a href="filmesNoticia3.php" class="btn-primary btn">Notícia do filme de ficção científica mais
+                <a aria-label='Seguir para página filmesCosplay.php' href="filmesCosplay.php" class="btn-primary btn">Filmes (Cosplay)</a>
+                <a aria-label='Seguir para página filmesPrincipais.php' href="filmesPrincipais.php" class="btn-primary btn">Filmes (Principais Obras)</a>
+                <a aria-label='Seguir para página filmesDestaques.php' href="filmesDestaques.php" class="btn-primary btn">Fimes(Destaques)</a>
+                <a aria-label='Seguir para página filmesLancamentos.php' href="filmesLancamentos.php" class="btn-primary btn">Filmes(Lançamentos)</a>
+                <a aria-label='Seguir para página filmesNoticia1.php' href="filmesNoticia1.php" class="btn-primary btn">Notícia ficção científica pós-apocalíptica...</a>
+                <a aria-label='Seguir para página filmesNoticia2.php' href="filmesNoticia2.php" class="btn-primary btn">Notícia A Guerra do Amanhã...</a>
+                <a aria-label='Seguir para página filmesNoticia3.php' href="filmesNoticia3.php" class="btn-primary btn">Notícia do filme de ficção científica mais
                   assustador...</a>
-                <a href="quemSomos.php" class="btn-primary btn">Quem Somos</a>
+                <a aria-label='Seguir para página quemSomos.php' href="quemSomos.php" class="btn-primary btn">Quem Somos</a>
               </div>
             </article>
           </div>
@@ -99,15 +99,15 @@
               </p>
               <p>Responsável pelo html, css e conteúdo de todas as paginas relacionadas ao tema de Filmes:</p>
               <div class='pags'>
-                <a href="filmesCosplay.php" class="btn-primary btn">Filmes (Cosplay)</a>
-                <a href="filmesPrincipais.php" class="btn-primary btn">Filmes (Principais Obras)</a>
-                <a href="filmesDestaques.php" class="btn-primary btn">Fimes(Destaques)</a>
-                <a href="filmesLancamentos.php" class="btn-primary btn">Filmes(Lançamentos)</a>
-                <a href="filmesNoticia1.php" class="btn-primary btn">Notícia ficção científica pós-apocalíptica...</a>
-                <a href="filmesNoticia2.php" class="btn-primary btn">Notícia A Guerra do Amanhã...</a>
-                <a href="filmesNoticia3.php" class="btn-primary btn">Notícia do filme de ficção científica mais
+                <a aria-label='Seguir para página filmesCosplay.php'href="filmesCosplay.php" class="btn-primary btn">Filmes (Cosplay)</a>
+                <a aria-label='Seguir para página filmesPrincipais.php'href="filmesPrincipais.php" class="btn-primary btn">Filmes (Principais Obras)</a>
+                <a aria-label='Seguir para página filmesDestaques.php 'href="filmesDestaques.php" class="btn-primary btn">Fimes(Destaques)</a>
+                <a aria-label='Seguir para página filmesLancamentos.php'href="filmesLancamentos.php" class="btn-primary btn">Filmes(Lançamentos)</a>
+                <a aria-label='Seguir para página filmesNoticia1.php'href="filmesNoticia1.php" class="btn-primary btn">Notícia ficção científica pós-apocalíptica...</a>
+                <a aria-label='Seguir para página filmesNoticia2.php'href="filmesNoticia2.php" class="btn-primary btn">Notícia A Guerra do Amanhã...</a>
+                <a aria-label='Seguir para página filmesNoticia3.php'href="filmesNoticia3.php" class="btn-primary btn">Notícia do filme de ficção científica mais
                   assustador...</a>
-                <a href="quemSomos.php" class="btn-primary btn">Quem Somos</a>
+                <a aria-label='Seguir para página quemSomos.php'href="quemSomos.php" class="btn-primary btn">Quem Somos</a>
               </div>
             </article>
           </div>
@@ -130,14 +130,14 @@
                 lassu da USP. Atualmente curso Sistemas para Internet na Fatec e pretendo seguir nessa área.</p>
               <p>Responsável pelo html,css e conteúdo de todas as paginas relacionadas ao tema de Livros:</p>
               <div class='pags'>
-                <a href="livrosPrincipais.php" class="btn-primary btn">Livros (Principais Autores)</a>
-                <a href="livrosFavoritos.php" class="btn-primary btn">Livros (Favoritos da Critica)</a>
-                <a href="livrosClassicos.php" class="btn-primary btn">Livros(Clássicos)</a>
-                <a href="livrosDestaques.php" class="btn-primary btn">Livros(Destaques)</a>
-                <a href="Noticialivros1.php" class="btn-primary btn">Star Wars: Novos mangás...</a>
-                <a href="Noticialivros2.php" class="btn-primary btn">Homem mais rico do mundo...</a>
-                <a href="Noticialivros3.php" class="btn-primary btn">Lipe Diaz lança novo selo...</a>
-                <a href="normas.php" class="btn-primary btn">Normas de Uso</a>
+                <a aria-label='Seguir para página livrosPrincipais.php' href="livrosPrincipais.php" class="btn-primary btn">Livros (Principais Autores)</a>
+                <a aria-label='Seguir para página livrosFavoritos.php' href="livrosFavoritos.php" class="btn-primary btn">Livros (Favoritos da Critica)</a>
+                <a aria-label='Seguir para página livrosClassicos.php' href="livrosClassicos.php" class="btn-primary btn">Livros(Clássicos)</a>
+                <a aria-label='Seguir para página livrosDestaques.php' href="livrosDestaques.php" class="btn-primary btn">Livros(Destaques)</a>
+                <a aria-label='Seguir para página Noticialivros1.php' href="Noticialivros1.php" class="btn-primary btn">Star Wars: Novos mangás...</a>
+                <a aria-label='Seguir para página Noticialivros2.php' href="Noticialivros2.php" class="btn-primary btn">Homem mais rico do mundo...</a>
+                <a aria-label='Seguir para página Noticialivros3.php' href="Noticialivros3.php" class="btn-primary btn">Lipe Diaz lança novo selo...</a>
+                <a aria-label='Seguir para página normas.php' href="normas.php" class="btn-primary btn">Normas de Uso</a>
               </div>
             </article>
           </div>

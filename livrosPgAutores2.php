@@ -83,7 +83,7 @@
         </article>
     </div>
   </section>
-
+</div>
 <div class='config bg-secondary mt-5 mb-5 '>
       <h2 class='py-5 titulo'>Notícias</h2>
 </div>

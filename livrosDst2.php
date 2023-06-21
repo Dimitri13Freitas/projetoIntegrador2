@@ -19,7 +19,7 @@
     <article class="row cntr">
       <div class=" sla col-12">
         <h2 class="titulos">Crônicas Marcianas</h2>
-        <small class='titulos mb-3 d-block small pb-2 border-bottom border-2'>Dezembro 01, 2022 by <a href="https://www.universodosleitores.com/2014/05/as-cronicas-marcianas-de-ray-bradbury.html">UniversoLeitores.com</a></small>
+        <small class='titulos mb-3 d-block small pb-2 border-bottom border-2'>Dezembro 01, 2022 by <a aria-label='Seguir para universo dos leitores, resenha As Cronicas Marcianas' href="https://www.universodosleitores.com/2014/05/as-cronicas-marcianas-de-ray-bradbury.html">UniversoLeitores.com</a></small>
       </div>
       <figure class="col-xl-2 col-md-4 col-sm-5">
         <img class="brdr" src="img/livros/cronic.webp"  alt="Imagem da capa do livro 'Crônicas Marcianas'">

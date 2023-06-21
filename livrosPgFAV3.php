@@ -16,7 +16,7 @@
       <?php include 'include/nav.php';?>
       <?php include 'include/bannerLivros.php';?>
 
-    <article class="row espaço">
+    <article class="row espaço justify-content-center">
         <h2 >Mochileiro das Galáxias</h2>
         <small class=' mb-3 d-block small pb-2 border-bottom border-2'>Dezembro 01, 2022 by <a href="https://www.papodecinema.com.br/filmes/2001-uma-odisseia-no-espaco/">Papodecinema.com</a>
         </small>
@@ -30,7 +30,7 @@
       </div>
     </article>
 
-    <aside class="espaço row">
+    <aside class="espaço row justify-content-center">
       <div class=" col-xl-10 col-md-12 col-sm-12 row justify-content-center"> 
         <h3>Análise Crítica, by Ana Luiza Ferreira</h3>
         <p>“O Guia do Mochileiro das Galáxias” é o primeiro livro da “trilogia de cinco” de mesmo nome que é um clássico da ficção científica. O livro me conquistou logo nos primeiros parágrafos, graças ao seu caráter cômico, irônico, mas também crítico, tudo isso diluído em uma narrativa e trama simples e cativantes. A narração em terceira pessoa do Adams é super leve e flui com uma facilidade impressionante, assim como toda a história. Mas o que mais me encantou no autor foi o modo como ele conseguiu inserir críticas tão atuais e reais em sua história completamente fictícia, sem deixar a leitura entediante ou a trama forçada.</p>

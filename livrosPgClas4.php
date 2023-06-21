@@ -19,7 +19,7 @@
     <article class="row cntr">
       <div class=" sla col-12">
         <h2 class="titulos">Eu, Robô</h2>
-        <small class='titulos mb-3 d-block small pb-2 border-bottom border-2'>Dezembro 01, 2022 by <a href="https://www.guiadasemana.com.br/cinema/sinopse/eu-robo">GuiaDaSemana.com</a></small>
+        <small class='titulos mb-3 d-block small pb-2 border-bottom border-2'>Dezembro 01, 2022 by <a aria-label='Seguir para o site Guia da Semana, resenha Eu Robô' href="https://www.guiadasemana.com.br/cinema/sinopse/eu-robo">GuiaDaSemana.com</a></small>
       </div>
      
       <figure class="col-xl-2 col-md-4 col-sm-5">
@@ -77,7 +77,7 @@
           <small>Sinopse</small>
             <h3>Neuromancer</h3>
             <p>O Céu sobre o porto tinha cor de televisão num canal fora do ar. Considerada a obra precursora do movimento cyberpunk e um clássico da ficção científica moderna, Neuromancer conta a história de Case, um cowboy do ciberespaço...</p>
-            <a href="livrosPgClas3.php">Continuar lendo...</a>
+            <a aria-label='Continuar lendo Neuromancer' href="livrosPgClas3.php">Continuar lendo...</a>
           </div>
           <figure>
             <img src="img/livros/neuro2.webp" alt="Imagem da capa do livro 'Neuromancer'">
@@ -89,7 +89,7 @@
           <small>Sinopse</small>
             <h3>Duna</h3>
             <p>Duna conta a história de Paul Atreides, jovem talentoso e brilhante que nasceu com um destino grandioso, para além até da sua própria compreensão, e precisa viajar ao planeta mais perigoso do universo para garantir o futuro...</p>
-            <a href="livrosPgClas2.php">Continuar lendo...</a>
+            <a aria-label='Continuar lendo Duna' href="livrosPgClas2.php">Continuar lendo...</a>
           </div>
           <figure>
             <img src="img/livros/duna2.webp" alt="Imagem da capa do livro 'Duna'">

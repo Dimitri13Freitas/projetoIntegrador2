@@ -20,7 +20,7 @@
     <article class="row cntr">
       <div class=" sla col-12">
         <h2 class="titulos">Fim da Infância</h2>
-        <small class='titulos mb-3 d-block small pb-2 border-bottom border-2'>Dezembro 01, 2022 by <a href="https://sessaodasdez.com.br/estante/o-fim-da-infancia-de-arthur-c-clarke/">sessãodas10.com</a></small>
+        <small class='titulos mb-3 d-block small pb-2 border-bottom border-2'>Dezembro 01, 2022 by <a aria-label='Seguir para site Sessao das dez, O fim da Infância' href="https://sessaodasdez.com.br/estante/o-fim-da-infancia-de-arthur-c-clarke/">sessãodas10.com</a></small>
       </div>
       <figure class="col-xl-2 col-md-3 col-sm-5">
         <img class="brdr" src="img/livros/Fim.webp"  alt="Imagem da capa do livro 'fim da Infância'">
@@ -49,7 +49,7 @@
             <small>Sinopse</small>
             <h3>Uma Odisseia no Espaço</h3>
             <p>No começo reina a selvageria. Homens pré-históricos dão os primeiros passos rumo à evolução fundada na dominação do mais fraco e na conquista territorial, ambas tão caras à nossa espécie...</p>
-            <a href="livrosCnt1PgAutores.php">Continuar lendo...</a>
+            <a aria-label='Continuar lendo Uma Odisseia no espaço 'href="livrosCnt1PgAutores.php">Continuar lendo...</a>
           </div>
           <figure>
             <img src="img/livros/odisseia.webp" alt="Imagem da capa do Livro 'Uma Odisseia no espaço'">
@@ -61,7 +61,7 @@
             <small>Sinopse</small>
             <h3>Encontro com Rama</h3>
             <p>Após a terrível colisão de um meteorito contra o continente europeu, líderes mundiais e cientistas criaram um sistema de monitoramento para evitar que uma catástrofe voltasse...</p>
-            <a href="livrosCnt2PgAutores.php">Continuar lendo...</a>
+            <a aria-label=' Continuar lendo Encontro com Rama'href="livrosCnt2PgAutores.php">Continuar lendo...</a>
           </div>
           <figure>
             <img src="img/livros/livro2.webp" alt="Imagem da capa do livro 'Encontro com Rama'">

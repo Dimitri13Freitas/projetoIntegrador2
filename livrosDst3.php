@@ -18,7 +18,7 @@
     <article class="row cntr">
       <div class=" sla col-12">
         <h2 class="titulos">Última Criatura Humana</h2>
-        <small class='titulos mb-3 d-block small pb-2 border-bottom border-2'>Dezembro 01, 2022 by <a href="https://www.topleituras.com/livros/criatura-humana-29b2">Topleituras.com</a></small>
+        <small class='titulos mb-3 d-block small pb-2 border-bottom border-2'>Dezembro 01, 2022 by <a aria-label='Seguir para site Top Leituras, resenha Criatura Humana'href="https://www.topleituras.com/livros/criatura-humana-29b2">Topleituras.com</a></small>
       </div>
       <figure class="col-xl-2 col-md-4 col-sm-5">
         <img class="brdr" src="img/livros/ult.webp"  alt="Imagem da capa da obra 'Última criatura humana'">

@@ -20,7 +20,7 @@
     <article class="row cntr">
       <div class=" sla col-12">
         <h2 class="titulos">Encontro com Rama</h2>
-        <small class='titulos mb-3 d-block small pb-2 border-bottom border-2'>Dezembro 01, 2022 by <a href="https://aodisseia.com/encontro-com-rama-resenha-livro-arthur-clarke/#:~:text=Sinopse%20de%20Encontro%20com%20Rama,-Ap%C3%B3s%20a%20terr%C3%ADvel&text=Uma%20expedi%C3%A7%C3%A3o%20%C3%A9%20enviada%20para,mente%20e%20os%20conceitos%20humanos.">Aodisseia.com</a></small>
+        <small class='titulos mb-3 d-block small pb-2 border-bottom border-2'>Dezembro 01, 2022 by <a aria-label='Seguir para site A Odisseia, resenha do livro Encontro com Rama 'href="https://aodisseia.com/encontro-com-rama-resenha-livro-arthur-clarke/#:~:text=Sinopse%20de%20Encontro%20com%20Rama,-Ap%C3%B3s%20a%20terr%C3%ADvel&text=Uma%20expedi%C3%A7%C3%A3o%20%C3%A9%20enviada%20para,mente%20e%20os%20conceitos%20humanos.">Aodisseia.com</a></small>
       </div>
       <figure class="col-xl-2 col-md-3 col-sm-5">
         <img class="brdr" src="img/livros/livro2.webp"  alt="Imagem da capa do livro 'Encontro com Rama'">
@@ -47,7 +47,7 @@
             <small>Sinopse</small>
             <h3>Uma Odisseia no Espaço</h3>
             <p>No começo reina a selvageria. Homens pré-históricos dão os primeiros passos rumo à evolução fundada na dominação do mais fraco e na conquista territorial, ambas tão caras à nossa espécie...</p>
-            <a href="livrosCnt1PgAutores.php">Continuar lendo...</a>
+            <a aria-label='Continuar lendo sobre uma odisseia no espaço' href="livrosCnt1PgAutores.php">Continuar lendo...</a>
           </div>
           <figure>
             <img src="img/livros/odisseia.webp" alt="Imagem da capa do livro 'Uma Odisseia no Espaço'">
@@ -59,7 +59,7 @@
             <small>Sinopse</small>
             <h3>Fim da Infância</h3>
             <p>Um dia comum, uma “horda” de extraterrestres pairam sobre as principais cidades do mundo, oferecendo uma mão amiga. Oferecendo o nirvana em vida, o paraíso perdido há tempos. A erradicação da fome, o fim das guerras...</p>
-            <a href="livrosCnt3PgAutores.php">Continuar lendo...</a>
+            <a aria-label='Continuar lendo Fim da Infância' href="livrosCnt3PgAutores.php">Continuar lendo...</a>
           </div>
           <figure>
             <img src="img/livros/fim.webp" alt="Imagem da capa do livro 'Fim da Infância'">

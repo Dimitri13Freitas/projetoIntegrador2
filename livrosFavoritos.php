@@ -29,7 +29,7 @@
               <figcaption>Frankstein, 1990</figcaption>
             </figure>
             <p>Victor é um cientista que dedica a juventude e a saúde para descobrir como reanimar tecidos mortos e gerar vida artificialmente. O resultado de sua experiência, um monstro que o próprio Frankenstein considera uma aberração...</p>
-            <a href="livrosPgFAV.php">Continuar lendo...</a>
+            <a  aria-label='Continuar lendo sobre Frankstein' href="livrosPgFAV.php">Continuar lendo...</a>
           </div>
         </article>
         <article class="noticia rounded-3 border d-flex align-items-center">
@@ -41,7 +41,7 @@
               <figcaption>Nós, 1940</figcaption>
             </figure>
             <p>Nós é um romance distópico escrito entre 1920 e 1921 pelo escritor russo Yevgeny Zamyatin. A história narra as impressões de um cientista sobre o mundo em que vive, uma sociedade aparentemente perfeita mas opressora...</p>
-            <a href="livrosPgFAV2.php">Continuar lendo...</a>
+            <a aria-label='Continuar lendo sobre obra Nós' href="livrosPgFAV2.php">Continuar lendo...</a>
           </div>
         </article>
     </div>
@@ -58,7 +58,7 @@
               <figcaption>Mochileiro das Galáxias, 1960</figcaption>
             </figure>
             <p>O Céu sobre o porto tinha cor de televisão num canal fora do ar. Considerada a obra precursora do movimento cyberpunk e um clássico da ficção científica...</p>
-            <a href="livrosPgFAV3.php">Continuar lendo...</a>
+            <a aria-label='Continuar lendo sobre Mochileiro das Galaxias'href="livrosPgFAV3.php">Continuar lendo...</a>
           </div>
         </article>
         <article class="noticia rounded-3 border d-flex align-items-center">
@@ -70,7 +70,7 @@
               <figcaption>A Mão esquerda da Escuridão, 1955</figcaption>
             </figure>
             <p>Genly Ai foi enviado a Gethen com a missão de convencer seus governantes a se unirem a uma grande comunidade universal. Ao chegar ali, o experiente emissário...</p>
-            <a href="livrosPgFAV4.php">Continuar lendo...</a>
+            <a aria-label='Continuar lendo sobre A mão esquerda da Escuridão' href="livrosPgFAV4.php">Continuar lendo...</a>
           </div>
         </article>
      

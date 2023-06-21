@@ -16,7 +16,7 @@
       <?php include 'include/nav.php';?>
       <?php include 'include/bannerLivros.php';?>
 
-    <article class="espaço row">
+    <article class="espaço row justify-content-center">
       <h2 >A mão esquerda da escuridão</h2>
       <small class=' mb-3 d-block small pb-2 border-bottom border-2'>Dezembro 01, 2022 by <a href="http://abducaoliteraria.com.br/resenha-a-mao-esquerda-da-escuridao-ursula-k-le-guin/">AbduçãoLiteraria.com</a></small>
       <figure class=" col-xl-2 col-md-4 col-sm-5">
@@ -29,7 +29,7 @@
       </div>
     </article>
 
-    <aside class="espaço row">
+    <aside class="espaço row justify-content-center">
       <div class=" col-xl-10 col-md-12 col-sm-12 row justify-content-center"> 
         <h3>Análise Crítica, by Gisele </h3>
         <p>Diferente de muitas das ficções científicas que já li, A mão esquerda da escuridão apresenta a humanidade em uma situação utópica: alcançamos a paz e compreendemos como nunca a importância da cooperação entre os povos. A Terra está inclusa no grupo de planetas que alcançou esse nível de entendimento – um grupo chamado Ekumen, cuja missão é levar tais conceitos a novos mundos, expandindo assim a colaboração interplanetária.

@@ -20,7 +20,7 @@
     <article class="row cntr">
       <div class=" sla col-12">
         <h2 class="titulos">1984</h2>
-        <small class='titulos mb-3 d-block small pb-2 border-bottom border-2'>Dezembro 01, 2022 by <a href="https://guiadoestudante.abril.com.br/estudo/saiba-mais-sobre-o-livro-1984-de-george-orwell/">Guiadoestudante.com</a></small>
+        <small class='titulos mb-3 d-block small pb-2 border-bottom border-2'>Dezembro 01, 2022 by <a aria-label='Seguir para site guia do estudante, Livro 1984.' href="https://guiadoestudante.abril.com.br/estudo/saiba-mais-sobre-o-livro-1984-de-george-orwell/">Guiadoestudante.com</a></small>
       </div>
      
       <figure class="col-xl-2 col-md-3 col-sm-5">
@@ -49,7 +49,7 @@
             <small>Sinopse</small>
             <h3>A revolução dos bichos</h3>
             <p>A clássica obra do autor inglês George Orwell narra a jornada de um grupo de animais que decide se rebelar contra o dono da fazenda, o Sr. Jones, e com a exploração dos humanos, o totalitarismo...</p>
-            <a href="livrosCnt5PgAutores.php">Continuar lendo...</a>
+            <a aria-label='Continuar lendo, A revolução dos Bichos' href="livrosCnt5PgAutores.php">Continuar lendo...</a>
           </div>
           <figure>
             <img src="img/livros/revolu.webp" alt="Imagem da capa do livro 'A revolução dos bichos'">
@@ -61,7 +61,7 @@
             <small>Sinopse</small>
             <h3>Flor da Inglaterra</h3>
             <p>Após a terrível colisão de um meteorito contra o continente europeu, líderes mundiais e cientistas criaram um sistema de monitoramento para evitar que uma catástrofe voltasse...</p>
-            <a href="livrosCnt6PgAutores.php">Continuar lendo...</a>
+            <a aria-label='Continuar lendo Flor da Inglaterra' href="livrosCnt6PgAutores.php">Continuar lendo...</a>
           </div>
           <figure>
             <img src="img/livros/planta.webp" alt="Imagem da capa do livro 'Flor da Imglaterra'">

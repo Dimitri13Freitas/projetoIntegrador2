@@ -16,7 +16,7 @@
       <?php include 'include/nav.php';?>
       <?php include 'include/bannerLivros.php';?>
 
-    <article class="espaço row">
+    <article class="espaço row justify-content-center">
       <div class=" col-12">
         <h2 >Nós</h2>
         <small class=' mb-3 d-block small pb-2 border-bottom border-2'>Dezembro 01, 2022 by <a href="https://www.ficcoeshumanas.com.br/post/resenha-nos-de-ievgueni-zamiatin">ficcoeshumanas.com</a></small>
@@ -30,7 +30,7 @@
       </div>
     </article>
 
-    <aside class="espaço row">
+    <aside class="espaço row justify-content-center">
       <div class=" col-xl-10 col-md-12 col-sm-12 row justify-content-center"> 
         <h3>Análise Crítica, by Amanda Barreiro </h3>
         <p>A história se passa no futuro, num mundo onde a matemática é a linguagem oficial. Neste século todas as ações requerem lógica como explicação. Tudo é designado por números, inclusive as pessoas, embora ainda exista a diferenciação biológica.</p>

@@ -18,7 +18,7 @@
     
       <section class=" sla row justify-content-center " style="text-align:center">
         <h2>Destaques</h2>
-        <a class=" col-xl-5 col-md-6 col-sm-12"href="livrosDst3.php ">
+        <a aria-label='Seguir para Livros' class=" col-xl-5 col-md-6 col-sm-12"href="livrosDst3.php ">
         <article >
           <div class="mud bordas">
           <h3 class="titulos">Última criatura humana</h3>
@@ -30,7 +30,7 @@
           </div>
         </article>
         </a>
-        <a class="col-xl-5 col-md-6 col-sm-12"href="livrosDst2.php">
+        <a aria-label='Seguir para Livros' class="col-xl-5 col-md-6 col-sm-12"href="livrosDst2.php">
       <article >     
         <div class="mud bordas">
           <h3 class="titulos">Crônicas Marcianas</h3>
@@ -45,7 +45,7 @@
       </a>
       <!-- </section >
     <div class="sla row justify-content-center "> -->
-    <a class="  col-xl-5 col-md-6 col-sm-12"href="livrosDst1.php">
+    <a aria-label='Seguir para livros' class="  col-xl-5 col-md-6 col-sm-12"href="livrosDst1.php">
       <article >
         <div class="mud bordas">
          
@@ -60,7 +60,7 @@
       </article>
       </a>
 
-      <a class=" col-xl-5 col-md-6 col-sm-12" href="livrosDst.php">
+      <a aria-label='Seguir para Livros' class=" col-xl-5 col-md-6 col-sm-12" href="livrosDst.php">
       <article >     
         <div class="mud bordas">
          
