@@ -22,7 +22,7 @@
 
       <figure class='row mb-4'>
         <figcaption class='sumir'>Rick and Morty</figcaption>
-        <iframe width="853" height="480" src="https://www.youtube.com/embed/6Zt15L7Gy3U" title="Rick And Morty  - 6ª Temporada | Trailer Oficial | HBO Max" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="853" height="480" src="https://www.youtube.com/embed/TKZquWaV_g4" title="RICK AND MORTY Temporada 6 Trailer Brasileiro Legendado (2022)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       </figure>
       <div class="d-flex justify-content-xl-between flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
         <?php include 'include/noticiaAnimacao3.php'; ?>

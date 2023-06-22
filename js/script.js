@@ -16,7 +16,6 @@ menuMobile();
 const theme = document.querySelector(".theme");
 
 theme.addEventListener("click", () => {
-  console.log("teste");
   if (document.documentElement.classList.contains("change")) {
     window.localStorage.setItem("theme", false) == false;
     document.documentElement.classList.toggle("change");
@@ -75,4 +74,31 @@ function toggleMenu() {
   var elem = document.getElementById("main-nav");
   elem.classList.toggle("menu-on");
 }
+
+window.addEventListener("DOMContentLoaded", (event) => {
+  const btnAumentar = document.getElementById("btnAumentar");
+  const btnDiminuir = document.getElementById("btnDiminuir");
+
+  btnAumentar.addEventListener("click", () => {
+    aumentarFonte();
+  });
+
+  btnDiminuir.addEventListener("click", () => {
+    diminuirFonte();
+  });
+
+  function aumentarFonte() {
+    const currentFontSize = parseInt(
+      window.getComputedStyle(document.body).fontSize,
+    );
+    document.body.style.fontSize = `${currentFontSize + 2}px`;
+  }
+
+  function diminuirFonte() {
+    const currentFontSize = parseInt(
+      window.getComputedStyle(document.body).fontSize,
+    );
+    document.body.style.fontSize = `${currentFontSize - 2}px`;
+  }
+});
 

@@ -21,6 +21,12 @@
   --bg3: rgba(0, 0, 0, 0.1);
 }
 
+:root .footertiulo {
+  color: white;
+}
+:root.change .footertiulo {
+  color: var(--font);
+}
 * {
   list-style: none !important;
   text-decoration: none !important;
@@ -397,13 +403,27 @@ a {
 }
 .formulario form {
   width: 35%;
+  margin-top: 30px;
+}
+#btnAumentar,
+#btnDiminuir {
+  background: var(--bg3);
+  border: 1px solid var(--p2);
+  border-radius: 4px;
+  color: var(--font1);
+}
+#btnAumentar:hover,
+#btnDiminuir:hover {
+  background: var(--bg2);
+  border: 1px solid var(--p2);
+  border-radius: 4px;
 }
 .formulario label {
   display: block;
 }
 .formulario form input,
 .formulario textarea {
-  /* background: rgba(0, 0, 0, 0.2); */
+  background: var(--bg3);
   border: none;
   border-radius: 6px;
   resize: none;

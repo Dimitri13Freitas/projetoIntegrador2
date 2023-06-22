@@ -19,10 +19,9 @@
 
     <main>
       <h2 class='h2 mt-5 mb-3 text-center'>Lightyear (SpinOff de Toy Story)</h2>
-
       <figure class='row mb-4'>
         <figcaption class='sumir'>(SpinOff de Toy Story)</figcaption>
-        <iframe width="683" height="384" src="https://www.youtube.com/embed/cVkE96bc2Dg" title="Lightyear |  Trailer Oficial Dublado" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="853" height="480" src="https://www.youtube.com/embed/DbBe5U8m_KU" title="Lightyear | Trailer Oficial Dublado" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       </figure>
       <div class="d-flex justify-content-xl-between flex-md-wrap flex-xl-nowrap flex-lg-nowrap flex-sm-wrap flex-wrap justify-content-md-center justify-content-sm-center mt-4 noticiaContainer">
         <?php include 'include/noticiaAnimacao3.php'; ?>
